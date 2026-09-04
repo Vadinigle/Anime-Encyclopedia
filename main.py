@@ -55,6 +55,7 @@ FRANQUICIAS = {
         "nombre": "Re:Zero",
         "descripcion": "Starting Life in Another World",
         "busqueda": "Re:ZERO",
+        "generos": ["Isekai", "Fantasía", "Drama"],
         "variantes": [
             "re:zero",
             "re: zero",
@@ -69,6 +70,7 @@ FRANQUICIAS = {
         "nombre": "Jujutsu Kaisen",
         "descripcion": "Hechicería, maldiciones y combates",
         "busqueda": "Jujutsu Kaisen",
+        "generos": ["Acción", "Sobrenatural"],
         "variantes": [
             "jujutsu kaisen",
             "呪術廻戦",
@@ -79,6 +81,7 @@ FRANQUICIAS = {
         "nombre": "Attack on Titan",
         "descripcion": "Shingeki no Kyojin",
         "busqueda": "Attack on Titan",
+        "generos": ["Acción", "Drama"],
         "variantes": [
             "attack on titan",
             "shingeki no kyojin",
@@ -90,6 +93,7 @@ FRANQUICIAS = {
         "nombre": "Mushoku Tensei",
         "descripcion": "Jobless Reincarnation",
         "busqueda": "Mushoku Tensei",
+        "generos": ["Isekai", "Fantasía"],
         "variantes": [
             "mushoku tensei",
             "無職転生",
@@ -100,6 +104,7 @@ FRANQUICIAS = {
         "nombre": "Gachiakuta",
         "descripcion": "El mundo de Rudo y los Cleaners",
         "busqueda": "Gachiakuta",
+        "generos": ["Acción", "Fantasía"],
         "variantes": [
             "gachiakuta",
             "ガチアクタ",
@@ -110,6 +115,7 @@ FRANQUICIAS = {
         "nombre": "Hell's Paradise",
         "descripcion": "Jigokuraku",
         "busqueda": "Jigokuraku",
+        "generos": ["Acción", "Fantasía", "Sobrenatural"],
         "variantes": [
             "jigokuraku",
             "hell's paradise",
@@ -122,6 +128,7 @@ FRANQUICIAS = {
         "nombre": "SPY×FAMILY",
         "descripcion": "La familia Forger",
         "busqueda": "SPY x FAMILY",
+        "generos": ["Comedia", "Acción"],
         "variantes": [
             "spy x family",
             "spy×family",
@@ -134,6 +141,7 @@ FRANQUICIAS = {
         "nombre": "Kimetsu no Yaiba",
         "descripcion": "Demon Slayer",
         "busqueda": "Kimetsu no Yaiba",
+        "generos": ["Acción", "Fantasía", "Sobrenatural"],
         "variantes": [
             "kimetsu no yaiba",
             "demon slayer",
@@ -145,17 +153,26 @@ FRANQUICIAS = {
         "nombre": "MASHLE",
         "descripcion": "Magic and Muscles",
         "busqueda": "Mashle",
+        "generos": ["Comedia", "Acción", "Fantasía"],
         "variantes": [
             "mashle",
             "マッシュル",
         ],
     },
+
+    "my-dress-up-darling": {
+        "nombre": "My Dress-Up Darling",
+        "descripcion": "Sono Bisque Doll wa Koi wo Suru",
+        "busqueda": "Sono Bisque Doll wa Koi wo Suru",
+        "generos": ["Romance", "Comedia"],
+        "variantes": [
+            "sono bisque doll wa koi wo suru",
+            "my dress-up darling",
+            "my dress up darling",
+            "その着せ替え人形は恋をする",
+        ],
+    },
 }
-
-
-# =========================================================
-# CACHÉ
-# =========================================================
 
 cache_franquicias = {}
 

@@ -134,7 +134,50 @@
         </section>
 
 
-        <section class="grid-animes">
+        
+<div class="zona-generos">
+
+    <h2>Explorar por género</h2>
+
+    <div class="filtros-genero">
+
+        <button class="filtro-genero activo" data-genero="Todos">
+            Todos
+        </button>
+
+        <button class="filtro-genero" data-genero="Acción">
+            ⚔️ Acción
+        </button>
+
+        <button class="filtro-genero" data-genero="Romance">
+            💕 Romance
+        </button>
+
+        <button class="filtro-genero" data-genero="Comedia">
+            😂 Comedia
+        </button>
+
+        <button class="filtro-genero" data-genero="Fantasía">
+            ✨ Fantasía
+        </button>
+
+        <button class="filtro-genero" data-genero="Isekai">
+            🌍 Isekai
+        </button>
+
+        <button class="filtro-genero" data-genero="Drama">
+            🎭 Drama
+        </button>
+
+        <button class="filtro-genero" data-genero="Sobrenatural">
+            👁️ Sobrenatural
+        </button>
+
+    </div>
+
+</div>
+
+<section class="grid-animes">
 
             {% for clave_anime, datos in franquicias.items() %}
 
@@ -145,6 +188,7 @@
                         idioma=idioma
                     ) }}"
                     class="tarjeta-anime poster-anime"
+            data-generos="{{ datos.generos | join('|') }}"
                 >
 
                     <div class="poster-imagen">
@@ -602,6 +646,54 @@
 
 </footer>
 
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+    const botonesGenero = document.querySelectorAll(
+        ".filtro-genero"
+    );
+
+    const tarjetasAnime = document.querySelectorAll(
+        ".poster-anime"
+    );
+
+    botonesGenero.forEach(function (boton) {
+
+        boton.addEventListener("click", function () {
+
+            const genero = boton.dataset.genero;
+
+            botonesGenero.forEach(function (b) {
+                b.classList.remove("activo");
+            });
+
+            boton.classList.add("activo");
+
+            tarjetasAnime.forEach(function (tarjeta) {
+
+                const generos = (
+                    tarjeta.dataset.generos || ""
+                ).split("|");
+
+                if (
+                    genero === "Todos" ||
+                    generos.includes(genero)
+                ) {
+                    tarjeta.style.display = "";
+                } else {
+                    tarjeta.style.display = "none";
+                }
+
+            });
+
+        });
+
+    });
+
+});
+</script>
 
 </body>
 

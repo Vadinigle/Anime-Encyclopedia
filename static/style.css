@@ -1217,3 +1217,56 @@ a {
         min-height: 390px;
     }
 }
+
+/* ==============================
+   FILTROS DE GÉNERO
+   ============================== */
+
+.zona-generos {
+    margin: 10px 0 30px;
+}
+
+.zona-generos h2 {
+    margin-bottom: 15px;
+}
+
+.filtros-genero {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.filtro-genero {
+    padding: 10px 16px;
+    border: 1px solid #303542;
+    border-radius: 999px;
+    background: #171a21;
+    color: #d9dce3;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.filtro-genero:hover {
+    transform: translateY(-2px);
+    background: #222630;
+}
+
+.filtro-genero.activo {
+    background: #f1f1f1;
+    color: #111318;
+    border-color: #f1f1f1;
+}
+
+@media (max-width: 620px) {
+    .filtros-genero {
+        gap: 8px;
+    }
+
+    .filtro-genero {
+        padding: 9px 13px;
+        font-size: 13px;
+    }
+}
+
