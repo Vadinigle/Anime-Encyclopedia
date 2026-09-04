@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Anime Encyclopedia</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='style.css') }}"
+    >
+
+</head>
+
+
+<body>
+
+
+<header class="cabecera">
+
+    <a
+        href="{{ url_for('inicio', idioma=idioma) }}"
+        class="logo"
+    >
+        Anime Encyclopedia
+    </a>
+
+    <p>
+        Explora personajes de tus animes favoritos
+    </p>
+
+</header>
+
+
+<main class="contenedor">
+
+
+    <!-- ============================================= -->
+    <!-- BUSCADOR GLOBAL -->
+    <!-- ============================================= -->
+
+    <section class="zona-buscador">
+
+        <form
+            method="POST"
+            action="{{ url_for('buscar') }}"
+            class="buscador"
+        >
+
+            {% if clave %}
+
+                <input
+                    type="hidden"
+                    name="anime"
+                    value="{{ clave }}"
+                >
+
+            {% endif %}
+
+
+            <input
+                type="text"
+                name="busqueda"
+                placeholder="Busca cualquier personaje..."
+                autocomplete="off"
+            >
+
+
+            <select name="idioma">
+
+                {% for codigo, nombre in idiomas.items() %}
+
+                    <option
+                        value="{{ codigo }}"
+                        {% if idioma == codigo %}
+                            selected
+                        {% endif %}
+                    >
+                        {{ nombre }}
+                    </option>
+
+                {% endfor %}
+
+            </select>
+
+
+            <button type="submit">
+                Buscar
+            </button>
+
+        </form>
+
+    </section>
+
+
+    {% if error %}
+
+        <div class="error">
+            {{ error }}
+        </div>
+
+    {% endif %}
+
+
+    <!-- ============================================= -->
+    <!-- PORTADA -->
+    <!-- ============================================= -->
+
+    {% if vista == "inicio" %}
+
+        <section class="presentacion">
+
+            <span class="etiqueta">
+                ENCICLOPEDIA
+            </span>
+
+            <h1>
+                Elige un anime
+            </h1>
+
+            <p>
+                Selecciona una serie para explorar
+                todos sus personajes.
+            </p>
+
+        </section>
+
+
+        <section class="grid-animes">
+
+            {% for clave_anime, datos in franquicias.items() %}
+
+                <a
+                    href="{{ url_for(
+                        'ver_anime',
+                        clave=clave_anime,
+                        idioma=idioma
+                    ) }}"
+                    class="tarjeta-anime poster-anime"
+                >
+
+                    <div class="poster-imagen">
+
+                        {% if portadas.get(clave_anime) %}
+
+                            <img
+                                src="{{ portadas.get(clave_anime) }}"
+                                alt="{{ datos.nombre }}"
+                                loading="lazy"
+                            >
+
+                        {% else %}
+
+                            <div class="poster-sin-imagen">
+                                {{ datos.nombre }}
+                            </div>
+
+                        {% endif %}
+
+                        <div class="poster-degradado"></div>
+
+                    </div>
+
+
+                    <div class="poster-contenido">
+
+                        <h2>
+                            {{ datos.nombre }}
+                        </h2>
+
+                        <p>
+                            {{ datos.descripcion }}
+                        </p>
+
+                    </div>
+
+
+                    <span class="anime-flecha">
+                        →
+                    </span>
+
+                </a>
+
+            {% endfor %}
+
+        </section>
+
+    {% endif %}
+
+
+    <!-- ============================================= -->
+    <!-- PERSONAJES DE UN ANIME -->
+    <!-- ============================================= -->
+
+    {% if vista == "anime" %}
+
+        <section class="encabezado-anime">
+
+            <a
+                href="{{ url_for(
+                    'inicio',
+                    idioma=idioma
+                ) }}"
+                class="volver"
+            >
+                ← Todos los animes
+            </a>
+
+
+            <h1>
+                {{ anime.nombre }}
+            </h1>
+
+
+            <p>
+                <strong>
+                    {{ total_personajes }}
+                </strong>
+
+                personajes encontrados
+            </p>
+
+        </section>
+
+
+        {% if personajes %}
+
+            <section class="grid-personajes">
+
+                {% for p in personajes %}
+
+                    <a
+                        href="{{ url_for(
+                            'ver_personaje',
+                            personaje_id=p.id,
+                            anime=clave,
+                            idioma=idioma
+                        ) }}"
+                        class="tarjeta-personaje"
+                    >
+
+                        <div class="tarjeta-imagen">
+
+                            {% if p.image and p.image.large %}
+
+                                <img
+                                    src="{{ p.image.large }}"
+                                    alt="{{ p.name.full }}"
+                                    loading="lazy"
+                                >
+
+                            {% else %}
+
+                                <div class="sin-imagen">
+                                    Sin imagen
+                                </div>
+
+                            {% endif %}
+
+
+                            <span
+                                class="rol rol-{{ p.role|lower }}"
+                            >
+
+                                {% if p.role == "MAIN" %}
+
+                                    Principal
+
+                                {% elif p.role == "SUPPORTING" %}
+
+                                    Secundario
+
+                                {% elif p.role == "BACKGROUND" %}
+
+                                    Fondo
+
+                                {% else %}
+
+                                    {{ p.role }}
+
+                                {% endif %}
+
+                            </span>
+
+                        </div>
+
+
+                        <div class="tarjeta-info">
+
+                            <h3>
+                                {{ p.name.full }}
+                            </h3>
+
+
+                            {% if p.name.native %}
+
+                                <p>
+                                    {{ p.name.native }}
+                                </p>
+
+                            {% endif %}
+
+                        </div>
+
+                    </a>
+
+                {% endfor %}
+
+            </section>
+
+
+            {% if total_paginas > 1 %}
+
+                <nav class="paginacion">
+
+
+                    {% if pagina > 1 %}
+
+                        <a
+                            href="{{ url_for(
+                                'ver_anime',
+                                clave=clave,
+                                pagina=pagina - 1,
+                                idioma=idioma
+                            ) }}"
+                            class="boton-pagina"
+                        >
+                            ← Anterior
+                        </a>
+
+                    {% endif %}
+
+
+                    <span class="pagina-actual">
+
+                        Página
+
+                        <strong>
+                            {{ pagina }}
+                        </strong>
+
+                        de
+
+                        <strong>
+                            {{ total_paginas }}
+                        </strong>
+
+                    </span>
+
+
+                    {% if pagina < total_paginas %}
+
+                        <a
+                            href="{{ url_for(
+                                'ver_anime',
+                                clave=clave,
+                                pagina=pagina + 1,
+                                idioma=idioma
+                            ) }}"
+                            class="boton-pagina"
+                        >
+                            Siguiente →
+                        </a>
+
+                    {% endif %}
+
+
+                </nav>
+
+            {% endif %}
+
+        {% endif %}
+
+    {% endif %}
+
+
+    <!-- ============================================= -->
+    <!-- FICHA DE PERSONAJE -->
+    <!-- ============================================= -->
+
+    {% if vista == "personaje" %}
+
+        {% if personaje %}
+
+            <section class="ficha-personaje">
+
+
+                <div class="ficha-imagen">
+
+                    {% if personaje.image and personaje.image.large %}
+
+                        <img
+                            src="{{ personaje.image.large }}"
+                            alt="{{ personaje.name.full }}"
+                        >
+
+                    {% endif %}
+
+                </div>
+
+
+                <div class="ficha-informacion">
+
+
+                    {% if anime %}
+
+                        <a
+                            href="{{ url_for(
+                                'ver_anime',
+                                clave=clave,
+                                idioma=idioma
+                            ) }}"
+                            class="volver"
+                        >
+                            ← Volver a {{ anime.nombre }}
+                        </a>
+
+                    {% else %}
+
+                        <a
+                            href="{{ url_for(
+                                'inicio',
+                                idioma=idioma
+                            ) }}"
+                            class="volver"
+                        >
+                            ← Volver
+                        </a>
+
+                    {% endif %}
+
+
+                    <h1>
+                        {{ personaje.name.full }}
+                    </h1>
+
+
+                    {% if personaje.name.native %}
+
+                        <p class="nombre-native">
+                            {{ personaje.name.native }}
+                        </p>
+
+                    {% endif %}
+
+
+                    <div class="datos-personaje">
+
+
+                        <div class="dato">
+
+                            <span>
+                                Edad
+                            </span>
+
+                            <strong>
+                                {{
+                                    personaje.age
+                                    or
+                                    "No especificada"
+                                }}
+                            </strong>
+
+                        </div>
+
+
+                        <div class="dato">
+
+                            <span>
+                                Género
+                            </span>
+
+                            <strong>
+                                {{
+                                    personaje.gender_traducido
+                                }}
+                            </strong>
+
+                        </div>
+
+
+                        {% if personaje.dateOfBirth %}
+
+                            <div class="dato">
+
+                                <span>
+                                    Nacimiento
+                                </span>
+
+                                <strong>
+
+                                    {{
+                                        personaje.dateOfBirth.day
+                                        or "?"
+                                    }}
+
+                                    /
+
+                                    {{
+                                        personaje.dateOfBirth.month
+                                        or "?"
+                                    }}
+
+                                    /
+
+                                    {{
+                                        personaje.dateOfBirth.year
+                                        or "?"
+                                    }}
+
+                                </strong>
+
+                            </div>
+
+                        {% endif %}
+
+
+                    </div>
+
+
+                    <section class="bloque-ficha">
+
+                        <h2>
+                            Descripción
+                        </h2>
+
+                        <p class="descripcion">
+                            {{
+                                personaje.description
+                                or
+                                "Sin descripción disponible."
+                            }}
+                        </p>
+
+                    </section>
+
+
+                    <section class="bloque-ficha">
+
+                        <h2>
+                            Aparece en
+                        </h2>
+
+
+                        <ul class="lista-medios">
+
+                            {% for medio in personaje.media.nodes %}
+
+                                <li>
+
+                                    <span class="medio-nombre">
+
+                                        {{
+                                            medio.title.english
+                                            or
+                                            medio.title.romaji
+                                        }}
+
+                                    </span>
+
+
+                                    {% if medio.type %}
+
+                                        <span class="medio-tipo">
+                                            {{ medio.type }}
+                                        </span>
+
+                                    {% endif %}
+
+                                </li>
+
+                            {% endfor %}
+
+                        </ul>
+
+                    </section>
+
+
+                </div>
+
+            </section>
+
+        {% endif %}
+
+    {% endif %}
+
+
+</main>
+
+
+<footer class="pie">
+
+    Anime Encyclopedia
+
+</footer>
+
+
+</body>
+
+</html>
