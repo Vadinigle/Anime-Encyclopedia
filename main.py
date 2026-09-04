@@ -477,24 +477,84 @@ def obtener_medios_franquicia(clave):
 
 
 def obtener_portadas_animes():
-    portadas = {}
+    """
+    Obtiene todas las portadas usando UNA sola petición
+    GraphQL a AniList.
 
-    for clave in FRANQUICIAS:
-        try:
-            medios = obtener_medios_franquicia(
-                clave
+    Esto evita los errores 429 por exceso de peticiones.
+    """
+
+    if not FRANQUICIAS:
+        return {}
+
+    variables = {}
+    bloques = []
+    claves = list(FRANQUICIAS.keys())
+
+    for indice, clave in enumerate(claves):
+        alias = f"anime{indice}"
+        variable = f"busqueda{indice}"
+
+        variables[variable] = (
+            FRANQUICIAS[clave]["busqueda"]
+        )
+
+        bloques.append(
+            f"""
+            {alias}: Media(
+                search: ${variable},
+                type: ANIME
+            ) {{
+                id
+                coverImage {{
+                    extraLarge
+                    large
+                }}
+            }}
+            """
+        )
+
+    declaraciones = ", ".join(
+        f"${variable}: String"
+        for variable in variables
+    )
+
+    query = f"""
+    query ({declaraciones}) {{
+        {" ".join(bloques)}
+    }}
+    """
+
+    try:
+        respuesta = requests.post(
+            ANILIST_URL,
+            json={
+                "query": query,
+                "variables": variables,
+            },
+            timeout=20,
+        )
+
+        respuesta.raise_for_status()
+
+        datos = respuesta.json().get(
+            "data",
+            {},
+        )
+
+        portadas = {}
+
+        for indice, clave in enumerate(claves):
+
+            medio = datos.get(
+                f"anime{indice}"
             )
 
-            if not medios:
+            if not medio:
                 portadas[clave] = None
                 continue
 
-            # Como AniList ordena por popularidad,
-            # usamos la primera obra encontrada
-            # como portada principal de la franquicia.
-            medio_principal = medios[0]
-
-            portada = medio_principal.get(
+            portada = medio.get(
                 "coverImage",
                 {},
             )
@@ -504,14 +564,18 @@ def obtener_portadas_animes():
                 or portada.get("large")
             )
 
-        except Exception as error:
-            print(
-                f"[PORTADA {clave}] {error}"
-            )
+        return portadas
 
-            portadas[clave] = None
+    except Exception as error:
 
-    return portadas
+        print(
+            f"[PORTADAS] {error}"
+        )
+
+        return {
+            clave: None
+            for clave in FRANQUICIAS
+        }
 
 
 def prioridad_rol(rol):
