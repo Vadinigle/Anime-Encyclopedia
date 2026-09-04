@@ -160,6 +160,22 @@ FRANQUICIAS = {
         ],
     },
 
+    "darling-in-the-franxx": {
+        "nombre": "DARLING in the FRANXX",
+        "descripcion": "Hiro, Zero Two y los Parasites",
+        "busqueda": "DARLING in the FRANXX",
+        "generos": [
+            "Romance",
+            "Ciencia ficción",
+            "Acción",
+            "Drama",
+        ],
+        "variantes": [
+            "darling in the franxx",
+            "ダーリン・イン・ザ・フランキス",
+        ],
+    },
+
     "my-dress-up-darling": {
         "nombre": "My Dress-Up Darling",
         "descripcion": "Sono Bisque Doll wa Koi wo Suru",
