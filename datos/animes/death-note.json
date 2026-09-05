@@ -1,0 +1,1909 @@
+{
+  "clave": "death-note",
+  "nombre": "Death Note",
+  "descripcion": "Light Yagami y L",
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Sobrenatural"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg",
+  "medios": [
+    {
+      "id": 1535,
+      "title": {
+        "romaji": "DEATH NOTE",
+        "english": "Death Note",
+        "native": "DEATH NOTE"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1535-kUgkcrfOrkUM.jpg"
+      }
+    },
+    {
+      "id": 2994,
+      "title": {
+        "romaji": "DEATH NOTE Rewrite",
+        "english": "Death Note: Relight",
+        "native": "DEATH NOTE リライト"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2994-mlofkz5GpkIu.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2994-mlofkz5GpkIu.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 71,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "L Lawliet",
+        "native": "エル・ローライト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b71-1W4panC53vfs.png"
+      },
+      "descripcion": "**Height**: 179 cm (5'10\")\n\nL Lawliet is a world-renowned detective who takes on the challenge of catching Kira. In his investigation, L becomes suspicious of [Light Yagami](https://anilist.co/character/80/Light-Yagami) and makes it his goal to prove that Light is Kira. L is very secretive and only communicates with the world through his assistant, [Watari](https://anilist.co/character/2179/Quillsh-Wammy). He never shows his face to the world in person, instead, representing himself with a capital letter L.\n\nL is highly intelligent, though his disheveled and languid appearance masks his great powers of deduction, and many question his abilities upon viewing him. L tends to second-guess everything he is presented with and is extremely meticulous and analytical. He is good at deceiving his opponents and is willing to take drastic measures to solve a case. He is also shown to have a dry sense of humor, and he isn't above making sarcastic remarks to people. Although he tends to be polite to some, L can seem condescending at times.\n\nL has several quirks, such as preferring to crouch rather than sit, eating only sweet foods, and holding items by using only a thumb and a finger. He is often seen arranging objects and very intently stacking, or in other ways playing with, his staple food items. L is almost always encountered while performing actions that are considered inappropriate or rude in public. These actions/habits include biting fingernails, placing feet on furniture, slouching, chewing with an open mouth, talking with his mouth full, and calling out personal observations that may offend others.",
+      "genero": "Male",
+      "edad": "24-25",
+      "fecha_nacimiento": {
+        "year": 1979,
+        "month": 10,
+        "day": 31
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Light Yagami",
+        "native": "夜神月"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b80-26EhwSsSqQ50.png"
+      },
+      "descripcion": "__Height:__ 179 cm (5'10\")\n\nLight is a third year high school student (12th Grade) at Daikoku Private Academy who also attends supplemental classes at Gamou Prep Academy in the beginning of the story. Light has a father, [Soichiro Yagami](https://anilist.co/character/1927/Yagami-Souichirou), who is the head of the Police Force. Light also has a mother, [Sachiko Yagami](https://anilist.co/character/14735/Yagami-Sachiko), and a younger sister, [Sayu Yagami](https://anilist.co/character/8135/Yagami-Sayu). In Spring 2004, he becomes a first-year student (freshman) at To-Oh University and gets one of the top scores of its entrance exam.\n\nNicknamed \"Kira\", he uses the Death Note to create his ideal world of justice under him; its new God. Though he looks frail, Light is an extremely athletic person, with an aptitude to find an opponent's weak point. He is a genius, which adds to his notion that only he is fit to judge humanity and steer it on a proper moral course.",
+      "genero": "Male",
+      "edad": "17-23",
+      "fecha_nacimiento": {
+        "year": 1986,
+        "month": 2,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        },
+        {
+          "id": 20931,
+          "title": {
+            "romaji": "Death Parade",
+            "english": "Death Parade",
+            "native": "デス・パレード"
+          }
+        }
+      ]
+    },
+    {
+      "id": 463,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Mihael Keehl",
+        "native": "ミハエル・ケール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b463-QBLeLf6XxVg6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b463-QBLeLf6XxVg6.png"
+      },
+      "descripcion": "Mello is the older of L's two successors raised in Wammy's House, Watari's orphanage for gifted children, in Winchester, England, United Kingdom.  Similar to L's fondness for sweets, Mello is often seen eating bars of chocolate. Mello has an excellent mind and that he sometimes lets his emotions get in his way.\n\n~!Instead of working alongside Near to discover Kira after the news of L's death, [Near](https://anilist.co/character/464), Mello refuses, citing an inability to work with Near, to whom he is considered second. Mello instead decides to find Kira his own way, joining the Mafia.!~  \n\nMello is the narrator of the spinoff novel Death Note - Another Note: The Los Angeles BB Murder Cases.",
+      "genero": "Male",
+      "edad": "13-15 (Pre-timeskip); 19-20 (Post-timeskip)",
+      "fecha_nacimiento": {
+        "year": 1989,
+        "month": 12,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 835,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Misa Amane",
+        "native": "弥海砂"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b835-CiZa8y2z2gCz.png"
+      },
+      "descripcion": "__Height:__ 152 cm (4'11\")\n\nMisa is a famous model, singer and actress and has an immense crush on [Light Yagami](https://anilist.co/character/80). She usually refers to herself in the third person by calling herself \"Misa-Misa\" and tends to be hyperactive. \n\nShe poses as the second Kira to attract the attention of the first Kira. She decides to devote her life to Light because he punished the criminal that killed her parents when she was younger; a burglar killed Misa's parents in front of her eyes. Misa, unable to forgive the killer and wanting to kill the burglar herself, saw multiple delays in the killer's trial before Kira killed him. The Shinigami who follows her is [Rem](https://anilist.co/character/1905/Rem).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": 1984,
+        "month": 12,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 464,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Nate River",
+        "native": "ネイト・リバー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n464-6KeJpU6g7Hwj.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n464-6KeJpU6g7Hwj.jpg"
+      },
+      "descripcion": "Near is the younger of [L's](https://anilist.co/character/71/L-Lawliet) two successors raised in Wammy's House—[Watari's](https://anilist.co/character/2179/Quillsh-Wammy) orphanage for gifted children, in Winchester, England. Of the successors, Near is the more level-headed one, able to remain calm and calculated, while the other, [Mello](https://anilist.co/character/463/Mihael-Keehl), is more emotional and quick to act. The two of them share a strong rivalry.\n\nNear is very intelligent, although his childish appearance and demeanor can cause others to question his abilities. He has an obsession with solving complex problems and views an investigation as solving a puzzle. Despite his genius abilities, Near has low social knowledge and is bad at interacting with others. Much like L, Near shows various odd behaviors during his normal life, such as usually seen hunched over rather than sitting, and constantly playing with various toys, which he uses in his theories, as well as idly twiddling strands of his hair. He shows a great respect for L, basing much of how he solves crime on L's methods, even to the point where he only takes cases that he is interested with rather than trying to pursue justice.",
+      "genero": "Male",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": 1991,
+        "month": 8,
+        "day": 24
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ryuk",
+        "native": "リューク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75-IkEpzO21LgFy.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b75-IkEpzO21LgFy.jpg"
+      },
+      "descripcion": "The original Shinigami who dropped the Death Note in the human world, which [Light Yagami](https://anilist.co/character/80/Light-Yagami) ended up picking up. \n\nActing out of pure boredom, Ryuk begins the story of Death Note on a whim. Perhaps neutral by nature, Ryuk often refuses to aid Light and instead enjoys watching him struggle for his goal. The most important facet of Ryuk's character is that he is not Light's friend. He acts for his own interests and entertainment, and often fails to tell Light key details about the Death Note. Ryuk is selfish, however, and will aid Light if it serves his own goals, such as providing amusement or obtaining apples, which he loves.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 23514,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Anthony Carter",
+        "native": "アンソニー・カーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n23514-xhkKhgd0S5RJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n23514-xhkKhgd0S5RJ.png"
+      },
+      "descripcion": "Anthony Lester is the Captain of a special force squad, and is now the SPK&#039;s number 2 and its operation leader. \n\nHe can be seen as [Near's](https://anilist.co/character/464/Nate-River) guardian and personal assistant, similarly to what [Watari](https://anilist.co/character/2179/Quillsh-Wammy) was to [L](https://anilist.co/character/71/L-Lawliet). He is an extremely honest person who has Near's complete trust, to the point he's comfortable with revealing some of his thought and plans to Lester. Lester also helps Near with actions he is not used to doing, such as booking a flight on a plane. He is often called \"Commander Lester\", and he is unable to match Near in intelligence and analytic skill despite being very intelligent himself. Nevertheless, being trustworthy, athletic, and a quiet person make him very useful to assist Near.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1930,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Arayoshi Hatori",
+        "native": "葉鳥新義"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n1930-1ILYLHyqkMQb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n1930-1ILYLHyqkMQb.png"
+      },
+      "descripcion": "Arayoshi Hatori is one of the eight members of the Yotsuba Group.",
+      "genero": "Male",
+      "edad": "33",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 22
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 84509,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "David Hoope",
+        "native": "デイビットホープ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n84509-qynA7w9VvVIC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n84509-qynA7w9VvVIC.png"
+      },
+      "descripcion": "He is the President of the United States. He gives permission to form the SPK after having a discussion with Near. He is threatened by Mello with the Death Note, forced into giving him all the information he has on the SPK, and to keep him updated on what they are doing. He works unsuccessfully with L (Light) to infiltrate Mello's hideout. He's a strong leader, but powerless against the decree of the Death Note.   Hoope ends up committing suicide, and it is believed that Kira disposed of him after the special forces' attack failed.  In the anime, he does not commit suicide, as the character was merged with that of George Sairas (who is his vice-president).  Although he is president of the U.S.A in the manga, in the anime, the president is George Sairas.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 37996,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dwhite Gordon",
+        "native": "ドワイト・ゴードン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n37996-BJqJlAXww2qD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n37996-BJqJlAXww2qD.png"
+      },
+      "descripcion": "He s the leader of the Mafia organization that Mello joins after leaving Wammy's House.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        }
+      ]
+    },
+    {
+      "id": 84505,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eiichi Takahashi",
+        "native": "鷹橋鋭"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/84505.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/84505.jpg"
+      },
+      "descripcion": "He is the Vice President of Yotsuba Material Planning Division and Yotsuba Homes. He's never had what it takes to be a true leader and was selected to attend the meetings to make [Higuchi](https://anilist.co/character/1928) look good. Other members view Takahashi as \"foolish\" because he does not \"seem to put much thought into his comments.\" Takahashi was formally married with children and is a graduate of Keiyo Business School. He is the son of Karazo Takahashi, the president of Japan Financial Times, and maintained a hobby in surfing.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 84531,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eriko Aizawa",
+        "native": "絵里子相沢"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/84531.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/84531.jpg"
+      },
+      "descripcion": "She is the wife of [Shuichi Aizawa](https://anilist.co/character/3767/Shuuichi-Aizawa) and mother of [Yumi Aizawa](https://anilist.co/character/84527) and a baby son. She and her children are usually sad because Aizawa is overworked and unable to spend time with them.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        }
+      ]
+    },
+    {
+      "id": 79469,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Guuk",
+        "native": "グック"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/79469.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/79469.jpg"
+      },
+      "descripcion": "Guuk is one of the thirteen shinigami, he has what looks to be a rams skull for is head and fair patches around his body. His shingami rank is seven and he is often seen gambling with other shingami in the shingami realm.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3769,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Halle Bullook",
+        "native": "ハル・ブロック"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n3769-QJUZtTvWhOJt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n3769-QJUZtTvWhOJt.png"
+      },
+      "descripcion": "__Height:__ 180 cm\n__Likes:__ Jacuzzi \n__Dislikes:__ Insects\n\n\nHalle Lidner, real name Halle Bullook, works for Near as part of his investigation team, along with Gevanni and Rester. She is mentioned to be a former CIA agent.   \n\n~! In the manga, Lidner knows Mello and leaks SPK information to Mello; Near is unaware of Lidner's SPK information leaking. When Mello questions her and asks her which side she is on(Near or his), She replies that she is on neither side, and merely helps both of them because they are after Kira. Later on, she calls Mello and tells him about Near's plan (Having Mikami write everyone's name down in the notebook), and he replies \"I'm the only one who can do it.\". This can be seen as the real push that drove Mello to kidnap Takada and eventually save the lives of both investigation teams.  Mikami views her real name, Halle Bullook, with his Shinigami eyes and proceeds to write her name as well as the other SPK members' names into his Death Note, but she remains alive due to the notebook being a fake.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": 1980,
+        "month": 2,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 20002,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hideki Ide",
+        "native": "伊出英基"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n20002-hWGxmi8Cipt4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n20002-hWGxmi8Cipt4.png"
+      },
+      "descripcion": "Hideki Ide is one of the few police officers who remains with [Souichirou Yagami](https://anilist.co/character/1927/Souichirou-Yagami) during the Kira Investigation. However, he swiftly leaves when begins to disagree with L&#039;s methods of investigation.",
+      "genero": "Male",
+      "edad": "34",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 17555,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hirokazu Ukita",
+        "native": "宇生田広数"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n17555-bRedmqb33U5T.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n17555-bRedmqb33U5T.png"
+      },
+      "descripcion": "Hirokazu Ukita is the most emotional of the Kira investigation team that is lead by L.",
+      "genero": "Male",
+      "edad": "26",
+      "fecha_nacimiento": {
+        "year": 1980,
+        "month": 4,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 30939,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hitoshi Demegawa",
+        "native": "出目川仁"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n30939-jGDDNVx9KUAY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n30939-jGDDNVx9KUAY.png"
+      },
+      "descripcion": "Hitoshi Demegawa is a publicity hound and the director of Sakura TV.",
+      "genero": "Male",
+      "edad": "38",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3883,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jealous",
+        "native": "ジェラス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n3883-KOxHbNKKnVrk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n3883-KOxHbNKKnVrk.png"
+      },
+      "descripcion": "Jealous only appears in a flashback when Rem explains a method to kill a Shinigami. In this flashback, Rem recalls Jealous watching over a woman  in the human world. Surprised by his concern, Rem eventually looks over his shoulder and witnesses what should have been the woman's last moments on Earth. In a dark alley, a distraught man mistakes woman as the woman who broke up with him and attempts to stab her to death. Apparently infatuated with the woman, Jealous uses his Death Note to kill her destined murderer; the man suddenly walks away to commit suicide. Moments later, Jealous himself turns to a pile of sand and rust as consequence for extending a human life. Rem takes his Death Note and gave it to Misa    Jealous' name is commonly misspelled &quot;Gelus,&quot; which is what his name was romanized to until Death Note: How to Read 13 revealed the official spelling as Jealous. The first through fourth printings of Volume 4 of the English-language manga refers to him as Gelus.    Ken'ichi Matsuyama, who portrayed L in the live action films, voices Jealous in the anime. Jealous is one of the few left handed characters in the show.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3766,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kanzo Mogi",
+        "native": "模木完造"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n3766-xMCG0Vajfe2z.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n3766-xMCG0Vajfe2z.png"
+      },
+      "descripcion": "One of the most dedicated members of the investigation team. Little else is known of him. \n\nHe remains mostly silent. This silence is marked when he refuses to answer Near&#039;s questions about the Japanese Investigative Team, even when he is clearly affected by the theories that Near was presenting to him.",
+      "genero": "Male",
+      "edad": "30-",
+      "fecha_nacimiento": {
+        "year": 1973,
+        "month": 7,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 84513,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kiichiro Osoreda",
+        "native": "恐田奇一郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/84513.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/84513.jpg"
+      },
+      "descripcion": "He is a drug addict and a criminal used by Light to trick Raye Penber into revealing his FBI badge to Light so he can kill him.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3765,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kiyomi Takada",
+        "native": "高田清美"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n3765-XmrhzN7qO27e.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n3765-XmrhzN7qO27e.png"
+      },
+      "descripcion": "Kiyomi Takada is the former college classmate and girlfriend of [Light Yagami](https://anilist.co/character/80/Yagami-Light) who later becomes Kira's spokeswoman on the NHN television station.",
+      "genero": "Female",
+      "edad": "18-",
+      "fecha_nacimiento": {
+        "year": 1985,
+        "month": 7,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1928,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kyosuke Higuchi",
+        "native": "火口卿介"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n1928-u4ybFpwCKqg2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n1928-u4ybFpwCKqg2.png"
+      },
+      "descripcion": "Kyosuke Higuchi is the head of Technology Development at the Yotsuba Corporation and one of the eight members of the Yotsuba Group: a group inside of the Yotsuba Corporation that uses the Death Note to kill individuals from competing companies to dominate the business industry.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 84517,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Larry Conners",
+        "native": "ラリー・コナーズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/84517.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/84517.jpg"
+      },
+      "descripcion": "McEnroe is an SPK member and FBI officer.  He is sent to the Japanese National Police Agency HQ in order to request that the Death Note that they have is handed over to the United States government, and thus the SPK.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        }
+      ]
+    },
+    {
+      "id": 30944,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lind L. Tailor",
+        "native": "リンド・L・テイラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n30944-YXxjESqhsg84.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n30944-YXxjESqhsg84.png"
+      },
+      "descripcion": "Lind L. Tailor is a convicted criminal sentenced to die. [L](https://anilist.co/character/71/L-Lawliet) places Tailor as a decoy on television in order to lure out Kira. \n[Light](https://anilist.co/character/80/Light-Yagami), in a foolish rage, ends up killing Tailor with a heart attack, believing him to be \"L\" even though he is not. This gives L his first real lead in the Kira case, and is the first interaction L and Kira share together.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2730,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mail Jeevas",
+        "native": "マイル・ジーヴァス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n2730-SNbfxShpg90k.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n2730-SNbfxShpg90k.png"
+      },
+      "descripcion": "__Height:__ 168cm (5'6\")\n\nMatt is a cohort of [Mello's](https://anilist.co/character/463/). He does some espionage work for him and is an accomplice in [Takada's](https://anilist.co/character/3765/) kidnapping. He follows orders without question, usually smoking a cigarette as he does. Not much else is known about him, other than he is a former resident of [Wammy's](https://anilist.co/character/2179/) orphanage. \n\nMatt likes video games, but dislikes going out, and Matt was behind Mello and [Near](https://anilist.co/character/464/) to succeed [L](https://anilist.co/character/71/). It was said that during his time in Wammy's orphanage he and Mello were very close friends and liked to cause trouble. Also it was reported that his calm demeanor and laid back attitude was the reason why he is third in line to be L. His lack of motivation and drive the only thing holding him back from being first. His intelligence matching even surpassing Mello and Nears'.",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1933,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mary Kenwood",
+        "native": "メリー・ケンウッド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n1933-WNDtxqOr1d51.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n1933-WNDtxqOr1d51.png"
+      },
+      "descripcion": "__Birthday:__ November 2  \n\n Wedy, real name Mary Kenwood, is a professional burglar in the employ of L. She installs bugs in the Yotsuba Group&#039;s meeting room to secretly observe the group&#039;s weekly meetings. She does the same for Higuchi&#039;s car, allowing the team to watch his desperate attempts to kill Matsuda. Since she is a professional criminal, she is known solely in the underworld.    Wedy uses her initial in computer communication; to avoid confusion with Watari (&quot;W&quot;), she deliberately uses the lowercase form, &quot;w&quot;.    She (like Aiber) is referenced to, but does not appear in, Death Note: Another Note.    Ohba said that he created Aiber and Wedy so he could use characters with &quot;special abilities&quot; to advance the storyline. He said that he wanted to use Wedy more than Aiber. As an example he explained a scenario involving Light controlling Wedy, making her place cameras in the headquarters so Misa could see L&#039;s face &quot;... or something.&quot;    According to Obata, he drew Wedy as a female model as he did not know what kind of character she would be. Obata added that Wedy has the &quot;stereotypical female spy look.&quot; Obata believes that if he drew Aiber and Wedy to look &quot;a little bit more original&quot;, Ohba could have included the characters in a larger role in Death Note.     ~!After L&#039;s death, Light kills her using his Death Note; Mary Kenwood dies in a motorcycle accident in Colorado.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1931,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Masahiko Kida",
+        "native": "樹多正彦"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n1931-kJH9pspSPKMJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n1931-kJH9pspSPKMJ.png"
+      },
+      "descripcion": "The Vice President of Rights and Planning, Kida controls the finances of the committee and contacts &quot;Eraldo Coil.&quot; How to Read 13 describes him as &quot;calm and collected.&quot; However he is not able to &quot;deal with surprises,&quot; leading him to panic when &quot;Eraldo Coil&quot; asks for more money.",
+      "genero": "Male",
+      "edad": "32",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4959,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Naomi Misora",
+        "native": "南空ナオミ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4959-DKXw1VYrvael.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4959-DKXw1VYrvael.png"
+      },
+      "descripcion": "Naomi is a former \"first rate\" FBI agent who is engaged to [Raye Penber](https://anilist.co/character/7044). She is very intelligent, however she often lets her feelings get in the way of her investigative abilities.\n\nNaomi is notable for having worked alongside [L Lawlet](https://anilist.co/character/71) in the past to solve the Los Angeles BB Serial Murder case, which was what initally helped launch Naomi's reputation within the FBI. Misora later left the FBI and became the fianc&eacute;e of Penber. Misora and Penber plan to marry, move to the United States, and raise a family.  \n\n~!After Raye's abrupt death, she decides to search for his killer. She suspects that Kira was the last suspect Raye had followed and believes that Kira can kill people with methods other than heart attacks.!~",
+      "genero": "Female",
+      "edad": "28",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2179,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Quillsh Wammy",
+        "native": "キルシュワイミー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n2179-qF49l5qEurt5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n2179-qF49l5qEurt5.png"
+      },
+      "descripcion": "Watari is [L's](https://anilist.co/character/71/L-Lawliet) assistant, providing logistics to the investigation team. Before the team is formed, he is the only person who has seen L, and the only one capable of contacting L directly. Like L, he represents himself with an Old English \"W\" on computer screens. He is also a fatherly figure to L. Outside of the investigation, he is known as Quillsh Wammy, a famous inventor and the founder of Wammy's House, an orphanage for gifted children in Winchester, England. Watari is well trained in espionage and marksmanship.<br>",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7044,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Raye Penber",
+        "native": "レイ・ペンバー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n7044-DjU28vbo11bb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n7044-DjU28vbo11bb.png"
+      },
+      "descripcion": "Raye Penber is an American Investigator from the FBI, who was sent to Japan along with 11 other FBI agents to track down Kira. Raye was assigned to investigate the Yagami family for any suspicious behavior; specifically focusing on [Light Yagami](https://anilist.co/character/80/Light-Yagami). Raye is engaged to a former FBI agent, [Naomi Misora](https://anilist.co/character/4959/Naomi-Misora).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 31
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1929,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Reiji Namikawa",
+        "native": "奈南川零司"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n1929-TYRt1UCHOS33.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n1929-TYRt1UCHOS33.png"
+      },
+      "descripcion": "Namikawa is the Vice President of Sales of the Yotsuba Corporation. He initially encourages the Yotsuba Kira. He is seen as the \"most talented\" of the board members who has the potential to &quot;make it to the top&quot; without Kira. He has a talent in shogi at the professional 4-dan level. He detests useless subordinates.",
+      "genero": "Male",
+      "edad": "30",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1905,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rem",
+        "native": "レム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n1905-9GfCvLFKNRLR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n1905-9GfCvLFKNRLR.png"
+      },
+      "descripcion": "Rem is the Shinigami who first gives Misa her Death Note and Shinigami eyes. Similar to Ryuk, Rem possesses two Death Notes; she purposely gives a Death Note to Misa. Rem inherited her second Death Note from Jealous, another Shinigami who died when he saved Misa's life, and thought it only right to pass it on to Misa. Rem inherits Jealous' love for Misa as well and is prompt to defend Misa even at the cost of her life. She shows this when she openly shows her lack of trust for Light stating that if Misa dies before her time, Rem will kill Light. In the manga and anime, Rem tells Misa that she is actually a female Shinigami. In the second live-action film, this is not mentioned, leaving it ambiguous.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 144332,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Roger Ruvie",
+        "native": "ロジャー・ラヴィー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144332-jGiPlxo9Egqv.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b144332-jGiPlxo9Egqv.jpg"
+      },
+      "descripcion": "Roger is the manager of the “Wammy’s House” whenever Watari is not present.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14735,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sachiko Yagami",
+        "native": "夜神幸子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n14735-FfrdE7p4Kfxd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n14735-FfrdE7p4Kfxd.png"
+      },
+      "descripcion": "Mother of Light and Sayu.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8135,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sayu Yagami",
+        "native": "夜神幸子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n8135-UgvqHuoMyZy5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n8135-UgvqHuoMyZy5.png"
+      },
+      "descripcion": "[Light](https://anilist.co/character/80/Yagami-Light)'s younger sister.",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2402,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shidoh",
+        "native": "シドウ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/2402.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2402.jpg"
+      },
+      "descripcion": "Shidoh is a Shinigami whose Death Note is stolen by Ryuk. In fact, Ryuk takes his Note and gives it to Light, which becomes Higuchi's note and is finally passed on to Mello's gang (more specifically, Mello's subordinate, Kal Snyder (also known as Jack Neylon)). Shidoh has a great liking for chocolate. Since Shidoh has neglected to kill people and extend his own lifetime, he probably did not notice that his Note is stolen. As the end of his lifetime approaches, Shidoh finds Ryuk and learns that Mello is in possession of his Note. Later, he finds Snyder in the human world. To regain his Note, Shidoh agrees to help Mello's gang against the SPK and Light. After Light regains the Death Note from Mello, he returns the note to Shidoh for him to stop interfering and return to the Shinigami world. Although these events occurred over the course of about one volume in the manga, Shidoh was only in two episodes in the anime version (episode 28 where he was merely introduced in the last few minutes of the episode, and episode 29, which relays most events of Shidoh's regaining of his Death Note).    Shidoh's name is written in English as &quot;Shidoh&quot; in Death Note: How to Read 13, but written &quot;Sidoh&quot; in both the tankōbon character introductions page and within the translated English manga.    *Wiki",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5174,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shingo Midou",
+        "native": "三堂芯吾"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n5174-cYFDgXOjy3Ms.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n5174-cYFDgXOjy3Ms.png"
+      },
+      "descripcion": "Shingo Midou is one of the eight members of the Yotsuba Group.",
+      "genero": "Male",
+      "edad": "32",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3767,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shuuichi Aizawa",
+        "native": "相沢周市"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n3767-pSbmazo2I7ZD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n3767-pSbmazo2I7ZD.png"
+      },
+      "descripcion": "Aizawa is an intelligent, respected member of both the NPA and Task Force. He takes his work very seriously and chooses to work strictly within the law. Out of all the members in the Task Force, Aizawa is the most overtly skeptical, questioning L's basis for his conclusions and expressing the most doubt in them, and often finds himself clashing and opposing many of L's ideas and actions. He has a wife, [Eriko](https://anilist.co/character/84531/Eriko-Aizawa), and two children, including [Yumi](https://anilist.co/character/84527/Yumi-Aizawa), his daughter, and his baby son, whose name is unknown. Due to him rarely being able to visit home during his work on the Kira case, his personal life and relationship with his family becomes strained.",
+      "genero": "Male",
+      "edad": "34-",
+      "fecha_nacimiento": {
+        "year": 1969,
+        "month": 5,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1927,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Souichirou Yagami",
+        "native": "夜神総一郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1927-iaIWrFITyeJw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1927-iaIWrFITyeJw.jpg"
+      },
+      "descripcion": "Souichirou Yagami is Light's father and the leader of the remains of his investigation team under L's command. \n\nHe is a kind man with a strong sense of justice. He cares greatly for his family and the members of the Japanese Task Force. He is a serious and responsible man that gains the respect of many. He has a strong sense of duty, and even after the police stop funding the Kira investigation he continues trying to solve the case with the Task Force.",
+      "genero": "Male",
+      "edad": "48-",
+      "fecha_nacimiento": {
+        "year": 1955,
+        "month": 7,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3770,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Stephen Loud",
+        "native": "ステファン・ラウド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n3770-tvFv3ulGAmjt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n3770-tvFv3ulGAmjt.png"
+      },
+      "descripcion": "Stephen works for Near as part of his investigation team, along with Lidner and Rester, and later plays an important role in stopping Kira. When suspicions arise towards Mikami, Near assigns Gevanni the task of following him, studying his methodic lifestyle, and finding his connections to the Death Note. Before the final showdown with Light at the warehouse, Near has Gevanni steal both the fake and real Death Notes from Mikami, and tampers one of the fake's pages. \n\nHe also creates another fake, replacing the real one, that is later used as Light's ultimate downfall, and ends up being Near's key to proving Light's identity as Kira. While looking for the SPK members's real names, Mikami views his real name as Stephen Loud through his Shinigami Eyes.  \n\nIn the one-shot chapter set three years after Light's death, while he didn't have any speaking lines and much any involvement in the short story, he did appear in one panel alongside Rester and Lidner. This suggests that he may still be working with them under the new L, Near",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 84525,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Steve Mason",
+        "native": "スティーブ·メイソン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/84525.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/84525.jpg"
+      },
+      "descripcion": "He is the FBI director and a member of the SPK.  He helped L in the Kira's investigation sending FBI agents to Japan but gave up after all the agents were killed by Kira. He was too a leading Near's employees who helped to convince the U.S. President to form the SPK.   ~!Later, along with other members of the SPK, he was killed by Mafia who used the Death Note (by Jack Neylon from Mello's orders) to show that Mello was better than Near. !~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 84503,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Suguru Shimura",
+        "native": "卓志村"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/84503.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/84503.jpg"
+      },
+      "descripcion": "He is the Head of Personnel in the Yotsuba Corporation. He is a very paranoid person, and always keeps a close eye on others. Shimura's ability to pay attention to small details allowed him to join the Yotsuba Group meetings. He does not like his predicament whatsoever.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 84507,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Takeshi Ooi",
+        "native": "尾々井剛"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/84507.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/84507.jpg"
+      },
+      "descripcion": "He is the Yotsuba Vice President of VT Enterprises. He works with the Yotsuba Group as the eldest and \"most influential\" member and he appears to control the conferences. He individually contacts the members of the committee. Ooi is seemingly a tough guy who doesn't sweat the details. Ooi is a graduate of Wasegi University Law department, who was a weapon enthusiast with a father works in the Ministry of Defense.",
+      "genero": "Male",
+      "edad": "43",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 31
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 46237,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Takuo Shibuimaru",
+        "native": "渋井丸拓男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n46237-vSB4bDQ7uajY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n46237-vSB4bDQ7uajY.png"
+      },
+      "descripcion": "Takuo Shibuimaru is the second person that Light kills using his Death Note. Shibuimaru rides a motorcycle and travels with a group of bikers, and starts annoying a woman in the street. After Light hears his name and sees him chasing this woman, Light writes his name down in all variations possibles to write his name, and uses a condition, a death by traffic accident. A truck slams into Shibuimaru's motorcycle, killing him. In the manga, Shibuimaru and his group harass the woman, while in the anime him and his group try to sexually assault her. In the manga Light feels some guilt since Shibuimaru is not a criminal.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1904,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Teru Mikami",
+        "native": "魅上照"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n1904-xKw2NgiE6VbU.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n1904-xKw2NgiE6VbU.jpg"
+      },
+      "descripcion": "__Height:__ 175 cm (5'9\")\n\nA young man with a strong feeling for justice, and who worships [Kira](https://anilist.co/character/80/Yagami-Light) and refers to him as \"God\". He is prepared to help Kira by any means, even if it means sacrificing his own life.\n\nMikami works as a lawyer, and was bullied for standing up for what is right when he was younger in school. He was an excellent student and did well academically. He became a prosecuting agent to impose the punishment that criminals deserved. Mikami lives alone and likes to work out consistently, even on New Year's Day. He's maniacally rigorous and punctual, and overall he's a talented and intelligent person who has the tendency to act in a way that is described as \"Kira-like\".",
+      "genero": "Male",
+      "edad": "27",
+      "fecha_nacimiento": {
+        "year": 1982,
+        "month": 6,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1932,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tierry Morello",
+        "native": "ティエリ・モレロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n1932-eeWL3KSOTlVx.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n1932-eeWL3KSOTlVx.jpg"
+      },
+      "descripcion": "A professional con-man, Aiber is hired by L for his skills. He was proven helpful in playing the role of Eraldo Coil in the Yotsuba Arc, and in coaching Misa for her interview with the Yotsuba group. He died from liver cancer on 7 April, 2005. Aiber is also known by his initial &quot;A&quot;, just like &quot;L&quot; and other people who have great influence in the organization that hunts down Kira.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1906,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Touta Matsuda",
+        "native": "松田桃太"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n1906-JCWKEGGook3Z.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n1906-JCWKEGGook3Z.png"
+      },
+      "descripcion": "__Height:__ 174 cm (5'8\")\n\nRecognized as the most outspoken member of the investigation team, Matsuda possesses an enthusiastic yet impulsive and naïve personality, often lacking the seriousness required for his work. Compared to his colleagues in the task force, he stands out as notably inexperienced, often being perceived as the weakest link within the group. Despite his evident shortcomings and lack of experience, Matsuda proves to be valuable and, at times, indispensable to the investigation. He is not afraid to take dangerous risks, going out of his way to support the team.\n\nWhile the majority of the Task Force sees [Kira](https://anilist.co/character/80/Yagami-Light) as a malevolent serial killer, Matsuda frequently questions whether Kira's actions could be construed as performing good deeds. This skepticism grows, particularly as more people seem to align with Kira's ideology. Matsuda displays a certain level of understanding and sympathy towards Kira's followers. However, his ultimate loyalty remains with the Task Force, and he is unwavering in his commitment to solving the Kira Case alongside his fellow officers. His allegiance is especially strong towards [Soichiro Yagami](https://anilist.co/character/1927/Souichirou-Yagami), whom he views as a mentor.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": 1978,
+        "month": 12,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        },
+        {
+          "id": 2994,
+          "title": {
+            "romaji": "DEATH NOTE Rewrite",
+            "english": "Death Note: Relight",
+            "native": "DEATH NOTE リライト"
+          }
+        }
+      ]
+    },
+    {
+      "id": 84527,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yumi Aizawa",
+        "native": "相澤由美"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/84527.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/84527.jpg"
+      },
+      "descripcion": "She is the daughter of [Shuichi Aizawa](https://anilist.co/character/3767) and [Eriko Aizawa](https://anilist.co/character/84531/Eriko-Aizawa).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        }
+      ]
+    },
+    {
+      "id": 53663,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuri",
+        "native": "百合"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n53663-kcAGTU7RCaUG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n53663-kcAGTU7RCaUG.png"
+      },
+      "descripcion": "Yuri is a young girl that has a crush on [Light Yagami](https://anilist.co/character/80/Light-Yagami). \n\nLight decides to invite her on a date to Space Land. He asks her out as part of his plan to help find out [Raye Penber's](https://anilist.co/character/7044) name, so that he can write it in the Death Note. Light asks her out so that he won't arouse suspicion, since he is well aware of being followed by Penber.    \n\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note",
+            "native": "DEATH NOTE"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36309,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Narrator",
+        "native": "ナレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+      },
+      "descripcion": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 6,
+          "title": {
+            "romaji": "TRIGUN",
+            "english": "Trigun",
+            "native": "TRIGUN"
+          }
+        },
+        {
+          "id": 21,
+          "title": {
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
+          }
+        },
+        {
+          "id": 25,
+          "title": {
+            "romaji": "Sunabouzu",
+            "english": "Desert Punk",
+            "native": "砂ぼうず"
+          }
+        },
+        {
+          "id": 28,
+          "title": {
+            "romaji": "Yakitate!! Japan",
+            "english": null,
+            "native": "焼きたて!! ジャぱん"
+          }
+        },
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 33,
+          "title": {
+            "romaji": "Kenpuu Denki Berserk",
+            "english": "Berserk",
+            "native": "剣風伝奇ベルセルク"
+          }
+        },
+        {
+          "id": 60,
+          "title": {
+            "romaji": "Chrno Crusade",
+            "english": "Chrono Crusade",
+            "native": "クロノクルセイド"
+          }
+        },
+        {
+          "id": 67,
+          "title": {
+            "romaji": "Basilisk: Kouga Ninpouchou",
+            "english": "Basilisk",
+            "native": "バジリスク 甲賀忍法帖"
+          }
+        },
+        {
+          "id": 80,
+          "title": {
+            "romaji": "Kidou Senshi Gundam",
+            "english": "Mobile Suit Gundam",
+            "native": "機動戦士ガンダム"
+          }
+        },
+        {
+          "id": 90,
+          "title": {
+            "romaji": "Shin Kidou Senki Gundam Wing",
+            "english": "Mobile Suit Gundam Wing",
+            "native": "新機動戦記ガンダムW"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 50,
+  "actualizado": 1788566715
+}

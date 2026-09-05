@@ -1,0 +1,4217 @@
+{
+  "clave": "code-geass",
+  "nombre": "Code Geass",
+  "descripcion": "Lelouch y el poder del Geass",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Ciencia ficción"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-hsmWM2ydNm1m.jpg",
+  "medios": [
+    {
+      "id": 1575,
+      "title": {
+        "romaji": "Code Geass: Hangyaku no Lelouch",
+        "english": "Code Geass: Lelouch of the Rebellion",
+        "native": "コードギアス 反逆のルルーシュ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-hsmWM2ydNm1m.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1575-hsmWM2ydNm1m.jpg"
+      }
+    },
+    {
+      "id": 2904,
+      "title": {
+        "romaji": "Code Geass: Hangyaku no Lelouch R2",
+        "english": "Code Geass: Lelouch of the Rebellion R2",
+        "native": "コードギアス 反逆のルルーシュ R2"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2904-Fet9Q33suC7G.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2904-Fet9Q33suC7G.jpg"
+      }
+    },
+    {
+      "id": 101811,
+      "title": {
+        "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+        "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+        "native": "コードギアス 反逆のルルーシュⅠ 興道"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101811-pRfRiEvgZn4T.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101811-pRfRiEvgZn4T.png"
+      }
+    },
+    {
+      "id": 101813,
+      "title": {
+        "romaji": "Code Geass: Hangyaku no Lelouch III - Oudou",
+        "english": "Code Geass: Lelouch of the Rebellion III - Glorification",
+        "native": "コードギアス 反逆のルルーシュⅢ 皇道"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101813-ckCNyMkU2Kkc.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101813-ckCNyMkU2Kkc.png"
+      }
+    },
+    {
+      "id": 101812,
+      "title": {
+        "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+        "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+        "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101812-rCTRQhzHIryT.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101812-rCTRQhzHIryT.jpg"
+      }
+    },
+    {
+      "id": 1953,
+      "title": {
+        "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+        "english": null,
+        "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1953.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1953.jpg"
+      }
+    },
+    {
+      "id": 5163,
+      "title": {
+        "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+        "english": null,
+        "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5163.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5163.jpg"
+      }
+    },
+    {
+      "id": 8728,
+      "title": {
+        "romaji": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Picture Drama",
+        "english": null,
+        "native": "コードギアス 反逆のルルーシュ キセキの誕生日 ピクチャードラマ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8728.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8728.jpg"
+      }
+    },
+    {
+      "id": 9591,
+      "title": {
+        "romaji": "Code Geass: Hangyaku no Lelouch R2 FLASH Flash - Kaette Kita BABA Gekijou",
+        "english": "Code Geass: Lelouch of the Rebellion R2: Flash Specials",
+        "native": "コードギアス 反逆のルルーシュ おまけFLASH「帰ってきたBABA劇場」"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9591.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9591.jpg"
+      }
+    },
+    {
+      "id": 112900,
+      "title": {
+        "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama - Kiseki no Anniversary",
+        "english": null,
+        "native": "コードギアス 反逆のルルーシュ キセキのアニバーサリー"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112900-w58lVXgdLx93.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112900-w58lVXgdLx93.jpg"
+      }
+    },
+    {
+      "id": 110253,
+      "title": {
+        "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama STAGE 0.97 - Hajimari no Zenya",
+        "english": null,
+        "native": "コードギアス 反逆のルルーシュ ピクチャードラマ STAGE 0.97 はじまりの前夜"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110253-dLuK4JGoZkRv.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110253-dLuK4JGoZkRv.jpg"
+      }
+    },
+    {
+      "id": 126169,
+      "title": {
+        "romaji": "Code Geass: Hangyaku no Lelouch DVD Magazine",
+        "english": null,
+        "native": "コードギアス 反逆のルルーシュ DVDマガジン"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126169-H7bkp7C91o9X.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126169-H7bkp7C91o9X.jpg"
+      }
+    },
+    {
+      "id": 18881,
+      "title": {
+        "romaji": "Code Geass: Hangyaku no Lelouch - Kiseki no BABA Gekijou",
+        "english": null,
+        "native": "きせきのBABA劇場"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18881.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18881.jpg"
+      }
+    },
+    {
+      "id": 132317,
+      "title": {
+        "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama TURN 12.06 - Last Moratorium",
+        "english": null,
+        "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ TURN 12.06 ラストモラトリアム"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132317-pcgaBGS3O5Dj.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132317-pcgaBGS3O5Dj.jpg"
+      }
+    },
+    {
+      "id": 125783,
+      "title": {
+        "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama - Kamen Kokuhaku Taikai",
+        "english": null,
+        "native": "コードギアス 反逆のルルーシュ 仮面告白大会 第1週来場者特典 ピクチャードラマ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125783-hU2oQqYolmki.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125783-hU2oQqYolmki.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 1111,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "C.C.",
+        "native": "シー･ツー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1111-UhmlFtRFrnWa.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1111-UhmlFtRFrnWa.png"
+      },
+      "descripcion": "**Height:** 167 cm\n**Allegiance:** The Black Knights\n\nC.C. is apparently immortal, healing from any wound (implied to include beheading) with enough time. She also doesn't age. Apart from her immortality, C.C. can bestow people with the power of Geass, which manifests differently in each person but generally carries the ability to affect the minds of those it is used on in some way. The Geass sigil glows on her forehead whenever she manifests this power, and she has a similar scar on her left breast. It is hinted that many more like her exist, as shown in her memories of many children with similar sigils, and she suggests that the power has precipitated bloody conflicts in the past. Her powers caught the interest of Britannia, who imprisoned her for experimentation purposes.\n\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 8728,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ キセキの誕生日 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 9591,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 FLASH Flash - Kaette Kita BABA Gekijou",
+            "english": "Code Geass: Lelouch of the Rebellion R2: Flash Specials",
+            "native": "コードギアス 反逆のルルーシュ おまけFLASH「帰ってきたBABA劇場」"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 15199,
+          "title": {
+            "romaji": "Code Geass: Boukoku no Akito 3 - Kagayakumono Ten Yori Otsu",
+            "english": "Code Geass: Akito the Exiled - The Brightness Falls",
+            "native": "コードギアス 亡国のアキト 第3章 輝くもの天より墮つ"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101811,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+            "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+            "native": "コードギアス 反逆のルルーシュⅠ 興道"
+          }
+        },
+        {
+          "id": 101812,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+            "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+            "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1114,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Euphemia li Britannia",
+        "native": "ユーフェミア・リ・ブリタニア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1114-rjYGsn8O6ZhE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1114-rjYGsn8O6ZhE.png"
+      },
+      "descripcion": "__Height:__ 174 cm\n\nEuphemia li Britannia is [Lelouch](https://anilist.co/character/417/Lamperouge-Lelouch)'s half-sister and the Third Princess of the Britannian Imperial Family; she is the sibling Lelouch cares most about after [Nunnally](https://anilist.co/character/1110/Lamperouge-Nunnally). She is a kindhearted and open-minded woman who despises conflict in any form.\n\nEuphemia joins her older sister [Cornelia](https://anilist.co/character/797/li-Britannia-Cornelia) in governing Area 11, becoming the Sub-Vicereine. She develops a relationship with [Suzaku Kururugi](https://anilist.co/character/559/Kururugi-Suzaku), whose views reflect her own, and eventually appoints him as her personal Knight.",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": 2000,
+        "month": 10,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 1953,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 101811,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+            "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+            "native": "コードギアス 反逆のルルーシュⅠ 興道"
+          }
+        },
+        {
+          "id": 101812,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+            "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+            "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+          }
+        }
+      ]
+    },
+    {
+      "id": 558,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kallen Stadtfeld",
+        "native": "カレン・シュタットフェルト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b558-8tSMZ4a0LWrn.jpg"
+      },
+      "descripcion": "__Height:__ 173 cm (5'8\")  \n\nA Britannian-Eleven girl, who believes herself to be a Japanese person at heart.\n\nBefore the Britannia Empire conquered Area 11, Kallen's original name was Karen Kouzuki. She comes from a prestigious family and attends the Ashford Academy where she receives outstanding grades while serving as a member of its Student Council. When away from the Academy, she fights as an anti-Britannian operative. Also, Kallen helped organize the Black Knights.\n\nHer brother, [Naoto Kouzuki](https://anilist.co/character/1123/Kouzuki-Naoto), with whom she had a deep connection, was a former leader of her resistance cell before his death.  Both Kallen's stepmother, a Britannian, and biological mother live with her in the same house, but her biological mother is employed as a maid and is often mistreated by both her stepmother and Kallen herself. After her biological mother is arrested for using Refrain (a fictional drug which lets people think they're reliving the past), Kallen changes her views and decides to fight against the Britannian Empire not only for her brother, but to fulfill her new wish for a world in which she can live happily with her biological mother.\n\nFrail and meek, this aspect of Kallen's character was used as a public front to mask her true nature as well as hide her involvement in the resistance.  Kallen leads a double life as a normal Britannian student and as a member of a guerrilla resistance group against Britannia, which is later reformed into the Order of the Black Knights by [Lelouch Lamperouge](https://anilist.co/character/417/Lamperouge-Lelouch). In school, she portrays herself as a weak-bodied high school student who obeys all of the formalities, and goes by her Britannian name of Stadtfeld. However, her personality changes in to a very strong-willed and forceful one when she acts as a resistance fighter.\n\nAs a running gag, Kallen ends up nude or immodestly dressed in front of other people on numerous occasions: Lelouch sees her naked after she pulls back a shower curtain in surprise in the third episode, [Suzaku](https://anilist.co/character/559/Kururugi-Suzaku) sees her bathing under a waterfall when they are stranded on Kaminejima, she is forced to dress in an immodest bunny costume at the start of the second season (to plant a tracking device on Lelouch), and she walks in on a meeting between [C.C.](https://anilist.co/character/1111/CC) and the Chinese ambassadors wearing only a towel when intending to complain about the previous situation to C.C. (claiming that the operation would've gone faster if C.C. was wearing the outfit).",
+      "genero": "Female",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": 2000,
+        "month": 3,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 1953,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 8728,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ キセキの誕生日 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101811,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+            "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+            "native": "コードギアス 反逆のルルーシュⅠ 興道"
+          }
+        },
+        {
+          "id": 101812,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+            "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+            "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+          }
+        },
+        {
+          "id": 101813,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch III - Oudou",
+            "english": "Code Geass: Lelouch of the Rebellion III - Glorification",
+            "native": "コードギアス 反逆のルルーシュⅢ 皇道"
+          }
+        }
+      ]
+    },
+    {
+      "id": 417,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Lelouch Lamperouge",
+        "native": "ルルーシュ・ランペルージ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b417-gVLmIJu9phcK.png"
+      },
+      "descripcion": "__Nationality:__ Britannian\n__Height:__ 178 - 183 cm \n__Relatives:__ Nunnally Lamperouge\n__Allegiance:__ Order of the Black Knights\n__Position:__ Order of the Black Knights Leader\n__Knightmare Frame:__ Burai, Gawain, Shinkiro, Sutherland  <br>\n\nLelouch is a student of Ashford Academy high school, where he is a member of its student council. A brilliant thinker who is quite talented at chess, he lives with his younger sister, Nunnally, with their maid, [Sayoko Shinozaki](https://anilist.co/character/1807), at a house situated within the compounds of Ashford Academy, where they are looked after by the Ashford family.  Lelouch is soon swept into the conflict between the Britannia Empire and the pockets of resistance which oppose it when he accidentally boards a truck being used by Japanese resistance operatives. Within the truck is a capsule holding [C.C.](https://anilist.co/character/1111), who sacrifices herself to save him from the military forces trying to recapture her. When it seems as if her sacrifice was pointless, C.C. suddenly touches his hand and offers him the \"Power of the King\", the mythical power of Geass. The Geass manifests itself in him as the power of absolute obedience, which allows him to make people obey his orders without question.   With his new power, Lelouch begins his rebellion against the Empire, forming the Order of the Black Knights and takes up the identity of Zero to lead them, becoming a revolutionary and gaining popular support amongst the people.   \n\n~!Lelouch is the son of the Emperor of Britannia, Charles zi Britannia, and the late Imperial Consort Marianne vi Britannia, making Lelouch the eleventh prince of the Britannian Imperial Family.!~",
+      "genero": "Male",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": 2000,
+        "month": 12,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 1953,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 8728,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ キセキの誕生日 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 9591,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 FLASH Flash - Kaette Kita BABA Gekijou",
+            "english": "Code Geass: Lelouch of the Rebellion R2: Flash Specials",
+            "native": "コードギアス 反逆のルルーシュ おまけFLASH「帰ってきたBABA劇場」"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 15197,
+          "title": {
+            "romaji": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu",
+            "english": "Code Geass: Akito the Exiled - The Wyvern Divided",
+            "native": "コードギアス 亡国のアキト 第2章 引き裂かれし翼竜"
+          }
+        },
+        {
+          "id": 15199,
+          "title": {
+            "romaji": "Code Geass: Boukoku no Akito 3 - Kagayakumono Ten Yori Otsu",
+            "english": "Code Geass: Akito the Exiled - The Brightness Falls",
+            "native": "コードギアス 亡国のアキト 第3章 輝くもの天より墮つ"
+          }
+        },
+        {
+          "id": 15201,
+          "title": {
+            "romaji": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku Kara",
+            "english": "Code Geass: Akito the Exiled - Memories of Hatred",
+            "native": "コードギアス 亡国のアキト 第4章 憎しみの記憶から"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1121,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Milly Ashford",
+        "native": "ミレイ・アッシュフォード"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1121-Y3ye9sw1u3Eh.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1121-Y3ye9sw1u3Eh.jpg"
+      },
+      "descripcion": "Milly Ashford is the granddaughter of the school superintendent, Ruben K. Ashford, and president of the Student Council. \n\nMilly enjoys teasing [Shirley](https://anilist.co/character/1120/Fenette-Shirley) and is eager to discover [Lelouch's](https://anilist.co/character/417/Lamperouge-Lelouch) weaknesses — enough so to rally the entire school into chasing after [Arthur](https://anilist.co/character/48473/Arthur) when she suspects the cat to hold something precious to him.\n\n~!Milly is aware of Lelouch's identity as a former prince of Britannia, her family having supported [Empress Marianne](https://anilist.co/character/1129/vi-Britannia-Marianne). In the second picture drama special included on the DVD release, her grandfather and [Nina](https://anilist.co/character/1124/Einstein-Nina)'s grandfather are said to have worked on the Io and Ganymede Knightmare Frames together. Marianne's assassination led to the family's nobility status being stripped. The Ashfords arrange for Milly to marry [Earl Lloyd Asplund](https://anilist.co/character/1130/Asplund-Lloyd) to restore it. After the events of the first season, Milly remains a student on campus because she failed her examinations, although it is noted that she did so on purpose to remain on campus with her friends. She eventually earns enough credits to graduate and becomes a weather forecaster on the local TV news. She also breaks off her engagement with Lloyd. !~",
+      "genero": "Female",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": 1999,
+        "month": 7,
+        "day": 24
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 1953,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 8728,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ キセキの誕生日 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101811,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+            "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+            "native": "コードギアス 反逆のルルーシュⅠ 興道"
+          }
+        },
+        {
+          "id": 101812,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+            "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+            "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+          }
+        },
+        {
+          "id": 112900,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama - Kiseki no Anniversary",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ キセキのアニバーサリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1124,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Nina Einstein",
+        "native": "ニーナ・アインシュタイン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1124-TSD6Z8Vjy7Kn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1124-TSD6Z8Vjy7Kn.png"
+      },
+      "descripcion": "**Height:** 165 cm (5'5\")  \n\nNina Einstein is introduced as a bookish member of the student council at Ashford Academy. Nina demonstrates an acute xenophobic reaction to Elevens and is initially intimidated by Suzaku when he arrives in the school. She develops an obsessive crush on the Third Princess Euphemia after the latter helps her during a traumatizing hostage incident at the Lake Kawaguchi Convention Center Hotel. She subsequently comes to rely on Euphemia for emotional support.",
+      "genero": "Female",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": 2000,
+        "month": 8,
+        "day": 27
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 1953,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 8728,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ キセキの誕生日 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101811,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+            "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+            "native": "コードギアス 反逆のルルーシュⅠ 興道"
+          }
+        },
+        {
+          "id": 101812,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+            "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+            "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+          }
+        },
+        {
+          "id": 112900,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama - Kiseki no Anniversary",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ キセキのアニバーサリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1110,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Nunnally Lamperouge",
+        "native": "ナナリー・ランペルージ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1110-TSlN2WkhDJ1T.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1110-TSlN2WkhDJ1T.png"
+      },
+      "descripcion": "__Height:__ 160 cm (5'3\") - 164 cm (5'4\")\n\nShe is [Lelouch](https://anilist.co/character/417/Lamperouge-Lelouch)'s younger sister who is wheelchair-bound due to old bullet wounds on her legs, and blind due to psychological trauma. Lelouch believes that she may be able to see again someday. They live in Kururugi Residence where she first met [Suzaku Kururugi](https://anilist.co/character/559/Kururugi-Suzaku).\n\n~!After Britannia invades Japan, Lelouch hides their identity in fear of their safety and changes their surname to Lamperouge. They then seek help from [Marianne](https://anilist.co/character/1129/vi-Britannia-Marianne)'s old allies, the Ashford family, who kept their identity a secret and allows the two siblings to live in a building on campus to accommodate her disabilities. Nunnally attends Ashford Academy's middle school and is friends with Lelouch's classmates, particularly with [Shirley](https://anilist.co/character/1120/Fenette-Shirley). She is very kindhearted and calls the Elevens \"Japanese people\".!~",
+      "genero": "Female",
+      "edad": "14-17",
+      "fecha_nacimiento": {
+        "year": 2003,
+        "month": 10,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 1953,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 8728,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ キセキの誕生日 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 9591,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 FLASH Flash - Kaette Kita BABA Gekijou",
+            "english": "Code Geass: Lelouch of the Rebellion R2: Flash Specials",
+            "native": "コードギアス 反逆のルルーシュ おまけFLASH「帰ってきたBABA劇場」"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101811,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+            "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+            "native": "コードギアス 反逆のルルーシュⅠ 興道"
+          }
+        },
+        {
+          "id": 101812,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+            "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+            "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1122,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Rivalz Cardemonde",
+        "native": "リヴァル・カルデモンド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1122-tzCSm261b2RP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1122-tzCSm261b2RP.png"
+      },
+      "descripcion": "Rivalz Cardemonde is one of Lelouch's friends, usually driving Lelouch around on his motorbike as an ante for their bets on chess games. \n\nHe has a part-time job as a bartender/waiter and carries an unrequited love for Milly Ashford especially when it is announced that she is going through a marriage interview.  Rivalz's real surname is not Cardemonde, which is his mother's maiden name that he uses after his parents became estranged.    ~!He was born and partially raised in California. Rivalz is last seen in Ohgi and Villetta's wedding picture. !~ ",
+      "genero": "Male",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": 2000,
+        "month": 7,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 1953,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 8728,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ キセキの誕生日 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101811,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+            "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+            "native": "コードギアス 反逆のルルーシュⅠ 興道"
+          }
+        },
+        {
+          "id": 112900,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama - Kiseki no Anniversary",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ キセキのアニバーサリー"
+          }
+        },
+        {
+          "id": 125783,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama - Kamen Kokuhaku Taikai",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 仮面告白大会 第1週来場者特典 ピクチャードラマ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7771,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Rolo Lamperouge",
+        "native": "ロロ・ランペルージ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7771-yhQaoU3IXYk0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7771-yhQaoU3IXYk0.png"
+      },
+      "descripcion": "Rolo is introduced in the second season as [Lelouch](https://anilist.co/character/417/Lamperouge-Lelouch)'s younger brother, ~!but is actually an assassin placed there by the Britannian Emperor under orders to kill him should he ever recover any memories of being Zero.!~  \n\nRolo is unsociable and reserved, unlike his older brother, a trait which does not gain him many friends at school. ~!While working with the Britannian Secret Intelligence Service, he is aloof and doesn't seem very interested. While Rolo puts up a front of being withdrawn, this exterior hides a ruthless and detached killer who will do whatever it takes to complete his mission.  Despite his attitude towards the mission, Rolo is devoted to Lelouch.!~ He often stays in the background and simply listens and isn't afraid to be very blunt about their faults.  Lelouch's year without memories show him and Rolo quite happy, particularly when Lelouch gives him a heart-shaped musical locket as a birthday present, which he keeps attached to his cellphone. His attachment to the locket is such that he refuses to return it even when Lelouch tries to reclaim it.\n\n~!It is also clear that he has also been heavily affected by his time with Lelouch. Because of this, he is easily manipulated into believing that Lelouch cares for him and thus follows his orders without question.!~",
+      "genero": "Male",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": 2002,
+        "month": 10,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 8728,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ キセキの誕生日 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 9591,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 FLASH Flash - Kaette Kita BABA Gekijou",
+            "english": "Code Geass: Lelouch of the Rebellion R2: Flash Specials",
+            "native": "コードギアス 反逆のルルーシュ おまけFLASH「帰ってきたBABA劇場」"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 21178,
+          "title": {
+            "romaji": "Code Geass: Boukoku no Akito Saishuushou - Itoshiki Mono-tachi e",
+            "english": "Code Geass: Akito the Exiled - To Beloved Ones",
+            "native": "コードギアス 亡国のアキト 最終章 愛シキモノタチヘ"
+          }
+        },
+        {
+          "id": 101812,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+            "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+            "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+          }
+        },
+        {
+          "id": 101813,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch III - Oudou",
+            "english": "Code Geass: Lelouch of the Rebellion III - Glorification",
+            "native": "コードギアス 反逆のルルーシュⅢ 皇道"
+          }
+        },
+        {
+          "id": 132317,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama TURN 12.06 - Last Moratorium",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ TURN 12.06 ラストモラトリアム"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1807,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Sayoko Shinozaki",
+        "native": "篠崎咲世子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/1807.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/1807.jpg"
+      },
+      "descripcion": "Sayoko Shinozaki is a kindhearted Japanese woman who serves as a maid to the Lamperouge siblings in their residence. She was originally Milly Ashford's personal maid, but was reassigned to Lelouch and Nunnally when they were placed under the Ashfords' care.",
+      "genero": "Female",
+      "edad": "24",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 1953,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 9591,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 FLASH Flash - Kaette Kita BABA Gekijou",
+            "english": "Code Geass: Lelouch of the Rebellion R2: Flash Specials",
+            "native": "コードギアス 反逆のルルーシュ おまけFLASH「帰ってきたBABA劇場」"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 126169,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch DVD Magazine",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ DVDマガジン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1120,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Shirley Fenette",
+        "native": "シャーリー・フェネット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1120-hjOjinw5j4FE.png"
+      },
+      "descripcion": "__Height:__ 175 cm (5'9\")\n\nShirley Fenette is a typical, all-around nice girl who is exceptionally friendly and loves her friends. She is a member of the swimming club. She admits to being infatuated with [Lelouch](https://anilist.co/character/417/Lamperouge-Lelouch) since his enrollment on campus, but finds it extremely hard to get his attention. She has a habit of jumping to conclusions before people can explain things to her, particularly when Lelouch is concerned.",
+      "genero": "Female",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": 2000,
+        "month": 7,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 1953,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 8728,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ キセキの誕生日 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101811,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+            "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+            "native": "コードギアス 反逆のルルーシュⅠ 興道"
+          }
+        },
+        {
+          "id": 101812,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+            "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+            "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+          }
+        },
+        {
+          "id": 112900,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama - Kiseki no Anniversary",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ キセキのアニバーサリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 559,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Suzaku Kururugi",
+        "native": "枢木スザク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b559-KRvTdc6zdCuU.jpg"
+      },
+      "descripcion": "__Height:__ 176 cm (5'9\")         \n__Nationality:__ Japanese         \n__Known Relatives:__ Genbu Kururugi (father, deceased), Kaguya Sumeragi (cousin)\n__Knightmare Frame:__ Lancelot and Lancelot Albion\n\nLelouch's childhood friend and son of Japan's last prime minister. After Britannia's takeover of Japan, Suzaku joins the Britannia Army and becomes an Honorary Britannian. He agrees with Zero (Lelouch in disguise, unknown to Suzaku) with his assertion that the Britannia Empire is not worth serving, but nevertheless wishes to implement changes and improvements from within the empire, all the while trying not to lose sight of his goals lest his father's death have been in vain. He has a strong sense of justice and is the only one known to be able to pilot the elite Britannian Knightmare Frame, Lancelot. He always keeps with him a broken pocket watch, a memento of his deceased father.",
+      "genero": "Male",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": 2000,
+        "month": 7,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 1953,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 8728,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ キセキの誕生日 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 9591,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 FLASH Flash - Kaette Kita BABA Gekijou",
+            "english": "Code Geass: Lelouch of the Rebellion R2: Flash Specials",
+            "native": "コードギアス 反逆のルルーシュ おまけFLASH「帰ってきたBABA劇場」"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 15197,
+          "title": {
+            "romaji": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu",
+            "english": "Code Geass: Akito the Exiled - The Wyvern Divided",
+            "native": "コードギアス 亡国のアキト 第2章 引き裂かれし翼竜"
+          }
+        },
+        {
+          "id": 15199,
+          "title": {
+            "romaji": "Code Geass: Boukoku no Akito 3 - Kagayakumono Ten Yori Otsu",
+            "english": "Code Geass: Akito the Exiled - The Brightness Falls",
+            "native": "コードギアス 亡国のアキト 第3章 輝くもの天より墮つ"
+          }
+        },
+        {
+          "id": 15201,
+          "title": {
+            "romaji": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku Kara",
+            "english": "Code Geass: Akito the Exiled - Memories of Hatred",
+            "native": "コードギアス 亡国のアキト 第4章 憎しみの記憶から"
+          }
+        }
+      ]
+    },
+    {
+      "id": 49163,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Alicia Lohmeyer",
+        "native": "アリシア・ローマイヤー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/49163.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/49163.jpg"
+      },
+      "descripcion": "Alicia Lohmeyer is an aide and adviser assigned by Britannia to observe Nunnally upon her appointment as the new Viceroy of Area 11. The quintessential Britannian, she regards Nunnally&#039;s pro-Eleven political stance with frigid opposition, but dutifully obeys regardless.      ~!When Zero engineers the exile of one million Japanese during a second attempt at forming the Special Administrative Zone of Japan, she nearly starts a second massacre by firing upon the crowd. Suzaku disarms her to prevent it from happening again. She becomes more resentful as Nunnally begins to assert herself in the workings of the government, and even orders Kallen&#039;s execution (which is derailed by Sayoko) while Nunnally is being evacuated from the second battle of Tokyo. But Alicia dies when the decoy ship she entered is consumed in the blast from the F.L.E.I.J.A. bomb, killing her and the other occupants.!~    Her name and character design are direct references to Miss Rottenmeier, a character from Nippon Animation&#039;s popular anime series Heidi, Girl of the Alps.    Source: CodeGeass Wiki",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1116,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Andreas Darlton",
+        "native": "アンドレアス・ダールトン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1116-D3NpQEn8FLon.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1116-D3NpQEn8FLon.png"
+      },
+      "descripcion": "A loyal confidante and close subordinate of Princess Cornelia. An extremely tall and well-built man with a diagonal scar running across his face, Darlton visits Area 11 as part of Cornelia's drive against Zero.",
+      "genero": "Male",
+      "edad": "47",
+      "fecha_nacimiento": {
+        "year": 1970,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 1953,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11476,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Anya Alstreim",
+        "native": "アーニャ・アールストレイム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11476-EIlWnOmgLnwL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b11476-EIlWnOmgLnwL.png"
+      },
+      "descripcion": "__Height:__ 163 cm (5'4\") \n\nAnya Alstreim is Knight of Six in the Knights of Rounds and pilots the heavy assault Knightmare Frame, Mordred. She is a quiet and introverted person with a mysterious past and has a Britannian emblem tattooed on her left arm. She holds the distinction of being the youngest individual ever appointed to the Knights of Rounds at the age of 15. She wants to be remembered, so she maintains a blog which she frequently updates with pictures she takes with her camera-phone. As one of the younger members of the Kights of Rounds, she is close friends with Suzaku Kururugi and Gino Weinberg. Suzaku's cat Arthur also takes a liking to her, though it seems to be more affectionate to everyone except Suzaku himself. Anya maintains a detached attitude in most situations, usually declaring most things to be boring. In battle, her fighting style reflects her heavily-armored Knightmare; she annihilates her enemies with overwhelming force and doesn't hesitate to kill disabled enemies. However, this detached attitude also gives her a lack of common sense; she had piloted her personal Knightmare Frame just for the sake of capturing Lelouch’s hat to gain extra club budgets, disregarding the fact that she was piloting her Mordred in a non-combat area and had aroused the suspicion of the Knight Police, as well as forgetting the fact that she is to be a couple with Lelouch if she gets his hat.",
+      "genero": "Female",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 26
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 117408,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 復活のルルーシュ ピクチャードラマ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 48473,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Arthur",
+        "native": "アーサー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b48473-quqpuft4hD6K.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b48473-quqpuft4hD6K.png"
+      },
+      "descripcion": "A stray cat which Third Princess Euphemia befriends after she arrives in Area 11. Arthur is later chased throughout the school grounds by the entire student body after wandering into the Lamperouge residence and escaping with Lelouch's Zero mask. The student council adopts him and builds a cat house in the council room. A running gag in the series involves Arthur constantly taking a bite at Suzaku's hand or leg. Despite this typically one-sided relationship, Suzaku takes the feline along with him to Britannia, where Arthur takes a liking to Knights of the Round member Anya Alstreim. When Suzaku returns to Ashford Academy in the second season, he brings Arthur back with him.    ~!In the series finale, Arthur is shown watching over Suzaku's grave in the middle of the night. Arthur is last seen in Ohgi and Viletta's wedding picture on Anya's head. !~ (Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        }
+      ]
+    },
+    {
+      "id": 53361,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Atsushi Sawasaki",
+        "native": "澤崎 敦"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b53361-NxVRgo2eabE4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b53361-NxVRgo2eabE4.png"
+      },
+      "descripcion": "The former Japanese chief cabinet minister of the Japan's administration, led by Prime Minister Genbu Kururugi, before Britannia's invasion.   ~!He fled to chinese federation after the war. After the civil unrest caused by Zero, he announces the resurrection of Japan from Fukuda Base, Kyushu. However, Suzaku Kururugi's Lancelot and Zero's Gawain manage to take the Base and capture the minister while he tries to flee away back to the Chinese Federation. He is last seen taken in custody with other former members of the Japanese Government by the Brittanian forces.!~  Source: CodeGeass Wiki",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 49047,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ayame Futaba",
+        "native": "双葉綾芽"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/49047.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/49047.jpg"
+      },
+      "descripcion": "Ayame Futaba is one of the new volunteer members of the Black Knights introduced in the second season. She serves aboard the Ikaruga and appears to run its defensive systems. She wears her hair as a pair of purple mid-length curls.      ~!She is seen comforting Tamaki in a hospital after he is defeated by Suzaku in his Lancelot Albion. She refers to him as senpai.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 51677,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bartley Asprius",
+        "native": "バトレー・アスプリウス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51677-VSueFFzTXFbD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b51677-VSueFFzTXFbD.png"
+      },
+      "descripcion": "Bartley Asprius is a large and balding Britannian general who commands the Code R research team.    ~!After the assassination of Clovis, he is stripped of his rank by Jeremiah and sent back to Britannia as a prisoner. He subsequently returns to the military under the command of Prince Schneizel. He oversees Jeremiah Gottwald's transformation into a cyborg and tries in vain to stop Jeremiah when he wakes up prematurely. After V.V. recruits Jeremiah, Bartley is ordered by the Emperor to help finish Jeremiah's modifications, which he does not seem happy about. After completing his task, he expresses the desire to leave, knowing that the Emperor's plans could mean the end of the world. During the Black Knights assault on the Geass Directorate stronghold, Bartley is killed in the attack. Before his demise he sees C.C. and laments to the deceased Prince Clovis that they should never have captured her. !~ (Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        }
+      ]
+    },
+    {
+      "id": 16132,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bismarck Waldstein",
+        "native": "ビスマルク・ヴァルトシュタイン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/16132.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16132.jpg"
+      },
+      "descripcion": "A one-eyed man who presently bears the title of the Knight of One, the strongest amongst the Rounds. He pilots the Knightmare Frame Galahad. Despite his status and combat abilities, he believes that war should be used as a last resort, and also sees strength without restraint as needless violence.   During the second battle of Tokyo, Bismarck leads the Britannian forces guarding the shore against Li Xingke's invasion force. Li and Bismarck battle, with Li unable to defeat him. Bismarck compliments Li's skill when he purposefully takes a hit to move into position to rescue the Chinese command vessel. During Schneizel's attempted coup d'état of Emperor Charles, he intervenes to stop Suzaku's assassination attempt on the Emperor. Suzaku's \"live\" command urges him to flee, indicating that Waldstein is extremely dangerous. Following the death of the Emperor and Lelouch's ascension to the throne, Bismarck leads three of the remaining Rounds' members and a squadron of Knightmares in an attempt to remove Lelouch from power, but they are decimated by Suzaku in the Lancelot Albion. Bismarck attempts to use his Geass, which allows him to see a few seconds into the future, to even the odds, claiming that the only person he ever had to use it on was Marianne. Suzaku's \"live\" command allows him to achieve victory despite Bismarck's Geass, slicing the Galahad in half. Bismarck dies gasping Marianne's name.   (Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 126830,
+          "title": {
+            "romaji": "Code Geass: Dakkan no Rozé",
+            "english": "Code Geass: Rozé of the Recapture",
+            "native": "コードギアス 奪還のロゼ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 53363,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Carales",
+        "native": "カラレス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b53363-2MAaCDIfSKHJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b53363-2MAaCDIfSKHJ.png"
+      },
+      "descripcion": "Carales was the viceroy of Area 11. He ruled the Tokyo Settlement with an iron fist before his death.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 38902,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Carline le Britannia",
+        "native": "カリーヌ・レ・ブリタニア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/38902.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/38902.jpg"
+      },
+      "descripcion": "Carline le Britannia (カリーヌ・レ・ブリタニア, Karīnu re Buritania) is the Fifth Princess of the Britannian Imperial Family and the same age as Nunnally. Her personality is the exact opposite of Nunnally&#039;s, deriving pleasure from war and violence. She appears to dislike Nunnally for her pacifist stance even though Odysseus asks her to be nice with her.      ~!She is in the Royal Court after the one month time skip, where, under the influence of Lelouch&#039;s Geass, she accepts him as the new emperor. She is then employed as a maid, along with her elder sister Guinevere, the only other known living Britannian Princess not acommpanying Schneizel. Her fate after the destruction of Pendragon is unclear.!~    Source: CodeGeass Wiki",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5610,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Charles zi Britannia",
+        "native": "シャルル・ジ・ブリタニア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5610-TuH7RZiCqQBd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5610-TuH7RZiCqQBd.png"
+      },
+      "descripcion": "**Height:** 197 cm (6'6\")\n\nThe ominous ruler of the Holy Britannian Empire. A severe Social Darwinist who actively perpetuates inequality throughout his empire, forcing all living beings into conflict in order to create the strongest possible society; this outlook on the universal order extends to his children, his wife and pretty much everybody the Emperor has ever met or interacted with.  Disappointed in Lelouch's behaviour after the death of Marianne, he sends his son and daughter to Japan as political bargaining chips just prior to the invasion. It is these actions - the outcasting of the handicapped Nunnally and the subsequent invasion drives Lelouch to eventually rise up in rebellion against Britannia; his ultimate goal being to overthrow the Emperor and the institutions he has created.  The Emperor is also a mysterious figure. He has strange motivations of potentially epic scope involving C.C. and her people. Inklings of his greater machinations have been shown, but their full extent has not yet been revealed. However, they are nothing if not vastly Machiavellian, surrounding all manner of movements throughout the Britannian Empire, and standing poised to engulf it and even the entire world.",
+      "genero": "Male",
+      "edad": "62-63",
+      "fecha_nacimiento": {
+        "year": 1955,
+        "month": 8,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 17277,
+          "title": {
+            "romaji": "Code Geass: Soubou no Oz Picture Drama",
+            "english": "Code Geass: Oz the Reflection Picture Drama",
+            "native": "コードギアス 双貌のオズ ピクチャードマラ"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101811,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+            "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+            "native": "コードギアス 反逆のルルーシュⅠ 興道"
+          }
+        },
+        {
+          "id": 101812,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+            "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+            "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+          }
+        },
+        {
+          "id": 101813,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch III - Oudou",
+            "english": "Code Geass: Lelouch of the Rebellion III - Glorification",
+            "native": "コードギアス 反逆のルルーシュⅢ 皇道"
+          }
+        },
+        {
+          "id": 126830,
+          "title": {
+            "romaji": "Code Geass: Dakkan no Rozé",
+            "english": "Code Geass: Rozé of the Recapture",
+            "native": "コードギアス 奪還のロゼ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1128,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Clovis la Britannia",
+        "native": "クロヴィス・ラ・ブリタニア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1128-RudkRo8wmn6a.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1128-RudkRo8wmn6a.png"
+      },
+      "descripcion": "Clovis la Britannia is the Third Prince of the Britannian Imperial Family and former Viceroy of Area 11. He is timid and narcissistic, as well as unaccustomed to failure. He and Lelouch would often play chess during their childhood; despite consistently losing, Clovis viewed Lelouch as a friendly rival, and his fond memories of the time spent at the Imperial Villa led him to model the garden on top of the government complex after it. He is a talented artist and designer, having planned the whole Clovis Amusement Park and left a large amount of artwork behind.",
+      "genero": "Male",
+      "edad": "24",
+      "fecha_nacimiento": {
+        "year": 1993,
+        "month": 10,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 797,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cornelia li Britannia",
+        "native": "コーネリア・リ・ブリタニア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b797-lrtrQEESbWVa.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b797-lrtrQEESbWVa.jpg"
+      },
+      "descripcion": "Cornelia is the second princess of the Britannia Imperial Family and, as such, [Lelouch](https://anilist.co/character/417/Lamperouge-Lelouch)'s half-sister. She is extremely skilled in Knightmare Frame combat and completed the establishment of Area 18 shortly before arriving in Area 11. Cornelia is the Chief General of the Imperial Army. ​She pilots a customized Gloucester Knightmare Frame and has her own circle of devoted officers.\n\nAs a child, she appeared to have doted upon her younger sister [Euphemia](https://anilist.co/character/1114/li-Britannia-Euphemia); as a result, Euphemia is Cornelia's only known weak spot.",
+      "genero": "Female",
+      "edad": "27-28",
+      "fecha_nacimiento": {
+        "year": 1990,
+        "month": 1,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 1953,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101811,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+            "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+            "native": "コードギアス 反逆のルルーシュⅠ 興道"
+          }
+        },
+        {
+          "id": 101812,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+            "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+            "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+          }
+        },
+        {
+          "id": 101813,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch III - Oudou",
+            "english": "Code Geass: Lelouch of the Rebellion III - Glorification",
+            "native": "コードギアス 反逆のルルーシュⅢ 皇道"
+          }
+        },
+        {
+          "id": 126830,
+          "title": {
+            "romaji": "Code Geass: Dakkan no Rozé",
+            "english": "Code Geass: Rozé of the Recapture",
+            "native": "コードギアス 奪還のロゼ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1131,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cécile Croomy",
+        "native": "セシル・クルーミー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1131-8B8jxeFXEzld.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1131-8B8jxeFXEzld.jpg"
+      },
+      "descripcion": "Cécile Croomy is one of the Lancelot's developers and Lloyd's assistant. Cécile is a kind-hearted woman and a good friend to Suzaku, often helping him with homework. She also acts as Lloyd's conscience, not hesitating to scold him or physically punish him for his unintentionally rude remarks. Cécile is a capable Knightmare Frame pilot, managing to single-handedly hold the entire contingent of Black Knights sent to occupy Ashford Academy during the Black Rebellion at bay using a Sutherland modified with equipment from the Lancelot. Prior to joining Lloyd in the military, she studied at the Imperial Colchester Institute. A recurring joke is that Cécile is a bad cook, which no one has the heart to tell her: her recipes includes onigiri mixed with blueberry jam and sandwiches made with ginger, sugar, and wasabi.",
+      "genero": "Female",
+      "edad": "24",
+      "fecha_nacimiento": {
+        "year": 1993,
+        "month": 9,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 1953,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101811,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+            "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+            "native": "コードギアス 反逆のルルーシュⅠ 興道"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1126,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Diethard Ried",
+        "native": "ディートハルト・リート"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1126-7sR8ZeQoJT30.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1126-7sR8ZeQoJT30.png"
+      },
+      "descripcion": "A member of the Press Bureau Staff of Hi-TV. He is a graduate of the Imperial Britannia Central University's Faculty of Law. He seems to be quite interested in [Zero](https://anilist.co/character/417/Lamperouge-Lelouch), and the way he manipulates the media for his ends. He later joins the Order after getting demoted for allowing Zero to broadcast his message introducing the Order of the Black Knights.\n\nIn the very first episode it is shown that he also harbors contempt for the royal family of Britannia and the bootlickers that surround them.   ",
+      "genero": "Male",
+      "edad": "31-32",
+      "fecha_nacimiento": {
+        "year": 1986,
+        "month": 2,
+        "day": 16
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 101811,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+            "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+            "native": "コードギアス 反逆のルルーシュⅠ 興道"
+          }
+        },
+        {
+          "id": 101812,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+            "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+            "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+          }
+        },
+        {
+          "id": 126169,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch DVD Magazine",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ DVDマガジン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 22575,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dorothea Ernst",
+        "native": "ドロテア・エルンスト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/22575.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/22575.jpg"
+      },
+      "descripcion": "Dorothea Ernst is the Knight of Four. She is a dark-skinned, dark-haired woman who is described as being as heroic as Bismarck. She joins Bismark and the other Rounds members against Lelouch, but is the first killed by Suzaku in the Lancelot Albion. She is never shown with a custom Knightmare, being killed while piloting a Sutherland.    (Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 49161,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gao Hai",
+        "native": "高亥"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/49161.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/49161.jpg"
+      },
+      "descripcion": "Nationality:\tChinese  Occupation(s):\tPolitician  Affiliation(s):\t  Chinese Union\t - Eunuch  Hair:\tBald  Eyes:\tBlack  Skin tone:\tPale White    Gao Hai is the first Eunuch introduced in the second season, he was sent to Area 11 as the Federation consul.      ~!Under the influence of Geass he allows the Black Knights within the grounds of the Federation&#039;s consulate. As a eunuch, he has a very high pitched and squeaky voice, and he likes to give orders to others. When he says they should abandon the Empress because Zero is more important, Li Xingke executes him on the spot.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 48501,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Genbu Kururugi",
+        "native": "枢木 ゲンブ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b48501-HUvwGe6H0Yf4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b48501-HUvwGe6H0Yf4.png"
+      },
+      "descripcion": "Genbu Kururugi (枢木 ゲンブ Kururugi Genbu) is Suzaku's late father, the last Prime Minister of Japan, and host for both Lelouch and Nunnally Lamperouge during their exile as political hostages seven years prior to the start of the series. When Britannia began its invasion of Japan, Genbu refused to surrender, preferring unending resistance against Britannia.    ~!In an argument over whether to stop the war against Britannia he was murdered by his own son, Suzaku. In the immediate aftermath of the incident, the truth behind Genbu's death was covered up by his associates, who are later known as the Kyoto Group, and reported as seppuku, noble suicide.!~  In Suzaku of the Counterattack,  ~!Genbu is secretly working with Britannia to undermine Japan's leadership. Suzaku overhears his conversation with the Emperor and is forced to kill Genbu. !~  In the Nightmare of Nunnally  ~!he decides to kill both Lelouch and Nunnally but before he can C.C. kills him with Suzaku witnessing the act.!~ (Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1112,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gilbert G.P. Guilford",
+        "native": "ギルバート・G・P・ギルフォード"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1112-kCDPfIOi4jij.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1112-kCDPfIOi4jij.png"
+      },
+      "descripcion": "Gilbert G.P. Guilford is a slender, dark-haired, bespectacled man who was once known as the 'Spearhead of the Empire'. He is confidante and personal knight to the Second Princess Cornelia, and commands her Glaston Knights. Though he initially pilots a Gloucester, he switches to the more advanced Vincent model in the second season. He informs Jeremiah Gottwald of his demotion shortly after his arrival, and helps to end the Black Rebellion with the help of the Glaston Knights. Following Cornelia's disappearance during the rebellion, he remains in Area 11, dutifully awaiting her return. After Viceroy Carares is killed in the second season, Guilford serves as a temporary replacement prior to Nunnally taking over the position.",
+      "genero": "Male",
+      "edad": "27-28",
+      "fecha_nacimiento": {
+        "year": 1989,
+        "month": 10,
+        "day": 19
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 1953,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 126830,
+          "title": {
+            "romaji": "Code Geass: Dakkan no Rozé",
+            "english": "Code Geass: Rozé of the Recapture",
+            "native": "コードギアス 奪還のロゼ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11474,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gino Weinberg",
+        "native": "ジノ・ヴァインベルグ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/11474.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/11474.jpg"
+      },
+      "descripcion": "Gino Weinberg is the Knight of Three, a seventeen-year-old ace pilot of noble descent. Gino comes from a very rich upbringing, and as such doesn't quite understand how the real world works. However, his cheerfulness and friendly demeanor earn him many friends. He takes an immediate liking to Suzaku upon his appointment to the Knights of Rounds. He pilots the transformable Knightmare Frame Tristan.  Gino is impressed when Kallen defeats both him and Anya in her upgraded Guren Flight-Enabled Version, remarking that her skill is on the level of a member of the Knights of Rounds. He also expresses disappointment at not getting a rematch when she is captured by Li Xingke. He enrolls in Ashford Academy with Anya to learn what it's like to live as a regular person.  During Kallen's imprisonment in Tokyo, Gino visits her and asks if she has any intention coming back to Brittannia under the name of Stadtfeld. The attack on the settlement interrupts their conversation, but he gets his answer when she is set free and joins the battle. She confirms for him that she has chosen the name of Kōzuki, and when asked whether them meeting on the battlefied is a reason to be happy or sad, he claims that they should enjoy it. He then asks Suzaku to let him deal with Kallen himself, but Suzaku insists that she would not let him off so easily and stays to fight her.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 126830,
+          "title": {
+            "romaji": "Code Geass: Dakkan no Rozé",
+            "english": "Code Geass: Rozé of the Recapture",
+            "native": "コードギアス 奪還のロゼ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 27138,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Guinevere su Britannia",
+        "native": "ギネヴィア・ス・ブリタニア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/27138.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/27138.jpg"
+      },
+      "descripcion": "Guinevere su Britannia (ギネヴィア・ス・ブリタニア, Ginevia su Britannia) is the First Princess of the Holy Britannian Empire. She likes to spend her wealth on extravagant monuments and buildings. She has a tattoo above her left breast. Guinevere feels that the Chinese Federation should be punished for embarrassing her brother Odysseus. After the one month time skip she is seen in the royal court. She is shocked to see that her brother Lelouch is still alive, but she is horrified when he states that he killed their father, and she orders the guards to seize him. After Suzaku thwarts this attack, Lelouch uses his Geass to compel everyone in the Royal Court to accept him as the new emperor. She is then employed as a maid along with much of the imperial line.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 52049,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hong Gu",
+        "native": "洪古"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/52049.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/52049.jpg"
+      },
+      "descripcion": "Hong Gu (洪古, Hon Gu) is a military official who serves the High Eunuchs, but is aligned with Xingke&#039;s faction. He pilots a Gun-Ru.    ~!After Li Xingke&#039;s faction joins The Black Knights, he takes up the position of the 2nd Division Commander. He is last seen with Empress Tianzi and Zhou Xianglin in Ohgi and Viletta&#039;s wedding photo.!~  Source: CodeGeass Wiki",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 49165,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ichijiku Hinata",
+        "native": "日向いちじく"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/49165.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/49165.jpg"
+      },
+      "descripcion": "Ichijiku Hinata is one of the new volunteer members of the Black Knights introduced in the second season. She serves aboard the Ikaruga as the radar operator. She wears her hair in a ponytail.      ~!She is unaware of Ohgi lying to all the Black Knights that Zero is dead along with the other Ikaruga Operators.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1113,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jeremiah Gottwald",
+        "native": "ジェレミア・ゴットバルト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1113-HxXUV4z4jhvZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1113-HxXUV4z4jhvZ.png"
+      },
+      "descripcion": "An elite Knightmare Frame pilot and a Purist, who is deeply concerned with the Purists' supremacy - enough to use Suzaku as a scapegoat for both avenging Clovis' death and reinforcing the Purists' superiority in Area 11. Initially, he held the rank of Margrave in Area 11's military hierarchy. After Clovis' murder, Jeremiah takes upon the role of Area 11's Acting-Consul, but upon the Zero fiasco, Jeremiah falls into disgrace (due to his incomprehensible actions caused by Lelouch's geass), is targeted for termination by his fellow Purist officers, demoted to the rank of a mere Knightmare Frame pilot and referred mockingly as Orange or Orange-Kun by both his superiors and his fellow knightmare pilots.    ~!In the second season he came back as a machine-like man having the ability to use Geass Canceller. At the end of episode 13 it is seen that he joins Zero's side after revealing that on the day Empress Marianne was killed, he attempted to rescue her but failed. He came back as a member of the Knightmare Frame pilot to atone for his inability to rescue her. !~",
+      "genero": "Male",
+      "edad": "28-29",
+      "fecha_nacimiento": {
+        "year": 1989,
+        "month": 8,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 1953,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101811,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+            "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+            "native": "コードギアス 反逆のルルーシュⅠ 興道"
+          }
+        },
+        {
+          "id": 101813,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch III - Oudou",
+            "english": "Code Geass: Lelouch of the Rebellion III - Glorification",
+            "native": "コードギアス 反逆のルルーシュⅢ 皇道"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1865,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaguya Sumeragi",
+        "native": "皇神楽耶"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/1865-14xoLeBKilHb.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/1865-14xoLeBKilHb.jpg"
+      },
+      "descripcion": "__Height:__ 165 cm (5'5\")\n\nKaguya Sumeragi is the young head mistress of the Kyōto House, and a supporter of the Black Knights. She is the representative of Sumeragi Concern, a large conglomerate founded by the Sumeragi House.   Despite her age and physique, she possesses a strong will and is highly influential amongst the Houses. Kaguya has admired Zero since his debut, and wishes to have his hand in marriage. Nothing anyone says contrary to this desire seems to faze her, including the suggestion that Zero might be sleeping with other women, to which she responds \"A true hero enjoys physical pleasures,\" and proceeds to suggest that she, Kallen, and C.C. are Zero's harem.   Kaguya met Lelouch and Nunnally during their childhood at the Kururugi Shrine, and is Suzaku's cousin. She is the only living member of the Kyōto House following the Black Rebellion, having managed to escape to the Chinese Federation until Zero's return one year later. With the execution of Kirihara and the other members of Kyōto House, Kaguya states that she and Suzaku are the only remaining members left of the six clans of Kyōto.   With the formation of the United Federation of Nations, she is made the Supreme Council Chairwoman and the representative of the United State of Japan.   She is named after Kaguya, the main character of what is considered to be the oldest Japanese folktale.",
+      "genero": "Female",
+      "edad": "14-15",
+      "fecha_nacimiento": {
+        "year": 2003,
+        "month": 8,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101812,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+            "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+            "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+          }
+        },
+        {
+          "id": 117408,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 復活のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 126830,
+          "title": {
+            "romaji": "Code Geass: Dakkan no Rozé",
+            "english": "Code Geass: Rozé of the Recapture",
+            "native": "コードギアス 奪還のロゼ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 48471,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kallen no Haha",
+        "native": "カレンの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/48471.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/48471.jpg"
+      },
+      "descripcion": "She&#039;s a Japanese woman who works as a maid in the house of Kallen&#039;s father to be close to her daughter.     ~! She&#039;s addicted to a drug called Refrain, which makes it feel like you are in the past, when Japan had not yet been taken over by Britannia. When Kallen sees it thus, and notes that she became a maid to, somehow, take care of her, she now regards her mother one more reason to fight.    In the end, when the world finally becomes a place of peace, it ceases to be employed and one is living with Kallen in a small house.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 112900,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama - Kiseki no Anniversary",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ キセキのアニバーサリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 51169,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kallen's Stepmother",
+        "native": "正妻"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/51169.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/51169.jpg"
+      },
+      "descripcion": "Kallen&#039;s Stepmother is the legal wife of Kallen Kozuki&#039;s biological father, Mr. Stadtfeld.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1115,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaname Oogi",
+        "native": "扇要"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1115-0g7vZJssfj6x.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1115-0g7vZJssfj6x.png"
+      },
+      "descripcion": "The former leader of the Resistance, later one of the members of the Order of the Black Knights, he asked Zero to become their leader. He was friends with Kallen's older brother, Naoto.",
+      "genero": "Male",
+      "edad": "26-27",
+      "fecha_nacimiento": {
+        "year": 1992,
+        "month": 3,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101811,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+            "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+            "native": "コードギアス 反逆のルルーシュⅠ 興道"
+          }
+        },
+        {
+          "id": 101812,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+            "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+            "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+          }
+        },
+        {
+          "id": 126169,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch DVD Magazine",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ DVDマガジン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14124,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kanon Maldini",
+        "native": "カノン・マルディーニ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/14124.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/14124.jpg"
+      },
+      "descripcion": "Kanon Maldini is a subordinate of Schneizel el Britannia, serving as a political and military adviser. While celebrating Tianzi's marriage to Prince Odysseus, he makes a joke to Milly Ashford about being Schneizel's assistant in both public and private matters, only to wave it off shortly thereafter. Kanon follows Suzaku to the Kururugi Temple in order to investigate and capture Zero; while there, he obtains conclusive evidence not only of the masked terrorist's identity, but also of the existence of Geass. This evidence proves essential in convincing the leaders of the Black Knights to betray Zero. When Schneizel decides to stage a coup d'état, Kanon notes that he's finally made the decision, but seems apprehensive about it.",
+      "genero": "Male",
+      "edad": "28",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        }
+      ]
+    },
+    {
+      "id": 37354,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kento Sugiyama",
+        "native": "杉山賢人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b37354-7dlw5HqXr6pE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b37354-7dlw5HqXr6pE.png"
+      },
+      "descripcion": "Kento Sugiyama is a male with dark-greenish hair. He shares the same surname as his seiyū. After the formation of the U.F.N., he is given the position of Special Division Captain. He appears to be a good cook, as Lelouch has him make a pizza for C.C. He is last seen in Tamaki&#039;s bistro with a guitar resting next to his chair.    (Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1132,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kewell Soresi",
+        "native": "キューエル・ソレーシー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1132-Wfy1XGF6msjj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1132-Wfy1XGF6msjj.png"
+      },
+      "descripcion": "One of the members of the Imperial Army. He belongs to the Purist faction in the military and stood by Jeremiah's side in scapegoating Suzaku Kururugi. After the first appearance of Zero and Jeremiah's incomprehensible actions that lead to the escape of the terrorists with Suzaku, he led the rest of the Purist officers in an unsuccessful attempt at killing Jeremiah. He finally meets his end at the hand of the Guren Mark II piloted by Kallen when his knightmare's ejection seat fails him.   (Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14594,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kosetsu Urabe",
+        "native": "卜部巧雪"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14594-XojTIyIEK5hy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14594-XojTIyIEK5hy.png"
+      },
+      "descripcion": "Kōsetsu Urabe is a blue-haired male member of the Four Holy Swords.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1118,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kusakabe",
+        "native": "草壁"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1118-ha7Tx5WpFcCh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1118-ha7Tx5WpFcCh.png"
+      },
+      "descripcion": "Former lieutenant general and a comrade of Tohdoh. Seeking to draw attention to the fight the Nippon Kaihō Sensen is attempting against Britannia, he took several Britannian citizens and students hostages at the Lake Kawaguchi Convention Center Hotel, while meeting Zero and Tōdō's strong disapproval as a result.   (Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1119,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kyoushiro Toudou",
+        "native": "藤堂鏡志朗"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/1119.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/1119.jpg"
+      },
+      "descripcion": "Kyoshiro Toudou is the head of the Black Knights&#039; military operations, and an extremely talented fighter in his own right. He earned the nickname Toudou of Miracles for his singular defeat of the otherwise unstoppable Holy Britannian Empire during the invasion of Japan, remarkably managing this feat without the use of Knightmare Frames. This event would later be known as the Miracle of Itsukushima. He was a childhood instructor to Suzaku Kururugi, and is one of the few Japanese people who understands his ideals. Toudou is often seen bearing a katana at his side. He is initially a member of the Japan Liberation Front, and resigns himself to death when the organization is wiped out, but Zero convinces him to join the Black Knights in order to fulfill the promise of victory created by the Miracle of Itsukushima. Like Kaname, he remains faithful to Zero following his capture during the Black Rebellion, reasoning that Zero must have had a good reason not to inform his troops about his plans. He later leads Black Knight forces in liberation operations throughout the Chinese Federation and the Middle East before being named Chief of Staff of the newly reorganized Black Knights which serve as the national army of the UFN.",
+      "genero": "Male",
+      "edad": "37-38",
+      "fecha_nacimiento": {
+        "year": 1980,
+        "month": 1,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101812,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+            "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+            "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+          }
+        },
+        {
+          "id": 126169,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch DVD Magazine",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ DVDマガジン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1130,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lloyd Asplund",
+        "native": "ロイド・アスプルンド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1130-0yBifno91R4e.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1130-0yBifno91R4e.png"
+      },
+      "descripcion": "Lloyd Asplund is an earl of the Britannian nobility and the developer of the elite Knightmare Frame Lancelot. To keep from being reminded of the fragility of human lives and friendship, Lloyd immerses himself in science and has come to view people as nothing more than tools — he regards Suzaku, for example, as a mere component of the machine that he pilots. He has a tendency to mock others and is often rebuked for this behavior by Cécile Croomy, his assistant. Prior to joining the military, he attended the Imperial Colchester Institute. Lloyd's research organization, Camelot is an irregular division of the Britannian Military and has been granted permission by Prince Schneizel to operate outside the command structure and regulations of the regular Britannian armed forces.  Rakshata refers to Lloyd as the Earl of Pudding, as pudding is his favorite food. ~! He is engaged to wed Milly Ashford in the first season, having agreed to the union mostly in hope that he might obtain the designs of the Knightmare Frame Ganymede. As such, he is forced into doing nice things for her by Suzaku, though Milly breaks off the engagement after she graduates.!~",
+      "genero": "Male",
+      "edad": "29-30",
+      "fecha_nacimiento": {
+        "year": 1988,
+        "month": 2,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 1953,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101811,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+            "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+            "native": "コードギアス 反逆のルルーシュⅠ 興道"
+          }
+        }
+      ]
+    },
+    {
+      "id": 16049,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Luciano Bradley",
+        "native": "ルキアーノ・ブラッドリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/16049.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16049.jpg"
+      },
+      "descripcion": "Luciano Bradley, also known as \"Vampire of Britannia\", is the Knight of Ten. A violent and confrontational man, he is fond of provoking others and attacking without provocation; several of the Knights of Rounds appear to dislike him. He shows little care for the lives he ends, be they friend or foe, as long as he can cause destruction. In fact, he fights battles specifically because it allows him to freely kill people in public. He claims to be a \"homicide genius\", and carries a number of large knives which he is adept at throwing. He is fiercely loyal to the Empire, but does as he pleases most of the time, even around members of the Imperial family. He pilots the Knightmare Frame Percival.  Luciano commands a unit of personal bodyguards known as the Grausam Valkyrie Squadron, a quartet of young women between the age of 15 and 25 who pilot two-tone pink Vincents. Two of their members are Liliana Vergamon and Marika Soresi, sister of Kewell Soresi. Prior to their appointment to the Valkyrie Squadron, they served under Princess Cornelia.  Luciano first appears shortly before the formation of the UFN; he throws a knife at Suzaku and then insults Euphemia. He later walks in on a conversation between Nunnally and Kallen, telling Kallen that she is to be used as a hostage, and threatens to harm her because her body is expendable so long as she is alive. Gino intervenes, and Luciano insults him by suggesting that his nobility is what allowed him to reach his position. During the second battle of Tokyo, Luciano destroys a number of the Black Knights' Knightmares and nearly kills Lelouch in tandem with the Grausam Valkyrie Squadron. All four Valkyrie pilots are subsequently killed by Kallen, followed by Luciano himself.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 19
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1298,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mao",
+        "native": "マオ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1298-289nFDvHwEck.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1298-289nFDvHwEck.png"
+      },
+      "descripcion": "A young Chinese man who is also given the power of Geass, at the age of 6 by C.C. His Geass power differs from Lelouch's in that he has the ability to read the mind of other people without direct eye contact. Mao is mentally unstable and wears headphones that repeatedly play recorded words of encouragement and gratitude from C.C. during his younger days, who he pursues to see again.",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1129,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Marianne vi Britannia",
+        "native": "マリアンヌ・ヴィ・ブリタニア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/1129.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/1129.jpg"
+      },
+      "descripcion": "__Nationality:__ Britannian\n\nMarianne Vi Britannia was the 5th wife of the Emperor of Britannia and the mother of Lelouch and Nunnally. The surname Lamperouge presently assumed by Lelouch was her maiden name. Her commoner status by birth caused her to earn the jealousy of other imperial wives and nobles, which Lelouch suspects had resulted in her murder. Lelouch's investigation revealed, however, that several members of the Imperial House not related to her by blood respected and admired Empress Marianne, such as Clovis, Euphemia, especially Cornelia, who idolized her and put a lot of fruitless effort into investigating the assassination.  It is hinted that her supporters were the Ashford family, which explains why their social statuses were ruined after her death and why they consented to protect Lelouch and Nunnally. She had also piloted one of the earliest Knightmare Frames, the Ganymede, which was developed by the Ashford family and is well known for her superior Knightmare Frame piloting skills, hence the nickname, \"Marianne the Flash\". In episode 23, it is revealed that C.C has apparently been talking to Marianne herself, via an unknown method. In episode 7 of R2, C.C. was talking with Marianne again.  At the end of season one, ~!Lelouch, by questioning Cornelia, discovers that Marianne had ordered Cornelia to shut down the security on the day of her attack, implying that she knew about the attack beforehand.  She is known to have shielded Nunnally during the attack that took her life, however, Nunnally's legs were disabled and she lost her sight. It is also to be noted that her death greatly affected and changes the life of Lelouch, who went on a great length to avenge her death and formed the resolution to create a new world where Nunnally can live in peace.  Because of her death, little is known about Marianne as a person; the side materials paint her as a sweet, kind-hearted woman, albeit one with a rebellious spirit and a deep protective instinct towards her children. Lelouch himself alludes to two such instances, one where she rode a horse into the palace's great hall, and another where she picked a fight with several of the Emperor's other wives all at once. In a flashback from one of the novels, she uses the Ganymede to intimidate a fellow consort who had been cruelly harassing Lelouch and Nunnally - all while maintaining a cheery, motherly disposition with a warm smile on her face. Marianne's conversations with C.C., one-sided in the anime but scripted out by the staff (and actually revealed in the Nintendo DS game), show that she has a playful side, often teasing C.C. when the immortal girl tries to deny any sort of attachment to Lelouch.!~",
+      "genero": "Female",
+      "edad": "30",
+      "fecha_nacimiento": {
+        "year": 1980,
+        "month": 11,
+        "day": 22
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 9591,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 FLASH Flash - Kaette Kita BABA Gekijou",
+            "english": "Code Geass: Lelouch of the Rebellion R2: Flash Specials",
+            "native": "コードギアス 反逆のルルーシュ おまけFLASH「帰ってきたBABA劇場」"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 22313,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Marika Soresi",
+        "native": "マリーカ・ソレーシー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/22313.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/22313.jpg"
+      },
+      "descripcion": "Aside from Liliana Vergamon, the only other named member of Luciano Bradley&#039;s Grausam Valkyrie Squadron, a quartet of all female pilots.  Younger sister of Kewell Soresi.     ~!In the novels, she is stated to be attending a military academy in Area 11 during 2017. Prior to her joining the Valkyrie Squadron, she also served under Cornelia along with Liliana. In 2018, she became one of the Grausam Valkyrie Squadron pilots under Luciano Bradley&#039;s command; she and the other Valkyries are killed by Kallen after she escapes her confinement. Marika dies saying her brother&#039;s name.!~     Sources: Wikipedia, Danbooru and CodeGeass Wiki",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 15437,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Miya Hillmick",
+        "native": "ミーヤ・I・ヒルミック"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/15437.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15437.jpg"
+      },
+      "descripcion": "Miya makes her appearance in Code Geass R2 episode 12. She first finds Lelouch in the library during Milly's event \"Cupid's Day\", and claims him as her own.    ~!Unfortunately she is geassed, and is later seen in Ougi and Viletta's wedding photo in the final episode.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 15017,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Monica Kruszewski",
+        "native": "モニカ・クルシェフスキー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/15017.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15017.jpg"
+      },
+      "descripcion": "Monica Kruszewski is the Knight of Twelve; she is a gentle-looking woman with blonde hair whose appearance masks just how dangerous she can be. She is stationed aboard the Emperor's flagship, Great Britannia.    ~!During the attack on Kaminejima, the Emperor leaves her to deal with Schneizel and the Black Knights. She is killed by Suzaku during the attempt to remove Lelouch from power. She dies in 4 sec, suprised by the enemy without having the time to fight. !~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 49167,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mutsuki Minase",
+        "native": "水無瀬むつき"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/49167.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/49167.jpg"
+      },
+      "descripcion": "Mutsuki Minase is one of the new volunteer members of the Black Knights introduced in the second season. She serves aboard the Ikaruga. She wears her hair straight with colored beads laced in.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1127,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nagata",
+        "native": "永田"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1127-1FFCqRX4JaES.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1127-1FFCqRX4JaES.png"
+      },
+      "descripcion": "A long-haired member of the Resistance, who drove the truck carrying the supposed poison gas (in reality C.C.), in episode one. Originally a potter before the invasion of the Britannia Empire, he lost his wife and daughter in the ensuing war. He later becomes critically injured during a chase between him and Britannia forces and pulls off a suicide bombing along with his truck.   (Source: Wikipedia)",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14592,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nagisa Chiba",
+        "native": "千葉凪沙"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14592-BbCqOoELF1Zq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14592-BbCqOoELF1Zq.png"
+      },
+      "descripcion": "Nagisa Chiba is the sole female member of the Four Holy Swords. Nagisa is a devoted follower of Tohdoh and is enamored with him. A year after the Black Rebellion, she harbors animosity towards Zero for abandoning them.",
+      "genero": "Female",
+      "edad": "29",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 33453,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Naomi Inoue",
+        "native": "井上直美"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b33453-jM1sJwru8Ahg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b33453-jM1sJwru8Ahg.png"
+      },
+      "descripcion": "Inoue is a woman with mid-length, blue hair, who was formerly a member of Naoto Kozuki&#039;s resistance team, (and the only other female besides Kallen Kozuki in the group) before joining the Black Knights. She is a commander who provides logistical support.    ~!During the Black Rebellion, she is killed when the upper-half of her Burai is destroyed.!~  (Source of first name: Japanese Wikipedia / Source of biography: CodeGeass Wiki)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 22514,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nonette Enneagram",
+        "native": "ノネット・エニアグラム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/22514.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/22514.jpg"
+      },
+      "descripcion": "Nonette Enneagram is the Knight of Nine. She attended military school with Second Princess Cornelia, who considers Nonette her senior. An upbeat and cheerful woman, she is one of the few people Cornelia actually fears. Her first and last names contain the Latin and Greek prefixes for 9, non- and ennea- respectively. She first appears in the PSP/PS2 video game, Code Geass: Lost Colors. Out of all the Knights of the Round, she is the only one who has no speaking role in the anime, and only appears twice in non-active roles.   (Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 25812,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Odysseus eu Britannia",
+        "native": "オデュッセウス・ウ・ブリタニア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/25812.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/25812.jpg"
+      },
+      "descripcion": "Odysseus eu Britannia is the First Prince of the Holy Britannian Empire. Though he is the Crown Prince and first in line to succeed the throne, his performance in many areas is quite plebeian compared to that of his younger siblings, particularly his brother, Second Prince Schneizel.  He is engaged to Tianzi, the much younger Empress of the Chinese Federation, in a marriage of political convenience orchestrated by Schneizel in order to peacefully seize the Federation&#039;s territory.  [from Wikipedia]",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1863,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rakshata Chawla",
+        "native": "ラクシャータ・チャウラー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1863-R3qPRdbXmLJ5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1863-R3qPRdbXmLJ5.png"
+      },
+      "descripcion": "**Height:** 182 cm (6'0\")\n\nRakshata Chawla is an Indian scientist and the head of the Black Knights' research and development team. She has extensive experience in medical cybernetics, and appears to have been an academy acquaintance of Lloyd Asplund and Cécile Croomy. Rakshata is not fond of speaking of the past, but it is known that she studied at the Imperial Colchester Institute. She is fairly laid back in most situations, usually seeing laying on a couch when not actively working (one is even installed on the bridge of the Black Knights' flagship, the Ikaruga), and is never seen without her tobacco pipe. She affectionately refers to her technological creations as her \"children\" and treats them as such. She is visibly enraged, a contrast to her normal demeanor, upon learning that Lloyd and Cécile modified her Knightmare without her consent (they are kind enough to credit her for the design, though). Upon the formation of the UFN and the reorganization of the Black Knights as its military force, Rakshata is designated as the Chief of Science, similar to her previous position within the Black Knights.  Rakshata is the creator of the Guren Mk-II and its radiant wave surger weapon. She also developed the Gefjun Disturber, a force field generator that disables all sakuradite-powered technology within its area of effect. This includes Knightmares, though by the second season newer models have countermeasures added to negate the Disturber's effect; only fifth-generation or older Knightmares remain vulnerable. In addition, the field blocks the motion of hadrons, radio waves, and microwaves. This renders anything within the field invisible to radar, and can aid in the blooming of hadron-based beam weaponry. It is named after the Norse goddess of chastity Gefjun.",
+      "genero": "Female",
+      "edad": "28-29",
+      "fecha_nacimiento": {
+        "year": 1989,
+        "month": 11,
+        "day": 17
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101812,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+            "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+            "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14593,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryoga Senba",
+        "native": "仙波崚河"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/14593.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/14593.jpg"
+      },
+      "descripcion": "Ryoga Senba is a rotund male member of the Four Holy Swords. He is its oldest member and a veteran soldier. He is the leader of the second squadron of the Black Knights. (Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1710,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Schneizel el Britannia",
+        "native": "シュナイゼル・エル・ブリタニア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1710-GA8qDtSsY4jN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1710-GA8qDtSsY4jN.png"
+      },
+      "descripcion": "**Height:** 200 cm (6'7\")\n\nSchneizel el Britannia is the Second Prince of the Britannian Imperial Family and the Prime Minister of the Holy Britannian Empire.",
+      "genero": "Male",
+      "edad": "27-28",
+      "fecha_nacimiento": {
+        "year": 1991,
+        "month": 1,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101812,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+            "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+            "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+          }
+        },
+        {
+          "id": 101813,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch III - Oudou",
+            "english": "Code Geass: Lelouch of the Rebellion III - Glorification",
+            "native": "コードギアス 反逆のルルーシュⅢ 皇道"
+          }
+        },
+        {
+          "id": 126830,
+          "title": {
+            "romaji": "Code Geass: Dakkan no Rozé",
+            "english": "Code Geass: Rozé of the Recapture",
+            "native": "コードギアス 奪還のロゼ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1125,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shinichirou Tamaki",
+        "native": "玉城真一郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1125-cAd8eOWmcuuo.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1125-cAd8eOWmcuuo.png"
+      },
+      "descripcion": "The hot-headed member of the Order, he was initially skeptical about Zero and his plans.",
+      "genero": "Male",
+      "edad": "24-25",
+      "fecha_nacimiento": {
+        "year": 1994,
+        "month": 3,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101811,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+            "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+            "native": "コードギアス 反逆のルルーシュⅠ 興道"
+          }
+        },
+        {
+          "id": 101812,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+            "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+            "native": "コードギアス 反逆のルルーシュⅡ 叛道"
+          }
+        },
+        {
+          "id": 126169,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch DVD Magazine",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ DVDマガジン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14591,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shougo Asahina",
+        "native": "朝比奈省悟"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14591-9xEk8Gphbtd0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14591-9xEk8Gphbtd0.png"
+      },
+      "descripcion": "Shougo Asahina is a male member of the Four Holy Swords. He wears glasses and has a distinctive scar down the right side of his face. He is the leader of the first squadron of the Black Knights. Like Chiba, he develops a distrust for Zero following the Black Rebellion, questioning his tendancy to keep secrets and bring on new members such as Rolo and Jeremiah with no discussion. During the second battle of Tokyo, he is caught in the blast radius of Nina's F.L.E.I.J.A. bomb, but not before transmitting information which he claims will prove that Zero can't be trusted.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 49045,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sophie Wood",
+        "native": "ソフィー・ウッド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b49045-mXgEcox2nIqt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b49045-mXgEcox2nIqt.png"
+      },
+      "descripcion": "Sophie is a member of the swim club and Shirley Fenette's roommate in the first season at Ashford Academy.    ~!In the third episode, The False Classmate, some girls can be heard telling Kallen that Sophie was worried about her because she was missing too many classes. And in the episode Geass vs. Geass, she is coerced into leaving her dorm room in order for Lelouch and C.C. to search it for any evidence of Shirley discovering Zero's identity. !~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1864,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Taizou Kirihara",
+        "native": "桐原泰三"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1864-mW6f0XrlLgQB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1864-mW6f0XrlLgQB.png"
+      },
+      "descripcion": "An elderly industrialist, who was most influential in the mining of the Sakuradite, and founder of the Kirihara Industries. During the years of the Kururugi Administration, he was one of its most influential people and administrators behind the scenes. After Britannia's invasion, he appeared publicly in support of its rule and the colonization of Area 11, being known publicly as a traitor, however secretly, he managed the resistance movements against Britannian rule and was leader of the Kyōto house. He had known both Nunnally and Lelouch when they first visited the Kururugi Shrine, and knows of Lelouch's identity as Zero, and has given support and assistance to him in his struggle against the Britannia Empire.  (Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 12486,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tianzi",
+        "native": "天子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/12486.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/12486.jpg"
+      },
+      "descripcion": "__Height__: 151 cm\n\nThe young empress of the Chinese Federation, thus far referred to only by the traditional title attributed to the Chinese Emperor -- Tianzi, \"the Child of Heaven\". In practice, she serves only as a \"symbol of the state and the unity of the people\", a living divinity whose sovereignty is entirely ceremonial. Actual power is held by the governmental organization known as the \"High Ministry\". Appearing in season two, she is currently in talks with Kaguya Sumeragi, before the latter returns to Area 11.",
+      "genero": "Female",
+      "edad": "13",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1808,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "V.V.",
+        "native": "ヴイ・ツー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1808-IHQQbhkvQC0o.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1808-IHQQbhkvQC0o.png"
+      },
+      "descripcion": "V.V. is the twin brother of Charles di Britannia, but looks much younger because he has gained the power of immortality like C.C. He can grant Geass contracts like her, having given both his brother and Rolo Lamperouge their Geass abilities, among others. He leads the Geass Directorate, a secret organization that studies and produces Geass users.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1117,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Villetta Nu",
+        "native": "ヴィレッタ・ヌゥ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1117-Zc6IwzGMj4Qy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1117-Zc6IwzGMj4Qy.png"
+      },
+      "descripcion": "An elite Knightmare Frame pilot and a Purist, who appears to be more collected than [Jeremiah](https://anilist.co/character/1113/Gottwald-Jeremiah) in battle. She was one of the first to have been under the power of Geass' influence and is one of the few still loyal to Jeremiah even after his fall in disgrace.\n\n~!When [Lelouch](https://anilist.co/character/417/Lamperouge-Lelouch) leaves to attack the Geass Order, Villetta goes to the Chinese Federation to confront [Ohgi](https://anilist.co/character/1115/Oogi-Kaname), intending to kill him to eliminate her links to the Elevens. She hesitates when Ohgi admits his love for her. She is captured after an altercation with [Sayoko](https://anilist.co/character/1807/Shinozaki-Sayoko), but is eventually released and leads Ougi to believe Zero cannot be trusted. She remains with the Black Knights following this. It is revealed that she is pregnant with Ohgi's child and she remains on Horai Island when the Black Knights depart to battle Lelouch. At the end of the series Villetta marries Ohgi.!~",
+      "genero": "Female",
+      "edad": "26-27",
+      "fecha_nacimiento": {
+        "year": 1991,
+        "month": 6,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 1953,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ ピクチャードラマ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        },
+        {
+          "id": 97880,
+          "title": {
+            "romaji": "Code Geass: Fukkatsu no Lelouch",
+            "english": "Code Geass: Lelouch of the Re;surrection",
+            "native": "コードギアス 復活のルルーシュ"
+          }
+        },
+        {
+          "id": 101811,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+            "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+            "native": "コードギアス 反逆のルルーシュⅠ 興道"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11166,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Xingke Li",
+        "native": "黎星刻"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11166-FLEJh0viRLwm.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b11166-FLEJh0viRLwm.png"
+      },
+      "descripcion": "Li briefly appeared in episode 23 of season one and made his full debut in the first episode of R2. Li is a member of the Chinese Federation. He possesses a sword, which he always carries with him. He is also fiercely loyal to the Empress, a trait not shared by any of his superiors. It seems that part of his goal is to reestablish the throne of China as the clear authority, as the current Empress is the head of a puppet government, with eunuchs holding actual power in the country.  Li was formerly a bodyguard for the influential eunuch Gaohai, and accompanied him when he was sent by the Federation as a consul to the Britannian colony Area 11. They arrive right as the Order of the Black Knight's operation to recover Zero began. The Black Knights succeed in their mission and Zero orders the Knights to head to the Chinese Embassy for protection. Gaohai, under the influence of Lelouch's Geass, agrees to harbor the fugitives, which troubles Li as this is not part of their mission.  He meets Karen Kōzuki and is impressed that someone of her age is the pilot of the Guren Nishiki. Later, as the Britannians wait to kill the imprisoned Black Knights, he attacks the embassy himself in an attempt to further his own plans and ideals. After the initial attack, Li holds a private conversation between himself, Karen, and C.C.. He informs them that he plans to kill Gaohai. Under threat by Li, C.C. agrees to let it look like Gaohai died when fighting with them.  Li confronts Gaohai about having recognized the United States of Japan without confirming it with higher officials in the mainland, including the Empress. When he finds out that Gaohai, who is still affected by the Geass, cares more about Zero than the Empress, Li summarily executes Gaohai for committing lèse majesté. C.C. realizes his ambitions, and that his agreement to aid the Order of the Black Knights is only in return for the Black Knights being used as a tool to aid his own plans for China.  Li is in top physical condition and is exceptionally skilled in close combat, especially with swords. He is capable of drawing his blade, striking, and sheathing it without his victims perceiving the blade being drawn or Li moving. It is also rumored that Xingke will pilot the Shen-Hu.  Li Xingke has been described as \"strong as Suzaku\", he's also been described as \"smart as Lelouch\". He is able to quickly discern that Karen Kōzuki is the pilot of the Guren Nishiki Knightmare Frame.  Li displays his intelligence when he deals with the escalating diplomatic and military situation that evolves around the Chinese Federation Consulate sheltering the Order of the Black Knights from Britannia. In addition to not provoking the Britannians to cause an international crisis or possible war, he also uses the unforeseen situation to his advantage to advance his goals and kill the eunuch Gaohai. He also seems to be able to appreciate Zero's intelligence and wit. C.C. comments that he is not only a skilled soldier, but possesses political skill.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 31
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        },
+        {
+          "id": 12685,
+          "title": {
+            "romaji": "Code Geass: Nunnally in Wonderland",
+            "english": "Code Geass: Nunnally in Wonderland",
+            "native": "コードギアス｜ナナリーinワンダーランド"
+          }
+        }
+      ]
+    },
+    {
+      "id": 51597,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yoshida",
+        "native": "吉田"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51597-iBMXSK0PoVML.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b51597-iBMXSK0PoVML.png"
+      },
+      "descripcion": "Yoshida is a male with dark-brownish hair who was formerly a member of Naoto Kozuki's resistance team before aligning himself with the Black Knights in which he is involved in the provision of logistical support. He often wears a short-sleeved version of the Black Knights uniform's jacket.    ~!During the first Assault on Tokyo Settlement, he and three others were operating a Raikō when Suzaku in the Lancelot destroyed the legs of each of the units, causing it to fall and explode, killing them. !~  (Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 51157,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yoshitaka Minami",
+        "native": "南佳高"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51157-aORTMviWBG88.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b51157-aORTMviWBG88.png"
+      },
+      "descripcion": "Yoshitaka Minami is a bespectacled male with purple hair who was a member of Naoto Kozuki&#039;s resistance team before becoming a member of the Black Knights.    ~!He became the Black Knights&#039;s first secret corps commander. In episode seven of R2, he is seen blushing when Nunnally is sworn in as Viceroy of Area 11. He is appointed as the captain of the Ikaruga following the formation of the U.F.N. He is last seen in Tamaki&#039;s bistro along with Sugiyama and Viletta. Minami was one of the few characters who escaped capture following the defeat of the UFN under Prince Schneizel and the capture of the Damocles and frees the UFN members after Lelouch&#039;s assassination.!~  Source: CodeGeass Wiki",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 18322,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zhou Xianglin",
+        "native": "周香凛"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/18322.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/18322.jpg"
+      },
+      "descripcion": "Zhou Xianglin is a female military aide to Li Xingke. When Li is otherwise engaged on the field of battle, she oversees the chain of command within his unit. She has since taken up the position of the Deputy Chief of the Black Knights.  (Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2904,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2",
+            "english": "Code Geass: Lelouch of the Rebellion R2",
+            "native": "コードギアス 反逆のルルーシュ R2"
+          }
+        },
+        {
+          "id": 5163,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "english": null,
+            "native": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1123,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Naoto Kouzuki",
+        "native": "紅月ナオト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1123-kWit4JYlHyQP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1123-kWit4JYlHyQP.png"
+      },
+      "descripcion": "Kallen's brother, Naoto was the former leader of the resistance organization and a friend of Ohgi.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1575,
+          "title": {
+            "romaji": "Code Geass: Hangyaku no Lelouch",
+            "english": "Code Geass: Lelouch of the Rebellion",
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 74,
+  "actualizado": 1788566158
+}

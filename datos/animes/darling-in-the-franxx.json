@@ -1,0 +1,810 @@
+{
+  "clave": "darling-in-the-franxx",
+  "nombre": "DARLING in the FRANXX",
+  "descripcion": "Hiro, Zero Two y los Parasites",
+  "generos": [
+    "Romance",
+    "Ciencia ficción",
+    "Acción",
+    "Drama"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99423-8MBxtwCeHf8B.png",
+  "medios": [
+    {
+      "id": 99423,
+      "title": {
+        "romaji": "Darling in the Franxx",
+        "english": "DARLING in the FRANXX",
+        "native": "ダーリン・イン・ザ・フランキス"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99423-8MBxtwCeHf8B.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99423-8MBxtwCeHf8B.png"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 124387,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Futoshi",
+        "native": "フトシ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124387-vJvVs0VT1B6r.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124387-vJvVs0VT1B6r.jpg"
+      },
+      "descripcion": "Pilots the Franxx Genista with [Kokoro](https://anilist.co/character/124386/Kokoro).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124383,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Goro",
+        "native": "ゴロー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n124383-I6ZsEBQoETj3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n124383-I6ZsEBQoETj3.jpg"
+      },
+      "descripcion": "Goro pilots the Franxx Delphinium with [Ichigo](https://anilist.co/character/124382).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124380,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Hiro",
+        "native": "ヒロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124380-ct1wJHIl9BY1.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124380-ct1wJHIl9BY1.jpg"
+      },
+      "descripcion": "__Height:__ 168 cm (5'6\")\n__Classification:__ Parasite\n__Affiliation:__ Thirteenth Plantation\n__Occupation:__ Stamen\n__Partners:__ [Zero Two](https://anilist.co/character/124381), ~! [Naomi](https://anilist.co/character/144621/Naomi) (formerly), [Ichigo](https://anilist.co/character/124382/Ichigo) (temporarily), [001](https://anilist.co/character/126290/Kyouryuu-no-Hime) (temporarily), [9'α](https://anilist.co/character/161730/9-Alpha) (temporarily) !~\n__FRANXX:__ Strelizia, Delphinium (temporarily), ~! 9 Model (temporarily) !~\n\nHiro was known as a prodigy Parasite with the codename \"016\" of Thirteenth Plantation, where he's partnered in a boy-girl pair with Zero Two to pilot a FRANXX called Strelizia.\n\n",
+      "genero": "Male",
+      "edad": "14-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124382,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ichigo",
+        "native": "イチゴ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124382-bSBkjtYjJQtr.png"
+      },
+      "descripcion": "__Height:__ 152 cm (5’0”)\n\nIchigo is a former Parasite with the codename \"015\" of the Thirteenth Plantation, where she was partnered in boy-girl pair with [Goro](https://anilist.co/character/124383/Goro) to pilot a FRANXX called Delphinium.\n\n",
+      "genero": "Female",
+      "edad": "14-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124388,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ikuno",
+        "native": "イクノ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124388-KyJgGXFQEu6W.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124388-KyJgGXFQEu6W.png"
+      },
+      "descripcion": "__Height:__ 169 cm (5'7\")\n\nPilots the Franxx Chlorophytum with [Mitsuru](https://anilist.co/character/124389/Mitsuru).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124386,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kokoro",
+        "native": "ココロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124386-vc248g43ap3m.jpg"
+      },
+      "descripcion": "__Height:__ 160 cm (5'3\")\n\nPilots the Franxx Genista with [Futoshi](https://anilist.co/character/124387/Futoshi).\n\n~!After the partner shuffle, she rides with [Mitsuru](https://anilist.co/character/124389/Mitsuru). Kokoro becomes pregnant with Mitsuru's child later on in the anime.!~",
+      "genero": "Female",
+      "edad": "14-15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124384,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Miku",
+        "native": "ミク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124384-bsl6vVNhT2DR.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124384-bsl6vVNhT2DR.jpg"
+      },
+      "descripcion": "Miku is a former Parasite with the codename \"390\" of the Thirteenth Plantation, where she is partnered in boy-girl pair with [Zorome](https://anilist.co/character/124385/Zorome) to pilot a FRANXX called Argentea.\n\nShe is the most assertive and head-strong of the girls and is not afraid to clash with the boys. She is motivated to strive and she shares an attitude almost identical to Zorome’s, which makes them perfectly compatible.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124389,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Mitsuru",
+        "native": "ミツル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124389-iJY8frLNdK7Y.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124389-iJY8frLNdK7Y.jpg"
+      },
+      "descripcion": "Mitsuru pilots the FRANXX Chlorophytum with [Ikuno](https://anilist.co/character/124388/Ikuno), and is part off Plantation 13.\n\n~!Later in the anime, he switches partners with [Futoshi](https://anilist.co/character/124387/Futoshi), and ends up piloting the FRANXX Genista, along with [Kokoro](https://anilist.co/character/124386/Kokoro). They fall in love and Kokoro gets pregnant with his child.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124381,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Zero Two",
+        "native": "ゼロツー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-2gAVq76HPfL2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124381-2gAVq76HPfL2.png"
+      },
+      "descripcion": "__Height:__ 170 cm (5'7\")\n__Classification:__ Parasite\n__Affiliation:__ APE's Special Forces Unit\n__Partner:__ [Hiro](https://anilist.co/character/124380/Hiro)\n__FRANXX:__ Strelizia \n\nZero Two is an elite FRANXX pilot who is a member of a race of humans with Klaxosaur blood, and the pistil of the FranXX Strelizia.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 27
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124385,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Zorome",
+        "native": "ゾロメ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124385-wnvor7z83ZPt.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124385-wnvor7z83ZPt.jpg"
+      },
+      "descripcion": "__Height:__ 161cm\n\nZorome is a former Parasite with the codename \"666\" of the Thirteenth Plantation, where he is partnered in a boy-girl pair with [Miku](https://anilist.co/character/124384/Miku) to pilot a FRANXX called Argentea.\n\nAside from being the most immature member of the squad, he is the most loyal to the adults and APE, and his long-reaching goal is to become an adult himself. He presents himself as somewhat of a bully and pervert but he is also a dedicated member of the squad and willing to do whatever it takes to help his squadmates.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 180886,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "090",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180886-XXyn7vXnX4k7.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180886-XXyn7vXnX4k7.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 161730,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "9' Alpha",
+        "native": "ナインアルファ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b161730-rtTfEXIFgPh8.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b161730-rtTfEXIFgPh8.jpg"
+      },
+      "descripcion": "Alpha is a character in DARLING in the FRANXX. He was a Parasite and the official leader of the 9's, a special forces unit that APE directly controls. He was partnered with 9’ζ and piloted a FRANXX called 9 Model. \n\nNine Alpha is a rather short young man, his face framed by pale, honey blond hair, his long bangs low above his green eyes. He wears a special Parasite uniform emblazoned with white and gold, instead of the typical gray uniforms that other Parasite squads use. When in his FRANXX, Alpha, along with the others in his squad, sports a red battle suit. Like his fellow stamens, he appears with golden horns that appear to be holographic klaxosaur horns.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174778,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "9' Beta",
+        "native": "ナインベータ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174778-1mGFsLUn3gNy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174778-1mGFsLUn3gNy.png"
+      },
+      "descripcion": "9'β was a Parasite who served in the 9's, a special forces unit that APE directly controls. He was partnered with 9'η and piloted a FRANXX called 9 Model.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174777,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "9' Delta",
+        "native": "ナインデルタ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174777-NygUgoJBpKxA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174777-NygUgoJBpKxA.png"
+      },
+      "descripcion": "9'δ is a Parasite who served in the 9's, a special forces unit that APE directly controls. She is partners with [9'ε](https://anilist.co/character/180884/9-Epsilon) and pilots a FRANXX called the 9 Model.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 180884,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "9' Epsilon",
+        "native": "9'ε"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180884-kCOnNjcSY043.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180884-kCOnNjcSY043.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 180888,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Baboon",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180888-EdTS3RgaZrxZ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180888-EdTS3RgaZrxZ.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124851,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Franxx Hakase",
+        "native": "フランクス博士"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124851-UtBTl6EnzIFO.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124851-UtBTl6EnzIFO.jpg"
+      },
+      "descripcion": "Creator of the FRANXX used to fight Klaxosaurs.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 180882,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fukushuseki",
+        "native": "副主席"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180882-Xo4GPXCc2t8i.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180882-Xo4GPXCc2t8i.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124853,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hachi",
+        "native": "ハチ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124853-pwqN60dHanD2.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124853-pwqN60dHanD2.jpg"
+      },
+      "descripcion": "Commander of Urban Defense Operation of APE Operational Headquarters.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126290,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kyouryuu no Hime",
+        "native": "叫竜の姫"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126290-v3aLCi4pQijJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126290-v3aLCi4pQijJ.png"
+      },
+      "descripcion": "**Classification:** Klaxo Sapiens\n**Partner:** N/A (capable of piloting FRANXX without one)\n**FRANXX:** Model Saurian, 9 Model (temporarily), Strelizia (temporarily)\n\nA mysterious being that lurks deep inside Earth, accompanied by numerous Klaxosaurs. She's capable of speaking telepathically and seems to have a close bond with a serpentine Klaxosaur named **Nawabari** (縄張).\n\n~!She's the last surviving member of an advanced humanoid race from which the Klaxosaurs evolved, aware of VIRM's true nature and spiteful of humanity due to their ignorance, as well as playing a part in exterminating her kind.!~\n\n~![Zero Two](https://anilist.co/character/124381/Zero-Two) was created from her DNA, which [Dr Franxx](https://anilist.co/character/124851/Dr-Franxx-) extracted from a handful of her hair. She's also the one that bit off his arm, having recognized his key role in developing anti-Klaxosaur weaponry.!~\n\n",
+      "genero": "Female",
+      "edad": "60+ million years",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 180883,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lemur",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180883-9sD7eq182ZCn.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180883-9sD7eq182ZCn.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124852,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nana",
+        "native": "ナナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124852-Z1xlsGsdcKLd.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124852-Z1xlsGsdcKLd.jpg"
+      },
+      "descripcion": "Parasite administrator of APE Operational Headquarters.\n\n~!She was a FranXX Pilot in the same squadron as [Hachi](https://anilist.co/character/124853/Hachi).!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 144621,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Naomi",
+        "native": "ナオミ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144621-dRxn0RLmI1q4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b144621-dRxn0RLmI1q4.png"
+      },
+      "descripcion": "Naomi is a former Parasite from the Thirteenth Plantation with the codename \"703\". She is the former partner of [Hiro](https://anilist.co/character/124380/Hiro), who held her back from becoming a pilot due to his inability to pilot FRANXX.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327022,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Otona Josei",
+        "native": "オトナ女性"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327022-NJOJd8QMqufB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327022-NJOJd8QMqufB.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": 1000,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 180881,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shuseki",
+        "native": "主席"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180881-xsZq5Dt0JRLh.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180881-xsZq5Dt0JRLh.jpg"
+      },
+      "descripcion": "**Age:** More than 60 million years\n\nHe is the chairman of the APE council and by extension all of known humanity. Like a leader, Shuseki speaks in a refined and sophisticated manner, and tends to handle situations in a methodical order.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 180885,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tarsier",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180885-2XdYnKrA6K1P.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180885-2XdYnKrA6K1P.jpg"
+      },
+      "descripcion": "**Age:** Over 60 million\n\nHe is a member of the Seven Sages of APE and is secretly a VIRM.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99423,
+          "title": {
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX",
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 26,
+  "actualizado": 1788565322
+}

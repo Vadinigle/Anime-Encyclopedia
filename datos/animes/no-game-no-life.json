@@ -1,0 +1,1035 @@
+{
+  "clave": "no-game-no-life",
+  "nombre": "No Game No Life",
+  "descripcion": "Sora y Shiro en Disboard",
+  "generos": [
+    "Isekai",
+    "Fantasía",
+    "Comedia"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg",
+  "medios": [
+    {
+      "id": 19815,
+      "title": {
+        "romaji": "No Game No Life",
+        "english": "No Game, No Life",
+        "native": "ノーゲーム・ノーライフ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg"
+      }
+    },
+    {
+      "id": 21875,
+      "title": {
+        "romaji": "No Game No Life Zero",
+        "english": "No Game, No Life Zero",
+        "native": "ノーゲーム・ノーライフ ゼロ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21875-ybSgx75MgRMM.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21875-ybSgx75MgRMM.png"
+      }
+    },
+    {
+      "id": 20769,
+      "title": {
+        "romaji": "No Game No Life Mini OVAs",
+        "english": "No Game No Life Specials",
+        "native": "ノーゲーム・ノーライフ ミニOVAs"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20769-yn9crl5jlupz.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20769-yn9crl5jlupz.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 123692,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Couronna Dola",
+        "native": "コローネ・ドーラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b123692-3SbwcDXLetz6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b123692-3SbwcDXLetz6.png"
+      },
+      "descripcion": "One of the colonists in Tet's story and the supposed older sister of Riku. She was also the founder of Elchea after the Great War and is Stephanie Dola's direct ancestor.\n\nCouronna has a very similar appearance to Stephanie Dola; however, her hair is slightly longer and darker. She cares about Riku, going as far as calling herself his sister after he had lost his family. Though she is a mere Imanity, she seems to be sensitive to things, as she was able to figure out that Shuvi was not an Imanity right away.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21875,
+          "title": {
+            "romaji": "No Game No Life Zero",
+            "english": "No Game, No Life Zero",
+            "native": "ノーゲーム・ノーライフ ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 87887,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Jibril",
+        "native": "ジブリール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b87887-3QKmvQM5LTwY.png"
+      },
+      "descripcion": "__Race:__ Flügel\n\nJibril is the youngest and strongest of the Flügel race. Her love toward knowledge starts even before the declaration of the Ten Oaths. She is against the book sharing law, and left her homeland to win the main library of the human world from the previous king in a game.\n\n~!Unlike [Steph](https://anilist.co/character/82527), Jibril is happy to become the siblings underling, and is shown growing feelings toward [Sora](https://anilist.co/character/82523).!~",
+      "genero": "Female",
+      "edad": "6407",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        },
+        {
+          "id": 20769,
+          "title": {
+            "romaji": "No Game No Life Mini OVAs",
+            "english": "No Game No Life Specials",
+            "native": "ノーゲーム・ノーライフ ミニOVAs"
+          }
+        },
+        {
+          "id": 21875,
+          "title": {
+            "romaji": "No Game No Life Zero",
+            "english": "No Game, No Life Zero",
+            "native": "ノーゲーム・ノーライフ ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 123691,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Riku Dola",
+        "native": "リク・ドーラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b123691-veqBVhK2NhGn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b123691-veqBVhK2NhGn.png"
+      },
+      "descripcion": "Riku was an 18 years old Imanity who lived during the Great War on Disboard. He was one of the main protagonists in Tet's story. He encountered Shuvi while going on an expedition and brought her to his colony after having lost in a game against her (albeit willingly).\n\nHe bears many similarities with Sora, being his black hair, slender body, black eyes and his face. Riku is a master strategist and manipulator, much like Sora. He is capable of duping even the matriarch of the Nilvalen family (known as the strongest and smartest Elf at the time) into giving out valuable information, albeit at the cost of his health.",
+      "genero": "Male",
+      "edad": "18-20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21875,
+          "title": {
+            "romaji": "No Game No Life Zero",
+            "english": "No Game, No Life Zero",
+            "native": "ノーゲーム・ノーライフ ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 123690,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Schwi Dola",
+        "native": "シュヴィ・ドーラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b123690-dqDSiX7eEypZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b123690-dqDSiX7eEypZ.png"
+      },
+      "descripcion": "Schwi was the first Ex-machina to be introduced in Tet's story. In the story she seeks to understand the human heart and was found by Riku. She looks like a young human but with several differences, being two tails coming out from her back and other machine like features protruding from around her body. She bears many similarities with Shiro.\n\nHer behavior is similar to that of a stereotypical artificial intelligence. She can absorb and process data and intelligence very quickly and act in the appropriate manner, a unique characteristic of her race. However, she seems to have difficulty in comprehending emotions and desires, otherwise characterized by her as the heart.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21875,
+          "title": {
+            "romaji": "No Game No Life Zero",
+            "english": "No Game, No Life Zero",
+            "native": "ノーゲーム・ノーライフ ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 82525,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Shiro",
+        "native": "白"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b82525-sKk2FGRKN4aK.png"
+      },
+      "descripcion": "Shiro is the main female protagonist. She's a genius NEET (Not in Education, Employment, or Training) hikikomori (shut-in) gamer along with her step-brother, [Sora](https://anilist.co/character/82523/Sora) and together they formed 『　　』. Between both siblings she is the calm and collective half which makes her the brain of the group.",
+      "genero": "Female",
+      "edad": "11",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        },
+        {
+          "id": 20769,
+          "title": {
+            "romaji": "No Game No Life Mini OVAs",
+            "english": "No Game No Life Specials",
+            "native": "ノーゲーム・ノーライフ ミニOVAs"
+          }
+        },
+        {
+          "id": 21875,
+          "title": {
+            "romaji": "No Game No Life Zero",
+            "english": "No Game, No Life Zero",
+            "native": "ノーゲーム・ノーライフ ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 82523,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Sora",
+        "native": "空"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b82523-JB9oevKyXWfc.png"
+      },
+      "descripcion": "__Race:__ Human\n\nAbandoned by his parents, Sora is a brilliant NEET (Not in Education, Employment, or Training) hikikomori (shut-in) gamer along with his stepsister, [Shiro](https://anilist.co/character/82525/Shiro). He does not take life very seriously and is pretty much a good-for-nothing gamer. One day, he and his sister are called into an alternate world and they have to become Saviors of Humanity! \n\nDespite being a NEET and a shut-in, Sora is extremely outgoing and confident, and is not afraid to play games with people face to face, even when they're cheating. He is also extremely manipulative - which he refers to as using negotiating skills. This fits in with his play style as while Shiro is excellent at logic and computing, Sora can read people and predict what their next move is, using this knowledge to beat them. \n\nHowever, if he is separated from Shiro by so much as a closed door he becomes a spineless, cowardly wreck, and only returns to his former self if he is able to see her. He views his sister as his equal and partner, but is also protective of her, shown by actions such as putting his body between her and the ground when he thought they were going to hit hard when first arriving on Disboard.\n\nSora is extroverted and has no problems dealing with people. While not as intelligent as Shiro, he is shown to have a brilliant IQ. Rather than computing numbers like Shiro, Sora can rapidly compute what his opponents are going to do based on observing their behavior and motivations.\n\nSora is also slightly perverted and desires a girlfriend for himself. His lust lead to a linguistic mistake that causes [Stephanie](https://anilist.co/character/82527/Dola-Stephanie) to fall in love with him and causes him to receive a scolding from Shiro.",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        },
+        {
+          "id": 20769,
+          "title": {
+            "romaji": "No Game No Life Mini OVAs",
+            "english": "No Game No Life Specials",
+            "native": "ノーゲーム・ノーライフ ミニOVAs"
+          }
+        },
+        {
+          "id": 21875,
+          "title": {
+            "romaji": "No Game No Life Zero",
+            "english": "No Game, No Life Zero",
+            "native": "ノーゲーム・ノーライフ ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 82527,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Stephanie Dola",
+        "native": "ステファニー・ドーラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b82527-uwdWwl1qhzqC.png"
+      },
+      "descripcion": "__Race:__ Imanity\n\nStephanie is expressive and emotional, to the point where she cannot hide her emotions during a poker game. She loved her grandfather dearly and is angered when people call her grandfather a fool. She fell in love with [Sora](https://anilist.co/character/82523/Sora) due to the pledges forcing her to, and she often has violent outbursts to try to break free of it. She loves her kingdom and the world and believes in the potential of Imanity. \n\n",
+      "genero": "Female",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        },
+        {
+          "id": 20769,
+          "title": {
+            "romaji": "No Game No Life Mini OVAs",
+            "english": "No Game No Life Specials",
+            "native": "ノーゲーム・ノーライフ ミニOVAs"
+          }
+        },
+        {
+          "id": 21875,
+          "title": {
+            "romaji": "No Game No Life Zero",
+            "english": "No Game, No Life Zero",
+            "native": "ノーゲーム・ノーライフ ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 139370,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Artosh",
+        "native": "戦神"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b139370-qa45HMoH5U23.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b139370-qa45HMoH5U23.png"
+      },
+      "descripcion": "The God of War and creator of the Flügel. Artosh was considered to be the strongest and mightiest member of the Old Deus. \n\nHe is described as being a hulk of a man, being over double the height of a regular man. He sports bulging muscles all around his body, a strong black beard, and bright golden eyes. He has 18 pairs of wings on his back that, when not in use, completely drape over his back like a feathered cape.\n\nArtosh was extremely prideful, considering himself the, \"strongest being alive.\" However, he secretly wished for someone who could face him head-on. ~!Artosh was able to use a much more potent version of Heaven Strike, called, \"God Strike.\" His God Strike was extremely powerful, being almost impossible to stop. After using God Strike, he would be very weak and fatigued. He was killed at the end of the great war due to that drawback. Because of that, he held high respect for Riku; who, despite being an Imanity, was able to kill him through a risky plan.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21875,
+          "title": {
+            "romaji": "No Game No Life Zero",
+            "english": "No Game, No Life Zero",
+            "native": "ノーゲーム・ノーライフ ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126084,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Azriel",
+        "native": "アズリール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126084-Xjyb5LtpdCzT.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126084-Xjyb5LtpdCzT.jpg"
+      },
+      "descripcion": "The first Flügel created by Artosh and Representative of the Council of Eighteen Wings. As such, her title allows her to have first say in emergencies. She calls Jibril her \"little sister\".\n\nDuring the war, she conveyed Artosh's will among other Flügel. After the war, she passed the law in which Flügel shared books among each other.\n\nAzriel has a somewhat split personality, being peppy and bubbly to a cold, relentless state. Prior to Jibril's creation, Azriel was merciless and considered other Flügel expendable; afterwards, however, she turned into a sister figure when Jibril came to be. Even so, she continues to have a condescending attitude towards lower exceed races. She is extremely powerful as the first Flügel to be created, being able to pull off many feats. This is further enhanced by her mental connection with Avant Heim, while also being its representative. Even with her strength, Jibril considers Azriel to be rather stupid compared to other Flügel. Despite this, Azriel is clever when it comes to mind games and deception. What she lacks is an understanding of learning, trying, and failing; preventing her from learning from her mistakes.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        },
+        {
+          "id": 21875,
+          "title": {
+            "romaji": "No Game No Life Zero",
+            "english": "No Game, No Life Zero",
+            "native": "ノーゲーム・ノーライフ ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88001,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chlammy Zell",
+        "native": "クラミー・ツェル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88001-wAbdFA9xAh7j.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88001-wAbdFA9xAh7j.png"
+      },
+      "descripcion": "__Height:__ 158cm\n\nA human who allied with several different races in order to win the king's contest, due to her belief that humans will never be strong and must depend on others in order to survive.",
+      "genero": "Female",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        },
+        {
+          "id": 20769,
+          "title": {
+            "romaji": "No Game No Life Mini OVAs",
+            "english": "No Game No Life Specials",
+            "native": "ノーゲーム・ノーライフ ミニOVAs"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137443,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Einzig",
+        "native": "アインツィヒ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137443-7wKT81Oe9Mod.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137443-7wKT81Oe9Mod.png"
+      },
+      "descripcion": "**Race:** Ex-Machina\n\nEinzig is the call sign of the current administrator unit of Ex-Machina, therefore making him the Representative of the cybernetic race. Much like [Riku](https://anilist.co/character/123691/Riku-Dola), Einzig acts like a cold, emotionless figure to accept the self-sacrifices of his brethren. He buried his grief deep in his heart in order to stop the war but actually cared about his clusters and could even name individual units. It was revealed to [Sora](https://anilist.co/character/82523/Sora) that due to reflecting [Schwi](https://anilist.co/character/123690/Schwi-Dola)'s feelings toward Riku, Einzig developed an attraction to the Immanity king due to his striking resemblance to Riku. He frequently called Sora affectionate pet names and was even able to find his entire hentai collection.",
+      "genero": "Male",
+      "edad": "6000+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21875,
+          "title": {
+            "romaji": "No Game No Life Zero",
+            "english": "No Game, No Life Zero",
+            "native": "ノーゲーム・ノーライフ ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88002,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fiel Nilvalen",
+        "native": "フィール・ニルヴァレン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88002-1MorDMgxtLMm.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88002-1MorDMgxtLMm.jpg"
+      },
+      "descripcion": "__Race__: Elf\n\nFiel Nilvalen who usually has her name shortened to Fii, is an Elf girl who is [Chlammy Zell](https://anilist.co/character/88001/Chlammy-Zell)'s game partner, as well as the one who helps her cheat using her elven magic. She is very protective of Chlammy and would go to great lengths to keep her safe. She is a hexa-caster (able to cast and maintain up to six spells at once), a very rare capability that only an extraordinary few possess. She is part of the Nilvalen family which may be a factor of her strong magic as a result of being a descendant of [Shinku Nilvalen](https://anilist.co/character/123694/Shinku--Nilvalen).",
+      "genero": "Female",
+      "edad": "52",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        },
+        {
+          "id": 20769,
+          "title": {
+            "romaji": "No Game No Life Mini OVAs",
+            "english": "No Game No Life Specials",
+            "native": "ノーゲーム・ノーライフ ミニOVAs"
+          }
+        }
+      ]
+    },
+    {
+      "id": 139371,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ino Hatsuse",
+        "native": "初瀬いの"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b139371-lRwPC5Bmbhy5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b139371-lRwPC5Bmbhy5.png"
+      },
+      "descripcion": "A werebeast and Izuna's grandpa. He is protective of Izuna and dislikes it when she is close to Sora and Shiro. According to Miko, Hatsuse has thirty wives, much to Sora's chagrin. \n\nHatsuse acts in a formal manner, being friendly around guests and officials. However, if he's around rude or condescending people, he will usually reciproctate their attitudes back. Hatsuse also is very perverted, telling many dirty jokes while not on a job. He was also banished from his tribe due to having experiences with every woman in his tribe. As he has 30 wives, he wishes for polygamy to be legal in the Eastern Union; which is one reason why he works under Miko.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130376,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ivan Zell",
+        "native": "イワン・ツェル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130376-XDMARGWd41Xo.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130376-XDMARGWd41Xo.jpg"
+      },
+      "descripcion": "Nonna's father. He was a member of the surviving humanity during the great war. During an exploration, the team encountered an unknown being. The leader of the group, Riku, ordered him to sacrifice himself to save the others.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21875,
+          "title": {
+            "romaji": "No Game No Life Zero",
+            "english": "No Game, No Life Zero",
+            "native": "ノーゲーム・ノーライフ ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88003,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Izuna Hatsuse",
+        "native": "初瀬いづな"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88003-tZKsjjzDWV8e.png"
+      },
+      "descripcion": "__Race:__ Werebeast\n\nIzuna Hatsuse is a Werebeast girl and the former ambassador of the Werebeast race to Immanity. After [Sora](https://anilist.co/character/82523/Sora) and [Shiro](https://anilist.co/character/82525/Shiro) forced the werebeasts to join the Commonwealth of Elkia, Izuna was directed by [Miko](https://anilist.co/character/137440/Miko) to follow and learn from them. [Steph](https://anilist.co/character/82527/Dola-Stephanie) has noted that she actually shares similarities to Sora and Shiro, such as lacking common sense, being arrogant towards others, and being extremely smart and competent at gaming. She mostly exhibits an innocent personality pertaining to her age yet is very competent at playing games to the point of representing the Werebeasts in national games against other races. She possesses all the incredible physical abilities found in all Werebeasts as well as the rare Blood Break found in a select few Werebeast individuals.",
+      "genero": "Female",
+      "edad": "8",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        },
+        {
+          "id": 20769,
+          "title": {
+            "romaji": "No Game No Life Mini OVAs",
+            "english": "No Game No Life Specials",
+            "native": "ノーゲーム・ノーライフ ミニOVAs"
+          }
+        },
+        {
+          "id": 21875,
+          "title": {
+            "romaji": "No Game No Life Zero",
+            "english": "No Game, No Life Zero",
+            "native": "ノーゲーム・ノーライフ ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 329568,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Keizai Daijin",
+        "native": "経済大臣"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b329568-cMMpD9rgLQEK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b329568-cMMpD9rgLQEK.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175514,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Koukan",
+        "native": "高官"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175514-ZrcJ1cNLDFcO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175514-ZrcJ1cNLDFcO.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88267,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mahakoht Dola",
+        "native": "マハコート・ドーラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88267-kVzgU6CELd58.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88267-kVzgU6CELd58.png"
+      },
+      "descripcion": "The previous ruler of Imanity, as well as Steph's grandfather. His reign led to many losses for Imanity, thus many people call him a, \"Foolish King.\" \n\nHe is terrible at games, being unable to win a majority. However, he is able to give Imanity a chance by finding out opponent's secrets. When he was near the end of his life, he entrusted Steph with, \"The Key to Imanity's Hope;\" which is to be given to someone who is capable of saving Imanity.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137440,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Miko",
+        "native": "巫女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137440-DgBRYiOtFzUk.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137440-DgBRYiOtFzUk.jpg"
+      },
+      "descripcion": "__Race:__ Werebeast\n\nMiko is the representative of the Werebeasts and rules over the Eastern Union. She lost her real name during the formation of the country when placing it as a wager. She looked down on Immanity at first, but after forming a truce with Sora and joining the Commonwealth of Elkia, she starts to have faith in the siblings who represent Immanity. She contains the rare Werebeast ability, Blood Break. Also, being a Blood Break capable individual, she ages very slowly.\nSora had hypothesized Miko's age to be at least 58 years old, but her true age remains unknown. Despite her true age, Miko holds the appearance of a woman in her 20's.\n\n~!Miko had to spend at least 50 years to unite the various Werebeast tribes into what is currently the Eastern Union, in which she lost her original name in a bet and gained her title as she contacted a certain Old Deus.!~",
+      "genero": "Female",
+      "edad": "50+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 145834,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nina Clive",
+        "native": "ニーナ•クライヴ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145834-YefqIWImGT6w.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b145834-YefqIWImGT6w.png"
+      },
+      "descripcion": "__Race:__ Elf\n\nNina Clive was an Elf that lived during The Great War. After Think faked her death, he assumed the title of Grand Magus in order to help accomplish her plans.\n\nAs a penta-caster, he is capable of maintaining 5 spells at the same time. Since quad-casters are considered elites, he is in fact a better spellcaster than most Elves. However, his power pales in comparison to the legendary octo-caster, Think Nirvalen. Aside from his magical skills, he was able to pose as the Grand Magus and the head developer of the Spirit-Breaking Rites without being exposed, with nothing but Think's instructions to rely on. This shows that he is actually pretty good in diplomatic affairs.\n\n~!After The Great War, the Nirvalen family prospered and became a powerful family while the Clive family broke down due to unknown reasons. It can be assumed that Nina lost her bet against Think, therefore Think became the \"husband\" and her surname is the one that prevailed.!~",
+      "genero": "Male",
+      "edad": "300+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21875,
+          "title": {
+            "romaji": "No Game No Life Zero",
+            "english": "No Game, No Life Zero",
+            "native": "ノーゲーム・ノーライフ ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 123693,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nonna Zell",
+        "native": "ノンナ・ツェル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b123693-8tpfha94CbZ8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b123693-8tpfha94CbZ8.png"
+      },
+      "descripcion": "Nonna Zell was an Imanity that lived during the Great War. She is Chlammy Zell's ancestor.\n\nNonna bears many similarities with Chlammy. She is quite short and fair-skinned, and has short, black hair and navy blue irises with pink pupils.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21875,
+          "title": {
+            "romaji": "No Game No Life Zero",
+            "english": "No Game, No Life Zero",
+            "native": "ノーゲーム・ノーライフ ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 329567,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nourin Daijin",
+        "native": "農林大臣"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b329567-XQeH6B9k1KRc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b329567-XQeH6B9k1KRc.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 134187,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Queen",
+        "native": "クイーン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134187-DAcVgXbru47p.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b134187-DAcVgXbru47p.png"
+      },
+      "descripcion": "Queen is the in-game name of a character, who was not mentioned in the original light novel, who is said to be the strongest member of 『Night Opera』, a guild of 1,200 players. She appears in the first episode of the anime. She finds 『　　』 to be cool and smart since they were able to dodge her attacks despite her using dishonest means (cheating) to cast consecutive spells.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 329566,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sakaba no Onna",
+        "native": "酒場の女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b329566-dglcs4vfQrNc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b329566-dglcs4vfQrNc.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175515,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Senshi",
+        "native": "戦士"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175515-1jdEVOKdqv7V.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175515-1jdEVOKdqv7V.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88004,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tet",
+        "native": "テト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88004-lA45OjvaT5He.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88004-lA45OjvaT5He.png"
+      },
+      "descripcion": "__Race__: None (Formerly: Old Deus)\n\nTet is the One True God of Disboard.\nTet does not belong to any of the 16 races, although the closest affiliation to him would be Immanity.\nTo challenge Tet for the title of the One True God, one must collect all pieces of different chess from 16 races. This means that, under the tenth rule of the Ten Covenants, one must defeat or unite all 16 races before being able to play against him.\n\n~!He was born from [Riku](https://anilist.co/character/123691/Riku-Dola)'s wish and the overwhelming presence of incredible magic energy. Claiming the Suniaster and becoming the One True God, Tet immediately used his absolute power to repair the damage done to the planet and set forth the Ten Covenants, thus ending the Great War.!~",
+      "genero": "Male",
+      "edad": "6000+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        },
+        {
+          "id": 21875,
+          "title": {
+            "romaji": "No Game No Life Zero",
+            "english": "No Game, No Life Zero",
+            "native": "ノーゲーム・ノーライフ ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 123694,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Think Nirvalen",
+        "native": "シンク・ニルヴァレン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b123694-RJSrPAZrq4KB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b123694-RJSrPAZrq4KB.png"
+      },
+      "descripcion": "Think Nirvalen was an Elf that lived during the Great War. She is Fiel Nirvalen's ancestor. She encountered Riku Dola after her invention of Void Zero Protection and its sister model, Eternal Fourth Protection.\n\nThink bears many similarities with Fiel. She has long, wavy blonde hair and her eyes have purple irises with pink pupils. She has a small pink ribbon that keeps a small portion of her hair in a plait and a very large bust. Her clothes consisted of a white, rather revealing dress that showed her midriff and barely covered her chest and legs and golden armbands with a long strip of white fabric that acted as her sleeves. She wore brown sandals with a ballet-like wrap that went just past her ankles and simple, blue bracelets.\n\nShe also had a headpiece that was made of four different-coloured jewels - two blue, two pink - and hair accessories that were shaped like white flowers.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21875,
+          "title": {
+            "romaji": "No Game No Life Zero",
+            "english": "No Game, No Life Zero",
+            "native": "ノーゲーム・ノーライフ ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175516,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Touzoku",
+        "native": "盗賊"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175516-DEdc65vHCriS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175516-DEdc65vHCriS.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 19815,
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life",
+            "native": "ノーゲーム・ノーライフ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137444,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Raphael",
+        "native": "ラファエル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137444-89fujUEVcUAy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137444-89fujUEVcUAy.png"
+      },
+      "descripcion": "Raphael is the fourth unit of Flügel, along with being a sister figure for Jibril. Raphael is calm, but is easily annoyed, often by Azriel. Due to a prior event, Raphael is missing most of her left wing.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21875,
+          "title": {
+            "romaji": "No Game No Life Zero",
+            "english": "No Game, No Life Zero",
+            "native": "ノーゲーム・ノーライフ ゼロ"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 29,
+  "actualizado": 1788566476
+}

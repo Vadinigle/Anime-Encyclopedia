@@ -1091,6 +1091,412 @@ def preparar_personaje(
     return personaje
 
 
+
+# =========================================================
+# SISTEMA LOCAL JSON - ANIME ENCYCLOPEDIA
+# =========================================================
+#
+# Las rutas públicas dejan de consultar AniList.
+#
+# AniList queda reservado para:
+#     actualizar_catalogo.py
+#
+# La web lee:
+#     config/animes.json
+#     datos/catalogo.json
+#     datos/animes/*.json
+#
+# =========================================================
+
+import json as _json_local
+from pathlib import Path as _Path_local
+
+
+_RAIZ_LOCAL = _Path_local(__file__).resolve().parent
+
+_CONFIG_LOCAL = (
+    _RAIZ_LOCAL
+    / "config"
+    / "animes.json"
+)
+
+_CATALOGO_LOCAL = (
+    _RAIZ_LOCAL
+    / "datos"
+    / "catalogo.json"
+)
+
+_ANIMES_LOCAL = (
+    _RAIZ_LOCAL
+    / "datos"
+    / "animes"
+)
+
+
+def _leer_json_local(ruta):
+    return _json_local.loads(
+        ruta.read_text(
+            encoding="utf-8"
+        )
+    )
+
+
+# ---------------------------------------------------------
+# CARGAR LOS 61 ANIMES
+# ---------------------------------------------------------
+
+try:
+    FRANQUICIAS = _leer_json_local(
+        _CONFIG_LOCAL
+    )
+
+    print(
+        f"[LOCAL] Franquicias cargadas: "
+        f"{len(FRANQUICIAS)}"
+    )
+
+except Exception as error:
+    print(
+        f"[LOCAL] Error cargando configuración: "
+        f"{error}"
+    )
+
+
+try:
+    _catalogo_local = _leer_json_local(
+        _CATALOGO_LOCAL
+    )
+
+    print(
+        f"[LOCAL] Catálogo cargado: "
+        f"{len(_catalogo_local)}"
+    )
+
+except Exception as error:
+    print(
+        f"[LOCAL] Error cargando catálogo: "
+        f"{error}"
+    )
+
+    _catalogo_local = {}
+
+
+_cache_animes_local = {}
+
+
+# ---------------------------------------------------------
+# LEER UN ANIME
+# ---------------------------------------------------------
+
+def _cargar_anime_local(clave):
+    if clave in _cache_animes_local:
+        return _cache_animes_local[
+            clave
+        ]
+
+    archivo = (
+        _ANIMES_LOCAL
+        / f"{clave}.json"
+    )
+
+    if not archivo.exists():
+        return None
+
+    try:
+        datos = _leer_json_local(
+            archivo
+        )
+
+    except Exception as error:
+        print(
+            f"[LOCAL] Error leyendo "
+            f"{clave}: {error}"
+        )
+
+        return None
+
+    _cache_animes_local[
+        clave
+    ] = datos
+
+    return datos
+
+
+# ---------------------------------------------------------
+# ADAPTADOR
+#
+# Nuestros JSON usan nombres como:
+#     nombre
+#     imagen
+#     rol
+#
+# La plantilla actual espera:
+#     name
+#     image
+#     role
+#
+# Aquí hacemos la conversión sin tocar el HTML.
+# ---------------------------------------------------------
+
+def _adaptar_personaje_local(
+    personaje
+):
+    if not personaje:
+        return None
+
+    return {
+        "id": personaje.get(
+            "id"
+        ),
+
+        "name": personaje.get(
+            "nombre"
+        ) or {},
+
+        "image": personaje.get(
+            "imagen"
+        ) or {},
+
+        "role": personaje.get(
+            "rol"
+        ) or "BACKGROUND",
+
+        "description": personaje.get(
+            "descripcion"
+        ),
+
+        "gender": personaje.get(
+            "genero"
+        ),
+
+        "age": personaje.get(
+            "edad"
+        ),
+
+        "dateOfBirth": personaje.get(
+            "fecha_nacimiento"
+        ) or {},
+
+        "media": {
+            "nodes": personaje.get(
+                "media"
+            ) or []
+        },
+    }
+
+
+# ---------------------------------------------------------
+# PORTADAS
+#
+# ANTES:
+#     página -> AniList -> portada
+#
+# AHORA:
+#     página -> catalogo.json -> portada
+# ---------------------------------------------------------
+
+def obtener_portadas_animes():
+    portadas = {}
+
+    for clave in FRANQUICIAS:
+
+        datos = _catalogo_local.get(
+            clave,
+            {}
+        )
+
+        portadas[
+            clave
+        ] = datos.get(
+            "portada"
+        )
+
+    return portadas
+
+
+# ---------------------------------------------------------
+# PERSONAJES DE UNA FRANQUICIA
+#
+# Sustituye completamente las consultas a AniList.
+# ---------------------------------------------------------
+
+def cargar_franquicia(
+    clave,
+    forzar=False,
+):
+    datos = _cargar_anime_local(
+        clave
+    )
+
+    if not datos:
+        return []
+
+    personajes = []
+
+    for personaje in datos.get(
+        "personajes",
+        []
+    ):
+        adaptado = (
+            _adaptar_personaje_local(
+                personaje
+            )
+        )
+
+        if adaptado:
+            personajes.append(
+                adaptado
+            )
+
+    return personajes
+
+
+# ---------------------------------------------------------
+# BUSCAR PERSONAJE POR ID
+# ---------------------------------------------------------
+
+def obtener_personaje_por_id(
+    personaje_id
+):
+    for clave in FRANQUICIAS:
+
+        datos = _cargar_anime_local(
+            clave
+        )
+
+        if not datos:
+            continue
+
+        for personaje in datos.get(
+            "personajes",
+            []
+        ):
+
+            if personaje.get(
+                "id"
+            ) == personaje_id:
+
+                return (
+                    _adaptar_personaje_local(
+                        personaje
+                    )
+                )
+
+    return None
+
+
+# ---------------------------------------------------------
+# NORMALIZACIÓN PARA BUSCADOR
+# ---------------------------------------------------------
+
+def _normalizar_busqueda_local(
+    texto
+):
+    if not texto:
+        return ""
+
+    return (
+        str(texto)
+        .casefold()
+        .strip()
+    )
+
+
+# ---------------------------------------------------------
+# BUSCADOR GLOBAL LOCAL
+# ---------------------------------------------------------
+
+def buscar_personaje(nombre):
+    objetivo = (
+        _normalizar_busqueda_local(
+            nombre
+        )
+    )
+
+    if not objetivo:
+        return None
+
+    coincidencia_parcial = None
+
+    for clave in FRANQUICIAS:
+
+        datos = _cargar_anime_local(
+            clave
+        )
+
+        if not datos:
+            continue
+
+        for personaje in datos.get(
+            "personajes",
+            []
+        ):
+
+            nombres = personaje.get(
+                "nombre"
+            ) or {}
+
+            candidatos = [
+                nombres.get(
+                    "full"
+                ),
+                nombres.get(
+                    "native"
+                ),
+                nombres.get(
+                    "first"
+                ),
+                nombres.get(
+                    "last"
+                ),
+            ]
+
+            for candidato in candidatos:
+
+                candidato_normalizado = (
+                    _normalizar_busqueda_local(
+                        candidato
+                    )
+                )
+
+                if not candidato_normalizado:
+                    continue
+
+                # Coincidencia exacta.
+                if (
+                    candidato_normalizado
+                    == objetivo
+                ):
+                    return (
+                        _adaptar_personaje_local(
+                            personaje
+                        )
+                    )
+
+                # Guardamos la primera
+                # coincidencia parcial.
+                if (
+                    coincidencia_parcial
+                    is None
+                    and objetivo
+                    in candidato_normalizado
+                ):
+                    coincidencia_parcial = (
+                        _adaptar_personaje_local(
+                            personaje
+                        )
+                    )
+
+    return coincidencia_parcial
+
+
+print(
+    "[LOCAL] AniList desactivado "
+    "para las rutas públicas."
+)
+
+
+
 # =========================================================
 # PORTADA
 # =========================================================

@@ -1,0 +1,1784 @@
+{
+  "clave": "my-dress-up-darling",
+  "nombre": "My Dress-Up Darling",
+  "descripcion": "Sono Bisque Doll wa Koi wo Suru",
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132405-qP7FQYGmNI3d.jpg",
+  "medios": [
+    {
+      "id": 132405,
+      "title": {
+        "romaji": "Sono Bisque Doll wa Koi wo Suru",
+        "english": "My Dress-Up Darling",
+        "native": "その着せ替え人形は恋をする"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132405-qP7FQYGmNI3d.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132405-qP7FQYGmNI3d.jpg"
+      }
+    },
+    {
+      "id": 154768,
+      "title": {
+        "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+        "english": "My Dress-Up Darling Season 2",
+        "native": "その着せ替え人形は恋をする Season 2"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154768-DHHvNd4MjV1p.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154768-DHHvNd4MjV1p.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 133676,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Marin Kitagawa",
+        "native": "喜多川海夢"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133676-kV2czE3C8Qls.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b133676-kV2czE3C8Qls.png"
+      },
+      "descripcion": "__Height:__ 164 cm (5'3\")\n\nMarin is an extravagant, messy, and while quite mature, she's also clumsy. She isn't very skilled at handiwork. Marin is a cosplayer and a huge otaku, being a fan of magical girl anime and adult video games. \nShe is very kind, friendly, cheerful and outgoing. She loves eating but still despite that she manages to maintain her slender figure.\n\n~!Marin realizes she is in love with [Wakana](https://anilist.co/character/133678), and throughout the series, continually does whatever she can to invite him to places and spend time with him.!~",
+      "genero": "Female",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        },
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133678,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Wakana Gojou",
+        "native": "五条新菜"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133678-IitCgjDxQGgu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b133678-IitCgjDxQGgu.png"
+      },
+      "descripcion": "__Height:__ 185 cm (6'1\")\n__Hobbies:__ Hina Dolls\n\nWakana Gojou is a fifteen-year-old high-schooler who is not very social, and doesn't fit in well with his fellow classmates, leading to him having no friends at the start of the story. Gojou has a strong appreciation for hina dolls and loves making them, although he is not as skilled as he wants to be. This changes when Gojou ends up meeting someone who doesn't find his love for doll making weird, and instead is amazed at his artistic ability and craftsmanship.",
+      "genero": "Male",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        },
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 270817,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akira Ogata",
+        "native": "緒方旭"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b270817-JDPMFJW3H20f.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b270817-JDPMFJW3H20f.png"
+      },
+      "descripcion": "Akira was passionate about anime and manga in her childhood but due to her mother and classmates' ill views towards this hobby she had to leave her love for manga and anime.\n\nFew years later, when she was reunited with some of her classmates that were into anime, she started hanging out with them and discovered her love of anime and manga again, with this she also started cosplaying different characters with her friends to show them her gratitude.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 263439,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chitose Amano",
+        "native": "天野千歳"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b263439-2AEdRdD3enUP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b263439-2AEdRdD3enUP.png"
+      },
+      "descripcion": "Amane Himeno is a cosplay name, his real name is Chitose Amano. He always cosplays as female characters. Unlike Marin who makes costume from scratch, he purchases costume as finished product.",
+      "genero": "Male",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 260978,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Daia Yahiro",
+        "native": "八尋大空"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260978-uWmdkycWGumq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b260978-uWmdkycWGumq.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        },
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306933,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hajime Usami",
+        "native": "宇佐見創"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306933-xd3yiSRtUvFP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306933-xd3yiSRtUvFP.png"
+      },
+      "descripcion": "Usami is the store clerk at the fabric store who helps [Wakana Gojou](https://anilist.co/character/133678/Wakana-Gojou) select the right fabric for his cosplay costumes.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306938,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hikaru Kikuchi",
+        "native": "菊池光"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306938-AuahMHmcvgjQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306938-AuahMHmcvgjQ.png"
+      },
+      "descripcion": "Hikaru is [Marin Kitagawa](https://anilist.co/character/133676/Marin-Kitagawa)'s hairstylist whom she visits often to maintain her model good looks.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133675,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaoru Gojou",
+        "native": "五条薫"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133675-q9w1dFZvtHmd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b133675-q9w1dFZvtHmd.png"
+      },
+      "descripcion": "[Wakana](https://anilist.co/character/133678)'s grandfather.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 17
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        },
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 369373,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Karen Ootsuka",
+        "native": "大塚加恋"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b369373-fhEzM1FW37rs.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b369373-fhEzM1FW37rs.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306939,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kensei Morita",
+        "native": "森田健星"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306939-kj8HQrsRd9sY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306939-kj8HQrsRd9sY.png"
+      },
+      "descripcion": "Kensei Morita is a member of class 1-5 who is a friend and classmate of [Marin Kitagawa](https://anilist.co/character/133676/Marin-Kitagawa) and later [Wakana Gojou](https://anilist.co/character/133678/Wakana-Gojou).",
+      "genero": "Male",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        },
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306934,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Manabu Hasegawa",
+        "native": "長谷川学"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306934-3qaxQhyTUAff.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306934-3qaxQhyTUAff.png"
+      },
+      "descripcion": "Manabe is one of [Marin Kitagawa](https://anilist.co/character/133676/Marin-Kitagawa)'s stylists with whom she shares a close relationship.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 261779,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Miori Gojou",
+        "native": "五条美織"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b261779-55oYUO853NxE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b261779-55oYUO853NxE.png"
+      },
+      "descripcion": "Miori is the cousin of [Wakana Gojou](https://anilist.co/character/133678/Wakana-Gojou). She supports him on his seemingly bizarre behavior (buying stockings).",
+      "genero": "Female",
+      "edad": "26-27",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        }
+      ]
+    },
+    {
+      "id": 275521,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mirai Tengeji",
+        "native": "天花寺ミライ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b275521-FxjjrI6l6Kum.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b275521-FxjjrI6l6Kum.jpg"
+      },
+      "descripcion": "The main heroine of fictional anime Flower Princess Retsu!!",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306935,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Miyako Honda",
+        "native": "本多都"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306935-xy06JHPZrbaJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306935-xy06JHPZrbaJ.png"
+      },
+      "descripcion": "Miyako is a cosplayer and friend of the photographer [Suzuka](https://anilist.co/character/306932/Suzuka-Itou).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306936,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Murakami",
+        "native": "村上"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306936-eVj3gEzhmFAd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306936-eVj3gEzhmFAd.png"
+      },
+      "descripcion": "Murakami is a member of class 1-5 who is a friend and classmate of [Marin Kitagawa](https://anilist.co/character/133676/Marin-Kitagawa) and later [Wakana Gojou](https://anilist.co/character/133678/Wakana-Gojou).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 264038,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Neon Nikaidou",
+        "native": "二階堂ネオン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b264038-M0nxAx6IfUqw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b264038-M0nxAx6IfUqw.png"
+      },
+      "descripcion": "Shion's sister and main enemy from the in-story anime 'Flower Princess Blaze'.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        },
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 260976,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nobara",
+        "native": "のばら"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260976-BJaZR85k4YFp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b260976-BJaZR85k4YFp.png"
+      },
+      "descripcion": "[Wakana](https://anilist.co/character/133678) was a childhood friend of hers, but when she discovered that Wakana, a man, was obsessed with hina dolls, she called him \"disgusting\" and ended their relationship.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        },
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 260977,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nowa Sugaya",
+        "native": "菅谷乃羽"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260977-p19usD5bb8Ue.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b260977-p19usD5bb8Ue.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        },
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 260979,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rune Yamauchi",
+        "native": "山内瑠音"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260979-NwQz8UAeFZ1e.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b260979-NwQz8UAeFZ1e.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        },
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133677,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sajuna Inui",
+        "native": "乾紗寿叶"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b133677-PqshvUeVFB7u.jpg"
+      },
+      "descripcion": "A famous cosplayer that [Marin Kitagawa](https://anilist.co/character/133676) looks up to. \n\nHer younger sister is [Shinju](https://anilist.co/character/207937/Shinju-Inui).",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        },
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306940,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Seira Kawanishi",
+        "native": "河西成蘭"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306940-Zdz8WEQhE9c9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306940-Zdz8WEQhE9c9.png"
+      },
+      "descripcion": "Seira is a member of class 1-5.",
+      "genero": "Female",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306931,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shiki Kashiwagi",
+        "native": "柏木四季"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306931-UebmaJB4KuDX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306931-UebmaJB4KuDX.png"
+      },
+      "descripcion": "Shiki Kashiwagi is a member of class 1-5 who is a friend and classmate of [Marin Kitagawa](https://anilist.co/character/133676/Marin-Kitagawa) and later [Wakana Gojou](https://anilist.co/character/133678/Wakana-Gojou).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 207937,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shinju Inui",
+        "native": "乾心寿"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b207937-ytYjcNtNX77K.png"
+      },
+      "descripcion": "__Height:__ 178 cm (5'10\")\n\nSister of [Sajuna Inui](https://anilist.co/character/133677).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        },
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 264037,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shion Nikaidou",
+        "native": "二階堂シオン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b264037-6TxWVazNnEjx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b264037-6TxWVazNnEjx.png"
+      },
+      "descripcion": "Shion is the main character from the in-story anime 'Flower Princess Blaze'. Sajuna wants Gojou to make a cosplay outfit based on this characters' 'Black Lily' form.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306932,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Suzuka Itou",
+        "native": "伊藤涼香"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306932-FQV11UHKCGcE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306932-FQV11UHKCGcE.jpg"
+      },
+      "descripcion": "Suzuka is a photographer who often attends cosplay events. She gets overly excited by a variety of cosplay. She gets especially excited by cross-playing.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        },
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262590,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tae Hanaoka",
+        "native": "花岡多絵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262590-YUr2IDiN0GYB.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262590-YUr2IDiN0GYB.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        },
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306937,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Takeru Koga",
+        "native": "古賀 岳琉"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306937-GduZAltosqg4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306937-GduZAltosqg4.png"
+      },
+      "descripcion": "Takeru Koga is a member of class 1-5 who is a friend and classmate of [Marin Kitagawa](https://anilist.co/character/133676/Marin-Kitagawa) and later [Wakana Gojou](https://anilist.co/character/133678/Wakana-Gojou).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368739,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Arisa Izayoi",
+        "native": "十六夜ありさ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b368739-JDDinC86tY5v.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b368739-JDDinC86tY5v.png"
+      },
+      "descripcion": "Character in the *We're the Tsukiyono ♡ Company~* anime.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 264039,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Flower Pet",
+        "native": "フラワーペット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b264039-NtahTcTkPrwA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b264039-NtahTcTkPrwA.png"
+      },
+      "descripcion": "Shion's magical companion.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        }
+      ]
+    },
+    {
+      "id": 261576,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Game Onsei",
+        "native": "ゲーム音声"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        }
+      ]
+    },
+    {
+      "id": 260980,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ikemen",
+        "native": "イケメン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260980-mbiwfxWsmeiJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b260980-mbiwfxWsmeiJ.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262591,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ishi",
+        "native": "医師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262591-sY78O11cYJ3R.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262591-sY78O11cYJ3R.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        }
+      ]
+    },
+    {
+      "id": 369375,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kagaku Kyoushi",
+        "native": "化学教師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 275523,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kaname",
+        "native": "要"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b275523-4JmDckw35lIV.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b275523-4JmDckw35lIV.jpg"
+      },
+      "descripcion": "The main character of the in-universe \"SuccIDK\" manga series.\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262592,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kengaku Kyaku",
+        "native": "見学客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        }
+      ]
+    },
+    {
+      "id": 369374,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kokugo Kyoushi",
+        "native": "国語教師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368740,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Komari Mikagura",
+        "native": "御神楽こまり"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b368740-j7sWuZDAu8BX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b368740-j7sWuZDAu8BX.png"
+      },
+      "descripcion": "Character in the *We're the Tsukiyono ♡ Company~* anime.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368742,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kumicho",
+        "native": "組長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b368742-j4rMCDuT4NuR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b368742-j4rMCDuT4NuR.png"
+      },
+      "descripcion": "Character in the *We're the Tsukiyono ♡ Company~* anime.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368743,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kumiin",
+        "native": "組員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b368743-nbJXNfGzRSqd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b368743-nbJXNfGzRSqd.png"
+      },
+      "descripcion": "Character in the *We're the Tsukiyono ♡ Company~* anime.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368741,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kureha Amagi",
+        "native": "天城くれは"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b368741-w5UKmJ7IviGa.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b368741-w5UKmJ7IviGa.png"
+      },
+      "descripcion": "Character in the *We're the Tsukiyono ♡ Company~* anime.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262095,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kyaku",
+        "native": "客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        }
+      ]
+    },
+    {
+      "id": 267568,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Liz",
+        "native": "リズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b267568-Fe0cIRSNmyrr.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b267568-Fe0cIRSNmyrr.jpg"
+      },
+      "descripcion": "A character from the manga \"I'm a Mega-Best-Selling High-School-Student Light Novel Author That Has a Succubus Thirsting for Me Every Night and I Don't Know What to Do.\"",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        },
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368745,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Luna Kamikage",
+        "native": "神影ルナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b368745-A4F02dHQncZ2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b368745-A4F02dHQncZ2.png"
+      },
+      "descripcion": "Character in the *We're the Tsukiyono ♡ Company~* anime.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36309,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Narrator",
+        "native": "ナレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+      },
+      "descripcion": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 6,
+          "title": {
+            "romaji": "TRIGUN",
+            "english": "Trigun",
+            "native": "TRIGUN"
+          }
+        },
+        {
+          "id": 21,
+          "title": {
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
+          }
+        },
+        {
+          "id": 25,
+          "title": {
+            "romaji": "Sunabouzu",
+            "english": "Desert Punk",
+            "native": "砂ぼうず"
+          }
+        },
+        {
+          "id": 28,
+          "title": {
+            "romaji": "Yakitate!! Japan",
+            "english": null,
+            "native": "焼きたて!! ジャぱん"
+          }
+        },
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 33,
+          "title": {
+            "romaji": "Kenpuu Denki Berserk",
+            "english": "Berserk",
+            "native": "剣風伝奇ベルセルク"
+          }
+        },
+        {
+          "id": 60,
+          "title": {
+            "romaji": "Chrno Crusade",
+            "english": "Chrono Crusade",
+            "native": "クロノクルセイド"
+          }
+        },
+        {
+          "id": 67,
+          "title": {
+            "romaji": "Basilisk: Kouga Ninpouchou",
+            "english": "Basilisk",
+            "native": "バジリスク 甲賀忍法帖"
+          }
+        },
+        {
+          "id": 80,
+          "title": {
+            "romaji": "Kidou Senshi Gundam",
+            "english": "Mobile Suit Gundam",
+            "native": "機動戦士ガンダム"
+          }
+        },
+        {
+          "id": 90,
+          "title": {
+            "romaji": "Shin Kidou Senki Gundam Wing",
+            "english": "Mobile Suit Gundam Wing",
+            "native": "新機動戦記ガンダムW"
+          }
+        }
+      ]
+    },
+    {
+      "id": 267153,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Neon no Flower Pet",
+        "native": "ネオンのフラワーペット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b267153-R7Qh9sOmk2Ak.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b267153-R7Qh9sOmk2Ak.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262091,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262092,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262593,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262594,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        }
+      ]
+    },
+    {
+      "id": 369376,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262094,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tenin",
+        "native": "店員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 132405,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling",
+            "native": "その着せ替え人形は恋をする"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368744,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Wakagashira",
+        "native": "若頭"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b368744-8bj5ltfSAuAz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b368744-8bj5ltfSAuAz.png"
+      },
+      "descripcion": "Character in the *We're the Tsukiyono ♡ Company~* anime.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154768,
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+            "english": "My Dress-Up Darling Season 2",
+            "native": "その着せ替え人形は恋をする Season 2"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 52,
+  "actualizado": 1788565331
+}

@@ -1,0 +1,1890 @@
+{
+  "clave": "gachiakuta",
+  "nombre": "Gachiakuta",
+  "descripcion": "El mundo de Rudo y los Cleaners",
+  "generos": [
+    "Acción",
+    "Fantasía"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178025-cWJKEsZynkil.jpg",
+  "medios": [
+    {
+      "id": 178025,
+      "title": {
+        "romaji": "Gachiakuta",
+        "english": "Gachiakuta",
+        "native": "ガチアクタ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178025-cWJKEsZynkil.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178025-cWJKEsZynkil.jpg"
+      }
+    },
+    {
+      "id": 204436,
+      "title": {
+        "romaji": "Gachiakuta 2nd Season",
+        "english": "Gachiakuta Season 2",
+        "native": "ガチアクタ 第2期"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204436-bJJsu28NEiIO.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204436-bJJsu28NEiIO.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 266438,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Enjin",
+        "native": "エンジン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b266438-3Veykti1lXgg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b266438-3Veykti1lXgg.png"
+      },
+      "descripcion": "__Height:__ 190 cm\n__Affiliation:__ Cleaners\n__Jinki:__ \"Umbreaker\"\n\nEngine is from the Abyss and the man that saved [Rudo](https://anilist.co/character/266433/Rudo) when he fell out of the sky. He has a very bright and fun personality, but very little energy and seemingly is chill and laid-back. Despite his incredible abilities, he refers to himself as \"your average janitor.\"",
+      "genero": "Male",
+      "edad": "28",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 22
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        },
+        {
+          "id": 204436,
+          "title": {
+            "romaji": "Gachiakuta 2nd Season",
+            "english": "Gachiakuta Season 2",
+            "native": "ガチアクタ 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 275749,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Riyou Reaper",
+        "native": "リヨウ・リーパー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b275749-fglzDjaLZh1H.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b275749-fglzDjaLZh1H.png"
+      },
+      "descripcion": "__Height:__ 155 cm\n__Jinki:__ \"The Ripper\"\n\nShe’s a former hitman and currently a member of the Akuta faction of the Cleaners. She has an unusual fighting style where she wields her large scissors with her feet. Normally cheerful and playful, she becomes strikingly pragmatic in battle.",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        },
+        {
+          "id": 204436,
+          "title": {
+            "romaji": "Gachiakuta 2nd Season",
+            "english": "Gachiakuta Season 2",
+            "native": "ガチアクタ 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 266433,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Rudo",
+        "native": "ルド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b266433-8JWks5k2OPJn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b266433-8JWks5k2OPJn.png"
+      },
+      "descripcion": "__Height:__ 163 cm\n__Jinki:__ \"3R\"\n\nRudo is the foster son of [Regto](https://anilist.co/character/266437/Regto). \n\nHe was originally from the slums of the Sphere, but ended up sentenced to the Abyss after being falsely accused of murder. Due to being physically abused and abandoned by his real parents, Rudo is emotionally closed off and introverted and has permanent painful scars on his hands; having to keep them covered up by bandages and a pair of gloves Regto gifted to him to help sooth the excruciating pain.",
+      "genero": "Male",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        },
+        {
+          "id": 204436,
+          "title": {
+            "romaji": "Gachiakuta 2nd Season",
+            "english": "Gachiakuta Season 2",
+            "native": "ガチアクタ 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 268742,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Zanka Nijiku",
+        "native": "ザンカ・ニジク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b268742-PSWLnWDJH7HJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b268742-PSWLnWDJH7HJ.png"
+      },
+      "descripcion": "__Height:__ 178 cm \n__Jinki:__ \"Lovely Assistaff\"\n\nHe’s a former Hell Guard trainee and is currently a member of the Akuta faction of the Cleaners.",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        },
+        {
+          "id": 204436,
+          "title": {
+            "romaji": "Gachiakuta 2nd Season",
+            "english": "Gachiakuta Season 2",
+            "native": "ガチアクタ 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298957,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Alha Korvus",
+        "native": "アルハ・コルバス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298957-y1XZXuqoXtOy.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298957-y1XZXuqoXtOy.jpg"
+      },
+      "descripcion": "__Affiliation:__ Cleaners (Boss)\n\nAlha is the boss of the Cleaners. He is strong, reliable and trustworthy, with strong characters like [Engine](https://anilist.co/character/266438/Enjin) even acknowledging his leadership. He also is charismatic and has the peoples best intentions at heart, welcoming [Rudo](https://anilist.co/character/266433/Rudo) immediately into the Cleaners because of his faith in his companions.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298963,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Alice Stilza",
+        "native": "スティルザアリス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298963-BEjtNOkIM70O.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298963-BEjtNOkIM70O.jpg"
+      },
+      "descripcion": "Alice Stilza is a famous doctor that took part in the treatment for body contamination since the very beginning, but while she was researching contaminated material for the treatment, she took one in without realizing it, causing her voice and her appearence to be weird.\n\nStilza is very old, with no hair left on her head. The skin on her face is sagging to the point her skull bones are poking out. She is missing several teeth and has a large nose and ear piecing's.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298929,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Amo Empool",
+        "native": "アモ・エンプール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298929-FPGX8O3DHcoL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298929-FPGX8O3DHcoL.png"
+      },
+      "descripcion": "__Height:__ 158 cm (5'2\")\n\nAmo is a teenage girl who lives in the Forbidden Zone Penta. She is able to breath in the Abyss and has seen someone who can go up to Heaven. Whilst appearing sweet and almost childlike, she is easily made emotional and will lash out at others if provoked.\n\nAmo's vital instrument is a pair of watchmen series boots, which when worn together, can produce a 'smell'. Using her jinki, she's able to manipulate the smell and give all who breath it in hallucinations of people they treasure and thus turning them on their allies.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        },
+        {
+          "id": 204436,
+          "title": {
+            "romaji": "Gachiakuta 2nd Season",
+            "english": "Gachiakuta Season 2",
+            "native": "ガチアクタ 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 401148,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Amo no Haha",
+        "native": "アモの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b401148-iIa46rSAfLpd.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b401148-iIa46rSAfLpd.jpg"
+      },
+      "descripcion": "The mother of Amo Empool who sold her to a trafficker.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372394,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Arashiya no Onna",
+        "native": "荒らし屋の女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b372394-Pzn4BLVJwRLF.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b372394-Pzn4BLVJwRLF.jpg"
+      },
+      "descripcion": "A member of the raiders with a shovel vital instrument.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298961,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "August Stilza",
+        "native": "オーガスト・スティルザ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298961-rm1FALxMHvKK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298961-rm1FALxMHvKK.png"
+      },
+      "descripcion": "__Affiliation:__ Cleaners\n__Height:__ 187 cm\n\nAugust Stilza is a member of the Cleaners, and serves as the artisan for them, crafting their masks and clothes. He is a very loud and passionate man, but is known to actively procrastinate finishing his work when given a deadline or rushed, and when left to complete in his own time will pump out high quality work in no time.",
+      "genero": "Male",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306960,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bro Santa",
+        "native": "ブロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306960-P1LtqzRBOmOB.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306960-P1LtqzRBOmOB.jpg"
+      },
+      "descripcion": "Bro Santa is a Cleaner, and is the leader of 'Team Child'. He cares greatly for [Dear](https://anilist.co/character/306959/Dia-Santa) and watches over him, even though they are not related by blood. His vital instrument is his bandana.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327270,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bundus Begalkeit",
+        "native": "ブンドゥス・ベガルケイト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327270-D6J4vLE4uFyQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327270-D6J4vLE4uFyQ.png"
+      },
+      "descripcion": "__Height:__ 200 cm\n\nBundus is an antagonist in Gachiakuta. He is a Giver and a former rookie member of the Vandals organization.\n\nAfter showing promise when fighting the janitors, [Zodyl](https://anilist.co/character/306966/Typhon-Zodyl) promoted him to the Vandal’s Organization’s front line known as the Star team.",
+      "genero": "Male",
+      "edad": "44",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 19
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 266434,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chiwa",
+        "native": "チワ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b266434-Wkjo1jlTgDCm.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b266434-Wkjo1jlTgDCm.jpg"
+      },
+      "descripcion": "A girl who lives in the slums in the Sphere. [Rudo](https://anilist.co/character/266433/Rudo) likes her because of the way she seems to care and worry about him.\n\n(Source: Official Site)",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298955,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cthoni Andor",
+        "native": "クトーニ・アンドール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298955-Ck2LPSBKjaQ3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298955-Ck2LPSBKjaQ3.png"
+      },
+      "descripcion": "__Affiliation:__ Vandals\n__Height:__ 152 cm\n__Jinki:__ \"Manhole\"\n\nCthoni is a rather short, androgynous girl. She is constantly emotionless, often showing little to no expression. She is very quiet and doesn't speak up, which gives her the effect of being unnoticed and being able to sneak up on people. She is realistic in battles, as while [Jabber](https://anilist.co/character/298953/Wonger-Jabber) yearns to continue an unbeatable fight, she knowns it's right to retreat. Cthoni is incredibly strong, being able to pick up Jabber who is many times her size with ease.\n\nUsing her jinki, which is a sewer manhole, Cthoni is able to teleport from one place to another quickly and quietly without notice. The manhole is able to fit one person at a time and can vanish when covered again.",
+      "genero": "Female",
+      "edad": "27",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        },
+        {
+          "id": 204436,
+          "title": {
+            "romaji": "Gachiakuta 2nd Season",
+            "english": "Gachiakuta Season 2",
+            "native": "ガチアクタ 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306959,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dear Santa",
+        "native": "ディア・サンタ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306959-Peh0lBGX3Qbw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306959-Peh0lBGX3Qbw.jpg"
+      },
+      "descripcion": "__Height:__ 130 cm\n__Jinki:__ \"Centralian\"\n\nDear Santa is a Cleaner, being a member of 'Team Child'. His vital instrument is the pacifier he usually keeps in his mouth, and he gets sleepy late at night.",
+      "genero": "Male",
+      "edad": "10",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 17
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298960,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Delmon Gates",
+        "native": "デルモン・ゲイツ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298960-Vahr3stH631y.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298960-Vahr3stH631y.jpg"
+      },
+      "descripcion": "__Affiliation:__ Cleaners\n__Jinki:__ \"Thirst Quencher\"\n\nDelmon is a loud and passionate man, always shouting at the top of his lungs. In his past, Delmon worked as a farmer. He knew a woman whos dream it was to see a flower bloom, even in the dead Abyss. Delmon worked tirelessly, eventually cultivating his jinki, out of his desire to make said plants 'grow big'. He eventually did produce a flower and showed it to the woman, who was joyous to see one. Delmon made it his goal to fill the house with flowers. One day, Delmon's farm was attacked by Vandals, leaving a deep mental scar.\n\nDelmon's jinki is a water hose. This grew from his desire to make plants 'grow big'. Much like real water hose's, Delmon's jinki has several different nozzles, which can change the power of the jinki.",
+      "genero": "Male",
+      "edad": "45",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298962,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eishia Stilza",
+        "native": "エイシア・スティルザ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298962-lOEicLlWzNax.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298962-lOEicLlWzNax.png"
+      },
+      "descripcion": "__Affiliation:__ Cleaners\n__Height:__ 153 cm\n\nEishia is a rather small young woman with blonde hair and pink eyes. She is incredibly shy, not being one to take credit for things she's done. She is usually seen with her head down and hands together, preferring to just not speak at all. Aesha also shows great kindness, being willing to heal all with her gifts.\n\nIt is not known what it is, but using her jinki, Eishia is given incredible healing abilities, being able to raise someone from near death to full health in a matter of hours.",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298954,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Follo Tunito",
+        "native": "フォロ・ツニート"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298954-ciXAKksdyGJv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298954-ciXAKksdyGJv.png"
+      },
+      "descripcion": "__Affiliation:__ Cleaners\n__Height:__ 175 cm\n\nFollo is a young man. He is in the support Cleaners group due to him lacking a jinki of his own, but is cultivating a 'treasured item' of his own to become a giver. \n\nFollo owns an hammer which he uses for combat in battle, and is potentially the jinki he's cultivating.",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 336645,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fu Orostor",
+        "native": "フウ・オロストル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b336645-9F01WXTyb3Ek.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b336645-9F01WXTyb3Ek.jpg"
+      },
+      "descripcion": "__Jinki:__ \"Hii\"\n__Height:__ 160 cm\n\nHe’s a rookie member of the Raiders. ~!He later joins the Cleaners.!~",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        },
+        {
+          "id": 204436,
+          "title": {
+            "romaji": "Gachiakuta 2nd Season",
+            "english": "Gachiakuta Season 2",
+            "native": "ガチアクタ 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 375013,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gnomulas Ridd",
+        "native": "グノムラース・リド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b375013-SY4oUkh5vY9t.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b375013-SY4oUkh5vY9t.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": "47",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298956,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gob",
+        "native": "ゴブ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298956-02k1tGCJwDeL.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298956-02k1tGCJwDeL.jpg"
+      },
+      "descripcion": "__Affiliation:__ Canvas Town\n\nGob is a generational Giver who could create protection charms using his marker Jinki. At some point in his life, he would inherit the generational marker jinki. Using this, he would begin to create charms using it's abilities. He created a charm around Canvas Town which prevented those with bad intentions from entering.\n\n~!He died from contamination in the Abyss. His corpse was found, and taken to a morgue. The doctors discovered the cause to be contamination exposure. The mayor and the janitors would mourn his lose, as his jinki and legacy was passed onto the next jinki bearer.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298958,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gris Rubion",
+        "native": "グリス・ルビオン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298958-2U6c3So0i8l4.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298958-2U6c3So0i8l4.jpg"
+      },
+      "descripcion": "__Affiliation:__ Cleaners\n__Height:__ 193 cm\n\nGriss is one of the Cleaners who work as a supporter type due to lacking a jinki of his own. Griss has incredible strength. His grip especially stands out, with a simple handshake causing [Rudo](https://anilist.co/character/266433/Rudo) pain. With just one hand he is able to crush the armour of an Aberrant Beast, which is known to be tough. He is also able to throw said beasts incredible distances.",
+      "genero": "Male",
+      "edad": "30",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 26
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        },
+        {
+          "id": 204436,
+          "title": {
+            "romaji": "Gachiakuta 2nd Season",
+            "english": "Gachiakuta Season 2",
+            "native": "ガチアクタ 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306965,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Guita Heavy Fantasia",
+        "native": "ギータ・ヘビィ・ファンタジア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306965-O9SMKXV4LB4f.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306965-O9SMKXV4LB4f.jpg"
+      },
+      "descripcion": "__Affiliation:__ Cleaners\n__Jinki:__ \"Guita\"\n__Height:__  148 cm (4’10”)\n\nGuita Heavy Fantasia is a Giver who works for the Cleaners as a member of 'Team Child'. She is a loud, silly teenage girl with a deep love for animals and monsters.",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 344055,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hyou",
+        "native": "ヒョウ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b344055-xoN8p0z6PeKN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b344055-xoN8p0z6PeKN.jpg"
+      },
+      "descripcion": "She is a member of the Hell Guard training camp.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298953,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jabber Wonger",
+        "native": "ジャバー・ウォンガー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298953-2HajxxsIx9wd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298953-2HajxxsIx9wd.png"
+      },
+      "descripcion": "__Affiliation:__ Vandals\n__Height:__ 183 cm\n__Jinki:__ Mankira\n\nJabber is a Giver and is a member of the Vandals, a criminal group of givers. He is known to be an unhinged psychopath and has a violent obsession with battle; always being eager to enter a fight with a wide grin and only acknowledging those that are strong enough to compete with him. He is also a masochist, being labeled as a \"super masochist\" by [Rudo](https://anilist.co/character/266433/Rudo), and finds excitement and ecstasy through pain.",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        },
+        {
+          "id": 204436,
+          "title": {
+            "romaji": "Gachiakuta 2nd Season",
+            "english": "Gachiakuta Season 2",
+            "native": "ガチアクタ 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372395,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Konza",
+        "native": "コンザ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b372395-4r6oHRtZo8UC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b372395-4r6oHRtZo8UC.png"
+      },
+      "descripcion": "A member of the Raiders with a snowshoe vital instrument.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355712,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kyouka Nijiku",
+        "native": "キョウカ・ニジク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b355712-qwPl0imTbcHg.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b355712-qwPl0imTbcHg.jpg"
+      },
+      "descripcion": "She’s a member of the Hell Guard as the captain of company one “Red Horns.”\n\n~!Like the rest of her family Kyouka managed to earn the rank of Hell Guard but due to an unknown reason never sat on the golden throne.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 401149,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mister",
+        "native": "おじさん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b401149-Mk1DRNiAj4Fy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b401149-Mk1DRNiAj4Fy.png"
+      },
+      "descripcion": "Unnamed human trafficker who bought Amo as a child. He was the former owner of the Watchman Series boots.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 376738,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mymo",
+        "native": "マイモ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376738-XOlpqVdM5Sdg.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b376738-XOlpqVdM5Sdg.jpg"
+      },
+      "descripcion": "Mymo is a well known news reporter on the Ground.\n~!During the Doll Festival arc, Mymo was the MC and announcer for multiple events. After the events concluded, he used the Chokers made by the Choker maker to control the attendees of the Doll Festival and unveil himself as the ruler of the world.\n__Jinki:__ \"Elenhos\"!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306961,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Noerde Hew Amozo",
+        "native": "ネルデ・ヒュウ・アモゾ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306961-5xWPdrIBUHoc.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306961-5xWPdrIBUHoc.jpg"
+      },
+      "descripcion": "Noerde Hew Amozo is an antagonist in Gachiakuta and member of the Vandals.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 266437,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Regto",
+        "native": "レグト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b266437-sUIpywq7P310.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b266437-sUIpywq7P310.jpg"
+      },
+      "descripcion": "The man who raised [Rudo](https://anilist.co/character/266433/Rudo) after he lost his parents. He gave Rudo a pair of gloves.\n\n(Source: Official Site)",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298959,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Remlin Tissark",
+        "native": "ティサークレムリン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298959-ECaxJ4FdBKds.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298959-ECaxJ4FdBKds.jpg"
+      },
+      "descripcion": "__Height:__ 153 cm\n__Affiliation:__ Canvas Town\n__Occupation:__ Spellcaster\n\nRemlin is a small, young kid who was chosen by [Gob](https://anilist.co/character/298956/Gob) to be the heir of his Vital Instrument, a jinki passed down from generation to generation within Canvas Town. \n\nThey are a cheerful and celebratory kid, and despite having moments of extreme vulnerability is able to bounce back quickly and return to being joyful. Remlin, given for their age, is very childish, as they get excited easily and is very loud. They can typically been seen rushing to things, which sometimes leads to them crashing into people. Remlin is a natural Giver, and was immediately able to use the succession jinki's power upon receiving it. Using their jinki, Remlin is able to create charms for many purposes, such as protection of individuals or huge light shows.",
+      "genero": null,
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298949,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Semiu Grier",
+        "native": "セミュ・グライア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298949-l3RnVSHlyRc3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298949-l3RnVSHlyRc3.png"
+      },
+      "descripcion": "__Affiliation:__ Cleaners\n__Height:__ 175 cm + 8 cm Heels\n__Jinki:__ \"Eyes\"\n\nSemiu is very confident and professional, preferring to get on with things as quickly as possible. She is dedicated to her job, being at the janitors desk and picking up calls as soon as dawn strikes. She says to Rudo that his stability using a jinki is high, so he needs to train it.\n\nSemiu's jinki is unique in the sense it is not used as a weapon to take down Aberrant Beasts, but rather as a tool to assess a Givers potential. Semiu is able to see the unseen, and how far one can go, which sometimes leads to shocking discoveries.",
+      "genero": "Female",
+      "edad": "26",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 377976,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shikage",
+        "native": "シカゲ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b377976-2uAxPLWJUHBv.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b377976-2uAxPLWJUHBv.jpg"
+      },
+      "descripcion": "A member of the cleaners who uses their giver ability to shield Cleaner HQ from uninvited intruders",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 291689,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tamsy Caines",
+        "native": "タムジー・ケインズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b291689-qUluOFlz7ZiD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b291689-qUluOFlz7ZiD.png"
+      },
+      "descripcion": "__Height:__ 180 cm\n__Jinki:__ \"Tokushin\"\n\nHe is a member of the Cleaners' Team Eager. His vital instrument is a distaff and he has a calm demeanor and sharp observing eye.",
+      "genero": "Male",
+      "edad": "23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298950,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tomme Mima",
+        "native": "トウム・ミマ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298950-mRn2Qs3KAJ5a.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298950-mRn2Qs3KAJ5a.jpg"
+      },
+      "descripcion": "__Affiliation:__ Cleaners\n__Height:__ 167 cm\n\nTomme is a young woman. She is in the support Cleaners group due to her lacking a jinki of his own. She is a compassionate woman, immedietly showing concern for members of the mission trapped in the basement upon [Engine](https://anilist.co/character/266438/Enjin)'s arrival. She is shown visibly emotional when Engine calms her nerves about them. Later when they find out [Rudo](https://anilist.co/character/266433/Rudo) was deeply upset due to mistaking [Griss](https://anilist.co/character/298958/Rubion-Gris) for being dead, she comforts him.\n\nBeing a supporter, Tomme is tought to have a good amount of strength used to fight Aberrant Beasts.",
+      "genero": "Female",
+      "edad": "21",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306966,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zodyl Typhon",
+        "native": "ゾディル・テュフォン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306966-TzwtOoEHRWrU.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306966-TzwtOoEHRWrU.jpg"
+      },
+      "descripcion": "__Height:__ 188 cm\n\nZodyl Typhon is a major antagonist in Gachiakuta. He is a Giver and leader of the Vandals, a group of criminals all of whom are givers.",
+      "genero": "Male",
+      "edad": "23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 24
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        },
+        {
+          "id": 204436,
+          "title": {
+            "romaji": "Gachiakuta 2nd Season",
+            "english": "Gachiakuta Season 2",
+            "native": "ガチアクタ 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306964,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Abyss Worker With Collar",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306964-5HNFPZAfn0BR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306964-5HNFPZAfn0BR.png"
+      },
+      "descripcion": "The abyss worker with the large collar is one of the key workers seen in Chapter 3. ~!He, alongside the others at first, seem hospitable and curious about [Rudo](https://anilist.co/character/266433/Rudo), only to reveal a more sadistic plan upon having him tied up.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298951,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Abyss Workers Leader",
+        "native": "アビスワーカーズリーダー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298951-Me9hTdzkyHZ3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298951-Me9hTdzkyHZ3.png"
+      },
+      "descripcion": "__Affiliation:__ SARAW\n\nHe is seemingly the leader of the abyss workers/human traffickers. He is overjoyed at the sight of Rudo and at first seemingly welcoming, studying Rudo as if he were a foreign species, but in mere minutes has Rudo chained up. He explains the bodies of sky people sell very well in the Abyss, because they all hate them.\n\n~!When Rudo defeats them all, only he remains, and Rudo attempts to finish the job only to be stopped by Engine, leaving the leader passed out in shock. Some time later, he awakens to be questioned by Jabber Wongar on details of Rudo, and is promptly killed by him.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298952,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Chiwa no Haha",
+        "native": "チワの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298952-zoJOnw3jHmkB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298952-zoJOnw3jHmkB.png"
+      },
+      "descripcion": "Chiwa's Mom has long hair and wears the common stuffed cotton large collar jackets that the rest of the sky people do. From what little we see of her, she is fairly impatient, yelling at Chiwa when she takes too long to get home, and she is also possibly strict, as Chiwa follows immediately.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372005,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hamburger-ya no Kyaku",
+        "native": "ハンバーガー屋の客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372006,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hamburger-ya no Kyaku",
+        "native": "ハンバーガー屋の客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368928,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Josei",
+        "native": "女性"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 369466,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kagegausui Otoko",
+        "native": "影が薄い男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b369466-HaGz63bKjThs.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b369466-HaGz63bKjThs.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 369465,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Machona Otoko",
+        "native": "マッチョな男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b369465-LaK7RWxPvVEw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b369465-LaK7RWxPvVEw.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 388480,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Otoko no Ko",
+        "native": "男の子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b388480-qpwi1j2WaBy4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b388480-qpwi1j2WaBy4.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 388481,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Papa",
+        "native": "パパ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b388481-oENR8oiFAAyy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b388481-oENR8oiFAAyy.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 369464,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Parka no Otoko",
+        "native": "パーカーの男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b369464-yVsTMRrwPrCr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b369464-yVsTMRrwPrCr.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368935,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Saibankan",
+        "native": "裁判官"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b368935-desLyBZ6nO63.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b368935-desLyBZ6nO63.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368923,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shito",
+        "native": "使徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368926,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shito",
+        "native": "使徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368927,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shito",
+        "native": "使徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368924,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shoujo",
+        "native": "少女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368932,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shounen",
+        "native": "少年"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368933,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shounen",
+        "native": "少年"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368934,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shounen",
+        "native": "少年"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 369463,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tenkaijin",
+        "native": "天界人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368925,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Zokumin",
+        "native": "族民"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368929,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Zokumin",
+        "native": "族民"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178025,
+          "title": {
+            "romaji": "Gachiakuta",
+            "english": "Gachiakuta",
+            "native": "ガチアクタ"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 59,
+  "actualizado": 1788565168
+}

@@ -1,0 +1,5786 @@
+{
+  "clave": "mushoku-tensei",
+  "nombre": "Mushoku Tensei",
+  "descripcion": "Jobless Reincarnation",
+  "generos": [
+    "Isekai",
+    "Fantasía"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-1ANspF1EWyFx.jpg",
+  "medios": [
+    {
+      "id": 108465,
+      "title": {
+        "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+        "english": "Mushoku Tensei: Jobless Reincarnation",
+        "native": "無職転生 ～異世界行ったら本気だす～"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-1ANspF1EWyFx.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108465-1ANspF1EWyFx.jpg"
+      }
+    },
+    {
+      "id": 127720,
+      "title": {
+        "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+        "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+        "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127720-ADJgIrUVMdU9.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127720-ADJgIrUVMdU9.jpg"
+      }
+    },
+    {
+      "id": 146065,
+      "title": {
+        "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+        "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+        "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146065-IjirxRK26O03.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146065-IjirxRK26O03.png"
+      }
+    },
+    {
+      "id": 166873,
+      "title": {
+        "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+        "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+        "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166873-xO0BRPkmwFll.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166873-xO0BRPkmwFll.png"
+      }
+    },
+    {
+      "id": 178789,
+      "title": {
+        "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+        "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+        "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178789-hNXjKFzUq7mk.jpg"
+      }
+    },
+    {
+      "id": 141534,
+      "title": {
+        "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 - Eris no Goblin Toubatsu",
+        "english": "Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer",
+        "native": "無職転生 ～異世界行ったら本気だす～ 第2クール エリスのゴブリン討伐"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141534-Tmnlz4mvYhaU.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141534-Tmnlz4mvYhaU.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 255894,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Cliff Grimoire",
+        "native": "クリフ・グリモル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b255894-m8YzAbnDgsIh.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b255894-m8YzAbnDgsIh.jpg"
+      },
+      "descripcion": "Cliff Grimoire is the Grandson of the Pope, and a friend of Rudeus. \n\nCliff has a very high amount of pride, so much so that he will proudly tell people when they ask him for help. Though this trait may irk many people it cannot be said that he is arrogant since he is shown to be constantly studying to improve himself showing that he is very diligent as well. He is also very loyal to his friends, since it is shown that if he is asked for help, then that becomes his main priority\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 141534,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 - Eris no Goblin Toubatsu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール エリスのゴブリン討伐"
+          }
+        },
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88349,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Eris Boreas Greyrat",
+        "native": "エリス・ボレアス・グレイラット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88349-5dsNUah3oBj8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88349-5dsNUah3oBj8.png"
+      },
+      "descripcion": "Eris Boreas Greyrat is a noble girl and distant relative of [Rudeus](https://anilist.co/character/88348/Rudeus-Greyrat). She is a tsundere with a short temper but has potential in the Sword-God style.\n\n~!She is Rudeus' third wife and gives birth to their son [Ars](https://anilist.co/character/273378/Greyrat-Ars) and daughter [Christina](https://anilist.co/character/278862/Greyrat-Christina). She is one of the three goddesses Rudeus worships in his religion. A wooden sword that serves as a relic for the Goddess of War is enshrined in the basement.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 141534,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 - Eris no Goblin Toubatsu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール エリスのゴブリン討伐"
+          }
+        },
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88350,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Roxy Migurdia",
+        "native": "ロキシー・ミグルディア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88350-QU1iwgZ887U8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88350-QU1iwgZ887U8.png"
+      },
+      "descripcion": "Roxy Migurdia is a talented mage from the Migurd race, and a former magic tutor. Because she can't use telepathy, she left her village due to feeling isolated from her peers. Unable to make a stable living as an adventurer, she became a travelling tutor and eventually becomes [Rudeus'](https://anilist.co/character/88348/Rudeus-Greyrat) teacher.\n\n~!She is Rudeus' second wife and gives birth to their daughter [Lara](https://anilist.co/character/273376/Greyrat-Lara) & [Lily](https://anilist.co/character/321620/Greyrat-Lily). She is one of the three goddesses Rudeus worships in his religion. Her panties that serves as a relic for the Goddess of Wisdom is enshrined in the basement.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88348,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Rudeus Greyrat",
+        "native": "ルーデウス・グレイラット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88348-bIe5XnXdRpmX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88348-bIe5XnXdRpmX.png"
+      },
+      "descripcion": "__Height:__ 175 cm (5'9\")\n\nRudeus is a tall, well-built, and cool-looking man. However, before his reincarnation, he was originally an overweight 34-year-old Japanese NEET who became a recluse following his high-school persecution. Because of his former life, he is careful not to get carried away and become arrogant. As a result, he is extremely self-aware and humble because he does not want to revert to his old self. He is a kind person, helping his friends and protecting his family whenever needed. Due to being capable in many fields, people have high expectations of him. His body possesses a high affinity for magic. Rudeus is very polite to others, often to the point of making them uncomfortable.\n\nRudeus is one of the few people capable of using voiceless magic, and even rarer as someone who can use voiceless incantation with melded magics. He cannot use voiceless incantation for healing magic due to his lack of understanding in regards to how mana is manipulated to heal. A normal Magician takes at least five seconds for a simple spell, while for higher-level spells it's thirty to sixty seconds. Rudeus can do it almost instantly no matter what the difficulty of the spell, with the exception of healing magic.",
+      "genero": "Male",
+      "edad": "34 (previous life), 23 (current)",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 22
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 141534,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 - Eris no Goblin Toubatsu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール エリスのゴブリン討伐"
+          }
+        },
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88351,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ruijerd Superdia",
+        "native": "ルイジェルド・スペルディア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88351-grqY44xz6bvP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88351-grqY44xz6bvP.png"
+      },
+      "descripcion": "Ruijerd Superdia is the former leader of the Superd's Warrior group whom once served under Laplace with unwavering loyalty. He was accompanying [Rudeus](https://anilist.co/character/88348/Rudeus-Greyrat) and [Eris](https://anilist.co/character/88349/Eris-Boreas-Greyrat).\n\n~!Laplace betrayed his group by giving them each a devil spear which made them ecstatic from killing, even their own family. After giving his son a fatal wound, his son managed to destroy the devil spear and Ruijerd finally wakes up from the brainwash. He considered committing suicide but decided not to and everyone of that warrior group swore revenged on Laplace.\n\nHe finally got his revenge after several years of hiding. He interfered in the battle between Laplace and the three heroes. But even if Laplace was defeated, there was no way to change the things that had already transpired.\n\nAfter exacting his revenge, he now has a goal of removing the infamy the Superd race has.!~\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 141534,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 - Eris no Goblin Toubatsu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール エリスのゴブリン討伐"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88346,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Sylphiette",
+        "native": "シルフィエット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88346-h8kCL93AXj4n.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88346-h8kCL93AXj4n.png"
+      },
+      "descripcion": "Sylphiette is [Rudeus](https://anilist.co/character/88348/Rudeus-Greyrat)' childhood friend who is part human, elf, and beast race.\n\n~!Following the teleportation incident, during which her hair turned white from mana exhaustion, she became Princess Ariel's personal bodyguard under the alias Fitz.!~\n\n~!She is Rudeus' first wife and gives birth to their daughter [Lucy](https://anilist.co/character/188846/Greyrat-Lucy) and son [Sieghardt](https://anilist.co/character/273377/Greyrat-Saladin-Sieghardt). She is one of the three goddesses Rudeus worships in his religion. A cloth stained with her virgin blood that serves as a relic for the Goddess of Love is enshrined in the basement.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 145459,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aisha Greyrat",
+        "native": "アイシャ・グレイラット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145459-qCq1vKZtxkT3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b145459-qCq1vKZtxkT3.png"
+      },
+      "descripcion": "Aisha Greyrat is the daughter of [Lilia](https://anilist.co/character/179854/Lilia) and [Paul Greyrat](https://anilist.co/character/88347/Paul-Greyrat) and is the younger half-sister of [Rudeus Greyrat](https://anilist.co/character/88348/Rudeus-Greyrat) and [Norn Greyrat](https://anilist.co/character/145458/Norn-Greyrat).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 209571,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Almanfi",
+        "native": "アルマンフィ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b209571-dq7u2VypFESR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b209571-dq7u2VypFESR.png"
+      },
+      "descripcion": "Almanfi is one of eleven servants of Perugius.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 208082,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Alphonse",
+        "native": "アルフォンス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b208082-Wr3D49EwT5Tj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b208082-Wr3D49EwT5Tj.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 187716,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ariel Asura",
+        "native": "アリエル・アネモイ・アスラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187716-ADbNvyRZDcPa.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187716-ADbNvyRZDcPa.png"
+      },
+      "descripcion": "Second Princess of the Asura Kingdom. She is hardly ever seen without her two bodyguards, [Luke](https://anilist.co/character/226703) and \"[Silent Fitz](https://anilist.co/character/88346)\". After surviving many assassination attempts, she and her bodyguards flee to The Magic City of Sharia and enroll at  the Ranoa Magic Academy.",
+      "genero": "Female",
+      "edad": "17-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 247634,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Atoferatofe Raibaku",
+        "native": "アトーフェラトーフェ・ライバック"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247634-2Qltb6tXiiPR.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247634-2Qltb6tXiiPR.jpg"
+      },
+      "descripcion": "The current demon king of the magic continent and older sister of Badigadi. Atofe is a muscle head person who wants to duel with every strong person that she meets.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262712,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Auber Corvette",
+        "native": "オーベール・コルベット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262712-WYBChHzaB46T.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262712-WYBChHzaB46T.png"
+      },
+      "descripcion": "An emperor rank in the North God Style. He helped Eris with her training and was described as a ninja.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 212905,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bachirou",
+        "native": "バチロウ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212905-NxyMNzuXf07l.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212905-NxyMNzuXf07l.png"
+      },
+      "descripcion": "An adventurer Rudeus encounters on the Demon Continent and a member of Kurt's party.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262620,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Badigadi",
+        "native": "バーディガーディ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262620-IYlLexJptsA4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262620-IYlLexJptsA4.png"
+      },
+      "descripcion": "Engaged to the Great Demon Emperor Kishirika Kishirisu, it is said that he is the demon lord who grants wisdom to those who deserve it. He is the current Fighting God and has been alive even before the war with Laplace. He has an immortal body, being able to regenerate injuries and body parts instantly.\n\n~!He disappears later in the series with his whereabouts unknown, to reappear once again as Hitogami's apostle.!~\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 212902,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Blaze",
+        "native": "ブレイズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212902-fZzOSzkJ7CIT.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212902-fZzOSzkJ7CIT.png"
+      },
+      "descripcion": "An arrogant adventurer Rudeus meets on the Demon Continent.\n\n~!He gets killed in action in the middle of a quest.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309048,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Darius Silva Ganius",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309048-wcUaWEAE2Azz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309048-wcUaWEAE2Azz.png"
+      },
+      "descripcion": "Prime Minister of the Asura Kingdom.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309049,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Derek Redbat",
+        "native": "デリック・レッドバット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309049-mKZl6vfcAnrv.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309049-mKZl6vfcAnrv.jpg"
+      },
+      "descripcion": "An advanced ranked magician and the previous guardian knight of Ariel before Fitz.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 208754,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Edna Leylune",
+        "native": "エドナ・レイルーン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b208754-ScSBf0sEYXbO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b208754-ScSBf0sEYXbO.png"
+      },
+      "descripcion": "**Edna Rayrune** is a middle-aged woman who is Eris' tutor in etiquette.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 186490,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Elinalise Dragonroad",
+        "native": "エリナリーゼ・ドラゴンロード"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186490-XcaRQQOOrSwX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b186490-XcaRQQOOrSwX.png"
+      },
+      "descripcion": "Elinalise is a former member of Paul's party. She has an erotic nature due to her curse. She is a warrior that is good at managing monster aggro but isn't a great fighter.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 310829,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Elise",
+        "native": "エリーゼ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b310829-WdhZevvLKYaQ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b310829-WdhZevvLKYaQ.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 212906,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gablin",
+        "native": "ガブリン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212906-c31fYQcbQUSn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212906-c31fYQcbQUSn.png"
+      },
+      "descripcion": "An adventurer Rudeus encounters on the Demon Continent and a member of Kurt's party.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262623,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gal Farion",
+        "native": "ガル・ファリオン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262623-oVXYm7e8CDvg.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262623-oVXYm7e8CDvg.jpg"
+      },
+      "descripcion": "The current Sword God and Eris' master in the ways of the sword.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 250637,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gallus Cleaner",
+        "native": "ガルス・クリーナー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b250637-lFDDgWlbcV4j.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b250637-lFDDgWlbcV4j.png"
+      },
+      "descripcion": "Gallus is a member of a smuggler organization. He is ranked North Saint in the North God Style.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 226704,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Geese Nukadia",
+        "native": "ギース・ヌーカディア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b226704-6GaXd0Ya1lW6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b226704-6GaXd0Ya1lW6.png"
+      },
+      "descripcion": "Geese is of the Magic Race, the last surviving tribe member, heritage and is introduced into the series when his and Rudeus's paths collide in a shared jail cell located in the Great Forest. Rudeus address Geese by the nickname of \"Newbie\" during their time together. He is a Jack of all Trades that can do almost everything, except fighting for the most part.\n\n~!He's a former member of the adventurer party \"Fang of the Black Wolf\", a party in which Paul and Zenith were former members of. Geese vowed to never teach another woman cooking again after he taught Zenith, which lead to the eventual demise of the party. The connection being that Zenith wanted to impress Paul and after succeeding they left the party which lead to the dissolution.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 206392,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ghislaine Dedoldia",
+        "native": "ギレーヌ・デドルディア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b206392-BKJ4J3S2FzpF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b206392-BKJ4J3S2FzpF.png"
+      },
+      "descripcion": "__Ghislaine Dedoldia__ is the daughter of Gustav the former Doldia village chief, and the mentor of [Eris](https://anilist.co/character/88349/Eris-Boreas-Greyrat) and she is also the student of [Rudeus Greyrat](https://anilist.co/character/88348/Rudeus-Greyrat) in magic and other subjects. She is one of the few people who have become a Sword King.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256891,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ginger York",
+        "native": "ジンジャー・ヨーク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b256891-KRrDa6EjfFeb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b256891-KRrDa6EjfFeb.png"
+      },
+      "descripcion": "Ginger is a loyal subordinate of Zanoba and a former imperial guard.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311810,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Goliade",
+        "native": "ゴリアーデ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311810-Wof3SlDvQyN0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b311810-Wof3SlDvQyN0.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309043,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Grabell Zafin Asura",
+        "native": "グラーヴェル・ザフィン・アスラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309043-DzPjHNC5pLyF.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309043-DzPjHNC5pLyF.jpg"
+      },
+      "descripcion": "First Prince of Asura Kingdom and half-brother of Ariel Anemoi Asura.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 251606,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gustav Dedoldia",
+        "native": "ギュスターヴ・デドルディア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b251606-EIVKCEiLICqw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b251606-EIVKCEiLICqw.png"
+      },
+      "descripcion": "An old warrior and the Chief of the Dedoldia tribe. ~!After he sustains serious injuries in battle, Gyes became the next Chief.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 251607,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gyes Dedoldia",
+        "native": "ギュエス・デドルディア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b251607-pGQRnZP2NonV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b251607-pGQRnZP2NonV.png"
+      },
+      "descripcion": "Gyes Dedoldia is [Linia](https://anilist.co/character/187380) and [Minitona's](https://anilist.co/character/251609) father and [Ghislaine Dedoldia's](https://anilist.co/character/206392) brother. He is the warrior chief of the Dedoldia tribe.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 251608,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hawkendale",
+        "native": "ハーケンディール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b251608-IrwXK7lfGTsu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b251608-IrwXK7lfGTsu.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 208081,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hilda Boreas Greyrat",
+        "native": "ヒルダ・ボレアス・グレイラット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b208081-IkGyzIBSLI8H.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b208081-IkGyzIBSLI8H.png"
+      },
+      "descripcion": "**Hilda Boreas Greyrat** is the mother of Eris and the wife of Philip.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 211165,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hitogami",
+        "native": "ヒトガミ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b211165-4hszgVDUJ228.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b211165-4hszgVDUJ228.png"
+      },
+      "descripcion": "Hitogami is the Man God, having the power to see into the future, and the sworn enemy of [Orsted](https://anilist.co/character/187382). He has a blank white face coupled with a grin that eludes memory, which gives off the feeling that his face is covered in a mosaic. He helps [Rudeus](https://anilist.co/character/88348/Rudeus-Greyrat) throughout key points in his journey.\n\n~!Hitogami later becomes the overarching antagonist of the series following the revelation that he actually sought to prevent the birth of Rudeus' children, who are prophesied to kill him one day.!~\n\n~!Hitogami's exact origins are unknown, however it is known that after the Creator God's death, unbeknownst to anyone, he was born within the Void World. At some point in the distant past, the being who would come to be known as Hitogami killed or otherwise usurped the original Man God and took his form. He then began manipulating the Dragon God and his five Dragon Generals into destroying the other four worlds and then proceeded to help the survivors of those ruined world to flee into the human world.!~",
+      "genero": null,
+      "edad": "5000+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262709,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Isolte Cruel",
+        "native": "イゾルテ・クルーエル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262709-gLw6XGn5iN1V.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262709-gLw6XGn5iN1V.jpg"
+      },
+      "descripcion": "The granddaughter of Reida Ryia.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 212908,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jalil",
+        "native": "ジャリル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212908-GX0viWoz2yKV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212908-GX0viWoz2yKV.png"
+      },
+      "descripcion": "An adventurer Rudeus encounters on the Demon Continent while looking for a lost cat. He was involved in a scheme where pets were poached and once the owners sent a petition to the adventure's guild looking for them, he would return them, thus earning the reward.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311809,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jenius Halfas",
+        "native": "ジーナス・ハルファス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311809-EL0gvAhNykgx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b311809-EL0gvAhNykgx.png"
+      },
+      "descripcion": "Vice Principal of the Ranoa Magic Academy, also known as the Ranoa University of Magic. He was formerly a teacher at the University, and taught Roxy during her time as a student. After hearing of Rudeus's achievements as an adventurer, Jenius sends him a letter inviting him to study as a special student in Ranoa.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 271219,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jino Britts",
+        "native": "ジノ・ブリッツ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b271219-ocHoBHGInf6l.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b271219-ocHoBHGInf6l.png"
+      },
+      "descripcion": "The son of one of the two Sword emperors, Timothy Britts. He was born into the Sword God Style and has been raise up in The Holy Land of Swords. His family, the Britts family is a branch family of the Sword God Style",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 230591,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Juliette",
+        "native": "ジュリエット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b230591-lSz3ho8eJixx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b230591-lSz3ho8eJixx.png"
+      },
+      "descripcion": "Juliette is an orphaned Dwarf and slave purchased by Rudeus and Zanoba with the purpose of helping them in the making of dolls. She was acquired because she fit the criteria of being a child, a Dwarf and by being a Dwarf having dexterous hands, which is preferable in doll-making. She's wary of Rudeus to an extent because of him befitting the behaviour of a folklore individual characterised by typical traits parents tell their children to deter them.",
+      "genero": "Female",
+      "edad": "6",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 267734,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kioku no Miko",
+        "native": "記憶の神子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b267734-d357CgfaqsqM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b267734-d357CgfaqsqM.jpg"
+      },
+      "descripcion": "The Miko of Memory is a young girl born with a special power that allows her to see memories by looking into people's eyes.\n\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 141534,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 - Eris no Goblin Toubatsu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール エリスのゴブリン討伐"
+          }
+        }
+      ]
+    },
+    {
+      "id": 186588,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kishirika Kishirisu",
+        "native": "キシリカ・キシリス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186588-hooSSJ8S9Wcv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b186588-hooSSJ8S9Wcv.png"
+      },
+      "descripcion": "Kishirika Kishirisu is The Great Empress of the Demon Realm. She is the demon empress known for her demon eyes' powers and the ability to bestow others with demon eyes. She is engaged to [Badigadi](https://anilist.co/character/262620/Badigadi), the demon lord of immortality.\n\n__Light Novel Volume 4 Spoiler__\n~!Kishirika Kishirisu is the person that is responsible for giving [Rudeus](https://anilist.co/character/88348/Rudeus-Greyrat) his demon eye, among other favors!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 310240,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Konrad",
+        "native": "コンラート"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b310240-Gip1z1IdfkIf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b310240-Gip1z1IdfkIf.png"
+      },
+      "descripcion": "Member of the S-ranked adventurer party Stepped Leader. \n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 212904,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kurt",
+        "native": "クルト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212904-cQhnbnai1FwE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212904-cQhnbnai1FwE.png"
+      },
+      "descripcion": "A young adventurer Rudeus encounters on the Demon Continent, and the leader of the Tokurabu Toughs. He aspires to make his party famous.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179854,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lilia",
+        "native": "リーリャ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179854-hgRPJ1646RIK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179854-hgRPJ1646RIK.png"
+      },
+      "descripcion": "Lilia is a maid of the Greyrat household. She was [Paul](https://anilist.co/character/88347/Paul-Greyrat)'s classmate in a swordsman dojo. A crippling injury forces her to leave her position as a princess guard, and she becomes a maid to Paul and [Zenith](https://anilist.co/character/179855/Zenith-Greyrat).\n\n~!After working through the revelation with the family, she is taken in as Paul's second wife and becomes closer friends with Zenith. Lillia gets pregnant with Paul's daughter and becomes the mother of [Aisha Greyrat](https://anilist.co/character/145459/Aisha-Greyrat)!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 187380,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Linia Dedoldia",
+        "native": "リニア・デドルディア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187380-6ZEpCbKFk3vj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187380-6ZEpCbKFk3vj.png"
+      },
+      "descripcion": "Linia Dedoldia is the granddaughter of the Village Chief, Gustav, of the Doldia Tribe.\n\n~!She later becomes the slave of Rudeus Greyrat for buying/saving her from the slave trader.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 212909,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lohman",
+        "native": "ロウマン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212909-eLnSDLxtGgTb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212909-eLnSDLxtGgTb.png"
+      },
+      "descripcion": "An adventurer Rudeus encounters on the Demon Continent while looking for a lost cat. He was involved in a scheme where pets were poached and once the owners sent a petition to the adventure's guild looking for them, he would return them, thus earning the reward.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 188846,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lucy  Greyrat",
+        "native": "ルーシー・グレイラット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b188846-A3pa3j16fVjA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b188846-A3pa3j16fVjA.png"
+      },
+      "descripcion": "~!Lucy Greyrat is the child of Rudeus Greyrat and Sylphiette Greyrat.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 226703,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Luke Notos Greyrat",
+        "native": "ルーク・ノトス・グレイラット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b226703-Vtxmj0YrPfBB.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b226703-Vtxmj0YrPfBB.jpg"
+      },
+      "descripcion": "Luke Notos Greyrat is the second prince of the Asura kingdom Ariel Anemoi Asura's personal guardian and also holds the status of Knight. \nHe's also the cousin of Rudeus Greyrat, but from another of the four different branch families in the Greyrat genus, namely the Notos family.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262617,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mimir",
+        "native": "ミミル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262617-NpjLV1cH0vJo.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262617-NpjLV1cH0vJo.jpg"
+      },
+      "descripcion": "Mimir is a member of the party Counter Arrow.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 251609,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Minitona Dedoldia",
+        "native": "ミニトーナ・デドルディア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b251609-lJvzZCVx16H3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b251609-lJvzZCVx16H3.png"
+      },
+      "descripcion": "Daughter of the tribe warrior chief [Gyes Dedoldia](https://anilist.co/character/251607).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 407670,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Moore",
+        "native": "ムーア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b407670-tG6Q7DtPGfpQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b407670-tG6Q7DtPGfpQ.png"
+      },
+      "descripcion": "Captain of [Atofe's](https://anilist.co/character/247634) guards.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262624,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nina Farion",
+        "native": "ニナ・ファリオン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262624-kxNL7t0RRQqY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262624-kxNL7t0RRQqY.png"
+      },
+      "descripcion": "The eldest daughter of the current Sword God Gal Farion.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 212901,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nokopara",
+        "native": "ノコパラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212901-geh29ndkBOHZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212901-geh29ndkBOHZ.png"
+      },
+      "descripcion": "A greedy adventurer Rudeus encounters on the Demon Continent.\n\n~!He catches on to Rudeus' plans, which violates guild procedures, and tries to blackmail him out of his money, but upon facing the wrath of Ruijerd, he pitifully begs for his life before falling unconscious.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 145458,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Norn Greyrat",
+        "native": "ノルン・グレイラット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145458-JG4FkAjUjw2l.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b145458-JG4FkAjUjw2l.png"
+      },
+      "descripcion": "Norn Greyrat is the daughter of [Zenith Greyrat](https://anilist.co/character/179855/Zenith-Greyrat) and [Paul Greyrat](https://anilist.co/character/88347/Paul-Greyrat) and is the younger sister of [Rudeus Greyrat](https://anilist.co/character/88348) and older half-sister of [Aisha Greyrat](https://anilist.co/character/145459/Aisha-Greyrat).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 187382,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Orsted",
+        "native": "オルステッド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187382-NBP6I5OKXHH9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187382-NBP6I5OKXHH9.png"
+      },
+      "descripcion": "Orsted is the current Dragon God, 2nd-ranked of the 7 World Powers, and the sworn enemy of [Hitogami](https://anilist.co/character/211165/Hitogami). Similar to other Dragon Race people such as [Perugius](https://anilist.co/character/209572/Perugius-Dola), he has silver hair and golden sanpaku eyes with an overpowering look. He carries no visible equipment and wears a white coat adorned with fur.\n\nOrsted has a curse that makes every living being feel an overwhelming fear just from being within his presence. Strangely enough, this curse does not affect [Rudeus](https://anilist.co/character/88348/Rudeus-Greyrat) or [Nanahoshi](https://anilist.co/character/137816/Nanahoshi-Shizuka).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262618,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Patrice",
+        "native": "パトリス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262618-tNhawE8RDgp2.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262618-tNhawE8RDgp2.jpg"
+      },
+      "descripcion": "Patrice is a member of the party Counter Arrow.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88347,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Paul Greyrat",
+        "native": "パウロ・グレイラット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88347-YtQTlChhN50m.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88347-YtQTlChhN50m.png"
+      },
+      "descripcion": "Paul Greyrat is the father of [Rudeus Greyrat](https://anilist.co/character/88348/Rudeus-Greyrat), [Norn Greyrat](https://anilist.co/character/145458/Greyrat-Norn) and [Aisha Greyrat](https://anilist.co/character/145459/Greyrat-Aisha). He is both a talented man that became advanced in all three sword arts at a young age and a lustful man that attracts and sleeps with many women before [Zenith](https://anilist.co/character/179855/Zenith-Greyrat) chained him down.\n\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 206430,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pax Shirone",
+        "native": "パックス・シーローン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b206430-lhz550WfFrgz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b206430-lhz550WfFrgz.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 209572,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Perugius Dola",
+        "native": "ペルギウス・ドーラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b209572-UqorSZ7Gf5aK.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b209572-UqorSZ7Gf5aK.jpg"
+      },
+      "descripcion": "Perugius Dola is one of the heroes who banished Demon God Laplace.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 212903,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Perutko",
+        "native": "ペルトコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212903-FACaRj5arLx0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212903-FACaRj5arLx0.png"
+      },
+      "descripcion": "An arrogant adventurer Rudeus meets on the Demon Continent.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 207341,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Philip Boreas Greyrat",
+        "native": "フィリップ・ボレアス・グレイラット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207341-Mq2nb61otzI3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b207341-Mq2nb61otzI3.png"
+      },
+      "descripcion": "**Philip Boreas Greyrat** is the son of Sauros and father of Eris. He holds the position as mayor of Roa.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309050,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pilemon Notos Greyrat",
+        "native": "ピレモン・ノトス・グレイラット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309050-dgj66B3eG1N9.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309050-dgj66B3eG1N9.jpg"
+      },
+      "descripcion": "Head of the Notos family. Brother of Paul Greyrat and father of Luke.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 187381,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pursena Adoldia",
+        "native": "プルセナ・アドルディア\t"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187381-WnuMhmJwruWn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187381-WnuMhmJwruWn.png"
+      },
+      "descripcion": "Together with Linia Dedoldia they are the two troublemakers in Ranoa Magic Academy, but when it comes to fulfilling her dreams of becoming the Village Chief she will do her best. She likes eating meat.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 253792,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rakrana",
+        "native": "ラクラーナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b253792-YRdhjAzlWcuB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b253792-YRdhjAzlWcuB.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262707,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Reida Reia",
+        "native": "レイダ・リィア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262707-qWzhHR46lavz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262707-qWzhHR46lavz.png"
+      },
+      "descripcion": "The current Water God and the grandmother of Isolte Cruel.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 211180,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rokari Migurdia",
+        "native": "ロカリー・ミグルディア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b211180-90uLAaGLa5qO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b211180-90uLAaGLa5qO.png"
+      },
+      "descripcion": "[Roxy](https://anilist.co/character/88350)'s mother and [Rowin](https://anilist.co/character/211181)'s wife.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 211182,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rokkus Migurdia",
+        "native": "ロックス・ミグルディア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b211182-gbh72s3wysYc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b211182-gbh72s3wysYc.png"
+      },
+      "descripcion": "The Elder of the Migurd Village",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 211181,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rowin Migurdia",
+        "native": "ロイン・ミグルディア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b211181-oSiCOOAiXeOb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b211181-oSiCOOAiXeOb.png"
+      },
+      "descripcion": "[Roxy](https://anilist.co/character/88350)'s father and [Rokari](https://anilist.co/character/211180)'s husband.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 206604,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sara",
+        "native": "サラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b206604-kMvs5P9cXJLK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b206604-kMvs5P9cXJLK.png"
+      },
+      "descripcion": "Sara was born in Asura in the Milbotts Region ruled by the Notos Greyrat Family. Her father was a hunter from whom she learned how to use the bow. Now a prodigy for her talent with the bow, she is an A-ranked adventurer and member of the party Counter Arrow. \n\n~!When a horde of monsters attacked her hometown, the Notos family refused to send their soldier, because of that she lost her father, which lead to her hatred of the nobility in general. Suzanne who was helping in the subjugation of the monsters, picked up Sara. After some years, she became a official member of the party Counter Arrow.!~",
+      "genero": "Female",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 207786,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sauros Boreas Greyrat",
+        "native": "サウロス・ボレアス・グレイラット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207786-K3ND5XfwzHkc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b207786-K3ND5XfwzHkc.png"
+      },
+      "descripcion": "__Sauros Boreas Greyrat__ was the Landlord of the Fittoa Region, Asura Kingdom and the grandfather of [Eris](https://anilist.co/character/88349/Eris-Boreas-Greyrat).\n\n~!After the Teleport Incident, he was blamed for the loss of the Fittoa Region and was executed.!~\n\n(Source: Mushoku Tensei Wiki)",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 251610,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Senjuu",
+        "native": "聖獣"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b251610-L9hvtpp73Ad1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b251610-L9hvtpp73Ad1.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 255528,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shierra",
+        "native": "シェラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b255528-AYbdf5ObVSo9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b255528-AYbdf5ObVSo9.png"
+      },
+      "descripcion": "One of the key members of Paul's search party. She was caught with her sister Vierra in the mana calamity, and the two were enslaved by bandits until Paul and his group rescue them.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137816,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shizuka Nanahoshi",
+        "native": "七星静香"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137816-ub5QE86fHD3C.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137816-ub5QE86fHD3C.png"
+      },
+      "descripcion": "__Light Novel Volume 9 spoiler__\n\n~! Nanahoshi Shizuka is a Japanese girl that was saved by [Rudeus](https://anilist.co/character/88348/Rudeus-Greyrat) in his past life, but instead of reincarnating like Rudeus, she was teleported to Asura Kingdom and was saved by [Orsted](https://anilist.co/character/187382/Orsted). !~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 245377,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Soldat Heckler",
+        "native": "ゾルダート・ヘッケラー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245377-4ahGPt8W6LIs.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b245377-4ahGPt8W6LIs.jpg"
+      },
+      "descripcion": "Soldat Heckler is an S-ranked adventurer and the leader of the S-ranked party Stepped Leader. He is a skilled swordsman with advanced-ranked Sword God Style and intermediate-ranked Water God Style.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295915,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Somar",
+        "native": "ソマル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295915-9lY4nDhVP4uD.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295915-9lY4nDhVP4uD.jpg"
+      },
+      "descripcion": "One of the kids from Buena Village who bullied [Sylphiette](https://anilist.co/character/88346).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 261304,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Suzanne",
+        "native": "スザンヌ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b261304-PcUBGEZakYcy.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b261304-PcUBGEZakYcy.jpg"
+      },
+      "descripcion": "Suzanne is the vice leader of the party Counter Arrow.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262619,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sylvaril",
+        "native": "空虚のシルヴァリル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262619-WmAzWwKBqDlw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262619-WmAzWwKBqDlw.jpg"
+      },
+      "descripcion": "The first of the twelve summoned servants of Perugius. A member of the Heaven Race.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 213958,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Talhand",
+        "native": "タルハンド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b213958-pHao3lx20yVg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b213958-pHao3lx20yVg.png"
+      },
+      "descripcion": "A dwarf that was member of the Party \"Fang of the Black Wolf\", with Elinalise and Roxy. He is slow and not agile, so he wears sturdy armor, wields an axe, and uses magic against enemies.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 251618,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tersena Adoldia",
+        "native": "テルセナ・アドルディア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b251618-LAHB6myAfQqR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b251618-LAHB6myAfQqR.png"
+      },
+      "descripcion": "Sister of [Pursena Adoldia](https://anilist.co/character/187381).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262711,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Therese Latreia",
+        "native": "テレーズ・ラトレイア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262711-TAsFWmWmRN1Q.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262711-TAsFWmWmRN1Q.jpg"
+      },
+      "descripcion": "The sister of Zenith Greyrat and the Middle Leader of the Order of the Temple. She looks identical to Zenith, causing Rudeus to initially mistake her as his mother. Because she is a Milis believer and a Templar Knight, she holds animosity toward the magic race and demons.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 141534,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 - Eris no Goblin Toubatsu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール エリスのゴブリン討伐"
+          }
+        }
+      ]
+    },
+    {
+      "id": 207342,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Thomas",
+        "native": "トーマス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207342-zgfUndU5NlEc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b207342-zgfUndU5NlEc.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 261305,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Timothy",
+        "native": "ティモシー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b261305-Cypy5SjKccEs.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b261305-Cypy5SjKccEs.jpg"
+      },
+      "descripcion": "Timothy is the leader of the adventurer party Counter Arrow.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 255527,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Vierra",
+        "native": "ヴェラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b255527-rKtR99mtbscP.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b255527-rKtR99mtbscP.jpg"
+      },
+      "descripcion": "She was caught with her sister, Shierra, in the mana calamity. After being saved by Paul, she helps with finding all the missing people.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 212907,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Vizquel",
+        "native": "ヴェスケル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212907-E9Rad7KGuajw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212907-E9Rad7KGuajw.png"
+      },
+      "descripcion": "An adventurer Rudeus encounters on the Demon Continent while looking for a lost cat. She was involved in a scheme where pets were poached and once the owners sent a petition to the adventure's guild looking for them, she would return them, thus earning the reward.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 187710,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zanoba  Shirone",
+        "native": "ザノバ・シーローン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187710-z6jIlP8QLJmB.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187710-z6jIlP8QLJmB.jpg"
+      },
+      "descripcion": "Zanoba Shirone is a doll loving prince of Shirone. When he was three years old, he killed his brother, the Fourth prince, as if his brother was a doll. When he was 15 years old, he killed his wife, as if she was a doll.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179855,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zenith Greyrat",
+        "native": "ゼニス・グレイラット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179855-Tape2W456xwI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179855-Tape2W456xwI.png"
+      },
+      "descripcion": "Zenith Greyrat is the wife of [Paul Greyrat](https://anilist.co/character/88347) and the mother of [Rudeus Greyrat](https://anilist.co/character/88348) and [Norn Greyrat](https://anilist.co/character/145458/Norn-Greyrat).\n\n~!Zenith was born in the Holy Country of Milis, as the second daughter of an earl of Milis. She grew up following the Milis Church religion, never breaking the rules, getting good grade in school, and had nickname Milis young lady standard. But, when Zenith reached the age of 15, she rebelled against her parents and ran away from home.\n\nWhile trying to find a job as a Healer, she was a solo adventurer for a time. However she was frequently conned out of a large amount of money due to the little knowledge she had on how expensive healer's are, but was saved by Paul Greyrat. She then join Paul's party, the Fangs of the Black Wolf, as a healer. She spent a long time in the party as a healer and gradually began to fall in love with Paul and wanted to marry him. However Paul was a womanizer who frequently slept with multiple women and she didn't want to be with someone like that so she told him if he promised to be faithful to her then she would sleep with him, to which he agreed.\nShortly after, she became pregnant with Rudeus and as a result both her and Paul retired from adventuring and settled down in the countryside.!~\n\n\n__Light Novel Volume 13 Spoiler__\n~!After being freed from the Teleport Labyrinth, she does not express emotions actively since she sees the world around her as if she were in a trance or dream. Occasionally she will display actions that show her emotions, such as when she smiled at Norn or hit Rudeus when he said he was going to add Eris to his family as a wife, which shows signs of her personality basically unchanged but hidden and suppressed by her dream state caused by her Miko Powers.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        },
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        },
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 251611,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Boukensha A",
+        "native": "冒険者A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309701,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Boukensha A",
+        "native": "冒険者A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309703,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Boukensha B",
+        "native": "冒険者B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 314131,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi Seito",
+        "native": "男子生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335127,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi Seito A",
+        "native": "男子生徒A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335126,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi Seito B",
+        "native": "男子生徒B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335125,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi Seito E",
+        "native": "男子生徒E"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295917,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Douguya",
+        "native": "道具屋"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295917-y2AYNWvKsOVM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295917-y2AYNWvKsOVM.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 338179,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Elmore Bluewolf",
+        "native": "エルモア・ブルーウルフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b338179-tQDPiFSgxETj.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b338179-tQDPiFSgxETj.jpg"
+      },
+      "descripcion": "Elmore is a noble and Ariel's servant who accompanies her to Ranoa Magic Academy. At the academy, Elmore also gathers information and intelligence for Ariel aside from her servant duties and is a close friend of Sylphiette.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 314126,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gara no Warui Seito A",
+        "native": "ガラの悪い生徒A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 314125,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gara no Warui Seito B",
+        "native": "ガラの悪い生徒B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311365,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Guild Jou",
+        "native": "ギルド嬢"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309702,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Guild no Uketsuke",
+        "native": "ギルドの受付"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309702-7WKX3mUiOUxC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309702-7WKX3mUiOUxC.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333968,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Haitatsuin",
+        "native": "配達員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b333968-1fNBV0LIhY69.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b333968-1fNBV0LIhY69.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256892,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Heishi A",
+        "native": "兵士A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256894,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Heishi B",
+        "native": "兵士B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 257589,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Heishi C",
+        "native": "兵士C"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309051,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hermes Fujin",
+        "native": "ヘルメス夫人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 310239,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Iraijin",
+        "native": "依頼人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 208775,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ishi",
+        "native": "医師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 250648,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Josei",
+        "native": "女性"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311813,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joseito A",
+        "native": "女生徒A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311812,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joseito B",
+        "native": "女生徒B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311811,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joseito C",
+        "native": "女生徒C"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335113,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi Seito A",
+        "native": "女子生徒A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335114,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi Seito B",
+        "native": "女子生徒B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335115,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi Seito F",
+        "native": "女子生徒F"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335116,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi Seito G",
+        "native": "女子生徒G"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335117,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi Seito H",
+        "native": "女子生徒H"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 208772,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoshi",
+        "native": "看護師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 208774,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Keisatsukan",
+        "native": "警察官"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 251612,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kemono-zoku no Kodomo",
+        "native": "獣族の子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 251613,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kemono-zoku no Kodomo",
+        "native": "獣族の子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 208766,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kizoku",
+        "native": "貴族"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 208768,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kizoku",
+        "native": "貴族"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309155,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kizoku A",
+        "native": "貴族A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309157,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kizoku B",
+        "native": "貴族B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309158,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kizoku C",
+        "native": "貴族C"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309154,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kizoku D",
+        "native": "貴族D"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309156,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kizoku E",
+        "native": "貴族E"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309159,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kizoku F",
+        "native": "貴族F"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 208767,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kizoku Musuko",
+        "native": "貴族息子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b208767-bt2xS3kzmZOP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b208767-bt2xS3kzmZOP.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 338178,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kleene Elrond",
+        "native": "クリーネ・エルロンド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b338178-ntTNcsv0iIbX.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b338178-ntTNcsv0iIbX.jpg"
+      },
+      "descripcion": "A noble and one of Ariel's companions who also attends to her daily needs. Like Elmore, she accompanies Ariel to Ranoa Magic Academy and among the survivors of the assassination attempt while travelling to there.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296948,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Komazukai",
+        "native": "小間使い"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b296948-YyHg0oQCUOxA.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b296948-YyHg0oQCUOxA.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 141534,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 - Eris no Goblin Toubatsu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール エリスのゴブリン討伐"
+          }
+        }
+      ]
+    },
+    {
+      "id": 312539,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kyoushi",
+        "native": "教師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335112,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kyoushi",
+        "native": "教師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b335112-cOMdD1nJIDaA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b335112-cOMdD1nJIDaA.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 208776,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kyuukyuu Taiin",
+        "native": "救急隊員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 208757,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maid",
+        "native": "メイド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295916,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maid",
+        "native": "メイド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 257590,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maid",
+        "native": "メイド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 310830,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Master",
+        "native": "マスター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296946,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mazoku A",
+        "native": "魔族"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 141534,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 - Eris no Goblin Toubatsu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール エリスのゴブリン討伐"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296945,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mazoku B",
+        "native": "魔族"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 141534,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 - Eris no Goblin Toubatsu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール エリスのゴブリン討伐"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296944,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mazoku C",
+        "native": "魔族"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 141534,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 - Eris no Goblin Toubatsu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール エリスのゴブリン討伐"
+          }
+        }
+      ]
+    },
+    {
+      "id": 407664,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Monban A",
+        "native": "門番A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 407665,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Monban B",
+        "native": "門番B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 208773,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito A",
+        "native": "村人A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 208777,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito B",
+        "native": "村人B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 255529,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sakaba no Tenshu",
+        "native": "酒場の店主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b255529-uexHoMx7ZBmY.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b255529-uexHoMx7ZBmY.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 250647,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Senchou",
+        "native": "船長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296950,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shinden Kishi",
+        "native": "神殿騎士"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 141534,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 - Eris no Goblin Toubatsu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール エリスのゴブリン討伐"
+          }
+        }
+      ]
+    },
+    {
+      "id": 407662,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shokuzai no Yuruzu",
+        "native": "贖罪のユルズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b407662-hQRQhM5kfJAt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b407662-hQRQhM5kfJAt.png"
+      },
+      "descripcion": "One of the servants of Perugius.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178789,
+          "title": {
+            "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+            "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309697,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shounin A",
+        "native": "商人A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309698,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shounin B",
+        "native": "商人B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309699,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shounin C",
+        "native": "商人C"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 208769,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shukujo",
+        "native": "淑女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 208770,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shukujo",
+        "native": "淑女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311364,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Stepped Leader Kenshi A",
+        "native": "ステップトリーダー剣士A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311363,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Stepped Leader Kenshi B",
+        "native": "ステップトリーダー剣士B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333127,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tenin A",
+        "native": "店員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b333127-UsZBy9PyNMx1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b333127-UsZBy9PyNMx1.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335679,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tenin B",
+        "native": "店員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b335679-oqaPnTRGqMBF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b335679-oqaPnTRGqMBF.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166873,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309700,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tenshu",
+        "native": "店主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 312195,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Uketsuke no Otoko",
+        "native": "受付の男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b312195-rPa5VUZzWaej.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b312195-rPa5VUZzWaej.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+            "native": "無職転生Ⅱ ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295914,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Uketsukejou",
+        "native": "受付嬢"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": "Receptionist at the Rikarisu City Adventurer's Guild",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108465,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation",
+            "native": "無職転生 ～異世界行ったら本気だす～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 251616,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yakara A",
+        "native": "輩A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 251615,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yakara B",
+        "native": "輩B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 251617,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yakara C",
+        "native": "輩C"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127720,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296949,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yakunin",
+        "native": "役人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b296949-ZLCHuAUdL8hd.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b296949-ZLCHuAUdL8hd.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 141534,
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 - Eris no Goblin Toubatsu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール エリスのゴブリン討伐"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 163,
+  "actualizado": 1788565161
+}

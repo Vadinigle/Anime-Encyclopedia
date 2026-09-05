@@ -1,0 +1,2694 @@
+{
+  "clave": "quintessential-quintuplets",
+  "nombre": "The Quintessential Quintuplets",
+  "descripcion": "Gotoubun no Hanayome",
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103572-cchriAdH95cQ.png",
+  "medios": [
+    {
+      "id": 103572,
+      "title": {
+        "romaji": "Go-toubun no Hanayome",
+        "english": "The Quintessential Quintuplets",
+        "native": "五等分の花嫁"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103572-cchriAdH95cQ.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103572-cchriAdH95cQ.png"
+      }
+    },
+    {
+      "id": 109261,
+      "title": {
+        "romaji": "Go-toubun no Hanayome ∬",
+        "english": "The Quintessential Quintuplets 2",
+        "native": "五等分の花嫁∬"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109261-65rKxMDlcU9r.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109261-65rKxMDlcU9r.png"
+      }
+    },
+    {
+      "id": 131520,
+      "title": {
+        "romaji": "Go-toubun no Hanayome Movie",
+        "english": "The Quintessential Quintuplets Movie",
+        "native": "映画 五等分の花嫁"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131520-89Qfo8JnGHI3.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131520-89Qfo8JnGHI3.png"
+      }
+    },
+    {
+      "id": 163327,
+      "title": {
+        "romaji": "Go-toubun no Hanayome∽",
+        "english": "The Quintessential Quintuplets Specials",
+        "native": "五等分の花嫁∽"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163327-xBQznOwq6emq.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163327-xBQznOwq6emq.jpg"
+      }
+    },
+    {
+      "id": 177191,
+      "title": {
+        "romaji": "Go-toubun no Hanayome *",
+        "english": "The Quintessential Quintuplets Specials 2",
+        "native": "五等分の花嫁＊"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177191-ovNZsq8EbIPY.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177191-ovNZsq8EbIPY.jpg"
+      }
+    },
+    {
+      "id": 211710,
+      "title": {
+        "romaji": "Go-toubun no Hanayome (Shinsaku OVA)",
+        "english": null,
+        "native": "五等分の花嫁 新作OVA"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211710-Cmeq84reFr56.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211710-Cmeq84reFr56.jpg"
+      }
+    },
+    {
+      "id": 211709,
+      "title": {
+        "romaji": "Go-toubun no Hanayome: Shunkashuutou",
+        "english": null,
+        "native": "五等分の花嫁【春夏秋冬】"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211709-eLIMRJ4Twp8e.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211709-eLIMRJ4Twp8e.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 128063,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Fuutarou Uesugi",
+        "native": "上杉風太郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128063-0h9piZcxa2zt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b128063-0h9piZcxa2zt.png"
+      },
+      "descripcion": "__Height:__ 178 cm  (5'10'')\n\nFuutarou is the main protagonist of the 5-toubun no Hanayome series.\n\nHe is a student of the Asahiyama High School. He lives with his father, Isanari Uesugi, and younger sister, Raiha Uesugi, in a small apartment. He is a serious and hardworking high school student and a prodigy at the top of his grade. Because of his family's perpetual poverty, he takes up the offer to tutor the Nakano quintuplets.\n\nFuutarou is noted to have a big ego and high confidence. He is straightforward, tactless, and rude; but is actually capable of holding back his emotions. Despite that, Fuutarou could momentarily lose his composure when agitated and faced with unfavorable circumstances. He also initially did not like getting involved with other people's problems, finding them to be troublesome. Despite his tactlessness and crudeness, he is knowledgeable enough in knowing what to say in specific situations when thrown at him; rarely giving up when trying to achieve a specific objective.\n\nDespite his egotistical nature, Fuutarou is very hardworking and has a very high amount of patience; especially when getting the attention of the quintuplets and tutoring them despite various amounts of failures and setbacks. He later on shows a sense of duty strong enough to help the quintuplets in their studies despite them not paying him immediately, even though the money that came with tutoring was the initial reason he accepted the job. He also begins valuing their relationship to the point where he would do things outside of their tutor-student relationship which would later on bloom into a bond where they mutually support each other with little question.\n",
+      "genero": "Male",
+      "edad": "17-22",
+      "fecha_nacimiento": {
+        "year": 2000,
+        "month": 4,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        },
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        },
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        },
+        {
+          "id": 177191,
+          "title": {
+            "romaji": "Go-toubun no Hanayome *",
+            "english": "The Quintessential Quintuplets Specials 2",
+            "native": "五等分の花嫁＊"
+          }
+        },
+        {
+          "id": 211709,
+          "title": {
+            "romaji": "Go-toubun no Hanayome: Shunkashuutou",
+            "english": null,
+            "native": "五等分の花嫁【春夏秋冬】"
+          }
+        },
+        {
+          "id": 211710,
+          "title": {
+            "romaji": "Go-toubun no Hanayome (Shinsaku OVA)",
+            "english": null,
+            "native": "五等分の花嫁 新作OVA"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126371,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ichika Nakano",
+        "native": "中野一花"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126371-0KQpl80s8kXQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126371-0KQpl80s8kXQ.png"
+      },
+      "descripcion": "__Height__: 159 cm (5'2\")\n\nFirst sister of the Nakano Quintuplets. Despite the negligible age difference among them, she took the role of the eldest sister properly. She is also trusted enough to act as their confidant and leader. Ichika aspires to become an actress. She likes to tease [Fuutarou](https://anilist.co/character/128063).",
+      "genero": "Female",
+      "edad": "17-23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        },
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        },
+        {
+          "id": 143391,
+          "title": {
+            "romaji": "Chiyuki no Fashion Check",
+            "english": null,
+            "native": "千雪のファッションチェック！"
+          }
+        },
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        },
+        {
+          "id": 177191,
+          "title": {
+            "romaji": "Go-toubun no Hanayome *",
+            "english": "The Quintessential Quintuplets Specials 2",
+            "native": "五等分の花嫁＊"
+          }
+        },
+        {
+          "id": 211709,
+          "title": {
+            "romaji": "Go-toubun no Hanayome: Shunkashuutou",
+            "english": null,
+            "native": "五等分の花嫁【春夏秋冬】"
+          }
+        },
+        {
+          "id": 211710,
+          "title": {
+            "romaji": "Go-toubun no Hanayome (Shinsaku OVA)",
+            "english": null,
+            "native": "五等分の花嫁 新作OVA"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126375,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Itsuki Nakano",
+        "native": "中野五月"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126375-dEe9IyQ9By09.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126375-dEe9IyQ9By09.png"
+      },
+      "descripcion": "**Height:** 159 cm (5'2\")\n\nFifth sister of the Nakano Quintuplets. Itsuki is a serious and earnest girl. Her speech is formal and polite. She is also someone who can't be honest with herself and having difficulty to be more straightforward.\n\nAmong the sisters, Itsuki is the most familiar with [Uesugi](https://anilist.co/character/128063)'s family members and circumstances.\n\n<i>Note: Based on the character file in volume 14, Itsuki’s actual birthday is on May 6th as she was born at midnight. She celebrates her birthday on May 5th and prevents others from looking into it too deeply.</i>",
+      "genero": "Female",
+      "edad": "17-23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        },
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        },
+        {
+          "id": 143391,
+          "title": {
+            "romaji": "Chiyuki no Fashion Check",
+            "english": null,
+            "native": "千雪のファッションチェック！"
+          }
+        },
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        },
+        {
+          "id": 177191,
+          "title": {
+            "romaji": "Go-toubun no Hanayome *",
+            "english": "The Quintessential Quintuplets Specials 2",
+            "native": "五等分の花嫁＊"
+          }
+        },
+        {
+          "id": 211709,
+          "title": {
+            "romaji": "Go-toubun no Hanayome: Shunkashuutou",
+            "english": null,
+            "native": "五等分の花嫁【春夏秋冬】"
+          }
+        },
+        {
+          "id": 211710,
+          "title": {
+            "romaji": "Go-toubun no Hanayome (Shinsaku OVA)",
+            "english": null,
+            "native": "五等分の花嫁 新作OVA"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126373,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Miku Nakano",
+        "native": "中野三玖"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126373-CWeyXb822uDN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126373-CWeyXb822uDN.png"
+      },
+      "descripcion": "__Height:__ 159 cm (5'2\")\n\nThird sister of the Nakano Quintuplets. She is a silent and reserved girl. Miku tends to have a pessimistic attitude and little confidence regarding herself. Due to [Fuutarou](https://anilist.co/character/128063/Uesugi-Fuutarou)'s influence, she's the first among the sisters who open up to him.\n\nMiku likes Japanese History (especially Generals from Sengoku Period) and greatly influenced by their philosophies, to the point of affecting her real-life behavior.",
+      "genero": "Female",
+      "edad": "17-23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        },
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        },
+        {
+          "id": 143391,
+          "title": {
+            "romaji": "Chiyuki no Fashion Check",
+            "english": null,
+            "native": "千雪のファッションチェック！"
+          }
+        },
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        },
+        {
+          "id": 177191,
+          "title": {
+            "romaji": "Go-toubun no Hanayome *",
+            "english": "The Quintessential Quintuplets Specials 2",
+            "native": "五等分の花嫁＊"
+          }
+        },
+        {
+          "id": 211709,
+          "title": {
+            "romaji": "Go-toubun no Hanayome: Shunkashuutou",
+            "english": null,
+            "native": "五等分の花嫁【春夏秋冬】"
+          }
+        },
+        {
+          "id": 211710,
+          "title": {
+            "romaji": "Go-toubun no Hanayome (Shinsaku OVA)",
+            "english": null,
+            "native": "五等分の花嫁 新作OVA"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126372,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Nino Nakano",
+        "native": "中野二乃"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126372-DtorHRgQaYUJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126372-DtorHRgQaYUJ.png"
+      },
+      "descripcion": "**Height:** 159 cm (5'2\")\n\nSecond sister of the Nakano quintuplets. She usually acts as the mother of the family, she cooks for them and takes care of their medical needs. Among the five sisters, she is the one who has the highest hostility towards [Fuutarou](https://anilist.co/character/128063/Uesugi-Fuutarou) and often rebels against him.\n\nNino has a sharp tongue and talks bluntly when confronting the others, even if the other party is her sister. She has an outgoing attitude and is socially aware, resulting in her having many friends. She is a scheming person and doesn't hesitate to use underhanded methods to achieve her goals.\n",
+      "genero": "Female",
+      "edad": "17-23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        },
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        },
+        {
+          "id": 143391,
+          "title": {
+            "romaji": "Chiyuki no Fashion Check",
+            "english": null,
+            "native": "千雪のファッションチェック！"
+          }
+        },
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        },
+        {
+          "id": 177191,
+          "title": {
+            "romaji": "Go-toubun no Hanayome *",
+            "english": "The Quintessential Quintuplets Specials 2",
+            "native": "五等分の花嫁＊"
+          }
+        },
+        {
+          "id": 211709,
+          "title": {
+            "romaji": "Go-toubun no Hanayome: Shunkashuutou",
+            "english": null,
+            "native": "五等分の花嫁【春夏秋冬】"
+          }
+        },
+        {
+          "id": 211710,
+          "title": {
+            "romaji": "Go-toubun no Hanayome (Shinsaku OVA)",
+            "english": null,
+            "native": "五等分の花嫁 新作OVA"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126374,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Yotsuba Nakano",
+        "native": "中野四葉"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126374-Aal36iSQ5nKz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126374-Aal36iSQ5nKz.png"
+      },
+      "descripcion": "**Height:** 159 cm (5'2\")\n\nShe is the fourth sister of the Nakano Quintuplets, and one of the main characters of the Quintessential Quintuplets series. Having a cheerful and energetic personality, she has a strong tendency of helping people out. Yotsuba is an active and easygoing girl. She is a type of person who can't say no to people who need help. She is also very physically fit, and is capable of tasks that her sisters can not do. She has excellent endurance and is great at sports. She's the only sister with excellent eyesight. She has a good sense of smell and a green thumb. Though she's great at physical activities, she has the lowest score out of all of her sisters.\n\nYotsuba is the only sister who accepts [Fuutarou](https://anilist.co/character/128063) since the beginning and wholeheartedly supports him in everything.",
+      "genero": "Female",
+      "edad": "17-23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        },
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        },
+        {
+          "id": 143391,
+          "title": {
+            "romaji": "Chiyuki no Fashion Check",
+            "english": null,
+            "native": "千雪のファッションチェック！"
+          }
+        },
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        },
+        {
+          "id": 177191,
+          "title": {
+            "romaji": "Go-toubun no Hanayome *",
+            "english": "The Quintessential Quintuplets Specials 2",
+            "native": "五等分の花嫁＊"
+          }
+        },
+        {
+          "id": 211709,
+          "title": {
+            "romaji": "Go-toubun no Hanayome: Shunkashuutou",
+            "english": null,
+            "native": "五等分の花嫁【春夏秋冬】"
+          }
+        },
+        {
+          "id": 211710,
+          "title": {
+            "romaji": "Go-toubun no Hanayome (Shinsaku OVA)",
+            "english": null,
+            "native": "五等分の花嫁 新作OVA"
+          }
+        }
+      ]
+    },
+    {
+      "id": 255410,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aoi",
+        "native": "葵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b255410-9KVmsZPL3Ejd.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b255410-9KVmsZPL3Ejd.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        },
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256748,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Basket-bu Buchou",
+        "native": "バスケ部部長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": "Basketball club captain of the basketball club at Asahi High School.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157114,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eba",
+        "native": "江場"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157114-nor8ubz9NS59.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157114-nor8ubz9NS59.png"
+      },
+      "descripcion": "She is a 3rd-year high school student and captain of the track team. Eba praises Yotsuba for her athletic talent, she urges for Yotsuba to join the track team by exploiting the latter's easy-going character, despite Yotsuba's failed plea of refusal.",
+      "genero": "Female",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157111,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ebata",
+        "native": "江端"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157111-ZoTYFC9wUyuo.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157111-ZoTYFC9wUyuo.png"
+      },
+      "descripcion": "He is the secretary of [Maruo Nakano](https://anilist.co/character/135383) and occasionally driver of the Nakano quintuplets. Ebata is said to have a professional history as a school teacher. He cares deeply for the quintuplets.\n\n~!Ebata took on the pseudonym of Atabe Maruo, the quintuplets' fictitious tutor, at their favor in an attempt at making [Fuutarou Uesugi](https://anilist.co/character/128063) their tutor again. Before this, Maruo assigned Ebata as the quintuplets' tutor after Fuutarou resigned. In the end he helps the plan of the quintuplets in bringing Fuutarou back as their tutor.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 177191,
+          "title": {
+            "romaji": "Go-toubun no Hanayome *",
+            "english": "The Quintessential Quintuplets Specials 2",
+            "native": "五等分の花嫁＊"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157199,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Football no Coach",
+        "native": "フットボールのコーチ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157199-s4eTH6OscjEQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157199-s4eTH6OscjEQ.png"
+      },
+      "descripcion": "He is a football coach that appeared five years ago in the Nakano quintuplets' flashback. He seems to have known a lot about the quintuplets and usually asks them to help him with football practices. He had a crush on the quintuplets' mother, [Rena Nakano](https://anilist.co/character/157195).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157189,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fukkatsu no Tenchou",
+        "native": "復活の店長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157189-3usaBJodo4hs.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157189-3usaBJodo4hs.jpg"
+      },
+      "descripcion": "The manager of the pastry shop Revival, His shop rivals the bakery shop Komugiya.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        },
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 383770,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fuutarou no Sobo",
+        "native": "風太郎の祖母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b383770-10RcSIcZyXJC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b383770-10RcSIcZyXJC.jpg"
+      },
+      "descripcion": "[Fuutarou](https://anilist.co/character/128063)'s grandmother.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 177191,
+          "title": {
+            "romaji": "Go-toubun no Hanayome *",
+            "english": "The Quintessential Quintuplets Specials 2",
+            "native": "五等分の花嫁＊"
+          }
+        }
+      ]
+    },
+    {
+      "id": 383771,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fuutarou no Sofu",
+        "native": "風太郎の祖父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b383771-GCO9c49Ldh4W.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b383771-GCO9c49Ldh4W.jpg"
+      },
+      "descripcion": "[Fuutarou](https://anilist.co/character/128063)'s grandfather.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 177191,
+          "title": {
+            "romaji": "Go-toubun no Hanayome *",
+            "english": "The Quintessential Quintuplets Specials 2",
+            "native": "五等分の花嫁＊"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157158,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hongo",
+        "native": "ホンゴー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157158-HsVW4amaPGq0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157158-HsVW4amaPGq0.png"
+      },
+      "descripcion": "She is the captain of the Basketball Club. Yotsuba would constantly assist the the Club, Due to her inability to say no. Hongo would even ask her if she wanted to join the club, to which Yotsuba refuses.",
+      "genero": "Female",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130110,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Isanari Uesugi",
+        "native": "上杉勇也"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130110-GG3wMoAToHYF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130110-GG3wMoAToHYF.png"
+      },
+      "descripcion": "Father of [Fuutarou](https://anilist.co/character/128063/Fuutarou-Uesugi) and [Raiha](https://anilist.co/character/130111/Raiha-Uesugi).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        },
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157107,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Itsutsuko no Sofu",
+        "native": "五つ子の祖父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157107-3LaunQHpBjkJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157107-3LaunQHpBjkJ.jpg"
+      },
+      "descripcion": "He is the maternal grandfather of the Nakano quintuplets and the father of Rena Nakano. He is the manager of the Toraiwa Hot Springs inn.\n~!He later fell ill and passed away about three years after the main story and therefore could not attend his granddaughter's wedding with Fuutarou Uesugi.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157196,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jinnosuke Mudou",
+        "native": "無堂仁之介"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157196-gA03DQomXCkJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157196-gA03DQomXCkJ.jpg"
+      },
+      "descripcion": "He is a guest instructor in the test prep class that [Itsuki Nakano](https://anilist.co/character/126375) have attended.\n~!He was the former teacher and ex-husband of [Rena Nakano](https://anilist.co/character/157195), thus being the biological father of the Nakano quintuplets. He holds some animosity towards [Maruo Nakano](https://anilist.co/character/135383) because of allowing his daughters to follow the same misguided path as did his late wife.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256759,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Josei Kyoushi",
+        "native": "女性教師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157197,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kiku",
+        "native": "菊"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157197-GtqXEatRAwIU.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157197-GtqXEatRAwIU.jpg"
+      },
+      "descripcion": "Kiku is the only daughter of [Oda](https://anilist.co/character/157161), [Ichika Nakano](https://anilist.co/character/126371)'s director. Being raised by a single father and conscious of her parents' divorce, Kiku develops an arrogant personality, In truth, Kiku feels lonely for not having a mother figure.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157192,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Komugiya no Tenchou",
+        "native": "こむぎやの店長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157192-iGen1VVa0aJN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157192-iGen1VVa0aJN.png"
+      },
+      "descripcion": "The manager of the bakery shop Komugiya, Her shop rivals the pastry shop Revival.\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256756,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kyoushi",
+        "native": "教師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 383769,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lily",
+        "native": "リリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b383769-AhgNqS2ui2XD.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b383769-AhgNqS2ui2XD.jpg"
+      },
+      "descripcion": "A girl which asked [Nino](https://anilist.co/character/126372) for love advice at Hawaii.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 177191,
+          "title": {
+            "romaji": "Go-toubun no Hanayome *",
+            "english": "The Quintessential Quintuplets Specials 2",
+            "native": "五等分の花嫁＊"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157144,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Maeda",
+        "native": "前田"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157144-eeqJzAn8dbgA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157144-eeqJzAn8dbgA.png"
+      },
+      "descripcion": "Student of the Asahiyama High School.\nBefore the school camping trip, Maeda asked Ichika Nakano to see him in a class where he would ask her to dance with him at the bonfire dance.    ~!This came out as a failure. Later he went with another girl at the bonfire dance. Five years later, the pair showed up at Fuutarou's wedding, already married and she is pregnant.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        },
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        },
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 135383,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Maruo Nakano",
+        "native": "中野マルオ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135383-lOnQOjuLpWrr.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135383-lOnQOjuLpWrr.jpg"
+      },
+      "descripcion": "Stepfather of the Nakano Quintuplets after their mother remarried, several years before the series begins. He runs a large hospital and is also a doctor.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        },
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        },
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        },
+        {
+          "id": 177191,
+          "title": {
+            "romaji": "Go-toubun no Hanayome *",
+            "english": "The Quintessential Quintuplets Specials 2",
+            "native": "五等分の花嫁＊"
+          }
+        }
+      ]
+    },
+    {
+      "id": 231825,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Matsui",
+        "native": "松井"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b231825-8TeojZy5fxlA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b231825-8TeojZy5fxlA.png"
+      },
+      "descripcion": "A student at the Asahiyama High School. She danced with [Maeda](https://anilist.co/character/157144/Maeda) at the bonfire during the school field trip.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        },
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157161,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Oda",
+        "native": "織田"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157161-0dwtUdM0TYyH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157161-0dwtUdM0TYyH.png"
+      },
+      "descripcion": "Oda is a film producer of the Oda Talent Productions and Ichika Nakano's manager. He is the single father of Kiku.\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130111,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Raiha Uesugi",
+        "native": "上杉らいは"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130111-1yzV9Z9X7xwe.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130111-1yzV9Z9X7xwe.png"
+      },
+      "descripcion": "Fuutarou's cheerful younger sister. Being the only female and the most family-conscious she is effectively the head of the small household. Her cute facial expressions will often sway others' hearts. Appreciating the hard work Fuutarou does for their family, she sometimes delays the supper until his late return home so she can prepare his favourite meal.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        },
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        },
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157195,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rena Nakano",
+        "native": "中野零奈"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157195-C69FHQiedzon.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157195-C69FHQiedzon.png"
+      },
+      "descripcion": "She is the biological mother of the Nakano Quintuplets who worked as a teacher. She was a teacher at a high school where she was well-loved and respected by her students. [Shimoda](https://anilist.co/character/157106) was once her student. Rena is known to be a very serious, unsociable, strict, and stern woman, especially when it comes to teaching her students as she would often punish her students with iron-fist sanctions.\n~!Rena was a single mother who raised five children. Before her remarriage with [Maruo Nakano](https://anilist.co/character/135383), she and the quintuplets were living in poverty like the Uesugi Family, where it is implied that the biological father of the quintuplets ([Mudou](https://anilist.co/character/157196)) abandoned her and the children. She passed away five years prior to the start of the story on August 14 from an unknown terminal illness and her death was a shock to the quintuplets!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        },
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157198,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sanada",
+        "native": "真田"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157198-qkN0ZBb7CYyz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157198-qkN0ZBb7CYyz.png"
+      },
+      "descripcion": "He is a boy who appeared in Fuutarou Uesugi's Kyoto trip flashback. Similar to Fuutarou, he was focused on studying, even doing maths during a field trip. He and Takebayashi were childhood friends. Both being class representatives, their classmates perceived the duo to be perfect for each other.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157106,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shimoda",
+        "native": "下田"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157106-xhl6A5ymcZ71.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157106-xhl6A5ymcZ71.png"
+      },
+      "descripcion": "She is a former student of Rena Nakano (the Nakano Quintuplets' mother) during her 2nd year of senior high school and she is currently a cram school lecturer. She is first seen encountering Itsuki Nakano while visiting the Nakano Family Grave. ~!Shimoda exchange contact address with Itsuki and promise to keep in touch. Later, Itsuki is seen working part-time job with Shimoda. !~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256745,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Taiiku Kyoushi",
+        "native": "体育教師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 154885,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Takebayashi",
+        "native": "竹林"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b154885-LGd2FnCAVHeQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b154885-LGd2FnCAVHeQ.png"
+      },
+      "descripcion": "Fuutarou's childhood friend.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256742,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tannin Kyoushi",
+        "native": "担任教師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 214405,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tsubaki",
+        "native": "椿"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b214405-7y35ObvxIrP9.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b214405-7y35ObvxIrP9.jpg"
+      },
+      "descripcion": "Tsubaki is a student of Asahiyama High School's Class 3-1. She is a member of the Broadcasting Club.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        },
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 242709,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yamada",
+        "native": "山田"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b242709-LAg4X6xw42ul.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b242709-LAg4X6xw42ul.jpg"
+      },
+      "descripcion": "She is a student of the Asahiyama High School and friend of [Nino Nakano](https://anilist.co/character/126372/).",
+      "genero": "Female",
+      "edad": "16-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 242710,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yamauchi",
+        "native": "山内"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b242710-OONkJVKJhfzb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b242710-OONkJVKJhfzb.png"
+      },
+      "descripcion": "He is a male student at the Asahiyama High School and a classmate of [Nino Nakano](https://anilist.co/character/126372/) during her second year.",
+      "genero": "Male",
+      "edad": "16-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        },
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 242711,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yotsuba no Tannin",
+        "native": "四葉の担任"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b242711-LEy1BNG3AwvA.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b242711-LEy1BNG3AwvA.jpg"
+      },
+      "descripcion": "He teaches History. He was also the homeroom teacher of [Yotsuba Nakano](https://anilist.co/character/126374/)'s sophomore class, class 2-2.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157112,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuusuke Takeda",
+        "native": "武田祐輔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157112-NdhuTe2zXyhM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157112-NdhuTe2zXyhM.png"
+      },
+      "descripcion": "He is a student of Class 3-1. He is introduced as the antithesis of Fuutarou Uesugi in terms of appearance, personality and popularity. Yuusuke is envious of Fuutarou because he is always academically the best student in his grade, leaving Yuusuke a pitiful second place. Yuusuke considers Fuutarou his rival, much to Fuutarou's unawareness.\n~!Because of his pride, he desired to score higher than Fuutarou in a fair competition, throwing out the test answers his father gave him. He loses to Fuutarou in the mock exam, with he got seventh place and Fuutarou third. He later becomes Fuutarou friend.!~",
+      "genero": "Male",
+      "edad": "17-22",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 109261,
+          "title": {
+            "romaji": "Go-toubun no Hanayome ∬",
+            "english": "The Quintessential Quintuplets 2",
+            "native": "五等分の花嫁∬"
+          }
+        },
+        {
+          "id": 131520,
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie",
+            "native": "映画 五等分の花嫁"
+          }
+        },
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        },
+        {
+          "id": 177191,
+          "title": {
+            "romaji": "Go-toubun no Hanayome *",
+            "english": "The Quintessential Quintuplets Specials 2",
+            "native": "五等分の花嫁＊"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256761,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Announcer",
+        "native": "アナウンス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256765,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Announcer",
+        "native": "アナウンス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317687,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Dansei",
+        "native": "男性"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256763,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi",
+        "native": "男子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256764,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi",
+        "native": "男子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256746,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi Seito",
+        "native": "男子生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256741,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gakushoku no Oba-chan",
+        "native": "学食のおばちゃん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317688,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Josei A",
+        "native": "女性A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317689,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Josei B",
+        "native": "女性B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256750,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi",
+        "native": "女子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256751,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi",
+        "native": "女子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256752,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi",
+        "native": "女子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256753,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi",
+        "native": "女子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317686,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kakariin",
+        "native": "係員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317686-O5hkSAymCoMM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b317686-O5hkSAymCoMM.jpg"
+      },
+      "descripcion": "Attendant at the Giant Swimming Pool complex quintuplets went with [Fuutarou](https://anilist.co/character/128063).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163327,
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": "The Quintessential Quintuplets Specials",
+            "native": "五等分の花嫁∽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 383772,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoukyaku",
+        "native": "観光客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 177191,
+          "title": {
+            "romaji": "Go-toubun no Hanayome *",
+            "english": "The Quintessential Quintuplets Specials 2",
+            "native": "五等分の花嫁＊"
+          }
+        }
+      ]
+    },
+    {
+      "id": 383773,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoukyaku",
+        "native": "観光客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 177191,
+          "title": {
+            "romaji": "Go-toubun no Hanayome *",
+            "english": "The Quintessential Quintuplets Specials 2",
+            "native": "五等分の花嫁＊"
+          }
+        }
+      ]
+    },
+    {
+      "id": 383774,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoukyaku",
+        "native": "観光客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 177191,
+          "title": {
+            "romaji": "Go-toubun no Hanayome *",
+            "english": "The Quintessential Quintuplets Specials 2",
+            "native": "五等分の花嫁＊"
+          }
+        }
+      ]
+    },
+    {
+      "id": 383775,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoukyaku",
+        "native": "観光客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 177191,
+          "title": {
+            "romaji": "Go-toubun no Hanayome *",
+            "english": "The Quintessential Quintuplets Specials 2",
+            "native": "五等分の花嫁＊"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256762,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kantoku",
+        "native": "監督"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256755,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ootori",
+        "native": "大鳥"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b256755-Q5tiiPDfBiqK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b256755-Q5tiiPDfBiqK.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256744,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sensei",
+        "native": "先生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256747,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shachou",
+        "native": "社長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256760,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shikijou Staff",
+        "native": "式場スタッフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256749,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shinsain",
+        "native": "審査員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256757,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Staff",
+        "native": "スタッフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256758,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Staff",
+        "native": "スタッフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 256743,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tenshu",
+        "native": "店主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": "A shopkeeper from the firework festival.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    },
+    {
+      "id": 181588,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tosho Iin",
+        "native": "図書委員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b181588-o8lAKbphxO2y.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b181588-o8lAKbphxO2y.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103572,
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets",
+            "native": "五等分の花嫁"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 67,
+  "actualizado": 1788570807
+}

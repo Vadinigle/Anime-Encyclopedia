@@ -1,0 +1,3411 @@
+{
+  "clave": "eminence-in-shadow",
+  "nombre": "The Eminence in Shadow",
+  "descripcion": "Kage no Jitsuryokusha ni Naritakute",
+  "generos": [
+    "Isekai",
+    "Fantasía",
+    "Comedia"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-YMdcKHytpWNH.jpg",
+  "medios": [
+    {
+      "id": 130298,
+      "title": {
+        "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+        "english": "The Eminence in Shadow",
+        "native": "陰の実力者になりたくて！"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-YMdcKHytpWNH.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130298-YMdcKHytpWNH.jpg"
+      }
+    },
+    {
+      "id": 161964,
+      "title": {
+        "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+        "english": "The Eminence in Shadow Season 2",
+        "native": "陰の実力者になりたくて！ 2nd season"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161964-JpkEbHI8ivaP.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161964-JpkEbHI8ivaP.jpg"
+      }
+    },
+    {
+      "id": 171952,
+      "title": {
+        "romaji": "Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen",
+        "english": null,
+        "native": "劇場版 陰の実力者になりたくて！ 残響編"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171952-uB8CTTCBI1u5.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171952-uB8CTTCBI1u5.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 229652,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Akane Nishino",
+        "native": "西野アカネ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b229652-JE0EUB5nfONo.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b229652-JE0EUB5nfONo.png"
+      },
+      "descripcion": "__Race:__ Human\n\nAkane Nishino is the daughter of the CEO of Nishino Conglomerate and the former classmate of Minoru Kagenou, Cid's pre-reincarnated self.",
+      "genero": "Female",
+      "edad": "15-20s",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        },
+        {
+          "id": 171952,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen",
+            "english": null,
+            "native": "劇場版 陰の実力者になりたくて！ 残響編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 162246,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Alpha",
+        "native": "アルファ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162246-IbbxkhNJFDN5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162246-IbbxkhNJFDN5.png"
+      },
+      "descripcion": "__Race:__ Elf\n\nAlpha is the second-in-command of Shadow Garden. After being cured of Demon Possession by [Cid Kagenou](https://anilist.co/character/136837/Cid-Kagenou), she would devote her life to his cause, becoming the first member to be recruited into his organization, Shadow Garden. \n\n~!She is the descendant of the elf [Hero Olivier](https://anilist.co/character/204203/Olivier).!~",
+      "genero": "Female",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 156001,
+          "title": {
+            "romaji": "Kage-Jitsu!",
+            "english": "Em-Shade! Shorts",
+            "native": "かげじつ！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        },
+        {
+          "id": 169929,
+          "title": {
+            "romaji": "Kage-Jitsu! 2nd",
+            "english": "Em-Shade! Shorts Season 2",
+            "native": "かげじつ！せかんど"
+          }
+        },
+        {
+          "id": 170620,
+          "title": {
+            "romaji": "Ple Ple Pleiades × Kage-Jitsu!",
+            "english": null,
+            "native": "ぷれぷれぷれあです × かげじつ！"
+          }
+        },
+        {
+          "id": 194447,
+          "title": {
+            "romaji": "Isekai Quartet 3",
+            "english": "Isekai Quartet 3",
+            "native": "異世界かるてっと 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 162247,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Beta",
+        "native": "ベータ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162247-R6OrAuT1FwL4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162247-R6OrAuT1FwL4.png"
+      },
+      "descripcion": "__Race:__ Elf\n\nBeta is the second member of Shadow Garden, supporting her master [Shadow](https://anilist.co/character/136837/Cid-Kagenou) against the Order of Diabolos. \n\n~!Outside of her Shadow Garden activities, she adopts the identity of Natsume Kafka, an up-and-coming author of numerous original pieces of literature.!~\n\n",
+      "genero": "Female",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 27
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 156001,
+          "title": {
+            "romaji": "Kage-Jitsu!",
+            "english": "Em-Shade! Shorts",
+            "native": "かげじつ！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        },
+        {
+          "id": 169929,
+          "title": {
+            "romaji": "Kage-Jitsu! 2nd",
+            "english": "Em-Shade! Shorts Season 2",
+            "native": "かげじつ！せかんど"
+          }
+        },
+        {
+          "id": 170620,
+          "title": {
+            "romaji": "Ple Ple Pleiades × Kage-Jitsu!",
+            "english": null,
+            "native": "ぷれぷれぷれあです × かげじつ！"
+          }
+        },
+        {
+          "id": 171952,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen",
+            "english": null,
+            "native": "劇場版 陰の実力者になりたくて！ 残響編"
+          }
+        },
+        {
+          "id": 194447,
+          "title": {
+            "romaji": "Isekai Quartet 3",
+            "english": "Isekai Quartet 3",
+            "native": "異世界かるてっと 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136837,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Cid Kagenou",
+        "native": "シド・カゲノー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136837-3WR22FYet8Hv.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136837-3WR22FYet8Hv.jpg"
+      },
+      "descripcion": "__Race:__ Human\n\nCid Kagenou, under the moniker of \"Shadow,\" is the founder and leader of the secret organization \"Shadow Garden.\" He founded the organization to help realize his fantasy of becoming an “Eminence in Shadow\". However, unbeknownst to him, his fabrications are often revealed to be quite genuine in reality. Cid is the reincarnation of Minoru Kagenou.",
+      "genero": "Male",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 156001,
+          "title": {
+            "romaji": "Kage-Jitsu!",
+            "english": "Em-Shade! Shorts",
+            "native": "かげじつ！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        },
+        {
+          "id": 170620,
+          "title": {
+            "romaji": "Ple Ple Pleiades × Kage-Jitsu!",
+            "english": null,
+            "native": "ぷれぷれぷれあです × かげじつ！"
+          }
+        },
+        {
+          "id": 171952,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen",
+            "english": null,
+            "native": "劇場版 陰の実力者になりたくて！ 残響編"
+          }
+        },
+        {
+          "id": 194447,
+          "title": {
+            "romaji": "Isekai Quartet 3",
+            "english": "Isekai Quartet 3",
+            "native": "異世界かるてっと 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 168799,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Alexia Midgar",
+        "native": "アレクシア・ミドガル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b168799-uAsWFrrfqxTN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b168799-uAsWFrrfqxTN.png"
+      },
+      "descripcion": "__Race:__ Human\n\nAlexia Midgar is the second princess of the Kingdom of Midgar and younger sister of [Iris Midgar](https://anilist.co/character/204204/Iris--Midgar). She is also a student of Midgar Royal Spellsword Academy.",
+      "genero": "Female",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 204202,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Annerose Nichtsehen",
+        "native": "アンネローゼ・フシアナス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b204202-bvSbKDSSGg7J.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b204202-bvSbKDSSGg7J.png"
+      },
+      "descripcion": "__Race:__ Human\n\nShe is a Dark Knight of the Velgalta Empire. Originally a member of \"Velgalta's Seven Blades,\" she abandoned her position to embark on a journey of self-improvement.\n\nWhile participating in the Bushin Festival to test her strength, she was left impressed by [Mundane Mann](https://anilist.co/character/136837/Kagenou-Cid)'s ability and is now training to reach his level.\nWhile she possesses skills and brains, she can sometimes be a little klutzy.",
+      "genero": "Female",
+      "edad": "21-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 19
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 215409,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aurora",
+        "native": "アウロラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b215409-Y1Ti42451ivg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b215409-Y1Ti42451ivg.png"
+      },
+      "descripcion": "__Race:__ Human\n\nA woman known as the Calamity Witch who once brought chaos and destruction to the world. In the Goddess' Trial in the Sacred Land, she is summoned in reaction to Cid's presence and does battle with him in the form of Shadow. Her body is sealed in the sanctuary, and after helping Cid to escape she disappears together with its destruction. \n\n~!Aurora's true identity is the great demon Diabolos but it is unknown if she founded the Order of Diabolos or cursed the three heroes with possession. !~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316306,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Banken",
+        "native": "番犬"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316306-hKM56ecOLK3b.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316306-hKM56ecOLK3b.png"
+      },
+      "descripcion": "Watchdog of the Crimson Tower at Lawless City. His task is to ensure that no one enters the Tower.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 229656,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Beatrix",
+        "native": "ベアトリクス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b229656-fVc5WjlFefhD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b229656-fVc5WjlFefhD.png"
+      },
+      "descripcion": "__Race:__ Elf\n\nBeatrix is the champion of the God of War Tournament.\n\n~!She is presumed to be the long lost aunt of [Alpha](https://anilist.co/character/162246/Alpha).!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295296,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cid no Chichi",
+        "native": "シドの父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295296-qCUtokdmzQkg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295296-qCUtokdmzQkg.png"
+      },
+      "descripcion": "Head of the Kagenou family and father to [Cid](https://anilist.co/character/136837) and [Claire](https://anilist.co/character/168798).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295297,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cid no Haha",
+        "native": "シドの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295297-Q9MuVIy81Szg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295297-Q9MuVIy81Szg.png"
+      },
+      "descripcion": "Mother of [Cid](https://anilist.co/character/136837) and [Claire](https://anilist.co/character/168798).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 168798,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Claire Kagenou",
+        "native": "クレア・カゲノー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b168798-IrHBKh5xbRsr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b168798-IrHBKh5xbRsr.png"
+      },
+      "descripcion": "__Race:__ Human\n\nClaire is the older sister of [Cid Kagenou](https://anilist.co/character/136837/Cid-Kagenou) and heir to the Kagenou Family.",
+      "genero": "Female",
+      "edad": "17-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316309,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Claudia",
+        "native": "クローディア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316309-mWkqBjM0ZRPA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316309-mWkqBjM0ZRPA.png"
+      },
+      "descripcion": "An elite staff member of the Magic Swordsmen Association who becomes the leader of Association's task force.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 229660,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Crimson",
+        "native": "クリムゾン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b229660-0wrgniZVUfEF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b229660-0wrgniZVUfEF.png"
+      },
+      "descripcion": "__Race:__ Vampire",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 162248,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Delta",
+        "native": "デルタ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162248-57Xgk6EmwKRQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162248-57Xgk6EmwKRQ.png"
+      },
+      "descripcion": "__Race:__ Beastkin\n\nDelta is a member of Shadow Garden, being fourth of the original Shadow Seven to join the organization after her Demonic Possession was healed by her master [Shadow](https://anilist.co/character/136837/Cid-Kagenou). As the most physically gifted of the Seven, Delta is also often the most destructive and brutal of the group due to her lack of sense and self-control.",
+      "genero": "Female",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 156001,
+          "title": {
+            "romaji": "Kage-Jitsu!",
+            "english": "Em-Shade! Shorts",
+            "native": "かげじつ！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        },
+        {
+          "id": 169929,
+          "title": {
+            "romaji": "Kage-Jitsu! 2nd",
+            "english": "Em-Shade! Shorts Season 2",
+            "native": "かげじつ！せかんど"
+          }
+        },
+        {
+          "id": 170620,
+          "title": {
+            "romaji": "Ple Ple Pleiades × Kage-Jitsu!",
+            "english": null,
+            "native": "ぷれぷれぷれあです × かげじつ！"
+          }
+        },
+        {
+          "id": 194447,
+          "title": {
+            "romaji": "Isekai Quartet 3",
+            "english": "Isekai Quartet 3",
+            "native": "異世界かるてっと 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297029,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Doem Ketsuhat",
+        "native": "ドエム・ケツハット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b297029-0uu6ETEihyie.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b297029-0uu6ETEihyie.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295298,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Doumoto",
+        "native": "胴元"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295298-QFMHrPKXHTX1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295298-QFMHrPKXHTX1.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 217044,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Elisabeth",
+        "native": "エリザベート"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217044-mgNojqXLQCRo.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b217044-mgNojqXLQCRo.png"
+      },
+      "descripcion": "__Race:__ Vampire\n\nElisabeth is one of the three monarchs of the Lawless City and the Queen of Vampires.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 162249,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Epsilon",
+        "native": "イプシロン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162249-eJRpBIC5lAZX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162249-eJRpBIC5lAZX.png"
+      },
+      "descripcion": "__Race:__ Elf\n\nEpsilon is the fifth member of Shadow Garden. Due to her insecurities with having a flat-chest, she manipulated her slime bodysuit every year to slowly increase the mass on her chest, eventually developing a fake large breast. As a consequence of this, she developed extreme magic control earning her the title, \"The Precision.\"",
+      "genero": "Female",
+      "edad": "17-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 156001,
+          "title": {
+            "romaji": "Kage-Jitsu!",
+            "english": "Em-Shade! Shorts",
+            "native": "かげじつ！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        },
+        {
+          "id": 169929,
+          "title": {
+            "romaji": "Kage-Jitsu! 2nd",
+            "english": "Em-Shade! Shorts Season 2",
+            "native": "かげじつ！せかんど"
+          }
+        },
+        {
+          "id": 170620,
+          "title": {
+            "romaji": "Ple Ple Pleiades × Kage-Jitsu!",
+            "english": null,
+            "native": "ぷれぷれぷれあです × かげじつ！"
+          }
+        },
+        {
+          "id": 194447,
+          "title": {
+            "romaji": "Isekai Quartet 3",
+            "english": "Isekai Quartet 3",
+            "native": "異世界かるてっと 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289297,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eta",
+        "native": "イータ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289297-e2DgfeWhVPRa.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289297-e2DgfeWhVPRa.jpg"
+      },
+      "descripcion": "__Race:__ Elf\n\nEta is the seventh member of Shadow Garden, being one of the original Seven Shadows. She specializes and is in charge of the research faction of Shadow Garden and as a result has her own laboratory. She is known as Eta Lloyd Wright, the genius architect, whose work won unanimous first place in an Architecture of the Year.\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 156001,
+          "title": {
+            "romaji": "Kage-Jitsu!",
+            "english": "Em-Shade! Shorts",
+            "native": "かげじつ！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        },
+        {
+          "id": 169929,
+          "title": {
+            "romaji": "Kage-Jitsu! 2nd",
+            "english": "Em-Shade! Shorts Season 2",
+            "native": "かげじつ！せかんど"
+          }
+        },
+        {
+          "id": 170620,
+          "title": {
+            "romaji": "Ple Ple Pleiades × Kage-Jitsu!",
+            "english": null,
+            "native": "ぷれぷれぷれあです × かげじつ！"
+          }
+        },
+        {
+          "id": 194447,
+          "title": {
+            "romaji": "Isekai Quartet 3",
+            "english": "Isekai Quartet 3",
+            "native": "異世界かるてっと 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 162245,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gamma",
+        "native": "ガンマ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162245-x86QMM6nOj75.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162245-x86QMM6nOj75.png"
+      },
+      "descripcion": "__Race:__ Elf\n\nGamma is a member of Shadow Garden, being third of the original Seven Shadows as well as the director of the Mitsugoshi Company. Despite her lack of coordination, Gamma's knowledge has allowed her to recreate many of the items described by her master [Shadow](https://anilist.co/character/136837/Cid-Kagenou) to sell as Mitsugoshi's exclusive products.",
+      "genero": "Female",
+      "edad": "17-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 156001,
+          "title": {
+            "romaji": "Kage-Jitsu!",
+            "english": "Em-Shade! Shorts",
+            "native": "かげじつ！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        },
+        {
+          "id": 169929,
+          "title": {
+            "romaji": "Kage-Jitsu! 2nd",
+            "english": "Em-Shade! Shorts Season 2",
+            "native": "かげじつ！せかんど"
+          }
+        },
+        {
+          "id": 170620,
+          "title": {
+            "romaji": "Ple Ple Pleiades × Kage-Jitsu!",
+            "english": null,
+            "native": "ぷれぷれぷれあです × かげじつ！"
+          }
+        },
+        {
+          "id": 194447,
+          "title": {
+            "romaji": "Isekai Quartet 3",
+            "english": "Isekai Quartet 3",
+            "native": "異世界かるてっと 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318095,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Garter Kikuchi",
+        "native": "ガーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b318095-uCkiIVvYlTSV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b318095-uCkiIVvYlTSV.png"
+      },
+      "descripcion": "President of Garter Corporation and Gettan's primary confidant.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318094,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gettan",
+        "native": "月丹"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b318094-1o1Ls2kSG3Od.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b318094-1o1Ls2kSG3Od.png"
+      },
+      "descripcion": "Employee of the Major Corporate Alliance hired by Garter and the superior who commanded the most prolific mercenary Clovers. ~!In reality, he controls the Alliance from the shadow collaborating with the Cult of Diablos to destroy Mitsugoshi Company.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 290846,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Glen",
+        "native": "ゲレン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290846-SXZnUe22C8BC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b290846-SXZnUe22C8BC.jpg"
+      },
+      "descripcion": "Vice-Commander of the Crimson Order",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296394,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Goldou Kinmekki",
+        "native": "ゴルドー・キンメッキ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b296394-tJo8XIMuP42Z.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b296394-tJo8XIMuP42Z.jpg"
+      },
+      "descripcion": "A swordsman who participated in the God of War Tournament. ~!While publicly known as the Unbeaten Legend and Victorious Golden Dragon, in reality, he is a coward whose unbeaten streak was the result of him forfeiting matches he was unsure he'd win.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 24
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295305,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hakui no Otoko",
+        "native": "白衣の男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295305-2eVtQ2eFeVQB.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295305-2eVtQ2eFeVQB.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287012,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hyoro Gali",
+        "native": "ヒョロ・ガリ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287012-sI6YVKQcuhAh.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287012-sI6YVKQcuhAh.jpg"
+      },
+      "descripcion": "One of Cid Kageno's chosen \"friends\" he is using to blend in as a background character",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 204204,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Iris  Midgar",
+        "native": "アイリス・ミドガル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b204204-wsPvzUwfdUwJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b204204-wsPvzUwfdUwJ.jpg"
+      },
+      "descripcion": "__Race:__ Human\n\nIris Midgar is the first princess of the Kingdom of Midgar and older sister of [Alexia Midgar](https://anilist.co/character/168799/Alexia-Midgar). She is also leader of the Crimson Order.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294236,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jack Nelson",
+        "native": "ジャック・ネルソン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b294236-qLd9wMfP0iGO.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b294236-qLd9wMfP0iGO.jpg"
+      },
+      "descripcion": "Acting Archbishop",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287013,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jaga Imo",
+        "native": "ジャガ・イモ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287013-mKBY4xbondVc.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287013-mKBY4xbondVc.jpg"
+      },
+      "descripcion": "One of Cid Kagenou's chosen \"friends\" to help him blend in as a background character",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 229663,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Juggernaut",
+        "native": "ジャガノート"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b229663-XqNjegFIGn2s.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b229663-XqNjegFIGn2s.png"
+      },
+      "descripcion": "__Race:__ Human\n\nTyrant the Juggernaut is one of three monarchs of Lawless City. He mainly relies on his instincts and physical strength to demolish his opponents, as using any techniques would only slow him down\n\n~!He was later killed by [Delta](https://anilist.co/character/162248/).!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        },
+        {
+          "id": 169929,
+          "title": {
+            "romaji": "Kage-Jitsu! 2nd",
+            "english": "Em-Shade! Shorts Season 2",
+            "native": "かげじつ！せかんど"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295292,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kai",
+        "native": "カイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295292-Eo3yIn4Qh8ND.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295292-Eo3yIn4Qh8ND.png"
+      },
+      "descripcion": "Member of Shadow Garden, and one of the Numbers (no. 22). She is a subordinate of [Epsilon](https://anilist.co/character/162249). She has a serious and stern demeanor but is surprisingly shy and blushes often.",
+      "genero": "Female",
+      "edad": "23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        },
+        {
+          "id": 169929,
+          "title": {
+            "romaji": "Kage-Jitsu! 2nd",
+            "english": "Em-Shade! Shorts Season 2",
+            "native": "かげじつ！せかんど"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316310,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kana",
+        "native": "カナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316310-YfO7PNdmB8fv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316310-YfO7PNdmB8fv.png"
+      },
+      "descripcion": "One of Yukime's closest aides and sisters with Natsu.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 320662,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kevin",
+        "native": "ケビン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b320662-uxkxTUz2KCYc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b320662-uxkxTUz2KCYc.png"
+      },
+      "descripcion": "Guard of the royal palace of the Oriana Kingdom. Kevin has unrequited love towards Margaret but is convinced his feelings are reciprocated. He behaves obsessively towards Margaret, confronting and threatening Cid after seeing the two in close conversation.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319872,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kouadoi",
+        "native": "クアドイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319872-0nmKoO5nbIbi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b319872-0nmKoO5nbIbi.png"
+      },
+      "descripcion": "One of the Named Children of the Cult of Diablos.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298851,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lambda",
+        "native": "ラムダ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298851-UMG5YdDRpnRB.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298851-UMG5YdDRpnRB.jpg"
+      },
+      "descripcion": "Member of Shadow Garden, and one of The Numbers (No. 11). She is in charge of training new recruits.",
+      "genero": "Female",
+      "edad": "23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 26
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 291390,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lutheran Barnett",
+        "native": "ルスラン・バーネット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b291390-EuycCQW1unsi.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b291390-EuycCQW1unsi.jpg"
+      },
+      "descripcion": "Assistant Principal of Midgar Academy for Dark Knights and adoptive father to [Sherry Barnett](https://anilist.co/character/197922/Sherry-Barnett).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 290847,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Marco Granger",
+        "native": "マルコ・グレンジャー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290847-2rdQVKiCCwIk.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b290847-2rdQVKiCCwIk.jpg"
+      },
+      "descripcion": "Knight of the Crimson Order",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 320661,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Margaret",
+        "native": "マーガレット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b320661-3UPS00RqkhJF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b320661-3UPS00RqkhJF.png"
+      },
+      "descripcion": "A maid in service of the Oriana royal family and former personal caretaker of [Rose](https://anilist.co/character/168800). She used to admire Rose but that quickly turned to distrust after the incident in the Midgar Kingdom. She in awe of Cid's skills as a pianist and persistently offers to assist him in finding a patron.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316307,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Marie",
+        "native": "マリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316307-USNW2uZ8ksWH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316307-USNW2uZ8ksWH.png"
+      },
+      "descripcion": "Owner of a tavern in Lawless City where she also works as a bartender. She originally came to the city after being sold into prostitution at age 13.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 217043,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mary",
+        "native": "メアリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217043-VZDrrt1DYl5Q.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b217043-VZDrrt1DYl5Q.png"
+      },
+      "descripcion": "__Race:__ Vampire\n\nMary is a Vampire Hunter, dedicated in putting an end to [Elizabeth](https://anilist.co/character/217044/), the Vampire Queen.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298257,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Midgar Kokuou",
+        "native": "ミドガル国王"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298257-sihPu0SwILbB.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298257-sihPu0SwILbB.jpg"
+      },
+      "descripcion": "King of the Midgar Kingdom and father of [Alexia](https://anilist.co/character/168799) and [Iris](https://anilist.co/character/204204).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 229659,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mordred",
+        "native": "モードレッド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b229659-gt4setpIM0ZE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b229659-gt4setpIM0ZE.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        },
+        {
+          "id": 171952,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen",
+            "english": null,
+            "native": "劇場版 陰の実力者になりたくて！ 残響編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316308,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Natsu",
+        "native": "ナツ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316308-19SRtcdDTRc6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316308-19SRtcdDTRc6.png"
+      },
+      "descripcion": "One of Yukime's closest aides. Sister of Kana.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 229662,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "No.664",
+        "native": "664番"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b229662-wJGcpNQNFqwr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b229662-wJGcpNQNFqwr.png"
+      },
+      "descripcion": "664 is a member of Shadow Garden's Numbers and is the squad leader of the squad with [665](https://anilist.co/character/229658/No665) and 666. She has a serious personality, but is kind at heart.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 229658,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "No.665",
+        "native": "665番"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b229658-QPPZFbPR1LT7.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b229658-QPPZFbPR1LT7.png"
+      },
+      "descripcion": "__Race:__ Elf\n\n665 is a member of Shadow Garden's Numbers and is in a squad with [664](https://anilist.co/character/229662/No664) and 666. She has a calm personality and is good at providing support.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 168968,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nu",
+        "native": "ニュー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b168968-aXcvuihuWhqE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b168968-aXcvuihuWhqE.png"
+      },
+      "descripcion": "__Race:__ Human\n\nNu is the thirteenth member of Shadow Garden and an employee of Mitsugoshi Company.",
+      "genero": "Female",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 156001,
+          "title": {
+            "romaji": "Kage-Jitsu!",
+            "english": "Em-Shade! Shorts",
+            "native": "かげじつ！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295300,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Olba",
+        "native": "オルバ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295300-0bIlwZ3wRewz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295300-0bIlwZ3wRewz.png"
+      },
+      "descripcion": "A Viscount who was a member of the Cult of Diabolos. He was the mastermind behind the kidnapping of [Claire Kagenou](https://anilist.co/character/168798). ~!Despite consuming multiple of the strength increasing pills, he was easily overwhelmed by [Shadow](https://anilist.co/character/136837) and was soon slain with a single stroke.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 204203,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Olivier",
+        "native": "オリヴィエ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b204203-AUa5RQad7eC7.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b204203-AUa5RQad7eC7.png"
+      },
+      "descripcion": "__Race:__ Elf\n\nOlivier is one of the three heroes that managed to defeat the demon Diabolos. As a result, her descendants were cursed by the demon.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295293,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Omega",
+        "native": "オメガ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295293-w4DP3ifIZHu2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295293-w4DP3ifIZHu2.png"
+      },
+      "descripcion": "Member of Shadow Garden, and one of the Numbers (No. 24). She is a subordinate of [Epsilon](https://anilist.co/character/162249). Omega is usually calm and collected but is troubled by her tendency to laugh at silly jokes.",
+      "genero": "Female",
+      "edad": "24",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        },
+        {
+          "id": 169929,
+          "title": {
+            "romaji": "Kage-Jitsu! 2nd",
+            "english": "Em-Shade! Shorts Season 2",
+            "native": "かげじつ！せかんど"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296393,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Quinton",
+        "native": "クイントン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b296393-wvxuGqitrNTa.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b296393-wvxuGqitrNTa.jpg"
+      },
+      "descripcion": "A ferocious swordsman who has participated in the Bushin Festival many times.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297028,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Raphael Oriana",
+        "native": "ラファエロ・オリアナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b297028-PNxLB1yTkXLK.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b297028-PNxLB1yTkXLK.jpg"
+      },
+      "descripcion": "King of the Oriana Kingdom and [Rose](https://anilist.co/character/168800)'s father.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 320663,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Reina Oriana",
+        "native": "レイナ・オリアナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b320663-LYK91bjjggsI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b320663-LYK91bjjggsI.png"
+      },
+      "descripcion": "Queen of the Oriana Kingdom and [Rose](https://anilist.co/character/168800)'s mother.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 291391,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rex",
+        "native": "レックス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b291391-WhBry6vS5bGX.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b291391-WhBry6vS5bGX.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 168800,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rose Oriana",
+        "native": "ローズ・オリアナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b168800-eb3FqWq0IdyV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b168800-eb3FqWq0IdyV.png"
+      },
+      "descripcion": "__Race:__ Human\n\nRosa Oriana is a noble Princess from the Oriana kingdom. She is known for being a genius in art in her kingdom. However, she came to Midgar Royal Spellsword Academy in order to learn swordsmanship.\n\n~!Later [Alpha](https://anilist.co/character/162246/Alpha) discovered Rose, who became a fugitive for assassinating her father and was then offered membership into Shadow Garden.!~",
+      "genero": "Female",
+      "edad": "17-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 197922,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sherry Barnett",
+        "native": "シェリー・バーネット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b197922-zq7eT5LTjvoj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b197922-zq7eT5LTjvoj.png"
+      },
+      "descripcion": "__Race:__ Human\n\nSherry Barnett is a student of Midgar Royal Spellsword Academy. She is also the adopted daughter of [Lutheran Barnett](https://anilist.co/character/291390/Barnett-Lutheran).",
+      "genero": "Female",
+      "edad": "16-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296392,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tsugiide Makkenjii",
+        "native": "ツギーデ・マッケンジー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b296392-SL1OMA0wXuHJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b296392-SL1OMA0wXuHJ.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306198,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Victoria",
+        "native": "ウィクトーリア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306198-BaeyFHlWhiPj.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306198-BaeyFHlWhiPj.jpg"
+      },
+      "descripcion": "Member of Shadow Garden, serving as one of The Numbers under the codename Number 559. Her abilities are said to rival those of the Seven Shadows. She is one of only two people, except the Seven Shadows, to receive their powers directly from Shadow himself. Victoria does not care about consequences of her actions or collateral damage as long as she can accomplish her mission.",
+      "genero": "Female",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 217045,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yukime",
+        "native": "ユキメ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217045-g7JT2Qvwa00f.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b217045-g7JT2Qvwa00f.png"
+      },
+      "descripcion": "__Race:__ Therianthrope (Fox)\n\nShe is the ruler of the White Tower, a therianthrope known as a \"Spirit Fox\". Even Among the Spirit Fox clan she possesses exceptional talents and combat abilities, using an iron fan as her weapon to dance gracefully in battle. While she manages the red-light district in the Lawless City, she is also a savvy entrepreneur who runs a trading company called the Snow Fox Corporation\n\n~!Later on, Yukime chooses to form an alliance between her faction and [Shadow's](https://anilist.co/character/136837/Cid-Kagenou), both organizations desiring to end the nuisance of the cult.!~\n\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 398513,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuuka Asakura",
+        "native": "朝倉ユウカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171952,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen",
+            "english": null,
+            "native": "劇場版 陰の実力者になりたくて！ 残響編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318096,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zabra",
+        "native": "ザブラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b318096-gdIftaRg27ZR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b318096-gdIftaRg27ZR.png"
+      },
+      "descripcion": "Delta's older brother and member of the Clovers, a small elite group under the Garter Corporation.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 290064,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zenon Griffey",
+        "native": "ゼノン・グリフィ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290064-5TdClmoLQxJz.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b290064-5TdClmoLQxJz.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 264565,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zeta",
+        "native": "ゼータ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b264565-acUMiD3pz2ZU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b264565-acUMiD3pz2ZU.png"
+      },
+      "descripcion": "__Race:__ Beastkin\n\nZeta is the sixth member of Shadow Garden, being one of the original Seven Shadows. She usually travels around the world alone gathering intelligence.",
+      "genero": "Female",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 22
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 156001,
+          "title": {
+            "romaji": "Kage-Jitsu!",
+            "english": "Em-Shade! Shorts",
+            "native": "かげじつ！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        },
+        {
+          "id": 169929,
+          "title": {
+            "romaji": "Kage-Jitsu! 2nd",
+            "english": "Em-Shade! Shorts Season 2",
+            "native": "かげじつ！せかんど"
+          }
+        },
+        {
+          "id": 170620,
+          "title": {
+            "romaji": "Ple Ple Pleiades × Kage-Jitsu!",
+            "english": null,
+            "native": "ぷれぷれぷれあです × かげじつ！"
+          }
+        },
+        {
+          "id": 194447,
+          "title": {
+            "romaji": "Isekai Quartet 3",
+            "english": "Isekai Quartet 3",
+            "native": "異世界かるてっと 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297817,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi Seito",
+        "native": "男子生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318470,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Futaha",
+        "native": "二葉"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297816,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi Seito",
+        "native": "女子生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319034,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Juuchin Kanji",
+        "native": "重鎮"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318469,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kazuha",
+        "native": "一葉"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b318469-H0nq0g64roxi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b318469-H0nq0g64roxi.png"
+      },
+      "descripcion": "Strongest member of the Clovers.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297819,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kurofuku",
+        "native": "黒服"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319031,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kyoudannin A",
+        "native": "教団員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319030,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kyoudannin B",
+        "native": "教団員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316826,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kyuuketsuki",
+        "native": "吸血鬼"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316312,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Otoko A",
+        "native": "男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316313,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Otoko B",
+        "native": "男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318471,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sanha",
+        "native": "三葉"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318099,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sanzoku A",
+        "native": "山賊"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318100,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sanzoku B",
+        "native": "山賊"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319322,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shimin A",
+        "native": "市民"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319323,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shimin B",
+        "native": "市民"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319321,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shimin C",
+        "native": "市民"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297818,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shinpan",
+        "native": "審判"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b297818-8QWrKSufSQAS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b297818-8QWrKSufSQAS.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316311,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shounin",
+        "native": "商人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316311-1UcaGW6y3Wk8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316311-1UcaGW6y3Wk8.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318098,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shufu A",
+        "native": "主婦"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318097,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shufu B",
+        "native": "主婦"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316315,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Suri A",
+        "native": "スリ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316314,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Suri B",
+        "native": "スリ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319033,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Wakate Kanji A",
+        "native": "若手官司"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319035,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Wakate Kanji B",
+        "native": "若手官司"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319869,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Youhei A",
+        "native": "傭兵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319868,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Youhei B",
+        "native": "傭兵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319867,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Youhei C",
+        "native": "傭兵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289166,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yuukai-han",
+        "native": "誘拐犯"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289166-XWSJucpQRPGy.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289166-XWSJucpQRPGy.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289167,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yuukai-han",
+        "native": "誘拐犯"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289167-Jy8afVw30E9y.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289167-Jy8afVw30E9y.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130298,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow",
+            "native": "陰の実力者になりたくて！"
+          }
+        },
+        {
+          "id": 161964,
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "陰の実力者になりたくて！ 2nd season"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 93,
+  "actualizado": 1788566470
+}

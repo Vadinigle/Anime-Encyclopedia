@@ -1,0 +1,2874 @@
+{
+  "clave": "kaguya-sama",
+  "nombre": "Kaguya-sama: Love Is War",
+  "descripcion": "Una guerra romántica entre Kaguya y Miyuki",
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-ufrjLzhSz7L1.jpg",
+  "medios": [
+    {
+      "id": 101921,
+      "title": {
+        "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+        "english": "Kaguya-sama: Love is War",
+        "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-ufrjLzhSz7L1.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101921-ufrjLzhSz7L1.jpg"
+      }
+    },
+    {
+      "id": 112641,
+      "title": {
+        "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+        "english": "Kaguya-sama: Love is War?",
+        "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112641-zoGC8d6FaPXU.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112641-zoGC8d6FaPXU.jpg"
+      }
+    },
+    {
+      "id": 125367,
+      "title": {
+        "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+        "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+        "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125367-1yuq9NFcQuLI.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125367-1yuq9NFcQuLI.png"
+      }
+    },
+    {
+      "id": 151384,
+      "title": {
+        "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+        "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+        "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151384-gv0q8wOE6D58.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151384-gv0q8wOE6D58.jpg"
+      }
+    },
+    {
+      "id": 125368,
+      "title": {
+        "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+        "english": null,
+        "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125368-QhcBkbNP0ZfU.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125368-QhcBkbNP0ZfU.png"
+      }
+    },
+    {
+      "id": 194884,
+      "title": {
+        "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+        "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+        "native": "かぐや様は告らせたい 大人への階段"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194884-rHgGAzKSCEWz.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194884-rHgGAzKSCEWz.jpg"
+      }
+    },
+    {
+      "id": 205081,
+      "title": {
+        "romaji": "Kaguya-sama wa Kokurasetai: Kanketsu-hen",
+        "english": null,
+        "native": "かぐや様は告らせたい 完結編"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205081-h34dlv9iprh6.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205081-h34dlv9iprh6.png"
+      }
+    },
+    {
+      "id": 165557,
+      "title": {
+        "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic 3rd Season Teaser PV - Ishigami Yuu wa Kataritai",
+        "english": "Kaguya-sama: Love is War -Ultra Romantic- \"Yu Ishigami Wants to Chat\"",
+        "native": "第３期『かぐや様は告らせたい-ウルトラロマンティック-』 ／ ティザーPV 「石上優は語りたい」"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165557-q7A6HcZD0CHs.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165557-q7A6HcZD0CHs.png"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 121103,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Chika Fujiwara",
+        "native": "藤原千花"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b121103-UGLxT8utLPnq.png"
+      },
+      "descripcion": "The secretary of the Shuchiin Academy student council. She could not be predicted, her thoughts could not be read. A natural disaster who unconsciously threw everything into chaos simply by being present, also known as __Subject F__.\n\n~!In chapter 222 of the manga, Chika reveals that she played piano because she wanted to be perfect, and she becomes a prodigy at the piano. The expectations of her family and her fans rose, forcing her to practice more. She quit piano after [Kaguya](https://anilist.co/character/120649/Shinomiya-Kaguya) told her to just quit if she didn't like the piano. Soon after Chika challenged Kaguya to a game battle and if she won, she would get to become Kaguya's friend. In the end, she becomes Kaguya's first friend.!~",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 125368,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+            "english": null,
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        },
+        {
+          "id": 165557,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic 3rd Season Teaser PV - Ishigami Yuu wa Kataritai",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic- \"Yu Ishigami Wants to Chat\"",
+            "native": "第３期『かぐや様は告らせたい-ウルトラロマンティック-』 ／ ティザーPV 「石上優は語りたい」"
+          }
+        },
+        {
+          "id": 194884,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+            "native": "かぐや様は告らせたい 大人への階段"
+          }
+        }
+      ]
+    },
+    {
+      "id": 120649,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kaguya Shinomiya",
+        "native": "四宮かぐや"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-NPaWaIpWy60E.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b120649-NPaWaIpWy60E.png"
+      },
+      "descripcion": "__Height:__ 158 cm\n\nThe vice president of the student council of Shuchiin Academy, member of the wealthy Shinomiya family, she is a multi-talented genius who can do anything if she sets her mind to it. Due to the way she was raised, she instinctively looks down on others and thinks of ways to use them for her own benefit. Kaguya rarely interacted with other people before she joined the student council, but that has begun to change. She is an incredibly sheltered girl, resulting in her lacking in several pieces of what might be considered common sense. She still doesn’t understand love very well, and her main objective is to make [Miyuki Shirogane](https://anilist.co/character/121101) fall in love and confess to her.\n\nLater in the series: ~!She confesses her love to Miyuki Shirogane and they start dating.!~\n\n~!In a [Oshi no Ko special chapter](https://anilist.co/manga/153520), it was revealed that she married Miyuki and changed her surname to Kaguya Shirogane!~",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": 2003,
+        "month": 1,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 125368,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+            "english": null,
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        },
+        {
+          "id": 165557,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic 3rd Season Teaser PV - Ishigami Yuu wa Kataritai",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic- \"Yu Ishigami Wants to Chat\"",
+            "native": "第３期『かぐや様は告らせたい-ウルトラロマンティック-』 ／ ティザーPV 「石上優は語りたい」"
+          }
+        },
+        {
+          "id": 194884,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+            "native": "かぐや様は告らせたい 大人への階段"
+          }
+        }
+      ]
+    },
+    {
+      "id": 125886,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Miko Iino",
+        "native": "伊井野ミコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b125886-TQbmqAaSgBLS.png"
+      },
+      "descripcion": "__Height:__ 147 cm (4'7\")\n\nShe is a freshman at Shuchiin Private Academy and the Auditor of the Student Council. Miko has a strong sense of justice and will correct others on what's right and wrong. Unfortunately, this led to her being bullied, though she still continues to uphold her idea of \"right\". She idolizes [Chika Fujiwara](https://anilist.co/character/121103), listening to anything she says, even if it's for Chika's enjoyment.",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 125368,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+            "english": null,
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        },
+        {
+          "id": 165557,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic 3rd Season Teaser PV - Ishigami Yuu wa Kataritai",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic- \"Yu Ishigami Wants to Chat\"",
+            "native": "第３期『かぐや様は告らせたい-ウルトラロマンティック-』 ／ ティザーPV 「石上優は語りたい」"
+          }
+        },
+        {
+          "id": 194884,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+            "native": "かぐや様は告らせたい 大人への階段"
+          }
+        }
+      ]
+    },
+    {
+      "id": 121101,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Miyuki Shirogane",
+        "native": "白銀御行"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121101-Q8HzKP15At2d.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b121101-Q8HzKP15At2d.png"
+      },
+      "descripcion": "__Height:__ 175 cm\n\nHe is a second year student at Shuchi'in Academy and the president of the student council.\n\nMiyuki is a handsome young man with blond hair and blue eyes. Due to his constant sleep deprivation and nearsightedness, his eyes appear to glare. He usually wears the regular Shuchi'in Academy black male uniform adorned with the Aiguilette, the golden chain-like accessory around his neck. The Aiguilette symbolizes his authority as student council president.\n\nShirogane is a diligent student who, despite his underprivileged background, climbed his way to the top of his class through hard work and determination. Shirogane holds himself in high regard, consistently working to maintain his perfect image. He is textbook workaholic, enjoying his part-time job and often putting his own health at risk for the sake of his work. Due to his poor background, Shirogane values money greatly and goes to great lengths to not be wasteful, and generally dislikes expensive gifts.\n\n~!Miyuki's mother left his family when he was a child. Miyuki's father's factory was shut down and currently has no stable employment. They live in an apartment that costs ￥50,000 (Approx $450) a month. Due to this grisly past, he has been led to a lifestyle of part time jobs and hard work. He passed the Level 2 Kanji Kentei exam and has passed Grade Pre 1 on Eiken. He has also got second place on the National mock exam.!~\n\n~!Miyuki transferred into Shuchi'in Academy during his first year of high school on a scholarship. His first week was a disappointment in that a great majority of his peers were condescending to him because of transferring in. Miyuki was being recruited to serve as the new student council general affairs officer by the Previous Student Council President and helped clean up a swamp. There, he saw Kaguya Shinomiya saving a girl from drowning. It was at that moment where he was truly charmed by Kaguya. At the advice of fellow student council member Momo Ryuju, he adopted the confident genius personality he is shown to have at the story's beginning in order to attract her.!~\n\nEven though he is obviously in love with [Kaguya Shinomiya](https://anilist.co/character/120649/Shinomiya-Kaguya), her wealth and talents greatly intimidates him, leaving him utterly terrified at the idea of confessing to her. He fears that all of his actions will lead Kaguya to look down him, causing him to overthink in many situations. Shirogane has never had a girlfriend and thus is actually quite clueless when it comes to romance, though his dignified demeanor leaves most of the students to think otherwise. Although he excels at studying, Shirogane has proven to be painfully talentless in a variety of other activities, such as sports, singing, dancing and more.\n\nDespite this, Shirogane is unwaveringly kind and virtuous, never putting any of his goals above the well-being of others. He is extremely supportive and generous, willing to help any students with their problems, and will put aside his quest to get Kaguya to confess if it even has a chance of hurting someone else.",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": 2002,
+        "month": 9,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 125368,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+            "english": null,
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        },
+        {
+          "id": 165557,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic 3rd Season Teaser PV - Ishigami Yuu wa Kataritai",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic- \"Yu Ishigami Wants to Chat\"",
+            "native": "第３期『かぐや様は告らせたい-ウルトラロマンティック-』 ／ ティザーPV 「石上優は語りたい」"
+          }
+        },
+        {
+          "id": 194884,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+            "native": "かぐや様は告らせたい 大人への階段"
+          }
+        }
+      ]
+    },
+    {
+      "id": 121102,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Yuu Ishigami",
+        "native": "石上優"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121102-tiQFxnSEIAwm.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b121102-tiQFxnSEIAwm.png"
+      },
+      "descripcion": "The treasurer of the student council of the Shuchiin Academy. He's extremely valued by [Miyuki](https://anilist.co/character/121101), given that he single-handedly manages all the school's funds. He's also terrified of [Kaguya](https://anilist.co/character/120649), though no one else is sure why that is. Yuu keeps to himself and rarely speaks up, often getting into trouble when he does. He has a depressed outlook on life while having an inferiority complex. In contrast to his attitude, he is willing to help those in need and will sacrifice his pride if need be. Unlike his high school self, he had a much different outlook and demeanor during middle school.\n\nLater in the series: \n~!Ishigami develops a crush on Tsubame that he inadvertently confesses his feelings for her at the school's cultural festival. Ishigami does not realize that his actions were perceived as a confession by the rest of the student body and is therefore oblivious to the implications of having given Tsubame a heart-shaped gift (considered akin to a confession in Shuchiin tradition). After some convincing by Kaguya, Tsubame decides to seriously consider Ishigami's confession, with her original intention being to let him down as gently as possible. It isn't until Ishigami watches Tsubame's performance of the traditional play that gave rise to the aforementioned tradition that he realizes his actions had unintended meaning. Even then, Ishigami's thickheaded nature prevented him from recognizing the full meaning of his actions: a straight confession!~\n\n~!On the day of the third years' graduation ceremony, Tsubame finally has an answer for Ishigami's proposal. Despite Ishigami doing his best to convince Tsubame to accept him, Tsubame ultimately rejects Ishigami. Tsubame promises Ishigami that the two of them will remain friends and Ishigami sees her off with a smile and a gift of flowers. Afterwards, Ishigami breaks into tears, finally learning what heartbreak is like.!~",
+      "genero": "Male",
+      "edad": "15-16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 125368,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+            "english": null,
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        },
+        {
+          "id": 165557,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic 3rd Season Teaser PV - Ishigami Yuu wa Kataritai",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic- \"Yu Ishigami Wants to Chat\"",
+            "native": "第３期『かぐや様は告らせたい-ウルトラロマンティック-』 ／ ティザーPV 「石上優は語りたい」"
+          }
+        },
+        {
+          "id": 194884,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+            "native": "かぐや様は告らせたい 大人への階段"
+          }
+        }
+      ]
+    },
+    {
+      "id": 134892,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Adolphe Pescarolo",
+        "native": "アドルフ・ペスカローロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134892-HSzCDOQagDJv.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b134892-HSzCDOQagDJv.jpg"
+      },
+      "descripcion": "The Principal of Shuchi'in Academy\nHe's strict regarding school regulations, but knows how to garner the favor of students nonetheless. He helped Yu Ishigami get enrolled to Shuchi'in despite not finishing his task of making an apology letter. Despite being an authority figure within the school, he has shown comical disregard for school rules and discipline when it comes to his own actions, having been openly caught playing Pokemon Go on more than one occasion on school grounds while chastising nearby students for doing the same.\n\n\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 121104,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ai Hayasaka",
+        "native": "早坂愛"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b121104-7TYRl3EEsDYU.png"
+      },
+      "descripcion": "Ai Hayasaka is a second-year student at Shuchiin Academy and a valet of the Shinomiya family. She is a member of the Hayasaka family, who have served the Shinomiya family for generations, gaining their trust.\n\nHaving been personally assigned to enter Shuchiin Academy with her, Ai supports [Kaguya Shinomiya](https://anilist.co/character/120649) in her high school life and has been a part of Kaguya's life for ten years. Because of their close relationship, Ai is one of the few people around to which Kaguya's amiability is not an act.\n\nEven if she demonstrates maturity as a valet, Ai still has the concerns of a young girl, such as caring to be in fashion and going out with friends, even if she does not have much time for herself due to work.\n\nAi helps Kaguya with the struggles about her feelings for [Shirogane](https://anilist.co/character/121101).\n\n~!She later leaves her job as a maid to Kaguya but still continues her friendship.!~\n\n~!In the Doujin-ban universe, she starts dating and later gets engaged to Shirogane!~",
+      "genero": "Female",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 125368,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+            "english": null,
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        },
+        {
+          "id": 194884,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+            "native": "かぐや様は告らせたい 大人への階段"
+          }
+        }
+      ]
+    },
+    {
+      "id": 177065,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Daichi Fujiwara",
+        "native": "藤原大地"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177065-CV1Ok4h74srn.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177065-CV1Ok4h74srn.jpg"
+      },
+      "descripcion": "A politician and the father of Toyomi, Chika and Moeha Fujiwara.\nDaichi is very well mannered and professional. He’s also overly protective of his daughters.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 276521,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Daiki Satou",
+        "native": "佐藤ダイキ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b276521-RdpaCHzGDuY2.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b276521-RdpaCHzGDuY2.jpg"
+      },
+      "descripcion": "Safety Officer of the Shuchi'in Academy culture festival committee. He has a crush on [Tsubame Koyasu](https://anilist.co/character/134326/Tsubame-Koyasu)",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126986,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Erika Kose",
+        "native": "巨瀬工リカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126986-Pcspig2orfPq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126986-Pcspig2orfPq.png"
+      },
+      "descripcion": "She is a member of the mass media club at Shuchi'in Academy.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 125368,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+            "english": null,
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 275621,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fujiwara Sofu",
+        "native": "藤原祖父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b275621-rEbljmxNuu19.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b275621-rEbljmxNuu19.jpg"
+      },
+      "descripcion": "The grandfather of the Fujiwara sisters.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 275098,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gou Kazamatsuri",
+        "native": "風祭豪"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b275098-wKIydsZwIhXw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b275098-wKIydsZwIhXw.jpg"
+      },
+      "descripcion": "Like Shirogane, he attended an outside middle school before entering Shuchiin. He enrolled in order to look for clues regarding the disappearance of his older brother. He serves as an assistant to the \"Investigator of the financial world\" Hajime Echizen and, after solving many difficult cases has finally been reunited with his brother.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 275597,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "J Suzuki",
+        "native": "鈴木J"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b275597-64W2GeSpgN5P.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b275597-64W2GeSpgN5P.jpg"
+      },
+      "descripcion": "A taxi driver and one of the Four Ramen Emperors of Tokyo.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126987,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Karen Kino",
+        "native": "紀かれん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126987-sWw4vqsdHNWe.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126987-sWw4vqsdHNWe.png"
+      },
+      "descripcion": "She is a member of the mass media club at Shuchi'in Academy.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 125368,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+            "english": null,
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 176218,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kazeno",
+        "native": "風野"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176218-x0TQnRrxS2Zs.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b176218-x0TQnRrxS2Zs.jpg"
+      },
+      "descripcion": "Kazeno is a third year high school student at Shuchi'in Academy and was the captain of the Cheer Club during the Sports Festival.\nHe is a very energetic and caring person,cheering on his team and giving support to Yu Ishigami.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126144,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kei Shirogane",
+        "native": "白銀圭"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126144-4fc2sYUVFKOJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126144-4fc2sYUVFKOJ.png"
+      },
+      "descripcion": "Kei Shirogane is [Miyuki Shirogane's](https://anilist.co/character/121101) little sister. She attends Shuchiin middle school and is the treasurer for the middle school student council.\n\nShe is a hard worker just like her brother and can be very prideful at times. She also inherited his sense of righteousness and hates it when someone doesn't do the right thing in a given situation. Like her brother, she likes helping out those who are in trouble even if it means going out of her way to do it. Since she grew up in a family that places emphasis on saving money, she normally carries coupons and works hard for the things she wants to buy. \n\nShe developed a prickly attitude towards her brother due to his over protectiveness. She's also entered a rebellious phase and due to her pride and she cannot get herself to have a lighthearted conversation with Miyuki, leading into the similar mind games that Miyuki and [Kaguya](https://anilist.co/character/120649) play against each other, but her objective is to talk to Miyuki without making it look like she has a brother complex. She rarely speaks and most of the time it is only when she exchanges formalities at school or when she hurls abuses at her brother.",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 125368,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+            "english": null,
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        },
+        {
+          "id": 194884,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+            "native": "かぐや様は告らせたい 大人への階段"
+          }
+        }
+      ]
+    },
+    {
+      "id": 134331,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kobachi Osaragi",
+        "native": "大仏こばち"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134331-pGWnRI42SZAl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b134331-pGWnRI42SZAl.png"
+      },
+      "descripcion": "\nKobachi is [Miko](https://anilist.co/character/125886)'s classmate with the glasses and a member of the disciplinary committee. She has been looking after Miko for over 10 years.\n\n~!Though she doesn't love him in a romantic way, she has liked Yu Ishigami since middle school. She believes that Tsubame Koyasu is a kind person and is therefore supportive of Ishigami's feelings for Tsubame, despite her friend Miko being in love with Ishigami as well.!~",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 125368,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+            "english": null,
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175438,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kou Ogino",
+        "native": "荻野コウ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175438-mVtteZRikHCF.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175438-mVtteZRikHCF.jpg"
+      },
+      "descripcion": "Former president of Shuchiin Junior High's theater club. Kyoko Ootomo's ex-boyfriend.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 176219,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kozue Makihara ",
+        "native": "槇原こずえ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176219-5XhyzA12lms2.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b176219-5XhyzA12lms2.jpg"
+      },
+      "descripcion": "Makkii-senhai is a first-year high school student at Shuchi'in Academy and the president of the Tabletop Gaming Club, As the president of the Tabletop Gaming Club, Kozue loves games. She also has a somewhat sadistic sense of humor, as shown by her cheerfully torturing Miko while gathering audio for their class' event during the culture festival. She is shown to be very intelligent, regularly ranking among the top ten students in the freshman class during the end of semester exams.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 194884,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+            "native": "かぐや様は告らせたい 大人への階段"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175432,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kyoko Ootomo",
+        "native": "大友京子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175432-spTK6JIhl25Z.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175432-spTK6JIhl25Z.png"
+      },
+      "descripcion": "She was [Ishigami](https://anilist.co/character/121102/)'s classmate in their last middle school year. She dated Kou Ogino, who cheated on her without her knowledge.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 134328,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Maki Shijo",
+        "native": "四条眞妃"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134328-s3cEgqb5MEbh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b134328-s3cEgqb5MEbh.png"
+      },
+      "descripcion": "\nMaki is a classmate and friend of [Nagisa](https://anilist.co/character/134330). She has short hair styled in short pigtails. She is friends with Nagisa and is secretly jealous of Nagisa's relationship with her boyfriend, as she too liked Kashiwagi's Boyfriend, but could not confess before. As a branch member of the Shinomiya clan, she is [Kaguya](https://anilist.co/character/120649)'s second cousin twice removed so she sometimes refers to Kaguya as \"Auntie\". [Miyuki](https://anilist.co/character/121101) and [Yuu](https://anilist.co/character/121102/Yuu-Ishigami) observe she acts very tsundere (cold on the outside but wanting to be affectionate), and similar to Kaguya in personality. She declares Yuu and Miyuki as her friends, due to their support in helping her process her failed romance, much to Kaguya's horror",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 125368,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+            "english": null,
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        },
+        {
+          "id": 194884,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+            "native": "かぐや様は告らせたい 大人への階段"
+          }
+        }
+      ]
+    },
+    {
+      "id": 276519,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Masaru Kobayashi",
+        "native": "小林マサル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b276519-dha4odF2TNMN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b276519-dha4odF2TNMN.jpg"
+      },
+      "descripcion": "Treasurer of the culture festival committee. He has a crush on [Tsubame Koyasu](https://anilist.co/character/134326/Tsubame-Koyasu).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 206216,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mikado Shijo",
+        "native": "四条帝"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b206216-d7NTzAF5XMMU.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b206216-d7NTzAF5XMMU.jpg"
+      },
+      "descripcion": "Mikado is the twin brother of [Maki](https://anilist.co/character/134328). He is among the story's smartest characters, as he placed first in the national mock exam during freshman year, to [Miyuki](https://anilist.co/character/121101)'s second place. As such, Miyuki has had an obsession with beating him in a rematch. However, Mikado chose to attend a nearby public school in order to play soccer with his friends.\n\n~!After leading his team to the national championship, Mikado transfers to Shuchiin, where he becomes a member of Class 3-A, along with all of the story's notable third years, including Kaguya, Miyuki, Maki, [Chika](https://anilist.co/character/121103/) and [Ai](https://anilist.co/character/121104/).!~\n\n~!Mikado is revealed to be very much a normal teenager, albeit a genius, as he has normal worries like being able to make friends at a new school. He also readily defers to his sister, despite finding her crazy and incomprehensible. Interestingly, Mikado is very similar to Miyuki, and the two quickly go from misunderstood rivals to close friends.!~\n",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        },
+        {
+          "id": 194884,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+            "native": "かぐや様は告らせたい 大人への階段"
+          }
+        }
+      ]
+    },
+    {
+      "id": 275598,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Miki",
+        "native": "みき"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b275598-Vc7wZ1e8WrXG.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b275598-Vc7wZ1e8WrXG.jpg"
+      },
+      "descripcion": "An elementary school student",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 134329,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Moeha Fujiwara",
+        "native": "藤原萌葉"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134329-cRdrf5BqmIVk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b134329-cRdrf5BqmIVk.png"
+      },
+      "descripcion": "\nMoeha is [Chika](https://anilist.co/character/121103)'s little sister who is in junior high. She is the student council vice-president at the junior high. She admires [Miyuki](https://anilist.co/character/121101) as well and hopes to confess someday. She has a habit of voicing dark ideas, which unnerve [Kaguya](https://anilist.co/character/120649) a great deal.",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 26
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 212390,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Momo Ryuuju",
+        "native": "龍珠桃"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212390-cCppoJIBYxyA.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212390-cCppoJIBYxyA.jpg"
+      },
+      "descripcion": "Momo Ryuuju is a supporting character in the series. She is the president of the Astronomy Club and one of The Impossible Girls.\nAs a member of a yakuza family, she places little value on the school rules, as seen by her wearing a hat and playing games on her cellphone while on school grounds. She also has a short temper, and others view her as being threatening.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 134330,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nagisa Kashiwagi",
+        "native": "柏木渚"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134330-2b7ad7GPw1Wl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b134330-2b7ad7GPw1Wl.png"
+      },
+      "descripcion": "\nNagisa is a classmate who occasionally asks [Kaguya](https://anilist.co/character/120649) about what to do in her relationships. [Tsubasa](https://anilist.co/character/134327)'s girlfriend.",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 125368,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+            "english": null,
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        },
+        {
+          "id": 194884,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+            "native": "かぐや様は告らせたい 大人への階段"
+          }
+        }
+      ]
+    },
+    {
+      "id": 275116,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nao Hayasaka",
+        "native": "早坂奈央"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b275116-SOfw5qLMI0FM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b275116-SOfw5qLMI0FM.png"
+      },
+      "descripcion": "Nao Hayasaka is Ai's mother. The two of them are shown to have a close relationship, though Ai is often upset by her mother's job keeping them from spending much time together. She also works for the Shinomiya family.\n\nDaughter: [__Ai Hayasaka__](https://anilist.co/character/121104/)\nSpouse: __Masato Hayasaka__",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36309,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Narrator",
+        "native": "ナレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+      },
+      "descripcion": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 6,
+          "title": {
+            "romaji": "TRIGUN",
+            "english": "Trigun",
+            "native": "TRIGUN"
+          }
+        },
+        {
+          "id": 21,
+          "title": {
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
+          }
+        },
+        {
+          "id": 25,
+          "title": {
+            "romaji": "Sunabouzu",
+            "english": "Desert Punk",
+            "native": "砂ぼうず"
+          }
+        },
+        {
+          "id": 28,
+          "title": {
+            "romaji": "Yakitate!! Japan",
+            "english": null,
+            "native": "焼きたて!! ジャぱん"
+          }
+        },
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 33,
+          "title": {
+            "romaji": "Kenpuu Denki Berserk",
+            "english": "Berserk",
+            "native": "剣風伝奇ベルセルク"
+          }
+        },
+        {
+          "id": 60,
+          "title": {
+            "romaji": "Chrno Crusade",
+            "english": "Chrono Crusade",
+            "native": "クロノクルセイド"
+          }
+        },
+        {
+          "id": 67,
+          "title": {
+            "romaji": "Basilisk: Kouga Ninpouchou",
+            "english": "Basilisk",
+            "native": "バジリスク 甲賀忍法帖"
+          }
+        },
+        {
+          "id": 80,
+          "title": {
+            "romaji": "Kidou Senshi Gundam",
+            "english": "Mobile Suit Gundam",
+            "native": "機動戦士ガンダム"
+          }
+        },
+        {
+          "id": 90,
+          "title": {
+            "romaji": "Shin Kidou Senki Gundam Wing",
+            "english": "Mobile Suit Gundam Wing",
+            "native": "新機動戦記ガンダムW"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157369,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rei Onodera",
+        "native": "小野寺麗"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157369-9o1jZCEZMyYb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157369-9o1jZCEZMyYb.png"
+      },
+      "descripcion": "\nShe is a supporting character in the series. She was a member of Shuchi'in's Red Cheer Team and is a classmate of Yu Ishigami and Miko Iino. She is a fairly calm girl under normal circumstances and is fairly open-minded, but when involved with the Cheer Team or the culture festival committee, she becomes far more energetic.",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 17
+      },
+      "media": [
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        },
+        {
+          "id": 165557,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic 3rd Season Teaser PV - Ishigami Yuu wa Kataritai",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic- \"Yu Ishigami Wants to Chat\"",
+            "native": "第３期『かぐや様は告らせたい-ウルトラロマンティック-』 ／ ティザーPV 「石上優は語りたい」"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137169,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Saburo Odajima",
+        "native": "小田島三郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137169-fQzfMsNROYyF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137169-fQzfMsNROYyF.png"
+      },
+      "descripcion": "One of the Four Ramen Emperors of Tokyo. In the past, Saburo was in a relationship with [The Glutton Girl of Jinbocho](https://anilist.co/character/276380/Jinbouchou-no-Glutton-Girl), but he broke up with her over their polar opposite ramen styles, believing they'll eventually end up at each other's throats.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 275620,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Saburou Toyosaki",
+        "native": "豊崎三郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b275620-OjIpji2v6zhb.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b275620-OjIpji2v6zhb.jpg"
+      },
+      "descripcion": "In the past, he used underhanded tactics to sabotage [Shirogane](https://anilist.co/character/121101/)'s grades, but he now fights fair and square. He only opens his eyes when he shows his \"true power.\"",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 134893,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shirogane no Chichi",
+        "native": "白銀の父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134893-1dpk1sQ1pGRR.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b134893-1dpk1sQ1pGRR.jpg"
+      },
+      "descripcion": "Father of [Miyuki](https://anilist.co/character/121101) and [Kei Shirogane](https://anilist.co/character/126144).\n\n~!His wife left him and their factory shut down leaving him to not have any stable employment.!~\n\n~!He later becomes a youtuber.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 125368,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+            "english": null,
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        },
+        {
+          "id": 194884,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+            "native": "かぐや様は告らせたい 大人への階段"
+          }
+        }
+      ]
+    },
+    {
+      "id": 275602,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shitsuji",
+        "native": "執事"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b275602-TmQDk1w5GGFV.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b275602-TmQDk1w5GGFV.jpg"
+      },
+      "descripcion": "One of the butler's assigned to [Kaguya](https://anilist.co/character/120649/Kaguya-Shinomiya)",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 177066,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shouzou Tanuma",
+        "native": "田沼正造"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177066-ZHk7nsy5wDcn.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177066-ZHk7nsy5wDcn.jpg"
+      },
+      "descripcion": "Shouzou Tanuma is a world famous heart surgeon and the physician of the Shinomiya family.\nHe is also Tsubasa's grandfather",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 276520,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Teppei Tanaka",
+        "native": "田中哲平"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b276520-gvgu9gSgsEUO.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b276520-gvgu9gSgsEUO.jpg"
+      },
+      "descripcion": "A member of Shuchi'in Academy's Public Relations team. He has a crush on [Tsubame Koyasu](https://anilist.co/character/134326/Tsubame-Koyasu).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 176220,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Terashima",
+        "native": "寺島"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176220-ybbcG8hZSgUO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b176220-ybbcG8hZSgUO.png"
+      },
+      "descripcion": "She's a third-year high school student at Shuchi'in Academy and a member of the Tabletop Gaming Club which Chika Fujiwara is also a part of. Terashima, being demoted from Terako to Gigako, is a pun on metric prefixes",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 134326,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tsubame Koyasu",
+        "native": "子安つばめ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134326-GOZE06QSlJSb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b134326-GOZE06QSlJSb.png"
+      },
+      "descripcion": "\nTsubame is a third-year student who is vice-captain of the cheer squad and a rhythmic gymnast. She is very popular. She encourages [Yuu](https://anilist.co/character/121102) in the cheering activities.",
+      "genero": "Female",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 134327,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tsubasa Tanuma ",
+        "native": "田沼翼"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134327-5tqYKvBaqRe2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b134327-5tqYKvBaqRe2.png"
+      },
+      "descripcion": "\nHe is a student in Shuchi'in highschool and always asks [Miyuki Shirogane](https://anilist.co/character/121101) for advice about love. [Kashiwagi](https://anilist.co/character/134330)'s boyfriend.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 125368,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+            "english": null,
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        },
+        {
+          "id": 194884,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+            "native": "かぐや様は告らせたい 大人への階段"
+          }
+        }
+      ]
+    },
+    {
+      "id": 276379,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yume Atenbo",
+        "native": "阿天防ゆめ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b276379-zvGm9NJSaxJY.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b276379-zvGm9NJSaxJY.jpg"
+      },
+      "descripcion": "President of the Occult Research Club. Her grandfather is a high ranking Shinto priest. She loves to tease couples, so most of her predictions are excuses for sexual harassment.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 212389,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zen Seito Kaichou",
+        "native": "生前徒会長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212389-M0QAzDPJvn7Z.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212389-M0QAzDPJvn7Z.jpg"
+      },
+      "descripcion": "The Previous Student Council President (real name unknown) is a supporting character in the series. He is a third-year high school student at Shuchi'in Academy and the president of the 66th Student Council.\n\nHe is a third year student at Shuchi'in Academy and was the president of the School Council when Miyuki Shirogane was in his first year.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 134861,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Betsy Beltoise",
+        "native": "べルトクーズ・べツィー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134861-QZ5AdHGKe363.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b134861-QZ5AdHGKe363.png"
+      },
+      "descripcion": "The vice president of Shuchi'in Academy's sister school in France.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 275596,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ienaga",
+        "native": "家永"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b275596-C56DfInFeps8.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b275596-C56DfInFeps8.jpg"
+      },
+      "descripcion": "An elementary school student",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 276380,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jinbouchou no Glutton Girl",
+        "native": "神保町のグラットンガール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b276380-HYuJ3SXxBHIo.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b276380-HYuJ3SXxBHIo.jpg"
+      },
+      "descripcion": "One of the Four Ramen Emperors of Tokyo. She dated [Saburo Odajima](https://anilist.co/character/137169/Saburo-Odajima) in the past, but he broke up with her over their conflicting ramen styles. She felt unable to change her way of life and continued to pursue her style. In the present she had forgotten why she began eating ramen like this, until she happens to see [Chika Fujiwara](https://anilist.co/character/121103/Chika-Fujiwara)'s satisfaction from finishing a bowl of ramen.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302154,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoshi",
+        "native": "看護師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 384878,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kyoutouki",
+        "native": "給湯機"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 194884,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+            "native": "かぐや様は告らせたい 大人への階段"
+          }
+        }
+      ]
+    },
+    {
+      "id": 275600,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maki",
+        "native": "マキ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b275600-YskCzZupVuDC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b275600-YskCzZupVuDC.jpg"
+      },
+      "descripcion": "Hoped to hangout with Takkun, but he prioritized soccer instead. She does wanna cheer for him.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 276147,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mirin Hinokuchi",
+        "native": "火口三鈴"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b276147-kBHKjDvFpja8.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b276147-kBHKjDvFpja8.jpg"
+      },
+      "descripcion": "One of [Ai Hayasaka](https://anilist.co/character/121104/)'s closest friends. She wears her Shuchi'in Academy school uniform modified to match up with kogal fashion. She is the daughter of an advertising executive.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 276148,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Nayotake Shimizu",
+        "native": "清水名夜竹"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b276148-62MvBarUtNQl.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b276148-62MvBarUtNQl.jpg"
+      },
+      "descripcion": "~![Kaguya Shinomiya](https://anilist.co/character/120649/)'s mother. She died 30th of January, 29 days after giving birth to Kaguya.!~\n\n~!In Chapter 242, it was revealed that she worked in Gion's red light district as a prostitute.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 275117,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ouji",
+        "native": "王子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b275117-GTCEHC7xIFDV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b275117-GTCEHC7xIFDV.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 275599,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Pes",
+        "native": "ペス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b275599-dTi1PGzw5X9u.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b275599-dTi1PGzw5X9u.jpg"
+      },
+      "descripcion": "Pes is the beloved pet dog of [Chika Fujiwara](https://anilist.co/character/121103/Chika-Fujiwara). He is quite a large dog, with golden fur and floppy ears. He has piercing eyes like [the president](https://anilist.co/character/121101/Miyuki-Shirogane)",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301589,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito A",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301587,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito B",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301588,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito C",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301586,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito D",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301585,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito E",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301584,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito F",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301583,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito G",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151384,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 384875,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shiyounin",
+        "native": "使用人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b384875-9sfA4wRBVZDy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b384875-9sfA4wRBVZDy.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 194884,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+            "native": "かぐや様は告らせたい 大人への階段"
+          }
+        }
+      ]
+    },
+    {
+      "id": 276146,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Subaru Suruga",
+        "native": "駿河すばる"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b276146-75kwCAf4VpMp.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b276146-75kwCAf4VpMp.jpg"
+      },
+      "descripcion": "One of [Ai Hayasaka](https://anilist.co/character/121104/)'s closest friends. She wears her Shuchi'in Academy school uniform modified to match up with kogal fashion. She is the daughter of the president of an IT company.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        },
+        {
+          "id": 112641,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?",
+            "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 276381,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Takahiko Tanuma",
+        "native": "田沼 尊彦"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b276381-SYePQtEUdIG1.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b276381-SYePQtEUdIG1.jpg"
+      },
+      "descripcion": "One of the Four Ramen Emperors of Tokyo.",
+      "genero": "Male",
+      "edad": "93",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 125367,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 275601,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tenchou",
+        "native": "店長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b275601-nVOUDWJ2tCU3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b275601-nVOUDWJ2tCU3.jpg"
+      },
+      "descripcion": "A ramen chef",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 158014,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Toyomi Fujiwara",
+        "native": "藤原豊実"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b158014-iVXQSxl3JN0w.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b158014-iVXQSxl3JN0w.png"
+      },
+      "descripcion": "Toyomi Fujiwara is Chika Fujiwara and Moeha Fujiwara's eldest sister. Toyomi is a girl that likes to wear revealing outfits, her hair is similar to Chika's except that she tied hers with a flower shaped clip to go down on her left shoulder. She usually wears an aloof expression on her face. Toyomi is the laid back older sister type, who is very seductive and does whatever she likes, even against her own parents wishes.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101921,
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War",
+            "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 63,
+  "actualizado": 1788566641
+}

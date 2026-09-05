@@ -1,0 +1,2079 @@
+{
+  "clave": "noragami",
+  "nombre": "Noragami",
+  "descripcion": "Yato y el mundo de los dioses",
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Sobrenatural"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20447-EoQXeygHaVCK.jpg",
+  "medios": [
+    {
+      "id": 20447,
+      "title": {
+        "romaji": "Noragami",
+        "english": "Noragami",
+        "native": "ノラガミ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20447-EoQXeygHaVCK.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20447-EoQXeygHaVCK.jpg"
+      }
+    },
+    {
+      "id": 21128,
+      "title": {
+        "romaji": "Noragami ARAGOTO",
+        "english": "Noragami Aragoto",
+        "native": "ノラガミ ARAGOTO"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21128-eQgH3TG4nngo.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21128-eQgH3TG4nngo.jpg"
+      }
+    },
+    {
+      "id": 20494,
+      "title": {
+        "romaji": "Noragami OVA",
+        "english": "Noragami OVA",
+        "native": "ノラガミ OAD"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20494-HllvnQ1mRIxe.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20494-HllvnQ1mRIxe.jpg"
+      }
+    },
+    {
+      "id": 119941,
+      "title": {
+        "romaji": "Noragami ARAGOTO OVA",
+        "english": null,
+        "native": "ノラガミ ARAGOTO OAD"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119941-uspTZH6EoZer.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119941-uspTZH6EoZer.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 88239,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Bishamon",
+        "native": "毘沙門"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88239-aiUFUPNjmAh7.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88239-aiUFUPNjmAh7.jpg"
+      },
+      "descripcion": "__Race:__ God\n__Occupation:__ Goddess of Fortune and Goddess of War\n\nBishamon is one of the Seven Gods of Fortune and also officially a Goddess of War and Warriors. She is intent on keeping order among the gods. Due to her past with [Yato](https://anilist.co/character/84677/Yato), she is bent on vengeance and decided to destroy anything he held dear to himself. \n\nDespite being a goddess, Bishamon is shown to be quite generous towards her Shinki. She willingly accepts any wandering and troubled spirit, useful or not, and adds them to her family. Due to her failure in the past involving Shinki, Bishamon decides to be more distant from them, depicting herself as a fierce goddess and making sure that they are not worried about her, which only resulted to them being more insecure and lonely.\n\nIn the anime, Bishamon's hair is depicted as blonde, as opposed of the silver hair in the manga.",
+      "genero": "Female",
+      "edad": "1000+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 100716,
+          "title": {
+            "romaji": "Noraneko",
+            "english": null,
+            "native": "ノラネコ"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        },
+        {
+          "id": 119941,
+          "title": {
+            "romaji": "Noragami ARAGOTO OVA",
+            "english": null,
+            "native": "ノラガミ ARAGOTO OAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": 84679,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Hiyori Iki",
+        "native": "壱岐ひより"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84679-GdMxvYy36M9H.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b84679-GdMxvYy36M9H.png"
+      },
+      "descripcion": "__Race:__ Hanyou (Half Phantom, Half Human)\n__Height:__ 162,5 cm (~5'4\")\n\nHiyori Iki is a Half-Phantom who can leave her human body, being like this since she \"saved\" [Yato](https://anilist.co/character/84677/Yato) from an incoming bus. Despite being raised to be completely lady-like in a rich household, Hiyori is a huge martial arts fan and has a fixation on a martial artist called Touno, whom she adores and copies her attacks from. She often becomes inspired and acts on his words.\n\nHiyori is a very pure, kind-hearted, and brave girl who will go out of her way to help someone in danger, even strangers, regardless of the severe consequences, including suffering from blight. She has a strong moral compass and is not above calling people out if she feels their actions are wrong. Hiyori is also extremely perceptive of those around her, but despite that she can be a bit air-headed too. \n\nShe also has a strong liking to Yato's smell and even called it her favorite smell on one occasion, but she becomes rather embarrassed by how much she likes it and dodges the subject whenever it is brought up.",
+      "genero": "Female",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 100716,
+          "title": {
+            "romaji": "Noraneko",
+            "english": null,
+            "native": "ノラネコ"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        },
+        {
+          "id": 119941,
+          "title": {
+            "romaji": "Noragami ARAGOTO OVA",
+            "english": null,
+            "native": "ノラガミ ARAGOTO OAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88240,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kazuma",
+        "native": "兆麻"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88240-Q1aOkqfeFQpV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88240-Q1aOkqfeFQpV.png"
+      },
+      "descripcion": "__Race:__ Shinki\n\nKazuma is a calm, serious, and sensible person. He is one of [Bishamon's](https://anilist.co/character/88239/Bishamon) Shinki and cares about her deeply. When he is called by his shinki name, \"Chouki\", Kazuma transforms into a cherry blossom-shaped earring with the ability to navigate and track others. \n~!He is a Blessed Regalia.!~",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 100716,
+          "title": {
+            "romaji": "Noraneko",
+            "english": null,
+            "native": "ノラネコ"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        },
+        {
+          "id": 119941,
+          "title": {
+            "romaji": "Noragami ARAGOTO OVA",
+            "english": null,
+            "native": "ノラガミ ARAGOTO OAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": 84677,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Yato",
+        "native": "夜ト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84677-PFmohzIXD1ud.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b84677-PFmohzIXD1ud.png"
+      },
+      "descripcion": "__Race:__ God\n__Height:__ 174 cm (5’8”)\n__Occupation:__ God of War, Delivery God, God of Calamity (previously) \n\nYato is one of the three main protagonists of Noragami. An obscure god who considers himself a God of Fortune / Happiness and War, he has been labeled a God of Calamity and Depression in the past. Yato's dream is to become a famous god, whom everyone worships.\n\nYato can be mischievous, crude, and unpredictable in his behavior. He often has a low tolerance for something he wants, usually causing those around him to become upset. Furthermore, he is rather childish and gullible at times. Yato will often indulge in fantasies of being a very successful God with more followers than any other deity; shrines full of luxury and shrine maiden at his fingertips. As his existence would end if he were to be forgotten, he has developed Athazagoraphobia.\n\n~!It is revealed that Yato's real name is Yaboku (夜卜) Yaboku contains the kanji ya (夜 night) and boku (卜 divination). [Sakura](https://anilist.co/character/189754/Sakura) mistakenly read 卜 as the katakana ト to because of the similarities, thus giving the well-known alias name Yato.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 100716,
+          "title": {
+            "romaji": "Noraneko",
+            "english": null,
+            "native": "ノラネコ"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        },
+        {
+          "id": 119941,
+          "title": {
+            "romaji": "Noragami ARAGOTO OVA",
+            "english": null,
+            "native": "ノラガミ ARAGOTO OAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": 84681,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Yukine",
+        "native": "雪音"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84681-vFMPNxeDkoqt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b84681-vFMPNxeDkoqt.png"
+      },
+      "descripcion": "__Race:__ Shinki\n__Height:__ 147 cm (4'10\")\n\nWhile wandering about as a spirit, Yukine was picked up by [Yato](https://anilist.co/character/84677) and made into a Shinki. When called \"Sekki\" he transforms into a katana.\n\n~!He died at a young age, making him miss his normal life as a middle schooler. He acts like his age, and was once stealing money from people with the excuse that it's okay since he's dead. After being \"saved\" by [Hiyori](https://anilist.co/character/84679/Iki-Hiyori), he becomes more obedient and respects Yato and Hiyori. When he was alive he had trouble with his father as seen by Yato when he first obtains Yukine.!~\n\nIn a katana form, he finds Yato's sweaty hands so disgusting that he calls him \"Drippy.\"",
+      "genero": "Male",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 100716,
+          "title": {
+            "romaji": "Noraneko",
+            "english": null,
+            "native": "ノラネコ"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        },
+        {
+          "id": 119941,
+          "title": {
+            "romaji": "Noragami ARAGOTO OVA",
+            "english": null,
+            "native": "ノラガミ ARAGOTO OAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89296,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aiha",
+        "native": "藍巴"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/89296-xXuP59LVl4Al.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/89296-xXuP59LVl4Al.jpg"
+      },
+      "descripcion": "Aiha (藍巴) is one of Bishamonten's Shinki. As a Shinki, she takes the form of a medieval suit of armour with a long skirt.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        },
+        {
+          "id": 119941,
+          "title": {
+            "romaji": "Noragami ARAGOTO OVA",
+            "english": null,
+            "native": "ノラガミ ARAGOTO OAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": 121612,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aimi Tabata",
+        "native": "田端愛美"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/121612-YrGNtLl7C3TN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/121612-YrGNtLl7C3TN.jpg"
+      },
+      "descripcion": "__Nationality:__ Japanese\n__Occupation:__ High School Student \n\nAimi Tabata is one of Hiyori's friends from school. Not much has been shown about her personality. However, it is known that she is kind and supportive of Hiyori. She seems to be reasonable, calm, and mature. She often worries for Hiyori when she falls asleep (due to her soul slipping out of her body).",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 230841,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akiha",
+        "native": "秋巴"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b230841-r23jVicVK3A3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b230841-r23jVicVK3A3.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 230850,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akira Yamashita",
+        "native": "山下晶"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b230850-ILWDujlEdLXm.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b230850-ILWDujlEdLXm.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 230845,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ayu",
+        "native": "歩喩"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b230845-zlW3AqMAFGXt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b230845-zlW3AqMAFGXt.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 239595,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Benzaiten",
+        "native": "弁財天"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b239595-yUzRl3xYw9gH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b239595-yUzRl3xYw9gH.png"
+      },
+      "descripcion": "She is one of the Seven Gods of Fortune. She is officially the goddess of knowledge, beauty, and art (especially music).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88691,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Daikoku",
+        "native": "大黒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88691-3558v8r2PdLj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88691-3558v8r2PdLj.png"
+      },
+      "descripcion": "Daikoku is [Kofuku's](https://anilist.co/character/88241) somewhat overprotective shinki. He regards himself as Kofuku's husband.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 100716,
+          "title": {
+            "romaji": "Noraneko",
+            "english": null,
+            "native": "ノラネコ"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        },
+        {
+          "id": 119941,
+          "title": {
+            "romaji": "Noragami ARAGOTO OVA",
+            "english": null,
+            "native": "ノラガミ ARAGOTO OAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89120,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ebisu",
+        "native": "恵比寿"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89120-MDy3OOROXTUG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89120-MDy3OOROXTUG.png"
+      },
+      "descripcion": "__Race:__ God\n__Age:__ Ancient\n__Occupation:__ God of Fishing and Commerce\n\n__Ebisu__ is one of the Seven Gods of Fortune. He is the humorless God of Fishing and Commerce.\n\nInitially, Ebisu appears very stoic, always bearing a near-emotionless facial expression and speaking in a reserved, polite, yet aloof tone. He is also highly pragmatic and resourceful, constantly progressing towards his goals and willing to go to great lengths to achieve what he is after. Despite his aloof appearance and personality, he can actually be a silly person, making him appear rather comically serious at times. He is a kind god at heart.\n\n~!Ebisu is later revealed to be attempting to gain control over phantoms; a severe taboo if not sin in the eyes of the heavensl.!~\n\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        },
+        {
+          "id": 119941,
+          "title": {
+            "romaji": "Noragami ARAGOTO OVA",
+            "english": null,
+            "native": "ノラガミ ARAGOTO OAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": 230852,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fukurokuju",
+        "native": "福禄寿"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b230852-ec8IZMmueqoe.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b230852-ec8IZMmueqoe.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 247981,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fumiha",
+        "native": "文巴"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247981-GMl0YAGjmzKx.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247981-GMl0YAGjmzKx.jpg"
+      },
+      "descripcion": "is Bishamonten's shinki.\n\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 267078,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hiyori no Mama",
+        "native": "ひよりのママ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b267078-elTWGeNJ6p3s.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b267078-elTWGeNJ6p3s.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 312687,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hiyori no Papa",
+        "native": "ひよりのパパ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": "Hiyori's dad. Has his own hospital",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 239596,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hotei",
+        "native": "布袋"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b239596-gFMFvqPQP0IL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b239596-gFMFvqPQP0IL.png"
+      },
+      "descripcion": "He is one of the Seven Gods of Fortune. He is officially the god of abundance and good health.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89298,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Izanami",
+        "native": "イザナミ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/89298-jIvfrYPDcQPJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/89298-jIvfrYPDcQPJ.png"
+      },
+      "descripcion": "Izanami (イザナミ) is one of the most powerful gods, serving as the Queen of the Underworld. She is also the \"mother\" of the first gods, including Ebisu.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 239600,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jurojin",
+        "native": "寿老人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b239600-aQRjyxouSLai.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b239600-aQRjyxouSLai.png"
+      },
+      "descripcion": "He is one of the Seven Gods of Fortune. He is officially the god of long life.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 230843,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Karuha",
+        "native": "刈巴"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b230843-2Uej8aT4MJOr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b230843-2Uej8aT4MJOr.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 230842,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kazuha",
+        "native": "数巴"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b230842-CKPb5dgKeNYI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b230842-CKPb5dgKeNYI.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89299,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kinuha",
+        "native": "紝巴"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/89299-Bzq4BFCtvZr6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/89299-Bzq4BFCtvZr6.png"
+      },
+      "descripcion": "Kinuha (紝巴), is a current Regalia to Bishamonten. She turns into a whip in her shinki form. Her vessel name is Jinki (紝器).",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88241,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kofuku Ebisu",
+        "native": "エビス 小福"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88241-3NQSKNgaQRNC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88241-3NQSKNgaQRNC.png"
+      },
+      "descripcion": "Originally introduced as [Yato's](https://anilist.co/character/84677/Yato) girlfriend that he frequently shakes down for money, Kofuku is later revealed to be the infamous Binbougami - a Japanese Goddess of Poverty. She goes by the cover name \"Kofuku Ebisu\" in order to make it seem as though she is a god of fortune. She has a Shinki named [Daikoku](https://anilist.co/character/88691/Daikoku).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 100716,
+          "title": {
+            "romaji": "Noraneko",
+            "english": null,
+            "native": "ノラネコ"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        },
+        {
+          "id": 119941,
+          "title": {
+            "romaji": "Noragami ARAGOTO OVA",
+            "english": null,
+            "native": "ノラガミ ARAGOTO OAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89297,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kouto Fujisaki",
+        "native": "藤崎浩人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89297-tp5U07V6CRyM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89297-tp5U07V6CRyM.png"
+      },
+      "descripcion": "__Age:__ Looks 16, 1100+ (real)\n\nFujisaki Kouto (藤崎浩人, Fujisaki Kōto) is a third year student at Hiyori Iki's school. ~!He is possessed by Yato and Nora’s \"Father\", a conjurer of phantoms who deceived the gods.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89300,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kugaha",
+        "native": "陸巴"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89300-i160uw6UWVQb.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89300-i160uw6UWVQb.jpg"
+      },
+      "descripcion": "Kugaha is shown to be helpful and caring at first.\n\n~!He was one of Bishamon's former Shinki who conspired against her. He worked under the guise of a doctor while attempting to poison first her Regalia and ultimately, her. Upon being discovered, he was exiled and stripped of his name.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89301,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kuraha",
+        "native": "囷巴"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89301-1kEosHwb6M5T.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89301-1kEosHwb6M5T.png"
+      },
+      "descripcion": "Kuraha is a current Regalia to Bishamon. His regalia form is a male lion with a scar on his right eye.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 100716,
+          "title": {
+            "romaji": "Noraneko",
+            "english": null,
+            "native": "ノラネコ"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        },
+        {
+          "id": 119941,
+          "title": {
+            "romaji": "Noragami ARAGOTO OVA",
+            "english": null,
+            "native": "ノラガミ ARAGOTO OAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": 121705,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mayu",
+        "native": "真喩"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121705-mz3J8uWgIG7F.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b121705-mz3J8uWgIG7F.png"
+      },
+      "descripcion": "__Race:__ Shinki\n\nMayu has a very honest personality and a strong sense of justice. During the time she worked for Yato, she couldn’t stand his attitudes because not only he always lazed around, but he also often talked about killing and didn’t seem to care about humans that needed his help. Because of this she complained a lot and always insulted and badmouthed Yato after she quit.\n\nDespite her attitudes towards Yato, she also respects Yato and cares for him. She often gets worried whenever Yato got into trouble even when she is serving Tenjin. At one point she volunteered herself to help Yato, who was impure due to Yukine’s actions.",
+      "genero": "Female",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 230854,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mineha",
+        "native": "嶺巴"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b230854-FKWHhG052QgK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b230854-FKWHhG052QgK.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 230849,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Miyu",
+        "native": "実喩"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b230849-uLuyhdhaEEm7.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b230849-uLuyhdhaEEm7.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 230848,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Moyu",
+        "native": "望喩"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b230848-pEmtkbi9Tnto.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b230848-pEmtkbi9Tnto.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 119941,
+          "title": {
+            "romaji": "Noragami ARAGOTO OVA",
+            "english": null,
+            "native": "ノラガミ ARAGOTO OAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": 230846,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nayu",
+        "native": "南喩"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b230846-7HlXb42kBbQj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b230846-7HlXb42kBbQj.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 119941,
+          "title": {
+            "romaji": "Noragami ARAGOTO OVA",
+            "english": null,
+            "native": "ノラガミ ARAGOTO OAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88692,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nora",
+        "native": "野良"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88692-LebZeeQq1cqW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88692-LebZeeQq1cqW.png"
+      },
+      "descripcion": "__Race:__ Shinki\n__Occupation:__ Stray\n\n__Nora__ is a former shinki of [Yato](https://anilist.co/character/84677/Yato). \"Nora,\" meaning \"stray,\" is how the gods call any shinki who has many masters and many names, most notable owners of Nora are ~! [Ebisu](https://anilist.co/character/89120/Ebisu) and [Takemikazuchi](https://anilist.co/character/159592/Takemikazuchi) !~\n\nNora, at first comes off as very gentle and kind. She seems to care deeply for Yato, and continually prompts him to use her, because she was once a human and all she wanted was to have a family that cared about her. \n\n~!Later, it is revealed how manipulating and cruel she is. She tries to kill Yukine, as well as taunt him, due to the fact that he was impure, but also because she wants Yato to use her instead of him. She also tries to kill Hiyori due to how close she has gotten to Yato and believing she has softened him. She is depicted to show interest in anything with beauty, as shown when she commented on Yukine's eyes. She, just as Yato, is influenced and controlled by the actions and demands of \"Father\". Although she is initially seen as a villain, she is another puppet in the grand scheme of Yato's father. !~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 100716,
+          "title": {
+            "romaji": "Noraneko",
+            "english": null,
+            "native": "ノラネコ"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89302,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ookuninushi",
+        "native": "大国主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n89302-vyv7stADJ8C0.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n89302-vyv7stADJ8C0.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88690,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rabo",
+        "native": "蠃蚌"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/88690-7i53juMPaNjR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88690-7i53juMPaNjR.png"
+      },
+      "descripcion": "Rabo is an enigmatic character and appears only in the anime. He is often seen conversing with Nora and has been known to be able to control Phantoms.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 100716,
+          "title": {
+            "romaji": "Noraneko",
+            "english": null,
+            "native": "ノラネコ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 242235,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sasaki",
+        "native": "佐々木"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b242235-IL3zs2iV4W1k.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b242235-IL3zs2iV4W1k.png"
+      },
+      "descripcion": "Caretaker for Hiyori's house.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89303,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Suzuha",
+        "native": "鈴巴"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/89303-rkmnCfQ11QMS.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/89303-rkmnCfQ11QMS.jpg"
+      },
+      "descripcion": "Suzuha is a young looking Shinki with a very kind personality.\n\n~!He was one of Bishamon's Shinki and Yukine's first friend. It was revealed at the beginning of the season that his name hadn't been called by Bishamon in years before he died.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 159592,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Takemikazuchi",
+        "native": "タケミカヅチ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b159592-cBRY9VnbhVKx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b159592-cBRY9VnbhVKx.png"
+      },
+      "descripcion": "__Race:__ God\n__Occupation:__ God of Thunder\n\n__Takemikazuchi__ is a God of Thunder, but he's also sometimes identified as a God of Swords. A significant god, he is of high standing in the heavens and is known for his skill in combat. His most well-known shinki is Kiun.\n\nLoud and carefree, Takemikazuchi has a very dominant personality. His behavior stands in stark contrast to Kiun's stern and reserved disposition. He can also be quite lazy, expressing reluctance to fulfill the mission he was entrusted with by the heavens at one point. Fitting his reputation as a god versed in combat, he seems to be bored with how peaceful Takamagahara is at present, claiming that he would've liked it if it was under some kind of threat for a change.\n\n~!Takemikazuchi has a strong desire to obtain a blessed regalia, especially after seeing how powerful Kazuma's attack on Kiun was despite him being just an earring. !~",
+      "genero": "Male",
+      "edad": "1200+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88689,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tenjin",
+        "native": "天神"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88689-9OTDNG9R1zjC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88689-9OTDNG9R1zjC.png"
+      },
+      "descripcion": "He is the infamous god of academics. He has several shinki, all of them women (including Yato's former shinki); and has his own shrine, much to Yato's envy. He would sometimes assume human form to intervene if, for example, Yato goes out of control playing around.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        },
+        {
+          "id": 119941,
+          "title": {
+            "romaji": "Noragami ARAGOTO OVA",
+            "english": null,
+            "native": "ノラガミ ARAGOTO OAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": 230853,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Touma",
+        "native": "当麻"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b230853-8DxGQ69Xt6fK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b230853-8DxGQ69Xt6fK.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89304,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tsuguha",
+        "native": "紹巴"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89304-Em5i0pTwlRCU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89304-Em5i0pTwlRCU.png"
+      },
+      "descripcion": "Tsuguha is one of Bishamon's Ten Shinki. She transforms into Bishamon's bikini battle attire. Her vessel name is Shouki.\n~!She becomes an ayakashi and is killed by Kazuma after finding out her birth name.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        },
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        },
+        {
+          "id": 102507,
+          "title": {
+            "romaji": "Nirvana",
+            "english": null,
+            "native": "ニルバナ"
+          }
+        },
+        {
+          "id": 119941,
+          "title": {
+            "romaji": "Noragami ARAGOTO OVA",
+            "english": null,
+            "native": "ノラガミ ARAGOTO OAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": 176886,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tsuyu",
+        "native": "梅雨"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176886-A8EsLbQUQrpZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b176886-A8EsLbQUQrpZ.png"
+      },
+      "descripcion": "Tsuyu is the spirit of a plum tree who lived with Tenjin for 1,000 years. She is not a shinki, but rather stayed with Tenjin out of a lasting love.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        },
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": 230847,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yugiha",
+        "native": "靫巴"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b230847-PLcX20F72tTC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b230847-PLcX20F72tTC.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21128,
+          "title": {
+            "romaji": "Noragami ARAGOTO",
+            "english": "Noragami Aragoto",
+            "native": "ノラガミ ARAGOTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": 267077,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gakusei B",
+        "native": "学生B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b267077-mc2w8dFtYdmV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b267077-mc2w8dFtYdmV.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20494,
+          "title": {
+            "romaji": "Noragami OVA",
+            "english": "Noragami OVA",
+            "native": "ノラガミ OAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": 139308,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hashimoto",
+        "native": "橋本"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b139308-3i5Wd6xm2epa.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b139308-3i5Wd6xm2epa.jpg"
+      },
+      "descripcion": "Appeared briefly in episode 8. He was bullying Manabu Ogiwara.\n\n~!After Manabu confronts him, he peed his pants out of fear.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20447,
+          "title": {
+            "romaji": "Noragami",
+            "english": "Noragami",
+            "native": "ノラガミ"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 45,
+  "actualizado": 1788566025
+}

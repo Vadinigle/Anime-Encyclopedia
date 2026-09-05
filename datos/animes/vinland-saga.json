@@ -1,0 +1,4003 @@
+{
+  "clave": "vinland-saga",
+  "nombre": "Vinland Saga",
+  "descripcion": "Thorfinn y la era vikinga",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Aventura"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg",
+  "medios": [
+    {
+      "id": 101348,
+      "title": {
+        "romaji": "VINLAND SAGA",
+        "english": "Vinland Saga",
+        "native": "ヴィンランド・サガ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101348-2fhDFPCuMNiz.jpg"
+      }
+    },
+    {
+      "id": 136430,
+      "title": {
+        "romaji": "VINLAND SAGA SEASON 2",
+        "english": "Vinland Saga Season 2",
+        "native": "ヴィンランド・サガ SEASON2"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136430-gsBsJjA7hGh9.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136430-gsBsJjA7hGh9.jpg"
+      }
+    },
+    {
+      "id": 161923,
+      "title": {
+        "romaji": "VINLAND SAGA SEASON 2: Drowning in the Shadow",
+        "english": null,
+        "native": "ヴィンランド・サガ SEASON2 Drowning in the Shadow"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161923-32ox0QEAWNuh.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161923-32ox0QEAWNuh.png"
+      }
+    },
+    {
+      "id": 165056,
+      "title": {
+        "romaji": "VINLAND SAGA SEASON 2: Same old story",
+        "english": null,
+        "native": "ヴィンランド・サガ SEASON2 Same old story"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165056-5TTlTYhr77wj.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165056-5TTlTYhr77wj.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 13020,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Askeladd",
+        "native": "アシェラッド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13020-ZdiYlNmpRUNS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b13020-ZdiYlNmpRUNS.png"
+      },
+      "descripcion": "Askeladd is the commander of a small but powerful Viking band, which owed its success to Askeladd's exceptional intelligence. Ten years before the main Vinland Saga storyline, Askeladd accepted a contract to assassinate [Thors](https://anilist.co/character/13021), father of [Thorfinn](https://anilist.co/character/10138). During the Viking invasion and war in England, he manipulated Thorfinn's desire for revenge against him as a way of keeping the gifted young fighter in his service. Askeladd is one of the most skilled fighters in the series, and is particularly adept at predicting his opponents' moves in combat. Askeladd shares the name of Askeladden, a Norwegian folk character known for his cleverness.\n\n~!He is half-Danish and half-Welsh, being the son of a Welsh princess captured by a Viking raider. He believes in the legend of Avalon, which inspired him to support Prince [Canute](https://anilist.co/character/17438)'s bid for kingship of the Danes and ultimately sacrifices himself assassinating King [Sweyn](https://anilist.co/character/27957) in order to install Canute as the Danish King and to ensure the safety of Wales from Denmark.!~\n\n",
+      "genero": "Male",
+      "edad": "33-44 ",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        },
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 17438,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Canute Svenson",
+        "native": "クヌート"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17438-NwyOSMxycmck.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17438-NwyOSMxycmck.png"
+      },
+      "descripcion": "__Birthyear:__ 996\n__Height:__ 170 cm\n\nCanute is the prince of the Danes. He is initially portrayed as timid and womanly, with a bishounen appearance and inability to function without his retainer [Ragnar](https://anilist.co/character/82533). These traits, along with his strong Christianity, earn him the mockery of the Vikings with whom he works. ~!After Ragnar's death, however, he has a sharp reversal of personality, becomes strong and kingly, and develops an ambition to create utopia on earth before God's return. Towards this end, he plots to overthrow his father [Sweyn Forkbeard](https://anilist.co/character/27957) and take the crown of the Danes. Canute is based on the historical King Canute the Great, the most prominent Danish ruler of England.!~",
+      "genero": "Male",
+      "edad": "17-22",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        },
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 28030,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Einar",
+        "native": "エイナル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b28030-APYJLr7FvqtM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b28030-APYJLr7FvqtM.jpg"
+      },
+      "descripcion": "__Height:__ 184 cm\n\nEinar is a man from Northern England that was sold into slavery. He ends up in Denmark, where he meets [Thorfinn](https://anilist.co/character/10138). Together with him, Einar is working his way out of slavery by harvesting the land his master has lent to him and Thorfinn.\n~!After [Arnheid's](https://anilist.co/character/75590) death, he and Thorfinn agree to create a country of peace in Vinland!~",
+      "genero": "Male",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 223346,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ketil",
+        "native": "ケティル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b223346-bTdKvdsrcEC0.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b223346-bTdKvdsrcEC0.jpg"
+      },
+      "descripcion": "__Height:__ 175cm\n\nOwner of a farm in Southern Denmark, and father of Thorgil and Olmar. ~!Thorfinn, Einar and Arnheid work his farm as slaves!~",
+      "genero": "Male",
+      "edad": "44-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        },
+        {
+          "id": 165056,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2: Same old story",
+            "english": null,
+            "native": "ヴィンランド・サガ SEASON2 Same old story"
+          }
+        }
+      ]
+    },
+    {
+      "id": 10138,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Thorfinn Karlsefni",
+        "native": "トルフィン・カルルセヴニ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b10138-zOPrka0ddZOR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b10138-zOPrka0ddZOR.png"
+      },
+      "descripcion": "__Birthyear:__ 996\n__Height:__ 100 cm (6-7 years old), 153 cm (16-18 years old), 155 cm (19 years old)\n\nThorfinn is a courageous young man armed with two twin blades he inherited from his deceased [father](https://anilist.co/character/13021). He's traveling with [Askeladd](https://anilist.co/character/13020), who is the leader of a ruthless group of mercenaries who take jobs from whoever they think can offer them a reasonable reward. Besides, Askeladd is the man who killed Thorfinn's father, Thors, and the only reason Thorfinn is traveling with Askeladd is so he can defeat him in a duel and win back his father's pride. Thorfinn only wants to win his father's pride with a fair duel. Askeladd only agrees to these duels when Thorfinn completes a certain task (like bringing him the head of the opposing armies general on the battlefield).  He does not fight for the love of battle, but is still prone to losing his composure when in combat. This hotheadedness often costs him battles against more experienced opponents.",
+      "genero": "Male",
+      "edad": "6-25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        },
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        },
+        {
+          "id": 161923,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2: Drowning in the Shadow",
+            "english": null,
+            "native": "ヴィンランド・サガ SEASON2 Drowning in the Shadow"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296843,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Anaguma",
+        "native": "アナグマ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b296843-tGrXaDfP2o7w.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b296843-tGrXaDfP2o7w.jpg"
+      },
+      "descripcion": "Member of [Snake](https://anilist.co/character/79913/)'s mercenaries employed as guards of [Ketil](https://anilist.co/character/223346)'s farm.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 140357,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ari",
+        "native": "アーレ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b140357-4RwRiP5fFFhl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b140357-4RwRiP5fFFhl.png"
+      },
+      "descripcion": "__Height:__ 170 cm\n\nAri is from [Thorfinn](https://anilist.co/character/10138/Thorfinn-Karlsefni)’s village in Iceland.~!He is the husband of [Ylva](https://anilist.co/character/27876) and the father of their four children.!~",
+      "genero": "Male",
+      "edad": "16-32",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        },
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 75590,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Arnheid",
+        "native": "アルネイズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75590-grddrcysIfPx.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b75590-grddrcysIfPx.jpg"
+      },
+      "descripcion": "__Height:__ 155cm\n\nOne of Ketil's slaves, serving as his personal maid and concubine. Arnheid is kind, hard-working, honest, and tries her best to get through her slave life without trouble.",
+      "genero": "Female",
+      "edad": "21-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141590,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Asgeir",
+        "native": "アスゲード"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141590-2XC1g81PDAnu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141590-2XC1g81PDAnu.png"
+      },
+      "descripcion": "__Height:__ 170cm\n\n[Thorkell](https://anilist.co/character/17440)'s first mate. Asgeir is one of the few characters Thorkell outwardly respects, meeting him at eye-level in conversation, listening to his advice, and putting him in charge of strategies and planning. Asgeir is often shown yelling at Thorkell and becoming easily worried and even panicked when Thorkell is in danger.",
+      "genero": "Male",
+      "edad": "36-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        },
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156503,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Asser",
+        "native": "アッサー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156503-mSIcfRrmQmbp.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156503-mSIcfRrmQmbp.jpg"
+      },
+      "descripcion": "is a Welsh envoy",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141592,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Atli",
+        "native": "アトリ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141592-mCB6PhQSb0z0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141592-mCB6PhQSb0z0.png"
+      },
+      "descripcion": "He is [Torgrim](https://anilist.co/character/141591)'s younger brother.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 19485,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bjorn",
+        "native": "ビョルン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19485-GqL2A0NKp3Tf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19485-GqL2A0NKp3Tf.png"
+      },
+      "descripcion": "Bjorn is [Askeladd](https://anilist.co/character/13020)'s second in command, a burly man who fights for the love of combat. He is a berserker, able to enter powerful rages through the consumption of certain mushrooms.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        },
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301415,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Brodd",
+        "native": "ブロッド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301415-w0QWtHXIPIsd.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301415-w0QWtHXIPIsd.jpg"
+      },
+      "descripcion": "A messenger for King Canute.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 172744,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bug-Eyes",
+        "native": "ギョロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b172744-HlcZi9Md6N6T.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b172744-HlcZi9Md6N6T.png"
+      },
+      "descripcion": "__Height:__ 175cm\n\nThorfinn, better known by his nickname Bug-Eyes, is a trader working with [Leif Erikson](https://anilist.co/character/19486/). A former slave, Bug-Eyes was bought by Leif under the false assumption that he was [Thorfinn](https://anilist.co/character/10138/), son of Thors.",
+      "genero": "Male",
+      "edad": "30-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306634,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Drott",
+        "native": "ドロット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306634-putg1OP278oI.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306634-putg1OP278oI.jpg"
+      },
+      "descripcion": "Soldier serving as personal guard of Canute.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298107,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eadric",
+        "native": "エアドリク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298107-NGdfRxRBMNUW.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298107-NGdfRxRBMNUW.jpg"
+      },
+      "descripcion": "An earl loyal to [Ethelred II](https://anilist.co/character/2981050) who was pressured into serving [Canute](https://anilist.co/character/17438) for his family's safety.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298112,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eadric no Musuko",
+        "native": "エアドリクの息子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298112-irnPJbHbC7Bb.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298112-irnPJbHbC7Bb.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296227,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Emma",
+        "native": "エッマ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b296227-RF000inLdqsk.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b296227-RF000inLdqsk.jpg"
+      },
+      "descripcion": "[Einar](https://anilist.co/character/28030) and [Lotta](https://anilist.co/character/296218)'s mother",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 300483,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Estrid",
+        "native": "エストリッド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b300483-A3nuRvonzUzx.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b300483-A3nuRvonzUzx.jpg"
+      },
+      "descripcion": "Daughter of King Sweyn and sister to Harald and Canute.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298105,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ethelred II",
+        "native": "エセルレッド2世"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298105-lZJ6iPDppg6c.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b298105-lZJ6iPDppg6c.jpg"
+      },
+      "descripcion": "English king deposed from his throne by [Sweyn](https://anilist.co/character/27957).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156505,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Faxi",
+        "native": "ファクシ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156505-MCgdO8ZmLvCE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156505-MCgdO8ZmLvCE.jpg"
+      },
+      "descripcion": "is a young boy from Thorfinn's village.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 82537,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Floki",
+        "native": "フローキ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82537-8WGHoXQcaKNI.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b82537-8WGHoXQcaKNI.jpg"
+      },
+      "descripcion": "A Jomsviking commander whom contracted [Askeladd](https://anilist.co/character/13020) to assassinate [Thors](https://anilist.co/character/13021), Floki's former comrade.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        },
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301414,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fuudo no Otoko",
+        "native": "フードの男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301414-E6R4IeI5XzM7.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301414-E6R4IeI5XzM7.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301732,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gardar",
+        "native": "ガルザル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301732-tMKHRsJTyQop.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301732-tMKHRsJTyQop.jpg"
+      },
+      "descripcion": "__Height:__ 180 cm\n\nA former Viking warrior turned slave. ~!Before being a slave, he had a happy life with his wife [Arnheid](https://anilist.co/character/75590) and son [Hjatli](https://anilist.co/character/302134).!~",
+      "genero": "Male",
+      "edad": "32-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156504,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gorm",
+        "native": "ゴルム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156504-G7E94N4uF2Kr.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156504-G7E94N4uF2Kr.jpg"
+      },
+      "descripcion": "is a feudal lord in a village located on the Jutland Peninsula, Denmark. He really loves gold and it brightens his heart, just by looking at it.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156515,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gratianus",
+        "native": "グラティアヌス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156515-2CuUwCXo0XVG.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156515-2CuUwCXo0XVG.jpg"
+      },
+      "descripcion": "Gratianus is a Welsh warrior serving as a captain of Morgannwg's military.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156511,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Grim",
+        "native": "グリム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156511-EZjKX7oNkaPv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156511-EZjKX7oNkaPv.png"
+      },
+      "descripcion": "A young man from Thorfinn's village.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156517,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gunnar",
+        "native": "グンナル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156517-cafNAxFz1QAx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156517-cafNAxFz1QAx.png"
+      },
+      "descripcion": "He is Ragnar's Brother.\n~!now he is a politician who currently serves as an adviser to King Canute.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        },
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 232483,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hakon",
+        "native": "ハーコン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b232483-mGQrRKJtPaJh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b232483-mGQrRKJtPaJh.png"
+      },
+      "descripcion": "A young man from Thorfinn's village.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156513,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Haldor",
+        "native": "ハッルドール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156513-YP3UOu21XAbZ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156513-YP3UOu21XAbZ.jpg"
+      },
+      "descripcion": "Haldor is a warrior living in England.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 140356,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Halfdan",
+        "native": "ハーフダン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b140356-GtF803Q3VytA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b140356-GtF803Q3VytA.png"
+      },
+      "descripcion": "Halfdan is a wealthy and powerful landowner and moneylender known for his ruthlessness, earning the nickname \"Iron Chain\" for his skilled use of one as a weapon and symbol of his philosophy of chaining others.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 300484,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Harald",
+        "native": "ハラルド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b300484-gNsRJaQYvtj0.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b300484-gNsRJaQYvtj0.jpg"
+      },
+      "descripcion": "Eldest son of King Sweyn and brother to Canute and Estrid.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 79913,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hebi",
+        "native": "蛇"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b79913-FKEmQ3dutqp3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b79913-FKEmQ3dutqp3.jpg"
+      },
+      "descripcion": "__Height:__ 172 cm\n__Occupation:__ Leader of the Guests\n\nA warrior employed by Ketil as head of his farm's guards. He is an extremely formidable warrior, with Thorfinn attesting that Snake is faster than anyone he has ever fought. ~!Snake was formerly a warrior of Miklagard (the Old Norse name of Constantinople).!~\n",
+      "genero": "Male",
+      "edad": "34-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        },
+        {
+          "id": 165056,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2: Same old story",
+            "english": null,
+            "native": "ヴィンランド・サガ SEASON2 Same old story"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141589,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Helga",
+        "native": "ヘルガ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141589-z9PsqosVAEpr.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141589-z9PsqosVAEpr.jpg"
+      },
+      "descripcion": "She is the mother of [Thorfinn](https://anilist.co/character/10138) and [Ylva](https://anilist.co/character/27876), and the wife of [Thors](https://anilist.co/character/13021). ~!She's the daughter of the Jomsviking Chief.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        },
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156509,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jabbathe",
+        "native": "ジャバザ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156509-84FKSZxg1JBA.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156509-84FKSZxg1JBA.jpg"
+      },
+      "descripcion": "is a frank nobleman, who with the help of Askeladd was able to overtake a strong frank fortress.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296842,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kitsune",
+        "native": "キツネ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b296842-3zSWo3Au1nGZ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b296842-3zSWo3Au1nGZ.jpg"
+      },
+      "descripcion": "Member of [Snake](https://anilist.co/character/79913/)'s mercenaries employed as guards of [Ketil](https://anilist.co/character/223346)'s farm.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301734,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kjallakr",
+        "native": "キャルラク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301734-tCoXoHJAEubi.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301734-tCoXoHJAEubi.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302775,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kumo",
+        "native": "クモ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302775-3pfg7dtiDNkW.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302775-3pfg7dtiDNkW.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 19486,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Leif Erikson",
+        "native": "レイフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19486-XRzBNqoLb5Le.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19486-XRzBNqoLb5Le.png"
+      },
+      "descripcion": "__Birthyear:__ 965\n__Height:__ 152 cm (4'11\")\n\n~!An explorer who joins [Thorfinn](https://anilist.co/character/10138) in his quest to find paradise.!~",
+      "genero": "Male",
+      "edad": "37-52",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        },
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296218,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lotta",
+        "native": "ロタ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b296218-kgcPelUNA1WK.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b296218-kgcPelUNA1WK.jpg"
+      },
+      "descripcion": "[Einar](https://anilist.co/character/28030)'s sister.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156501,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lydia",
+        "native": "リディア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156501-9Px2PIJmwSC4.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156501-9Px2PIJmwSC4.jpg"
+      },
+      "descripcion": "a Welsh noblewoman who was captured and enslaved by the Norse warrior Olaf",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156510,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Magni",
+        "native": "マグニ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156510-kHwEAWMbHLq1.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156510-kHwEAWMbHLq1.jpg"
+      },
+      "descripcion": "is a young man from Thorfinn's village.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141593,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mimi",
+        "native": "耳"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141593-Yvmnhb2uGwRA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141593-Yvmnhb2uGwRA.png"
+      },
+      "descripcion": "A member of [Askeladd](https://anilist.co/character/13020)'s band whose remarkable hearing allows him estimate distance and marching speed of enemy troops just by pressing his ear to the ground. He needs complete silence to work, and snow dampens sound enough to severely limit this ability.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302777,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mogura",
+        "native": "モグラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302777-ijoFwDHIFcuo.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302777-ijoFwDHIFcuo.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156507,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mols",
+        "native": "モルズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156507-5iLWRqhPPEkV.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156507-5iLWRqhPPEkV.jpg"
+      },
+      "descripcion": "[Leif](https://anilist.co/character/19486)'s traveling partner.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        },
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 232482,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mord",
+        "native": "モード"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b232482-ess292WyFgcz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b232482-ess292WyFgcz.png"
+      },
+      "descripcion": "Mord is a young man from Thorfinn's village.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305019,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nezumi",
+        "native": "ネズミ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305019-ERvjY9GZV1Xw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305019-ERvjY9GZV1Xw.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296875,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Oddný",
+        "native": "オッドニー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b296875-q2uwtXmLSmB6.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b296875-q2uwtXmLSmB6.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 299185,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Okusama",
+        "native": "奥樣"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299185-jFdE5d3cfjn3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b299185-jFdE5d3cfjn3.jpg"
+      },
+      "descripcion": "[Ketil](https://anilist.co/character/223346)'s wife.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156502,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Olaf",
+        "native": "オラフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156502-OhqRlwPpcmgd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156502-OhqRlwPpcmgd.png"
+      },
+      "descripcion": "Norse warrior and the father of Askeladd.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 224512,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Olmar",
+        "native": "オルマル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b224512-YlgwvOlsBpxN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b224512-YlgwvOlsBpxN.jpg"
+      },
+      "descripcion": "__Height:__ 170 cm (initial)\n\nYoungest son of [Ketil](https://anilist.co/character/223346).",
+      "genero": "Male",
+      "edad": "16-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        },
+        {
+          "id": 165056,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2: Same old story",
+            "english": null,
+            "native": "ヴィンランド・サガ SEASON2 Same old story"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296851,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pater",
+        "native": "パテール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b296851-geZHUzH400VP.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b296851-geZHUzH400VP.jpg"
+      },
+      "descripcion": "__Height:__ 165 cm\n\nA former slave working for [Ketil](https://anilist.co/character/223346) as a farm hand.",
+      "genero": "Male",
+      "edad": "40-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 82533,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ragnar",
+        "native": "ラグナル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82533-EN57FGoTIHn3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b82533-EN57FGoTIHn3.png"
+      },
+      "descripcion": "He is the main adviser for Prince [Canute](https://anilist.co/character/17438). Ragnar is bald apart from very long, black, curly hair on the sides of his head. He has very thick black eyebrows that lie close to his deepset eyes. His wrinkles are also very deep, especially in his cheeks, just above his thick beard.\n\n(Source: Vinland Saga Wiki)",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        },
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 299182,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sture",
+        "native": "スチュル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299182-LeMWTR7S3XMy.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b299182-LeMWTR7S3XMy.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": "12",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305018,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Suzume",
+        "native": "スズメ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305018-KcqFJfVauYYy.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305018-KcqFJfVauYYy.jpg"
+      },
+      "descripcion": "Member of Snake's band of Guests.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 255607,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sverkell",
+        "native": "スヴェルケル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b255607-jXjRTKh9J8Q6.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b255607-jXjRTKh9J8Q6.jpg"
+      },
+      "descripcion": "Sverkel is the elderly father of Ketil, living on the ground of his son's farm in Jutland, Denmark. ~!At first glance he seems to be quite a grumpy person, but he appears to actually be soft at heart. This is suggested by the fact that he helps out Thorfinn and Einar by lending them his farming utensils in exchange for their helping hands on his fields. This is further implied by his deep bond with Snake, even though they are depicted fighting a lot. On top of that, Sverkel is strong-willed, hardworking and stubborn.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 27957,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sweyn",
+        "native": "スヴェン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b27957-1eAJeuybBavR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b27957-1eAJeuybBavR.png"
+      },
+      "descripcion": "Danish king who managed to conquer almost the entirety of England and Wales, all the while keeping control of his more northern kingdoms. Father of [Canute](https://anilist.co/character/17438). ~!After being provoked by Sweyn, [Askeladd](https://anilist.co/character/13020) executes the king by cutting off his head with a sword.!~",
+      "genero": "Male",
+      "edad": "52",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        },
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 299184,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Thora",
+        "native": "トーラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299184-Kx3gH2iA4RNg.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b299184-Kx3gH2iA4RNg.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 82535,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Thorgil",
+        "native": "トールギル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82535-xwMqaJpEQQ4n.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b82535-xwMqaJpEQQ4n.jpg"
+      },
+      "descripcion": "__Height:__ 176 cm\n\nEldest son of [Ketil](https://anilist.co/character/223346) and brother of [Olmar](https://anilist.co/character/224512). Much like [Thorkell](https://anilist.co/character/17440) he loves a good fight and has no qualms killing anybody who gets in his way. Served as a Thegn under Canute.",
+      "genero": "Male",
+      "edad": "24-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        },
+        {
+          "id": 165056,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2: Same old story",
+            "english": null,
+            "native": "ヴィンランド・サガ SEASON2 Same old story"
+          }
+        }
+      ]
+    },
+    {
+      "id": 17440,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Thorkell",
+        "native": "トルケル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17440-XvYe5JY862ZT.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17440-XvYe5JY862ZT.png"
+      },
+      "descripcion": "__Height:__ 230 cm (7'7\")\n\nThorkell is a Jomsviking general and brother of the Jomsviking Chief. A giant man who loves combat, Thorkell defected from the Danish army to become a mercenary for the English, believing that fighting his fellow Vikings will give him a better challenge. This same love of war leads him to support Prince [Canute](https://anilist.co/character/17438)'s bid for kingship of the Danes. Before [Thors](https://anilist.co/character/13021)' defection he works with and highly respects the man, and bears a fondness for his son [Thorfinn](https://anilist.co/character/10138) in the main plot. He duels twice with Thorfinn and dominates each time, though he loses two fingers in the first duel and an eye in the second. In battle, Thorkell typically wields a pair of axes as his primary weapons, but his greatest asset is probably his vast physical strength. During a skirmish with [Askeladd](https://anilist.co/character/13020)'s band, he hurled a spear with such force that it skewered three men at once, despite having been thrown from several hundred feet away. Thorkell's character is based on Thorkell the Tall, a historical Jomsviking lord who is a mentor to Canute in the Flateyjarbók.   \n\n~!Joined Canute as his servant after seeing him change in front of Askeladd and Thorfinn.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        },
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 13021,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Thors Snorresson",
+        "native": "トールズ・スノーレソン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13021-XJAVDHwMWek2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b13021-XJAVDHwMWek2.png"
+      },
+      "descripcion": "__Height:__ 180 cm (5'11\")\n\nThors is the father of [Thorfinn](https://anilist.co/character/10138), a Jomsviking general whose phenomenal combat prowess earns him the epithet &quot;The Troll of Jom&quot;. Thors grows weary of battle after the birth of his children, fakes his own death, and retires to become a pacifist farmer.\n\nThors is largely considered the greatest fighter to appear in the series, having defeated the likes of Askeladd and [Thorkell](https://anilist.co/character/17440) in single combat. Such was his strength that Floki was unwilling to engage him directly, even with an entire squadron of Jomsviking warriors. Unlike his son, Thors has no explicit or implied historical basis.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        },
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301733,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tokage",
+        "native": "蜥蜴"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301733-pAO7lSPEGGNC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301733-pAO7lSPEGGNC.jpg"
+      },
+      "descripcion": "A member of Snake's band of mercenaries employed by Ketil.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156514,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tore",
+        "native": "トーレ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156514-Bz6bnIhPCOft.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156514-Bz6bnIhPCOft.jpg"
+      },
+      "descripcion": "is a member of Askeladd's band.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141591,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Torgrim",
+        "native": "トルグリム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141591-N9phXav8yAv5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141591-N9phXav8yAv5.png"
+      },
+      "descripcion": "He is [Atli](https://anilist.co/character/141592)'s older brother.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 20704,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Willibald",
+        "native": "ヴィリバルド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b20704-N5pntGOae3F4.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b20704-N5pntGOae3F4.jpg"
+      },
+      "descripcion": "A 23-year-old Friar who travels with and mentors Prince [Canute](https://anilist.co/character/17438). He enjoys alcohol and is searching for true love.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 300482,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Wulf",
+        "native": "ウルフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b300482-nSy95BXQMiFb.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b300482-nSy95BXQMiFb.jpg"
+      },
+      "descripcion": "__Height:__ 175cm\n\n Canute's head thegn and his battle instructor.",
+      "genero": "Male",
+      "edad": "34-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302776,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yamainu",
+        "native": "ヤマイヌ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302776-Db9rrJuYMSMT.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302776-Db9rrJuYMSMT.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 27876,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ylva",
+        "native": "ユルヴァ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b27876-Oji0y5oi88oc.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b27876-Oji0y5oi88oc.jpg"
+      },
+      "descripcion": "She is [Thorfinn](https://anilist.co/character/10138)'s older sister. After Thorfinn has set on a journey to avenge his father, [Thors](https://anilist.co/character/13021), she takes care of household and [her mother](https://anilist.co/character/141589).",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        },
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156508,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Áki",
+        "native": "アーク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156508-r7u8QLyKbr7B.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156508-r7u8QLyKbr7B.jpg"
+      },
+      "descripcion": "A member of Askeladd's band.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 299183,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Akago",
+        "native": "赤子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 149584,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Anne",
+        "native": "アン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b149584-FxdawVQg19at.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b149584-FxdawVQg19at.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297709,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Bourei A",
+        "native": "亡霊"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297710,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Bourei B",
+        "native": "亡霊"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305623,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gunshi",
+        "native": "軍使"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305623-ygKGuMo332Xk.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305623-ygKGuMo332Xk.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302134,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hjalti",
+        "native": "ヒャルティ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302134-BihTTyTY8uVP.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302134-BihTTyTY8uVP.jpg"
+      },
+      "descripcion": "Son of Arnheid and Gardar.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 147777,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hordaland ",
+        "native": "ホルザランド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b147777-ZPAMF8oz9Rmv.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b147777-ZPAMF8oz9Rmv.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101348,
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+          }
+        },
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296853,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Houkounin A",
+        "native": "奉公人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296854,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Houkounin B",
+        "native": "奉公人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296852,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Houkounin C",
+        "native": "奉公人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298109,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hyoudo A",
+        "native": "兵土"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298110,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hyoudo B",
+        "native": "兵土"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298111,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hyoudo C",
+        "native": "兵土"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298108,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jijo",
+        "native": "侍女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296862,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Josei A",
+        "native": "女性"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296863,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Josei B",
+        "native": "女性"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306117,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Juusha A",
+        "native": "従者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306118,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Juusha B",
+        "native": "従者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296855,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kodomo A",
+        "native": "子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296856,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kodomo B",
+        "native": "子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 300487,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kodomo C",
+        "native": "子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 300485,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kodomo D",
+        "native": "子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 300486,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kodomo E",
+        "native": "子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296866,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kyaku",
+        "native": "客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 298113,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kyuushi",
+        "native": "給士"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297293,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maroudo A",
+        "native": "客人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297292,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maroudo B",
+        "native": "客人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297291,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maroudo C",
+        "native": "客人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297294,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maroudo D",
+        "native": "客人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297290,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maroudo E",
+        "native": "客人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 299969,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mouja A",
+        "native": "亡者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 299968,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mouja B",
+        "native": "亡者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 299970,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mouja C",
+        "native": "亡者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308187,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito A",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308190,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito B",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308188,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito C",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308189,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito D",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36309,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Narrator",
+        "native": "ナレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+      },
+      "descripcion": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 6,
+          "title": {
+            "romaji": "TRIGUN",
+            "english": "Trigun",
+            "native": "TRIGUN"
+          }
+        },
+        {
+          "id": 21,
+          "title": {
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
+          }
+        },
+        {
+          "id": 25,
+          "title": {
+            "romaji": "Sunabouzu",
+            "english": "Desert Punk",
+            "native": "砂ぼうず"
+          }
+        },
+        {
+          "id": 28,
+          "title": {
+            "romaji": "Yakitate!! Japan",
+            "english": null,
+            "native": "焼きたて!! ジャぱん"
+          }
+        },
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 33,
+          "title": {
+            "romaji": "Kenpuu Denki Berserk",
+            "english": "Berserk",
+            "native": "剣風伝奇ベルセルク"
+          }
+        },
+        {
+          "id": 60,
+          "title": {
+            "romaji": "Chrno Crusade",
+            "english": "Chrono Crusade",
+            "native": "クロノクルセイド"
+          }
+        },
+        {
+          "id": 67,
+          "title": {
+            "romaji": "Basilisk: Kouga Ninpouchou",
+            "english": "Basilisk",
+            "native": "バジリスク 甲賀忍法帖"
+          }
+        },
+        {
+          "id": 80,
+          "title": {
+            "romaji": "Kidou Senshi Gundam",
+            "english": "Mobile Suit Gundam",
+            "native": "機動戦士ガンダム"
+          }
+        },
+        {
+          "id": 90,
+          "title": {
+            "romaji": "Shin Kidou Senki Gundam Wing",
+            "english": "Mobile Suit Gundam Wing",
+            "native": "新機動戦記ガンダムW"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305020,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Noumin A",
+        "native": "農民"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305021,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Noumin B",
+        "native": "農民"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296876,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Oddný no Chichi",
+        "native": "オッドニーの父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b296876-OUdgTKDgjhDi.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b296876-OUdgTKDgjhDi.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296877,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Oddný no Haha",
+        "native": "オッドニーの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b296877-fHkrW1SnNtkS.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b296877-fHkrW1SnNtkS.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 299557,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shounen",
+        "native": "少年"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308182,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shounin",
+        "native": "商人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308182-dxX5Zv2VKUu0.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308182-dxX5Zv2VKUu0.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296865,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shounin A",
+        "native": "商人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296864,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shounin B",
+        "native": "商人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296859,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Viking A",
+        "native": "ヴァイキング"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296858,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Viking B",
+        "native": "ヴァイキング"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296860,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Viking C",
+        "native": "ヴァイキング"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 296861,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Viking D",
+        "native": "ヴァイキング"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308183,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ylva no Kodomo",
+        "native": "ユルヴァの子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308184,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ylva no Kodomo",
+        "native": "ユルヴァの子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308186,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ylva no Kodomo",
+        "native": "ユルヴァの子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308186-wRsAZCXT3Z9N.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308186-wRsAZCXT3Z9N.jpg"
+      },
+      "descripcion": "Eldest son of Ari and Ylva.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308185,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ylva no Yuujin",
+        "native": "ユルヴァの友人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308185-6gJJo4XvpBOq.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308185-6gJJo4XvpBOq.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136430,
+          "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 123,
+  "actualizado": 1788566109
+}

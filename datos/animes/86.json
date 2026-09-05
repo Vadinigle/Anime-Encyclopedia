@@ -1,0 +1,1373 @@
+{
+  "clave": "86",
+  "nombre": "86 EIGHTY-SIX",
+  "descripcion": "La guerra de los Eighty-Six",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Ciencia ficción"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116589-KawXHB6sApFt.jpg",
+  "medios": [
+    {
+      "id": 116589,
+      "title": {
+        "romaji": "86: Eighty Six",
+        "english": "86 EIGHTY-SIX",
+        "native": "86－エイティシックス－"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116589-KawXHB6sApFt.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116589-KawXHB6sApFt.jpg"
+      }
+    },
+    {
+      "id": 131586,
+      "title": {
+        "romaji": "86: Eighty Six Part 2",
+        "english": "86 EIGHTY-SIX Part 2",
+        "native": "86－エイティシックス－ 第2クール"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131586-JhC0wcBi09EZ.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131586-JhC0wcBi09EZ.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 174875,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Anju Emma",
+        "native": "アンジュ・エマ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174875-PvSTadcuATtH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174875-PvSTadcuATtH.png"
+      },
+      "descripcion": "__Height:__ 170 cm\n\nAnju Emma is a platoon member and later platoon leader of the Eighty-Sixth Strike Package's Spearhead Squadron. She serves as their support fire and artillery provider. Her Personal Name is Snow Witch. Having survived four years on the Eastern Front and the Special Reconnaissance Mission, she is considered one of the most elite Processors alive.\n",
+      "genero": "Female",
+      "edad": "15-18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 161718,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Frederica Rosenfort",
+        "native": "フレデリカ・ローゼンフォルト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b161718-kWIdyUGRk0wj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b161718-kWIdyUGRk0wj.png"
+      },
+      "descripcion": "__Height:__ 130cm\n\nA girl Shin and his team met at Ernst's residence after being provided shelter by the Federacy. She is assigned as the Mascot to the Spearhead Squadron. She has an intelligence and a manner of speech well beyond her young age of ten.\n\n~!She is the last empress of the Federal Empire of Giad, having been secretly rescued by Ernst during the coup against the nobility. Her royal bloodline imparts her the gift of seeing the past and present of people she has known.\n\nShe was protected by Kiriya Nouzen, a distant relative of Shin from the Nouzen clan and is on the lookout for him after he was assimilated by the Legion as a Black Sheep, having failed to protect his princess. Shin's personality constantly reminds her of Kiri and she treats him as a surrogate big brother.!~",
+      "genero": "Female",
+      "edad": "10-11",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174873,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kurena Kukumila",
+        "native": "クレナ・ククミラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174873-FNf08aPYTVXY.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174873-FNf08aPYTVXY.jpg"
+      },
+      "descripcion": "__Height:__ 160 cm\n\nKurena Kukumila is a platoon leader of Eighty-Sixth Strike Package's Spearhead Squadron. She is the squadron's long-range specialist. Her Personal Name is Gunslinger. Having survived four years on the Eastern Front and the Special Reconnaissance Mission, she is considered one of the most elite Processors alive.\n",
+      "genero": "Female",
+      "edad": "15-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174872,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Raiden Shuga",
+        "native": "ライデン・シュガ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174872-HrQxhw9BbfyI.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174872-HrQxhw9BbfyI.jpg"
+      },
+      "descripcion": "__Height:__ 185 cm\n\nRaiden Shuga is the vice captain of Spearhead Squadron. As a First Lieutenant, he holds the position of operations commander of the Eighty-Sixth Strike Package and its 1st Armored Division should [Shin](https://anilist.co/character/141060/Nouzen-Shinei) be deemed unfit to command. His Personal Name is Wehrwolf. Having survived four years on the Eastern Front and the Special Reconnaissance Mission, he is considered one of the most elite Processors alive. As he spent three years with Shin prior to joining Spearhead Squadron, Raiden is the closest person to him in the squadron.",
+      "genero": "Male",
+      "edad": "15-18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141060,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Shinei Nouzen",
+        "native": "シンエイ・ノウゼン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141060-ZJFvHqBBSvhN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141060-ZJFvHqBBSvhN.png"
+      },
+      "descripcion": "__Height:__ 175 cm\n\nShinei Nouzen is the field commander of Spearhead Squadron. His Personal Name is Undertaker.\nHaving survived five years on the Eastern Front and the Special Reconnaissance Mission, he is considered one of the most elite Processors alive. Among the Eighty-Six, he is known as the Reaper of the Eastern Front. His ability to hear the voices of the Legion allows him to locate the Legion without the use of detection systems like radar.\n\nBorn on May 19th in Republic Year 351, Shin lived with his family in the First Sector of the Republic before the war with the Giadian Empire began. It is implied he lived a sheltered life, surrounded by \"only kindness and affection\". He also appeared to have developed his extrasensory ability early on, hearing \"voices that spoke without words\" from his family.\n\n~!He would often play with the daughter of his father's colleague, [Henrietta von Penrose](https://anilist.co/character/210923/von-Penrose-Henrietta), whom Shin called Rita.!~",
+      "genero": "Male",
+      "edad": "16-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 19
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174874,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Theoto Rikka",
+        "native": "セオト・リッカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174874-19TPZgyNwDtj.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174874-19TPZgyNwDtj.jpg"
+      },
+      "descripcion": "__Height:__ 165 cm \n\nTheoto Rikka is a platoon leader of the Eighty-Sixth Strike Package's Spearhead Squadron and the artist of the squadron member's Personal Marks. His Personal Name is Laughing Fox. Having survived four years on the Eastern Front and the Special Reconnaissance Mission, he is considered one of the most elite Processors alive.\n",
+      "genero": "Male",
+      "edad": "16-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141061,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Vladilena Milizé",
+        "native": "ヴラディレーナ・ミリーゼ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141061-jqIhB9jmClQ3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141061-jqIhB9jmClQ3.png"
+      },
+      "descripcion": "__Height:__ 160 cm\n\nVladilena Milizé, more commonly known as Lena by her friends and as Handler One to her subordinates, is an elite Republic commissioned officer who rose to the rank of Major at the young age of 16. She is the commander of [Shinei Nouzen](https://anilist.co/character/141060/Nouzen-Shinei) and the Spearhead Squadron, whom she communicates with via the long-distance communication device known as the Para-RAID. \n\n~!After the Spearhead Squadron's departure, she becomes known for demanding orders and highly competent leadership, earning the nickname of Bloody Regina among the Processors.!~",
+      "genero": "Female",
+      "edad": "16-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 265566,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bel Aegis",
+        "native": "ベル・アイギス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b265566-vWNyAJgpFqTK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b265566-vWNyAJgpFqTK.png"
+      },
+      "descripcion": "Bel is the Lieutenant General of the Alliance of Wald and Olivia Aegis grandmother.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 252494,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bernd Bernold",
+        "native": "ベルント・ベルノルト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b252494-jAhxhkOvQr1g.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b252494-jAhxhkOvQr1g.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210915,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chise Oosen",
+        "native": "チセ・オーセン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210915-YJF4DmvjrBFW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210915-YJF4DmvjrBFW.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210911,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Daiya Irma",
+        "native": "ダイヤ・イルマ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210911-YtxQQzl8DBug.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210911-YtxQQzl8DBug.png"
+      },
+      "descripcion": "Daiya is the leader of the fifth platoon. As an elite four-year veteran of the Eastern Battlefront, he has earned the personal name Black Dog. He and Anju have been in the same squadron since they were conscripted and are close friends. \n\n~! When his Juggernaut is surrounded by Self-Propelled Mines, moments before they detonate Daiya whispers Anju's name. He is mortally wounded in the explosion and is later euthanised by Shin, so that he won't be assimilated into the Legion. !~",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 246698,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ernst Zimmerman",
+        "native": "エルンスト・ツィマーマン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246698-2sxj1mfdHdcy.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b246698-2sxj1mfdHdcy.jpg"
+      },
+      "descripcion": "The interim president of the Federal Republic of Giad.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 252493,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Erwin Marcel",
+        "native": "エルウィン・マルセル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b252493-7X0Vo1w0foOn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b252493-7X0Vo1w0foOn.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 251751,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eugene Rantz",
+        "native": "ユージン・ランツ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b251751-B9evdC31ix6z.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b251751-B9evdC31ix6z.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 237557,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fido",
+        "native": "ファイド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b237557-uBOohJFKv5h9.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b237557-uBOohJFKv5h9.jpg"
+      },
+      "descripcion": "Fido is an M101 Barrett Scavenger Drone of the Spearhead Squadron. As a Scavenger, Fido provides aid to the squadron by resupplying ammunition and recharging energy packs, as well as finding and extracting materials from abandoned or destroyed units. He has accompanied Shinei Nouzen in his battles across the Eastern Front and beyond, making him Shin's oldest surviving companion.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 252492,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Grethe Wenzel",
+        "native": "グレーテ・ヴェンツェル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b252492-1IGeav1aPK2L.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b252492-1IGeav1aPK2L.jpg"
+      },
+      "descripcion": "Commander of the 1028th Test Unit.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210912,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Haruto Keats",
+        "native": "ハルト・キーツ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210912-zBfDz63uEAAT.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210912-zBfDz63uEAAT.png"
+      },
+      "descripcion": "Haruto is the morale booster of the squadron, often times cheerful and joking.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210923,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Henrietta von Penrose",
+        "native": "アンリエッタ・ペンローズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210923-q3ND01Sd08RP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210923-q3ND01Sd08RP.png"
+      },
+      "descripcion": "A member of the Republic military and later the Eighty-Sixth Strike Package. She serves in the Research Division and specializes on working on the Para-RAID system her father helped develop.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210920,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jerome Karlsthal",
+        "native": "ジェローム・カールシュタール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210920-oFo6r2yemLUb.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210920-oFo6r2yemLUb.jpg"
+      },
+      "descripcion": "He was Lena's superior in the Republic Armed Forces. Due to his close relationship with Lena's father, she thought of him as her uncle.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174878,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaie Taniya",
+        "native": "カイエ・タニヤ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174878-UUIgGeJqHarv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174878-UUIgGeJqHarv.png"
+      },
+      "descripcion": "A good-humoured girl with no filter. Part of The Republic of San Magnolia's Spearhead Squadron.\n\n~! Is killed by a Löwe during a sortie. Has her neural network assimilated with a Legion after being taken. !~",
+      "genero": "Female",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210916,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kairou Mikuri",
+        "native": "ミクリ・カイロゥ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210916-4k8ngS1oGBuB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210916-4k8ngS1oGBuB.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 258614,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kiriya Nouzen",
+        "native": "キリヤ・ノウゼン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b258614-wL72SzRX4nGp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b258614-wL72SzRX4nGp.png"
+      },
+      "descripcion": "He was the personal knight and caretaker of Augusta Frederica Adel-Adler. ~!After the Federacy's forces managed to breach the defensive line at his posting of Rosenfort and the apparent death of his liege, he was assimilated by a Tausendfüßler and became a Legion Shepherd.!~",
+      "genero": "Male",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210913,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kujo Niko",
+        "native": "クジョー・ニコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210913-3FYlZugZUapB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210913-3FYlZugZUapB.png"
+      },
+      "descripcion": "A member of the Spearhead Squadron's Fourth Platoon. ~!Fatally wounded against the Legion, he was put to rest by Shin and had his unit's personal mark passed on.!~",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210921,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lev Aldrecht",
+        "native": "レフ・アルドレヒト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210921-xyo41JTWoBeB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210921-xyo41JTWoBeB.png"
+      },
+      "descripcion": "The chief mechanic of the Spearhead Squadron. ~!He was an Alba married to a Heliodor wife, whom he had a daughter with. Due to them being taken away to the Eighty-Sixth Sector, he dyed his hair to go after them. By then, it was already too late, both of them had passed. In order to follow his family to the other side, he works as the chief mechanic of the First Ward's First Defensive Squadron of the Eastern Front.!~\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210914,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Louis Kino",
+        "native": "ルイ・キノ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210914-Aq2tA5PN8lKL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210914-Aq2tA5PN8lKL.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210922,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mina Atomica",
+        "native": "マイナ・ヤトミカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210922-hKvw63IJ5F41.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210922-hKvw63IJ5F41.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 251750,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nina Rantz",
+        "native": "ニーナ・ランツ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b251750-0Y67XiGc3Lo4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b251750-0Y67XiGc3Lo4.png"
+      },
+      "descripcion": "Nina is a rather timid child, being rather frightened of strangers and very attached to her older brother, Eugene.\n\n~!Nina's family were minor nobility of Giadian Empire. After the revolution, however, they were stripped of their social status and tax privileges. Unfortunately, as a result of lacking the assets to support themselves like higher nobles and struggling to find work due to the middle class's loathing toward nobles, the Rantz family ended up even poorer than normal laborers. Nina's older brother, Eugene, eventually had to resort to joining to military just to get the funds to support her education. Nina herself was very attached to Eugene, causing her to dislike him leaving her with their aunt while he was on duty.!~",
+      "genero": "Female",
+      "edad": "6",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 253238,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Richard Artner",
+        "native": "リヒャルト・アルトナー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b253238-2N0gkQkDQ6AZ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b253238-2N0gkQkDQ6AZ.jpg"
+      },
+      "descripcion": "Richard is the commander of the 177th Armored Division.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210918,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rin Rekka",
+        "native": "レッカ・リン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210918-NcX3CeUqourY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210918-NcX3CeUqourY.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210919,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sasha Touzan",
+        "native": "トウザン・サシャ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210919-9s14jfJogHcD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210919-9s14jfJogHcD.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 239614,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shiden Iida",
+        "native": "シデン・イーダ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b239614-IGrxEPbt7MoR.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b239614-IGrxEPbt7MoR.jpg"
+      },
+      "descripcion": "Shiden Iida is the captain of the Brísingamen Squadron, also known as the Queen's Knights, which was the group that led the defense of the Republic during the large-scale offensive held by the Legion. Her Personal Name Cyclops originates from her heterochromia, as she appears to only have one working eye.\n\nFollowing the rescue of the Republic by the Federacy, her squadron volunteered for the Eighty-Sixth Strike Package. Shiden and the Brísingamen Squadron are now in charge of defending the mobile headquarters—Vanadis.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 224075,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shourei Nouzen",
+        "native": "ショーレイ・ノウゼン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b224075-0aCPb6n7K3AB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b224075-0aCPb6n7K3AB.png"
+      },
+      "descripcion": "Shinei's older brother. Rei was a generally friendly and reliable older brother, but he was not without his faults.\n\n~!One night when he was on patrol, he came across a young Vladilena Milizé, who was taken by her father to see the injustices brought upon the Eighty-Six. Their helicopter had been shot by a Stachelschwein and was forced to land, leaving them vulnerable to an attack from a nearby Ameise. He took the only survivor, Lena, to his base and sent her back to inside the Gran Mur.!~",
+      "genero": "Male",
+      "edad": "21",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 251749,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Theresa",
+        "native": "テレザ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b251749-kNLxHFAnWwZr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b251749-kNLxHFAnWwZr.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210917,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Touma Soobi",
+        "native": "トーマ・ソービ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210917-H2xqW8Cuqjl3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210917-H2xqW8Cuqjl3.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        },
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 236363,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Václav Milizé",
+        "native": "ヴァーツラフ・ミリーゼ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b236363-uaCzhp8WZBqL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b236363-uaCzhp8WZBqL.png"
+      },
+      "descripcion": "Vaclav Milizé was Vladilena Milizé's father and friend of Jerome Karlsthal. He was a member of the Republic Armed Forces",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 116589,
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86 EIGHTY-SIX",
+            "native": "86－エイティシックス－"
+          }
+        }
+      ]
+    },
+    {
+      "id": 265565,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Willem Ehrenfried",
+        "native": "ヴィレム・エーレンフリート"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b265565-GbgIBmOk2WOh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b265565-GbgIBmOk2WOh.png"
+      },
+      "descripcion": "Willem is the Chief of Staff of Western Army which is responsible for the Federal Republic of Giad's Western Front, as well as an old friend of Grethe Wenzel.",
+      "genero": "Male",
+      "edad": "27",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 265564,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zafar Idinarohk",
+        "native": "ザファル・イディナローク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b265564-XCvFioFcuQNE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b265564-XCvFioFcuQNE.png"
+      },
+      "descripcion": "Zafar is the crown prince of the United Kingdom of Roa Gracia and Vika's older brother.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 362058,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joseibuka",
+        "native": "女性部下"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b362058-oEEQ7R2O1S7n.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b362058-oEEQ7R2O1S7n.png"
+      },
+      "descripcion": "She served as one of Lena's aides and allies in the San Magnolia military",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131586,
+          "title": {
+            "romaji": "86: Eighty Six Part 2",
+            "english": "86 EIGHTY-SIX Part 2",
+            "native": "86－エイティシックス－ 第2クール"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 38,
+  "actualizado": 1788566252
+}

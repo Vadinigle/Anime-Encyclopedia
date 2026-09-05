@@ -1,0 +1,1236 @@
+{
+  "clave": "horimiya",
+  "nombre": "Horimiya",
+  "descripcion": "Hori y Miyamura",
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-3i22mRVPBS0T.jpg",
+  "medios": [
+    {
+      "id": 124080,
+      "title": {
+        "romaji": "Horimiya",
+        "english": "Horimiya",
+        "native": "ホリミヤ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-3i22mRVPBS0T.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124080-3i22mRVPBS0T.jpg"
+      }
+    },
+    {
+      "id": 163132,
+      "title": {
+        "romaji": "Horimiya: piece",
+        "english": "Horimiya: The Missing Pieces",
+        "native": "ホリミヤ -piece-"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163132-C220CO5UrTxY.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163132-C220CO5UrTxY.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 66173,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Izumi Miyamura",
+        "native": "宮村伊澄"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66173-g8eU1LGWPB8O.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b66173-g8eU1LGWPB8O.png"
+      },
+      "descripcion": "__Height:__ 169 cm\n\nMiyamura is often mistaken for an otaku for his sneaky character. The truth behind his long hair and clothes is to hide his piercings and his excessive amount of tattoos. This is a secret that only [Hori](https://anilist.co/character/66171) and [Ishikawa](https://anilist.co/character/66961) know.  Izumi is a very thoughtful kid. He is a person who looks weak but is very strong.\n",
+      "genero": "Male",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 17
+      },
+      "media": [
+        {
+          "id": 14753,
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null,
+            "native": "堀さんと宮村くん"
+          }
+        },
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 66171,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kyouko Hori",
+        "native": "堀京子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66171-o2vk3689wWFK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b66171-o2vk3689wWFK.png"
+      },
+      "descripcion": "__Height:__ 163 cm (5'4\") \n\nKyouko Hori is one of the main protagonists of [Horimiya](https://anilist.co/anime/124080/Horimiya/), along with [Izumi Miyamura](https://anilist.co/character/66173/Izumi-Miyamura). She is a student in Class 3-1 of Katagiri Senior High School. Kyouko is mostly a very energetic and popular person who always creates a happy atmosphere around herself. She is a hard-worker in all aspects of her life, and, according to Izumi Miyamura, she scores above 90% for all her tests.",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 14753,
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null,
+            "native": "堀さんと宮村くん"
+          }
+        },
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 72453,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akane Yanagi",
+        "native": "柳明音"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72453-f9gRbQBUjKo6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72453-f9gRbQBUjKo6.png"
+      },
+      "descripcion": "__Height:__ 168 cm\n\nHe is a 3rd year at Katagiri High School​ and a member of Hori and Miyamura's regular group of friends. He is enrolled in class 3-6. He has very bad eyesight and cannot see properly without his glasses.",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160660,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aoi Kitahara",
+        "native": "北原葵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160660-UwMgy68ULUvi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160660-UwMgy68ULUvi.png"
+      },
+      "descripcion": "Aoi Kitahara is Motoko's classmate and friend.\n~!Motoko likes him, though she never openly tells him so. However, after meeting Shu, Kitahara seems to have directly his attention towards him, much to Motoko's displeasure.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 72463,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chika Ichijou",
+        "native": "一条千佳"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72463-TKhUXOPgcmv3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72463-TKhUXOPgcmv3.jpg"
+      },
+      "descripcion": "__Height:__ 154 cm\n\nChika is a 3rd year at Yasaka High School.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 26
+      },
+      "media": [
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 72457,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Daiki Mizouchi",
+        "native": "溝内大樹"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72457-urLH3qxflfRj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72457-urLH3qxflfRj.png"
+      },
+      "descripcion": "__Height:__ 176 cm\n\nHe is one of Hori and Miyamura's classmates. He attends the same school and is enrolled in the same class, 3-1.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 24
+      },
+      "media": [
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 72459,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Honoka Sawada",
+        "native": "沢田ほのか"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72459-NbyXnBAjLxKT.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72459-NbyXnBAjLxKT.png"
+      },
+      "descripcion": "__Height:__ 150 cm\n\nSawada is a very clingy towards Kyouko Hori. Due to her attachment to Hori, she often gets angry when Hori is together with Izumi Miyamura, choosing to push him away. She views Miyamura as a love rival, but also as a brotherly figure. She was very close to her older brother who passed away some years ago. She also appears to have mild androphobia, often freezing up, running away, or hiding when approached by men. However, ever since she got to know Miyamura, she would hide behind him instead whenever a male approaches her. She is slowly getting used to being around Miyamura's male friends.  \n\n~!She is one of the side characters that make​ an appearance in chapter 29. She is first seen stalking Miyamura, causing many people, including Hori, to assume she has a crush on Miyamura. However, it is revealed that the person she has a crush on is Hori.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 31
+      },
+      "media": [
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 72455,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ichirou Watabe",
+        "native": "渡部一郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72455-xgLy8XEd9e0N.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72455-xgLy8XEd9e0N.png"
+      },
+      "descripcion": "__Height:__ 170 cm\n\nHe is a friend of [Izumi Miyamura](https://anilist.co/character/66173/Izumi-Miyamura). He attends the same high school, and is enrolled in class 3-1.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 207325,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Iori Miyamura",
+        "native": "宮村伊織"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207325-wjqrISdImoOl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b207325-wjqrISdImoOl.png"
+      },
+      "descripcion": "__Occupation:__ Owner and manager of the Miyamura family's store\n\nShe's is the wife of Naozumi Miyamura and the mother of [Izumi Miyamura](https://anilist.co/character/66173/Izumi-Miyamura).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 14753,
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null,
+            "native": "堀さんと宮村くん"
+          }
+        },
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 72447,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kakeru Sengoku",
+        "native": "仙石翔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72447-SH9Hth8ZGJam.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72447-SH9Hth8ZGJam.png"
+      },
+      "descripcion": "__Height:__ 170 cm\n\nHe is the charismatic president of the student council of Katagiri Senior High School who is enrolled in class 3-3, the childhood friend of [Kyouko Hori](https://anilist.co/character/66171/Hori-Kyouko) and the boyfriend of [Remi Ayasaki](https://anilist.co/character/66965/Ayasaki-Remi).\n\nSengoku is a rather shy boy who gets embarrassed easily and he is a very wimpy where the slightest thing will make him cower in fear, especially things to do with horror or insects. Sengoku is very smart and serious, normally ranked #1 in the school (and #2 in phys ed). He enjoys reading and has an incredible level of concentration while doing so, the point of ignoring everything else going around him.\n\nHe is generally not very expressive with his emotions. The sole exception is his anger or irritation, which he shows all the time as he is the Student Councils President. Even though he makes threats and gets angry towards those breaking the rules, he doesn't actually like doing so.\n\nSengoku is very insecure when it comes to his body. Thinking his slender body is embarrassing and always refusing to show it in various occasions, even going as far as to make up extravagant lies to get out of it. He wears multiple layers of clothing to hide his body type.",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 14753,
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null,
+            "native": "堀さんと宮村くん"
+          }
+        },
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 215830,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kayo Yashiro",
+        "native": "矢代加世"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b215830-UqoX5c4HSqw4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b215830-UqoX5c4HSqw4.png"
+      },
+      "descripcion": "**Height:** 176 cm\n\nCaretaker of the Ishikawa household.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 325865,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kazuya Nakamine",
+        "native": "中峰一也"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b325865-fMtHPTFtvI2A.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b325865-fMtHPTFtvI2A.png"
+      },
+      "descripcion": "A physics teacher at Katagiri High School.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 212579,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Keigo Izumi",
+        "native": "泉圭吾"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212579-hCQycT8O1Vlb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212579-hCQycT8O1Vlb.png"
+      },
+      "descripcion": "A friend from Souta's elementary school.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 72461,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kouichi Shindou",
+        "native": "進藤晃一"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72461-4zzQ6cShYe8l.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72461-4zzQ6cShYe8l.png"
+      },
+      "descripcion": "__Height:__ 173 cm\n\nHe is a supporting character in the series. He attended the same junior high school as Izumi and Makio.",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 14753,
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null,
+            "native": "堀さんと宮村くん"
+          }
+        },
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89726,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kyousuke Hori",
+        "native": "堀京介"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89726-NS2ZmYjp1Mnr.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89726-NS2ZmYjp1Mnr.jpg"
+      },
+      "descripcion": "__Height:__ 180 cm\n\nKyousuke is Kyouko's father who is often not home because of work.",
+      "genero": "Male",
+      "edad": "35",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 14753,
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null,
+            "native": "堀さんと宮村くん"
+          }
+        },
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 72465,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Makio Tanihara",
+        "native": "谷原マキオ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72465-IVbmlZUoptvt.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72465-IVbmlZUoptvt.jpg"
+      },
+      "descripcion": "__Height:__ 168 cm\n\nHe is a 3rd-year​ high school student attending Kashi High School. He attended the same junior high school as Miyamura and Shindou.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 16
+      },
+      "media": [
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 212578,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Miki Yoshikawa",
+        "native": "吉川美紀"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212578-b5u2nVSdkP0f.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212578-b5u2nVSdkP0f.png"
+      },
+      "descripcion": "[Yuki's](https://anilist.co/character/66963) older sister.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 72467,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Motoko Iura",
+        "native": "井浦基子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72467-PpdDmPQFbaMC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72467-PpdDmPQFbaMC.png"
+      },
+      "descripcion": "__Height:__ 150 cm\n\nShe is [Shuu Iura](https://anilist.co/character/66967/Iura-Shuu)'s younger sister.\n\nSelf-described as an untalkative, gloomy type, Motoko is the opposite of Shuu. She tends to keep to herself and has a hard time making friends. However, unlike Shuu, this personality also carries over to her school life, though she is much more forceful and violent towards her brother than others. She is also pretty smart but lacks the confidence to use it too well.",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 66973,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Reiko Terajima",
+        "native": "寺島玲子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66973-cRamsBQtjWmG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b66973-cRamsBQtjWmG.png"
+      },
+      "descripcion": "She is a chemistry teacher at Katagiri High School and the homeroom teacher of class 3-1.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 14753,
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null,
+            "native": "堀さんと宮村くん"
+          }
+        },
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 66965,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Remi Ayasaki",
+        "native": "綾崎レミ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66965-Kfqui6IitXaL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b66965-Kfqui6IitXaL.png"
+      },
+      "descripcion": "__Height:__ 158 cm\n\nA member of the Student Council and she is known as the girlfriend of Kakeru Sengoku who attends Katagiri Senior High School where she is enrolled in class 3-5. She is more of a mascot in the student council, and is shown to do little to no work at all. \n\nRemi is usually shown as a rather childish and immature girl who has a very straightforward personality, and often wears her emotions on her sleeve. And seems to rely on other people's help. She's also not very smart, often compared to [Miyamura](https://anilist.co/character/66173/Miyamura-Izumi) about which one is more of an idiot.\n\nShe loves insects, though she's bad with dragonflies. Her room is filled with her insect collection, and she has been nicknamed the Insect Queen. She also enjoys reading, especially fairy tales. She's also comically bad at cooking, just like [Kakeru Sengoku](https://anilist.co/character/72447/Sengoku-Kakeru).",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 14753,
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null,
+            "native": "堀さんと宮村くん"
+          }
+        },
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 72449,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sakura Kouno",
+        "native": "河野桜"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72449-wTynovkFnQpC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72449-wTynovkFnQpC.png"
+      },
+      "descripcion": "__Height:__ 163 cm\n\nShe is the vice-president of the student council. She is very competent and often does​ support work.\n\n~!She has a crush on Tooru Ishikawa, in chapter 28, she confessed to him.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 14753,
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null,
+            "native": "堀さんと宮村くん"
+          }
+        },
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 66975,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shin Yasuda",
+        "native": "安田真"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66975-1ENOxQZ7SJPm.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b66975-1ENOxQZ7SJPm.png"
+      },
+      "descripcion": "__Occupation:__ English Teacher\n__Affiliation:__ Student Council (Manager), Katagiri Senior High School\n\nHe is one of the supporting characters for [Horimiya](https://anilist.co/anime/124080/Horimiya/). Yasuda loves high school girls and makes no attempt to hide this either. However, he never actually touches any of the girls, just acts overly friendly towards them and overly cold towards the guys. He often demands that any guys with girlfriends (mainly [Miyamura](https://anilist.co/character/66173/Izumi-Miyamura) and [Sengoku](https://anilist.co/character/72447/Kakeru-Sengoku)) break up with them, so that he can have them instead. Any time he is with only male students, he constantly bemoans the fact, loudly asking why they, and not some girls, are there. He also does not tend to remember the names of his male students, saying that he has no need to learn useless information. Many of Yasuda's female students also like him as well, thinking he's a cool, young, good looking teacher who's kind to them. Many of them like to visit with him in the counseling room. Yasuda even went out of his way to tell [Kyouko Hori](https://anilist.co/character/66171) to keep her ‘chin up’, and his little known fact about him is that he’s into ‘flat-chested’ girls, in an attempt to cheer her up with ‘confidence’.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 14753,
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null,
+            "native": "堀さんと宮村くん"
+          }
+        },
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 66967,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shuu Iura",
+        "native": "井浦秀"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66967-driczOA04cxe.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b66967-driczOA04cxe.png"
+      },
+      "descripcion": "**Height:** 172 cm (5'8\")\n\nHe is a friend of [Izumi Miyamura](https://anilist.co/character/66173/Miyamura-Izumi) and pretty much everyone at school. He has his own way of thinking and always seems excited; he is a colleague from another class.",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 14753,
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null,
+            "native": "堀さんと宮村くん"
+          }
+        },
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 66969,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Souta Hori",
+        "native": "堀創太"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66969-w9HNa7igeTeF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b66969-w9HNa7igeTeF.png"
+      },
+      "descripcion": "Kyouko's young brother.\n\nHe sees Kyouko as a motherly figure because she has been the one taking care of him since he was born because of the nature of their parents' work.\n\nIn the beginning of the story, he is brought back to the Hori household by Izumi after he had fallen down on the street. Since then he has been very affectionate towards Izumi, going as far as calling him a non blood-related brother.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 14753,
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null,
+            "native": "堀さんと宮村くん"
+          }
+        },
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 203892,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Takako Nishi",
+        "native": "西貴子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b203892-t0pUbFpAjheN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b203892-t0pUbFpAjheN.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306149,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Takeru Sengoku",
+        "native": "仙石武"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306149-bWdHUvGCVGXj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306149-bWdHUvGCVGXj.png"
+      },
+      "descripcion": "Takeru is [Kakeru](https://anilist.co/character/72447/Kakeru-Sengoku)'s father. He went to high school with [Kyousuke](https://anilist.co/character/89726/Kyousuke-Hori) and [Yuriko](https://anilist.co/character/78279/Yuriko-Hori).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 66961,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tooru Ishikawa",
+        "native": "石川透"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66961-VZV5IwKUwYfp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b66961-VZV5IwKUwYfp.png"
+      },
+      "descripcion": "__Height__: 174 cm\n\nTooru is friendly with everyone, and has a calm personality. He attends Katagiri Senior Highschool. \n\n~!At first he hates Miyamura due to his close relationship with Hori, who he had a crush on at the time. He confessed to her and was immediately rejected. In time he became a great friend of Miyamura.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 14753,
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null,
+            "native": "堀さんと宮村くん"
+          }
+        },
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 66963,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuki Yoshikawa",
+        "native": "吉川由紀"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66963-JBKCtpgwdgkG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b66963-JBKCtpgwdgkG.png"
+      },
+      "descripcion": "A close friend of [Kyouko Hori's](https://anilist.co/character/66171/Kyouko-Hori) who attends the same high school as her.",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 22
+      },
+      "media": [
+        {
+          "id": 14753,
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null,
+            "native": "堀さんと宮村くん"
+          }
+        },
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 78279,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuriko Hori",
+        "native": "堀百合子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78279-Vyv16wSznsYl.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b78279-Vyv16wSznsYl.jpg"
+      },
+      "descripcion": "She is the mother of Kyouko and Souta.",
+      "genero": "Female",
+      "edad": "36",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 14753,
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null,
+            "native": "堀さんと宮村くん"
+          }
+        },
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 66971,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuuna Okuyama",
+        "native": "奥山有菜"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66971-yfKmxIsWKWyR.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b66971-yfKmxIsWKWyR.jpg"
+      },
+      "descripcion": "Yunna is a classmate of Souta. She bullies him but actually really likes him. Kyoko Hori is her role model.\n~!In the manga timeskip she's best friend and in a relationship with Souta Hori.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 14753,
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null,
+            "native": "堀さんと宮村くん"
+          }
+        },
+        {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya",
+            "native": "ホリミヤ"
+          }
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces",
+            "native": "ホリミヤ -piece-"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 30,
+  "actualizado": 1788566647
+}

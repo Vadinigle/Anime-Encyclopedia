@@ -1,0 +1,2119 @@
+{
+  "clave": "apothecary-diaries",
+  "nombre": "The Apothecary Diaries",
+  "descripcion": "Kusuriya no Hitorigoto",
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Romance"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg",
+  "medios": [
+    {
+      "id": 161645,
+      "title": {
+        "romaji": "Kusuriya no Hitorigoto",
+        "english": "The Apothecary Diaries",
+        "native": "薬屋のひとりごと"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161645-QLbzHXiYRgV2.jpg"
+      }
+    },
+    {
+      "id": 176301,
+      "title": {
+        "romaji": "Kusuriya no Hitorigoto 2nd Season",
+        "english": "The Apothecary Diaries Season 2",
+        "native": "薬屋のひとりごと 第2期"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176301-TIGmldLffQGX.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176301-TIGmldLffQGX.jpg"
+      }
+    },
+    {
+      "id": 195516,
+      "title": {
+        "romaji": "Kusuriya no Hitorigoto 3rd Season",
+        "english": "The Apothecary Diaries Season 3",
+        "native": "薬屋のひとりごと 第3期"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg"
+      }
+    },
+    {
+      "id": 200929,
+      "title": {
+        "romaji": "Kusuriya no Hitorigoto: Bouhi no Hihou",
+        "english": null,
+        "native": "薬屋のひとりごと 亡妃の秘宝"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200929-ZnRFJbEqFbgJ.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200929-ZnRFJbEqFbgJ.jpg"
+      }
+    },
+    {
+      "id": 200927,
+      "title": {
+        "romaji": "Kusuriya no Hitorigoto 3rd Season Part 2",
+        "english": null,
+        "native": "薬屋のひとりごと 第3期 第2クール"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200927-IXFYyIb728bM.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200927-IXFYyIb728bM.png"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 127278,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Jinshi",
+        "native": "壬氏"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127278-0qCQciTkPOMS.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b127278-0qCQciTkPOMS.jpg"
+      },
+      "descripcion": "Jinshi is the eunuch in charge of the affairs of the inner palace. He is described as having a face capable even of outshining the consorts in beauty, amazing women and men alike. He is constantly accompanied by his attendant [Gaoshun](https://anilist.co/character/244317/Gaoshun) and has taken an interest to [Maomao](https://anilist.co/character/126824/Maomao)'s intelligence and active demeanor.",
+      "genero": "Male",
+      "edad": "18-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 170508,
+          "title": {
+            "romaji": "Maomao no Hitorigoto",
+            "english": null,
+            "native": "猫猫のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 186148,
+          "title": {
+            "romaji": "Maomao no Hitorigoto 2nd Season",
+            "english": null,
+            "native": "猫猫のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 195516,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 3rd Season",
+            "english": "The Apothecary Diaries Season 3",
+            "native": "薬屋のひとりごと 第3期"
+          }
+        },
+        {
+          "id": 200927,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 3rd Season Part 2",
+            "english": null,
+            "native": "薬屋のひとりごと 第3期 第2クール"
+          }
+        },
+        {
+          "id": 200929,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto: Bouhi no Hihou",
+            "english": null,
+            "native": "薬屋のひとりごと 亡妃の秘宝"
+          }
+        },
+        {
+          "id": 206349,
+          "title": {
+            "romaji": "Maomao no Hitorigoto: USJ wo Chousa Seyo!",
+            "english": null,
+            "native": "猫猫のひとりごと ～USJを調査せよ！～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126824,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Maomao",
+        "native": "猫猫"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126824-MqsCncTO1qpv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126824-MqsCncTO1qpv.png"
+      },
+      "descripcion": "Maomao works as an apothecary in the red light district, helping her mentor and father [Luomen](https://anilist.co/character/261968) in caring for its residents, with special attention given to the Verdigris Hall brothel, where she was born and was initially raised.\n\nOne day, while gathering herbs, she gets kidnapped and sold to be a common servant in the inner court of the imperial palace, where only the Emperor's consorts and their servants reside. Not allowed to leave, her curious personality and skills begin to rope her into mysterious problems that can affect the whole country.\n\n~! It was later revealed that Loumen was actually her adoptive father. Her biological father is [Lakan](https://anilist.co/character/232926), the tactician in the Li military. Loumen is actually Maomao's biological great-uncle. Her biological mother is [Fengxian](https://anilist.co/character/274191), who was a high ranking courtesan at the Verdigris House. !~\n",
+      "genero": "Female",
+      "edad": "17-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 31
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 170508,
+          "title": {
+            "romaji": "Maomao no Hitorigoto",
+            "english": null,
+            "native": "猫猫のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 186148,
+          "title": {
+            "romaji": "Maomao no Hitorigoto 2nd Season",
+            "english": null,
+            "native": "猫猫のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 195516,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 3rd Season",
+            "english": "The Apothecary Diaries Season 3",
+            "native": "薬屋のひとりごと 第3期"
+          }
+        },
+        {
+          "id": 200927,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 3rd Season Part 2",
+            "english": null,
+            "native": "薬屋のひとりごと 第3期 第2クール"
+          }
+        },
+        {
+          "id": 200929,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto: Bouhi no Hihou",
+            "english": null,
+            "native": "薬屋のひとりごと 亡妃の秘宝"
+          }
+        },
+        {
+          "id": 206349,
+          "title": {
+            "romaji": "Maomao no Hitorigoto: USJ wo Chousa Seyo!",
+            "english": null,
+            "native": "猫猫のひとりごと ～USJを調査せよ！～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 244995,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Rouran",
+        "native": "楼蘭"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b244995-dv4lX99O8aCZ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b244995-dv4lX99O8aCZ.jpg"
+      },
+      "descripcion": "The (new) Pure consort, residing in the Garnet Palace within the inner court. She makes a big show of her exorbitant and ever changing clothing, jewellery and make up. Despite that, she doesn't talk any more than she needs to, keeping her distance.",
+      "genero": "Female",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 186148,
+          "title": {
+            "romaji": "Maomao no Hitorigoto 2nd Season",
+            "english": null,
+            "native": "猫猫のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156765,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aaduo",
+        "native": "阿多"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156765-HPRJaEN81jSa.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156765-HPRJaEN81jSa.jpg"
+      },
+      "descripcion": "\nThe Pure consort, residing in the Garner Palace within the inner court. She was the current Emperor's milk sibling and childhood crush, being just a year older than him. She became the previous Emperor's consort and gave birth to his child at 18, who was stillborn. The ordeal made her infertile, but circumstances between her and the royal family allowed her to keep her position as a High Consort.\n\nShe is very spartan on the outside yet has a motherly side to her.\n\n~!She is Jinshi's real mother!~",
+      "genero": "Female",
+      "edad": "36",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317875,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ailan",
+        "native": "愛藍"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317875-YsXLLfLr09tu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b317875-YsXLLfLr09tu.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 274188,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Anshi",
+        "native": "安氏"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b274188-DCRLC7LqvSEs.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b274188-DCRLC7LqvSEs.png"
+      },
+      "descripcion": "Anshi, the Empress Dowager, is the wife of the previous Emperor, mother to the current one.\n\nShe joined the inner court at 10 years of age as the attendant to a consort and unwillingly got the previous Emperor's attention with her childish innocence. He jumped her and, at 11, she gave birth to the current Emperor.\n\nHer relationship with the previous Emperor was cold, for she was disgusted by him while he feared her ever more adult (dominant) presence. Later in life, she found him making advances on underage maid and in a pit of rage, she raped him, resulting in her getting pregnant with the second prince.",
+      "genero": "Female",
+      "edad": "46",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 354824,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ayla",
+        "native": "姶良"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b354824-xZfHOVB8LRBL.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b354824-xZfHOVB8LRBL.jpg"
+      },
+      "descripcion": "Ayla is a special envoy from a foreign nation along with her sister Aylin",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 354825,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aylin",
+        "native": "愛凛"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b354825-DVRPeGyqpTtl.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b354825-DVRPeGyqpTtl.jpg"
+      },
+      "descripcion": "Aylin is a special envoy from a foreign country along with her twin sister Ayla",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 406588,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bai Niangniang",
+        "native": "白娘々"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b406588-YlK2BXxmP4Yx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b406588-YlK2BXxmP4Yx.png"
+      },
+      "descripcion": "A mysterious fairy with translucent white skin, white hair, and red eyes who has been causing a stir. Rumor has it that she can read people’s minds and use magical powers to create gold.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 195516,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 3rd Season",
+            "english": "The Apothecary Diaries Season 3",
+            "native": "薬屋のひとりごと 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327822,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Basen",
+        "native": "馬閃"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327822-QGtwgIM2lxUq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327822-QGtwgIM2lxUq.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 195516,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 3rd Season",
+            "english": "The Apothecary Diaries Season 3",
+            "native": "薬屋のひとりごと 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327827,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fengming",
+        "native": "風明"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327827-mQzwjWe5Dh9Z.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327827-mQzwjWe5Dh9Z.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        }
+      ]
+    },
+    {
+      "id": 274191,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fenshen",
+        "native": "鳳仙"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b274191-PjqbU9ZhJ0lc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b274191-PjqbU9ZhJ0lc.png"
+      },
+      "descripcion": "Fenshen used to be a high ranking courtesan in Verdigris Hall. With a flinty and hard personality, she was unmatched at strategy board games. She fell in love with a man who could challenge her at those, but was later abandoned after bedding him.\n\n~!Her mental condition degraded heavily and she mistreated her baby to the point the other courtesans took Maomao to raise her themselves. Ultimately she contracted syphilis and got bedridden in a backroom of Verdigris.!~",
+      "genero": "Female",
+      "edad": "40",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        }
+      ]
+    },
+    {
+      "id": 244321,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fuyou",
+        "native": "芙蓉"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b244321-wQJC4Kvdqq5o.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b244321-wQJC4Kvdqq5o.png"
+      },
+      "descripcion": "A mid-rank consort, princess of a distant land. She became the Emperor's middle consort against her will.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        }
+      ]
+    },
+    {
+      "id": 244317,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gaoshun",
+        "native": "高順"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b244317-zm6LeJmLN9kZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b244317-zm6LeJmLN9kZ.png"
+      },
+      "descripcion": "Gaoshun is [Jinshi](https://anilist.co/character/127278/Jinshi)'s attendant. He's shown to be extremely dependable. A stern believer in deference to authority and proper etiquette, his disapproval is often splattered in his transparent facial expressions, even if he says nothing.",
+      "genero": "Male",
+      "edad": "37",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 186148,
+          "title": {
+            "romaji": "Maomao no Hitorigoto 2nd Season",
+            "english": null,
+            "native": "猫猫のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 195516,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 3rd Season",
+            "english": "The Apothecary Diaries Season 3",
+            "native": "薬屋のひとりごと 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 274192,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Guen",
+        "native": "虞淵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b274192-JYSS3a46G8yn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b274192-JYSS3a46G8yn.png"
+      },
+      "descripcion": "Guen is the current physician of the inner court. The requirement of being castrated to be allowed to work inside the inner court does not attract many physicians to choose from. Guen, not a very good one, accepted such employment terms to prevent his sister being forced to become a court lady.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317876,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Guiyuan",
+        "native": "貴園"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317876-wHlFXgwwAOfJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b317876-wHlFXgwwAOfJ.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156767,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gyokuyou",
+        "native": "玉葉妃"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156767-6ncEJKdsEQ3O.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156767-6ncEJKdsEQ3O.jpg"
+      },
+      "descripcion": "The Noble consort, residing in the Jade Palace within the inner court. Her red hair and green eyes distinguish her from the other consorts, that being part of the reasons she became the Emperor's favoured consort, having already given birth to a girl of his. Despite these circumstances, she is very careful of whom she keeps around so she has the smallest retinue of all the high consorts.\n\n~! Later on, she gives birth to a boy, the new heir to the crown, thus becoming the Empress. !~",
+      "genero": "Female",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 358072,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Haku-u",
+        "native": "白羽"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358072-pU3alnGLR1xO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b358072-pU3alnGLR1xO.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 244318,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hongniang",
+        "native": "紅娘"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b244318-YcVnmMdicoKs.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b244318-YcVnmMdicoKs.png"
+      },
+      "descripcion": "Lady Gyokuyou's head lady-in-waiting.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 274193,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Joka",
+        "native": "女華"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b274193-0YeumFVEUR4j.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b274193-0YeumFVEUR4j.jpg"
+      },
+      "descripcion": "Joka is the youngest of the Three Princesses of Verdigris Hall and one of Maomao's adopted sisters.",
+      "genero": "Female",
+      "edad": "20s",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 195516,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 3rd Season",
+            "english": "The Apothecary Diaries Season 3",
+            "native": "薬屋のひとりごと 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327823,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kanan",
+        "native": "河南"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327823-9grxiqeHyEHp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327823-9grxiqeHyEHp.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        }
+      ]
+    },
+    {
+      "id": 358073,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Koku-u",
+        "native": "黒羽"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358073-L10wbCWjrZe0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b358073-L10wbCWjrZe0.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 144110,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Koutei",
+        "native": "皇帝"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144110-bAnH9gjergcc.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b144110-bAnH9gjergcc.jpg"
+      },
+      "descripcion": "The current Emperor fulfills the role expected of him. He is hated by his mother, the Empress dowager, for being the product of her rape. His most trustworthy relationship is with his brother, who manages small things behind the scenes for him.",
+      "genero": "Male",
+      "edad": "35",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 363535,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kyou-u",
+        "native": "響迂"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b363535-QzPNoetEggdD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b363535-QzPNoetEggdD.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 195516,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 3rd Season",
+            "english": "The Apothecary Diaries Season 3",
+            "native": "薬屋のひとりごと 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 364109,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lahan",
+        "native": "羅半"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b364109-C9Vl0FSPQlG2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b364109-C9Vl0FSPQlG2.png"
+      },
+      "descripcion": "Lahan is the adopted son of [Lakan](https://anilist.co/character/232926/Lakan) and a number loving eccentric.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 195516,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 3rd Season",
+            "english": "The Apothecary Diaries Season 3",
+            "native": "薬屋のひとりごと 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 232926,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lakan",
+        "native": "羅漢"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b232926-YIzdIzMMGcac.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b232926-YIzdIzMMGcac.jpg"
+      },
+      "descripcion": "Lakan is a renowned strategist known for his nonchalant disregard of proper manners. His plotting ability causes fear even in the Emperor himself. He sees people's faces as a piece of shogi representing their worth, with a few exceptions like the woman he loved and his daughter. Currently heads the La clan.\n\n~!He is [Maomao](https://anilist.co/character/126824/Maomao)'s biological father and the nephew of [Luomen](https://anilist.co/character/261968/Ruomen)!~",
+      "genero": "Male",
+      "edad": "40s",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 195516,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 3rd Season",
+            "english": "The Apothecary Diaries Season 3",
+            "native": "薬屋のひとりごと 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 274195,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lihaku",
+        "native": "李白"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b274195-TyGcY0uiMpx4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b274195-TyGcY0uiMpx4.png"
+      },
+      "descripcion": "Lihaku is a military officer, residing in the outer court of the palace. He's strong and honest, but not exactly brilliant.",
+      "genero": "Male",
+      "edad": "20s",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 244996,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lingli",
+        "native": "鈴麗"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b244996-iFHWbb56Rwlw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b244996-iFHWbb56Rwlw.jpg"
+      },
+      "descripcion": "Lingli is the baby of high consort Gyokuyou. She's the first child of the current Emperor to survive. She's nicknamed Xiaoling by her mother, meaning Little Bell.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 244319,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Meimei",
+        "native": "梅梅"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b244319-UtvzNJwwo7bD.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b244319-UtvzNJwwo7bD.jpg"
+      },
+      "descripcion": "Meimei is one of the Three Princesses of Verdigris Hall. She started as Fenshen's apprentice and, being somewhat cunning herself, inherited Fenshen's taste for strategy board games. She is the most attached to the brothel and the people within.",
+      "genero": "Female",
+      "edad": "30",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 195516,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 3rd Season",
+            "english": "The Apothecary Diaries Season 3",
+            "native": "薬屋のひとりごと 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 403165,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mu Qing",
+        "native": "沐清"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b403165-XvU7q4puNv0l.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b403165-XvU7q4puNv0l.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 200929,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto: Bouhi no Hihou",
+            "english": null,
+            "native": "薬屋のひとりごと 亡妃の秘宝"
+          }
+        }
+      ]
+    },
+    {
+      "id": 274189,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pairin",
+        "native": "白鈴"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b274189-HUP7GDBJMzXs.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b274189-HUP7GDBJMzXs.png"
+      },
+      "descripcion": "Pairin is the oldest of the Three Princesses of Verdigris Hall. She loves men's bodies and dreams of being taken away by a muscular prince.",
+      "genero": "Female",
+      "edad": "30s",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 195516,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 3rd Season",
+            "english": "The Apothecary Diaries Season 3",
+            "native": "薬屋のひとりごと 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156766,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rifa",
+        "native": "梨花妃"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156766-3DxfskkEqNvc.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156766-3DxfskkEqNvc.jpg"
+      },
+      "descripcion": "The Able consort, residing in the Crystal Palace within the inner court. The second most favoured consort of the Emperor, said to be so in big part due to her voluptuous chest. She gave birth to a boy who succumbed for unknown reasons and she herself is in grave health condition at the start of the story.",
+      "genero": "Female",
+      "edad": "23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156764,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Riishu",
+        "native": "里樹妃"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156764-aEbQtGaJ9PzZ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156764-aEbQtGaJ9PzZ.jpg"
+      },
+      "descripcion": "The Virtuous consort, residing in the Diamond Palace within the inner court. She was sent to be a high consort on the inner court as a young child because her prominent family was aware of the previous Emperor's pedophilic tendencies. When he died, she was allowed to leave as she was never visited by him, but her family arranged for her to return to her high consort position. Due to how young she is, she doesn't get any interest from the current Emperor, commands no respect, nor does she have any influence. She's very naive and gets bullied even by her own attendants.",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323687,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rikuson",
+        "native": "陸孫"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b323687-JlH1KOS7n11C.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b323687-JlH1KOS7n11C.png"
+      },
+      "descripcion": "Subordinate of [Rakan](https://anilist.co/character/232926). A very capable official, he is gentle, diligent, and quick-witted.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 195516,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 3rd Season",
+            "english": "The Apothecary Diaries Season 3",
+            "native": "薬屋のひとりごと 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 261968,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ruomen",
+        "native": "羅門"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b261968-dz3PwsJ9Csl9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b261968-dz3PwsJ9Csl9.png"
+      },
+      "descripcion": "Ruomen is a physician of the Inner Court, a physician in the red-light district, and Maomao's father.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 358074,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Seki-u",
+        "native": "赤羽"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358074-O7tEfuLnYC3M.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b358074-O7tEfuLnYC3M.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 365246,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shenmei",
+        "native": "神美"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b365246-1FLaaqC5ejEI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b365246-1FLaaqC5ejEI.png"
+      },
+      "descripcion": "Shenmei is the daughter of the former Shi Clan head, main wife of Prime Minister and current Shi clan head [Shishou](https://anilist.co/character/274196), and mother to Consort [Loulan](https://anilist.co/character/244995/Rouran).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 274196,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shishou",
+        "native": "子昌"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b274196-ThKDBpunvLOE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b274196-ThKDBpunvLOE.jpg"
+      },
+      "descripcion": "Shishou is the current prime-minister and head of the Shi clan. His cunning transformed him from essentially no one of importance to one of the most influential men in the nation. Despite that, he does not try to exert that influence within his own clan of Shi, which he married into.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 274194,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Suirei",
+        "native": "翠苓"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b274194-4VsxaaBBDz1p.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b274194-4VsxaaBBDz1p.png"
+      },
+      "descripcion": "Suirei is a court lady, doing menial tasks in the outer court.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 186148,
+          "title": {
+            "romaji": "Maomao no Hitorigoto 2nd Season",
+            "english": null,
+            "native": "猫猫のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327824,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Suiren",
+        "native": "水蓮"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327824-W4XhloPmgXH6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327824-W4XhloPmgXH6.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 274186,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Xiaolan",
+        "native": "小蘭"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b274186-lzElg0bbpo1O.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b274186-lzElg0bbpo1O.jpg"
+      },
+      "descripcion": "Xiaolan is a servant in the inner court of the palace. Carefree and easy to please, she looks at her sale to the inner palace as a good thing, since at least she now has proper bedding and meals. She loves gossiping and constantly serves as a source of possibilities for Maomao to brainstorm over.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 186148,
+          "title": {
+            "romaji": "Maomao no Hitorigoto 2nd Season",
+            "english": null,
+            "native": "猫猫のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318472,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Xing",
+        "native": "杏"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b318472-Eyp000RT48bv.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b318472-Eyp000RT48bv.jpg"
+      },
+      "descripcion": "The head lady-in-waiting of the Crystal Pavillion.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 274187,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yarite Baba",
+        "native": "やり手婆"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b274187-WSsVDyNUT6SM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b274187-WSsVDyNUT6SM.png"
+      },
+      "descripcion": "Once a high ranking courtesan herself, the Madam is now the runner of the Vergidris Hall.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        },
+        {
+          "id": 195516,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 3rd Season",
+            "english": "The Apothecary Diaries Season 3",
+            "native": "薬屋のひとりごと 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317874,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yinghua",
+        "native": "桜花"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317874-WsZw8W57486v.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b317874-WsZw8W57486v.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        },
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318474,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Huanguan A",
+        "native": "宦官"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318473,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Huanguan B",
+        "native": "宦官"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318477,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Huanguan C",
+        "native": "宦官"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        }
+      ]
+    },
+    {
+      "id": 388802,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kensakan",
+        "native": "検査官"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b388802-OAUuf07OG3ca.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b388802-OAUuf07OG3ca.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176301,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto 2nd Season",
+            "english": "The Apothecary Diaries Season 2",
+            "native": "薬屋のひとりごと 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36309,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Narrator",
+        "native": "ナレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+      },
+      "descripcion": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 6,
+          "title": {
+            "romaji": "TRIGUN",
+            "english": "Trigun",
+            "native": "TRIGUN"
+          }
+        },
+        {
+          "id": 21,
+          "title": {
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
+          }
+        },
+        {
+          "id": 25,
+          "title": {
+            "romaji": "Sunabouzu",
+            "english": "Desert Punk",
+            "native": "砂ぼうず"
+          }
+        },
+        {
+          "id": 28,
+          "title": {
+            "romaji": "Yakitate!! Japan",
+            "english": null,
+            "native": "焼きたて!! ジャぱん"
+          }
+        },
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 33,
+          "title": {
+            "romaji": "Kenpuu Denki Berserk",
+            "english": "Berserk",
+            "native": "剣風伝奇ベルセルク"
+          }
+        },
+        {
+          "id": 60,
+          "title": {
+            "romaji": "Chrno Crusade",
+            "english": "Chrono Crusade",
+            "native": "クロノクルセイド"
+          }
+        },
+        {
+          "id": 67,
+          "title": {
+            "romaji": "Basilisk: Kouga Ninpouchou",
+            "english": "Basilisk",
+            "native": "バジリスク 甲賀忍法帖"
+          }
+        },
+        {
+          "id": 80,
+          "title": {
+            "romaji": "Kidou Senshi Gundam",
+            "english": "Mobile Suit Gundam",
+            "native": "機動戦士ガンダム"
+          }
+        },
+        {
+          "id": 90,
+          "title": {
+            "romaji": "Shin Kidou Senki Gundam Wing",
+            "english": "Mobile Suit Gundam Wing",
+            "native": "新機動戦記ガンダムW"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318476,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Xia Nu A",
+        "native": "下女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318475,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Xia Nu B",
+        "native": "下女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 161645,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 51,
+  "actualizado": 1788566490
+}

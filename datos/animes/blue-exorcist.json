@@ -1,0 +1,3663 @@
+{
+  "clave": "blue-exorcist",
+  "nombre": "Blue Exorcist",
+  "descripcion": "Ao no Exorcist",
+  "generos": [
+    "Acción",
+    "Fantasía",
+    "Sobrenatural"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9919-nXS7JOZrWHfS.jpg",
+  "medios": [
+    {
+      "id": 9919,
+      "title": {
+        "romaji": "Ao no Exorcist",
+        "english": "Blue Exorcist",
+        "native": "青の祓魔師"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9919-nXS7JOZrWHfS.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9919-nXS7JOZrWHfS.jpg"
+      }
+    },
+    {
+      "id": 21861,
+      "title": {
+        "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+        "english": "Blue Exorcist: Kyoto Saga",
+        "native": "青の祓魔師 京都不浄王篇"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21861-KDvJJQenJJlT.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21861-KDvJJQenJJlT.jpg"
+      }
+    },
+    {
+      "id": 158931,
+      "title": {
+        "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+        "english": "Blue Exorcist -Shimane Illuminati Saga-",
+        "native": "青の祓魔師 島根啓明結社篇"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158931-QAQMtWKunvy3.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158931-QAQMtWKunvy3.jpg"
+      }
+    },
+    {
+      "id": 11737,
+      "title": {
+        "romaji": "Ao no Exorcist Movie",
+        "english": "Blue Exorcist: The Movie",
+        "native": "青の祓魔師 -劇場版-"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11737-49ya7CBO5wEq.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11737-49ya7CBO5wEq.jpg"
+      }
+    },
+    {
+      "id": 176311,
+      "title": {
+        "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+        "english": "Blue Exorcist -Beyond the Snow Saga-",
+        "native": "青の祓魔師 雪ノ果篇"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176311-OZudERHrpJJ0.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176311-OZudERHrpJJ0.jpg"
+      }
+    },
+    {
+      "id": 11266,
+      "title": {
+        "romaji": "Ao no Exorcist: Kuro no Iede",
+        "english": "Blue Exorcist: Runaway Kuro",
+        "native": "青の祓魔師 クロの家出"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11266-fSF6j9lTkcxs.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11266-fSF6j9lTkcxs.png"
+      }
+    },
+    {
+      "id": 185880,
+      "title": {
+        "romaji": "Ao no Exorcist: Yosuga-hen",
+        "english": "Blue Exorcist -The Blue Night Saga-",
+        "native": "青の祓魔師 終夜篇"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185880-efBIcDBzPiHP.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185880-efBIcDBzPiHP.jpg"
+      }
+    },
+    {
+      "id": 97891,
+      "title": {
+        "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+        "english": null,
+        "native": "青の祓魔師 京都不浄王篇 OVA"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97891-SsbeyuNwwmDA.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97891-SsbeyuNwwmDA.jpg"
+      }
+    },
+    {
+      "id": 10647,
+      "title": {
+        "romaji": "Ao no Exorcist: Ura Eku",
+        "english": "Blue Exorcist Specials",
+        "native": "青の祓魔師 裏エク"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10647-pLw3iZxk0SKu.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10647-pLw3iZxk0SKu.png"
+      }
+    },
+    {
+      "id": 13677,
+      "title": {
+        "romaji": "Ao no Exorcist Movie Tokubetsu Eizou",
+        "english": null,
+        "native": "青の祓魔師 劇場版 特別映像"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13677.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13677.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 30433,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Amaimon",
+        "native": "アマイモン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30433-8YHbgfkBTn8P.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b30433-8YHbgfkBTn8P.png"
+      },
+      "descripcion": "__Race:__ Demons  \n__Height:__ 172 cm (5'7\") \n\nAlso known as the \"Earth King.\" Amaimon is supposedly the second son of Satan and another Demon Prince of Gehenna. Unlike his father and elder brother Mephisto, Amaimon had little interest in Rin after their first encounter.   He is a human-like demon. He has a spike of hair that is lightly colored compared to the rest of his dark green hair. He wears a jacket that has cross-bones as buttons. He also wears a long-sleeved green shirt under his jacket, which is ripped at the ends.   He appears to be calm and collected, but very confident in his powers. However, he shows great anger and annoyance when someone gets in the way of his fun. He is very playful and doesn't take things seriously when it comes to fighting strong combatants which hint that he is very skilled in combat.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 10647,
+          "title": {
+            "romaji": "Ao no Exorcist: Ura Eku",
+            "english": "Blue Exorcist Specials",
+            "native": "青の祓魔師 裏エク"
+          }
+        },
+        {
+          "id": 11266,
+          "title": {
+            "romaji": "Ao no Exorcist: Kuro no Iede",
+            "english": "Blue Exorcist: Runaway Kuro",
+            "native": "青の祓魔師 クロの家出"
+          }
+        },
+        {
+          "id": 11737,
+          "title": {
+            "romaji": "Ao no Exorcist Movie",
+            "english": "Blue Exorcist: The Movie",
+            "native": "青の祓魔師 -劇場版-"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 32162,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Izumo Kamiki",
+        "native": "神木出雲"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b32162-VQiwb6CHEv8K.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b32162-VQiwb6CHEv8K.png"
+      },
+      "descripcion": "__Height:__ 164 cm\n\nIzumo Kamiki is a top student at the Exorcism Cram School of True Cross Academy who comes from a long line of shrine maidens.",
+      "genero": "Female",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 10647,
+          "title": {
+            "romaji": "Ao no Exorcist: Ura Eku",
+            "english": "Blue Exorcist Specials",
+            "native": "青の祓魔師 裏エク"
+          }
+        },
+        {
+          "id": 11266,
+          "title": {
+            "romaji": "Ao no Exorcist: Kuro no Iede",
+            "english": "Blue Exorcist: Runaway Kuro",
+            "native": "青の祓魔師 クロの家出"
+          }
+        },
+        {
+          "id": 11737,
+          "title": {
+            "romaji": "Ao no Exorcist Movie",
+            "english": "Blue Exorcist: The Movie",
+            "native": "青の祓魔師 -劇場版-"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 38984,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Konekomaru Miwa",
+        "native": "三輪子猫丸"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b38984-nTBWABvnb24V.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b38984-nTBWABvnb24V.png"
+      },
+      "descripcion": "__Height:__ 155 cm\n\nKonekomaru Miwa hails from Kyoto along with Ryuji Suguro and Renzo Shima and is an Exwire of the True Cross Order, a student of the Exorcist Cram School, and the surviving head of the Miwa family.",
+      "genero": "Male",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 10647,
+          "title": {
+            "romaji": "Ao no Exorcist: Ura Eku",
+            "english": "Blue Exorcist Specials",
+            "native": "青の祓魔師 裏エク"
+          }
+        },
+        {
+          "id": 11266,
+          "title": {
+            "romaji": "Ao no Exorcist: Kuro no Iede",
+            "english": "Blue Exorcist: Runaway Kuro",
+            "native": "青の祓魔師 クロの家出"
+          }
+        },
+        {
+          "id": 11737,
+          "title": {
+            "romaji": "Ao no Exorcist Movie",
+            "english": "Blue Exorcist: The Movie",
+            "native": "青の祓魔師 -劇場版-"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 43187,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kuro",
+        "native": "クロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43187-uJySWMkmaWmZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b43187-uJySWMkmaWmZ.png"
+      },
+      "descripcion": "A two-tailed cat demon (nekomata).  Formerly Fujimoto's familiar but is now Rin's familiar.  Kuro is a Cat Sith who was once worshipped as a protective deity for silkworms.  He usually takes the appearance of a kitten, but he can reach an enormous size at will.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 10647,
+          "title": {
+            "romaji": "Ao no Exorcist: Ura Eku",
+            "english": "Blue Exorcist Specials",
+            "native": "青の祓魔師 裏エク"
+          }
+        },
+        {
+          "id": 11266,
+          "title": {
+            "romaji": "Ao no Exorcist: Kuro no Iede",
+            "english": "Blue Exorcist: Runaway Kuro",
+            "native": "青の祓魔師 クロの家出"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 43384,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Mamushi Houjou",
+        "native": "宝生蝮"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43384-5AcxRSUzcW5g.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b43384-5AcxRSUzcW5g.png"
+      },
+      "descripcion": "Mamushi is a Middle First-Class Exorcist at the Kyoto Branch of the True Cross Order and Uwabami Houjou's daughter. Her sisters are Nishiki and Ao Houjou.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 30432,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Mephisto Pheles",
+        "native": "メフィスト・フェレス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30432-I4KwsegOrzfq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b30432-I4KwsegOrzfq.png"
+      },
+      "descripcion": "__Height:__ 195 cm (6'5\") \n\nPheles is the Chairman of True Cross Academy and also an Exorcist. After Fujimoto's death Pheles was ordered to kill Rin, however he accepted Rin's proposal in becoming an Exorcist and entered him into True Cross Academy. It has been heavily implied that he is the son of Satan along with his brother, the Earth King, Amaimon. He possesses the unique and peculiar ability of transforming into a small dog after counting down from three in German. How powerful he is has not been shown but he has mentioned that he is an honorary knight, the position two ranks below Paladin. He has been shown responsible for allowing several higher class demons onto campus. His name is an obvious pun on the word Mephistopheles, which is name for the another infamous devil, similar to his father Satan.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 10647,
+          "title": {
+            "romaji": "Ao no Exorcist: Ura Eku",
+            "english": "Blue Exorcist Specials",
+            "native": "青の祓魔師 裏エク"
+          }
+        },
+        {
+          "id": 11266,
+          "title": {
+            "romaji": "Ao no Exorcist: Kuro no Iede",
+            "english": "Blue Exorcist: Runaway Kuro",
+            "native": "青の祓魔師 クロの家出"
+          }
+        },
+        {
+          "id": 11737,
+          "title": {
+            "romaji": "Ao no Exorcist Movie",
+            "english": "Blue Exorcist: The Movie",
+            "native": "青の祓魔師 -劇場版-"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 38983,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Renzou Shima",
+        "native": "志摩廉造"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b38983-NrEXYWsAzm68.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b38983-NrEXYWsAzm68.jpg"
+      },
+      "descripcion": "__Height:__ 176 cm\n\nRenzou is a very carefree character, yet he has a fear of many things, mainly bugs. He's very loyal to Bon, his childhood friend. They grew up together along with Konekomaru in Kyoto. He is also has a big obsession with women. Plans to become a Meister in Aria He is the 5th and youngest son of his family, and tells Konekomaru he's glad of this because it means he has less responsibilities. His older brother Juuzou says he's the pervert out of the brothers. Renzou is a carefree character and was the first person to actually befriend Rin since the revealing of the blue flames, which shows Renzou is the friendly-type. He is also afraid of bugs, yet he is known as the pervert out of the Shima brothers.",
+      "genero": "Male",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 10647,
+          "title": {
+            "romaji": "Ao no Exorcist: Ura Eku",
+            "english": "Blue Exorcist Specials",
+            "native": "青の祓魔師 裏エク"
+          }
+        },
+        {
+          "id": 11266,
+          "title": {
+            "romaji": "Ao no Exorcist: Kuro no Iede",
+            "english": "Blue Exorcist: Runaway Kuro",
+            "native": "青の祓魔師 クロの家出"
+          }
+        },
+        {
+          "id": 11737,
+          "title": {
+            "romaji": "Ao no Exorcist Movie",
+            "english": "Blue Exorcist: The Movie",
+            "native": "青の祓魔師 -劇場版-"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 24482,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Rin Okumura",
+        "native": "奥村燐"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24482-E6087V4uAVqL.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24482-E6087V4uAVqL.jpg"
+      },
+      "descripcion": "__Height:__ 173 cm (5'8\")\n\nThe fifteen-year-old protagonist of the story, Rin is the son of [Satan](https://anilist.co/character/48449) born from a human woman and is the inheritor of Satan's powers. His powers were sealed at birth into the demon-slaying blade Kurikara, or Koumaken, by [Mephisto Pheles](https://anilist.co/character/30432), allowing him to live a normal human life for about 15 years.",
+      "genero": "Male",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": 1995,
+        "month": 12,
+        "day": 27
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 10647,
+          "title": {
+            "romaji": "Ao no Exorcist: Ura Eku",
+            "english": "Blue Exorcist Specials",
+            "native": "青の祓魔師 裏エク"
+          }
+        },
+        {
+          "id": 11266,
+          "title": {
+            "romaji": "Ao no Exorcist: Kuro no Iede",
+            "english": "Blue Exorcist: Runaway Kuro",
+            "native": "青の祓魔師 クロの家出"
+          }
+        },
+        {
+          "id": 11737,
+          "title": {
+            "romaji": "Ao no Exorcist Movie",
+            "english": "Blue Exorcist: The Movie",
+            "native": "青の祓魔師 -劇場版-"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 30429,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ryuuji Suguro",
+        "native": "勝呂竜士"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30429-NmVCBSzm3GNY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b30429-NmVCBSzm3GNY.png"
+      },
+      "descripcion": "__Height:__ 181 cm\n\nHe is [Rin's](https://anilist.co/character/24482/Okumura-Rin) rival and the prodigy in the class. He was the child of the Cursed Temple which was destroyed by [Satan](https://anilist.co/character/48449/Satan) 16 years ago. Bon takes everything seriously and is trying his hardest in order to become an Exorcist powerful enough so he could one day defeat Satan ( a goal he claims Rin stole from him) and rebuild his Temple. Currently Bon is trying to acquire the title of Meister in both Aria (a person who recites holy texts to kill certain demons) and Dragoon (a person who fights with heavy artillery). He is currently an Exwire. He is good at memorization, cleaning and Zen meditation.",
+      "genero": "Male",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 10647,
+          "title": {
+            "romaji": "Ao no Exorcist: Ura Eku",
+            "english": "Blue Exorcist Specials",
+            "native": "青の祓魔師 裏エク"
+          }
+        },
+        {
+          "id": 11266,
+          "title": {
+            "romaji": "Ao no Exorcist: Kuro no Iede",
+            "english": "Blue Exorcist: Runaway Kuro",
+            "native": "青の祓魔師 クロの家出"
+          }
+        },
+        {
+          "id": 11737,
+          "title": {
+            "romaji": "Ao no Exorcist Movie",
+            "english": "Blue Exorcist: The Movie",
+            "native": "青の祓魔師 -劇場版-"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 30430,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Shiemi Moriyama",
+        "native": "杜山しえみ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30430-LwO3yM6dg0HF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b30430-LwO3yM6dg0HF.png"
+      },
+      "descripcion": "__Height:__ 165 cm (5'4\")    \n\nSlightly allergic to pollen. Shiemi is [Rin](https://anilist.co/character/24482/Okumura-Rin)'s classmate and friend. Before she met Rin, Shiemi tended her grandmother's garden while her mother ran an Exorcist only shop inside True Cross Academy. During her encounter with Rin and [Yukio](https://anilist.co/character/24734/Okumura-Yukio), they were able to discover that Shiemi was having her life force leached out by a Demon. After Yukio exorcised the demon, Shiemi finally decided to become an Exorcist and started to attend class. It was later revealed that Shiemi had talent in becoming a Tamer, as she was able to summon a Greenman Spirit during class. It is apparently a rare talent to possess amongst the Exorcists, where there are only a few who can control demons and fight.",
+      "genero": "Female",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 10647,
+          "title": {
+            "romaji": "Ao no Exorcist: Ura Eku",
+            "english": "Blue Exorcist Specials",
+            "native": "青の祓魔師 裏エク"
+          }
+        },
+        {
+          "id": 11266,
+          "title": {
+            "romaji": "Ao no Exorcist: Kuro no Iede",
+            "english": "Blue Exorcist: Runaway Kuro",
+            "native": "青の祓魔師 クロの家出"
+          }
+        },
+        {
+          "id": 11737,
+          "title": {
+            "romaji": "Ao no Exorcist Movie",
+            "english": "Blue Exorcist: The Movie",
+            "native": "青の祓魔師 -劇場版-"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 30431,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Shirou Fujimoto",
+        "native": "藤本獅郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30431-l5NMqfM82w4q.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b30431-l5NMqfM82w4q.png"
+      },
+      "descripcion": "__Height:__ 177 cm (5'8\")\n\nShirou Fujimoto was [Rin](https://anilist.co/character/24482/Okumura-Rin) and [Yukio](https://anilist.co/character/24734/Okumura-Yukio)'s guardian and was also considered to be one of the most powerful Exorcists in the world. He was thought to be the only man in the world that was able to sustain possession by [Satan](https://anilist.co/character/48449/Satan) himself and thus Satan was constantly after his body. Fujimoto had a familiar sith cat demon, which he called [Kuro](https://anilist.co/character/43187/Kuro), that Rin had inherited. He was a confirmed Aria, Dragoon and tamer and could possibly have been a Knight and a Docter as two of those who have studied under him have become these. He was said to be the strongest exorcist on the planet and was the only one to gain the rank of Paladin, the highest rank of the exorcists.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 11266,
+          "title": {
+            "romaji": "Ao no Exorcist: Kuro no Iede",
+            "english": "Blue Exorcist: Runaway Kuro",
+            "native": "青の祓魔師 クロの家出"
+          }
+        },
+        {
+          "id": 11737,
+          "title": {
+            "romaji": "Ao no Exorcist Movie",
+            "english": "Blue Exorcist: The Movie",
+            "native": "青の祓魔師 -劇場版-"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 71467,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Usamaro",
+        "native": "うさ麻呂"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/71467.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/71467.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 11737,
+          "title": {
+            "romaji": "Ao no Exorcist Movie",
+            "english": "Blue Exorcist: The Movie",
+            "native": "青の祓魔師 -劇場版-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 24734,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Yukio Okumura",
+        "native": "奥村雪男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24734-GgVZoNAPnxoc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24734-GgVZoNAPnxoc.png"
+      },
+      "descripcion": "__Height:__ 180 cm (5'11\") \n\nYukio is Rin Okumura's twin and younger brother and Shiro Fujimoto's adopted son. He is a Middle First Class Exorcist who has started his training to become an Exorcist at seven by his father suggestion and, since then, gained the titles of Dragoon and Doctor at only fourteen, becoming the youngest Exorcist in the True Cross Order history. Yukio is also the youngest teacher of the True Cross' Exorcist Cram School, at which he teaches pharmacology. Before he was born, he has had a weak body that couldn't bear the power of the blue flames, causing the power of Satan to be fully inherited by Rin. He is seen as an ​example and prodigy by the ones who live together with him and is friends with Shiemi Moriyama, who calls him Yuki-chan.",
+      "genero": "Male",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": 1992,
+        "month": 12,
+        "day": 27
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 10647,
+          "title": {
+            "romaji": "Ao no Exorcist: Ura Eku",
+            "english": "Blue Exorcist Specials",
+            "native": "青の祓魔師 裏エク"
+          }
+        },
+        {
+          "id": 11266,
+          "title": {
+            "romaji": "Ao no Exorcist: Kuro no Iede",
+            "english": "Blue Exorcist: Runaway Kuro",
+            "native": "青の祓魔師 クロの家出"
+          }
+        },
+        {
+          "id": 11737,
+          "title": {
+            "romaji": "Ao no Exorcist Movie",
+            "english": "Blue Exorcist: The Movie",
+            "native": "青の祓魔師 -劇場版-"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 48511,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Yuri Egin",
+        "native": "ユリ・エギン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b48511-FfvuZ6i6Czep.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b48511-FfvuZ6i6Czep.png"
+      },
+      "descripcion": "Yuri Egin is the daughter of the Candial and Yukio and Rin&#039;s Mother.    ~!Yuri let herself voluntarily be possessed by Satan and give birth to his children to prove that humans and demons could live and love together. She died after she gave birth to Rin and Yukio. !~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355652,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Abel Franken",
+        "native": "アベル・フランケン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b355652-QiJ2sOKBqjJm.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b355652-QiJ2sOKBqjJm.png"
+      },
+      "descripcion": "Abel was the 250th Paladin of the True Cross Order.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141952,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ao Houjou",
+        "native": "宝生青"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141952-9xqo3MsxaYsK.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141952-9xqo3MsxaYsK.jpg"
+      },
+      "descripcion": "She is an Exorcist at the Kyoto Branch of the True Cross Order and Uwabami Houjou's daughter. Her sisters are Mamushi and Nishiki Houjou.\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        }
+      ]
+    },
+    {
+      "id": 34758,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Arthur Auguste Angel",
+        "native": "アーサー・オーギュスト・エンジェル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b34758-XzvetamkXXVQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b34758-XzvetamkXXVQ.png"
+      },
+      "descripcion": "The newly appointed Paladin. He was ordered by the Grigori to to interrogate Mephisto and captured Rin as evidence. According to Shura he's a saint on the outside and a devil inside. Uses the demon sword Caliburn.\n\nNot much is known about Arthur so far, except that he is extremely loyal to the True Cross Order. He follows the orders of his superiors without questioning them at all, even attempting to kill people when they interfere with his work. He believes that anything related to Satan must be destroyed, as it could only cause harm to let them live. Arthur also seems to be slightly sadistic, as he stabbed Rin completely through the leg to immobilize him during Rin's trial, while remarking that the wound would heal soon enough. According to Shura, he is a saint on the outside and a devil on the inside, hinting that he may have a malicious personality.\n\n",
+      "genero": "Male",
+      "edad": "30",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 11737,
+          "title": {
+            "romaji": "Ao no Exorcist Movie",
+            "english": "Blue Exorcist: The Movie",
+            "native": "青の祓魔師 -劇場版-"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 71465,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cheng-Long Liu",
+        "native": "リュウ・セイリュウ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/71465.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/71465.jpg"
+      },
+      "descripcion": "Upper First Class exorcist from Taiwan branch. Comes to Japan to help True Cross Academy change a new barrier. From an elite family and has high exorcism skills.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 11737,
+          "title": {
+            "romaji": "Ao no Exorcist Movie",
+            "english": "Blue Exorcist: The Movie",
+            "native": "青の祓魔師 -劇場版-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 204126,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Drac Dragulescu",
+        "native": "ドラク・ドラグレスク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b204126-R9YRaLGBbHLA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b204126-R9YRaLGBbHLA.png"
+      },
+      "descripcion": "He's an Arc Knight and an Exorcist of the True Cross Order. He is a member of the Romania Branch Office and the K.R.C lab chief.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 49365,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ernst Frederick Egin",
+        "native": "エルンスト・フレデリク・エギン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b49365-6k6G9ILwfInS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b49365-6k6G9ILwfInS.png"
+      },
+      "descripcion": "Yuri's father and Rin and Yukio's grandfather. He is an anime-only character.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355646,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hilkiah Uzai",
+        "native": "ヒルキア・ウザイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": "Hilkiah Uzai is a member of the Grigori Agency and an attendant of Shemihaza.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210807,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Homare Todo",
+        "native": "藤堂誉"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210807-GFerzfUrZqrD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210807-GFerzfUrZqrD.png"
+      },
+      "descripcion": "A high-ranking member of the Illuminati and captain of Phosphorus, Lucifer's bodyguards. Also the daughter of Saburota Todo.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355665,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Iblis",
+        "native": "イブリース"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b355665-DbfUiqySzvyx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b355665-DbfUiqySzvyx.png"
+      },
+      "descripcion": "Iblis is one of the eight demon kings. She is the King of Fire",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 38985,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Igor Neuhaus",
+        "native": "イゴール・ネイガウス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b38985-pW70uJHQONhK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b38985-pW70uJHQONhK.png"
+      },
+      "descripcion": "__Nationality:__ Polish\n\nAn Upper First Class Exorcist as well as lecturer in the Academy, who obtained the titles of Tamer, Doctor and Aria. He wears an eyepatch over his left eye, while he has Aria incantations tattooed on both arms.   He had a run-in with Satan when he was younger, which robbed him of his family and his left eye's sight, which is why he holds immense hatred for Satan and demons that are related to Satan. Yet ironically, he is extremely loyal to Mephisto, willing to listen to any command of his, which is why he stopped his attacks on Rin prior to the latter becoming an Exorcist.",
+      "genero": "Male",
+      "edad": "39",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 11266,
+          "title": {
+            "romaji": "Ao no Exorcist: Kuro no Iede",
+            "english": "Blue Exorcist: Runaway Kuro",
+            "native": "青の祓魔師 クロの家出"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355650,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jenny Kal",
+        "native": "ジェニ・カル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b355650-pG0SNQDZfTDb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b355650-pG0SNQDZfTDb.png"
+      },
+      "descripcion": "Jenny Kai is an Exwire adopted by the Asylum.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355664,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jeremiah Uzai",
+        "native": "エレミヤ・ウザイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": "Jeremiah Uzai is a member of the Grigori Agency, which is assigned to protect Shemihaza.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 43383,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Juuzou Shima",
+        "native": "志摩柔造"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43383-BYanhVdQgXy8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b43383-BYanhVdQgXy8.png"
+      },
+      "descripcion": "Juuzou is the 2nd son of the Shima family, his younger brothers include Kinzou and Renzou. As the 2nd son, he has more responsibilities than his younger brothers. Since the 1st son of the Shima family was killed in the Blue Night incident 16 years ago, Juuzou is the successor of the Shima family. He and Houjou Mamushi are childhood friends and attended the Exorcist cramschool together.",
+      "genero": "Male",
+      "edad": "25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 49369,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaoru Tsubaki",
+        "native": "椿薫"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b49369-ZIHUMtyF9SiK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b49369-ZIHUMtyF9SiK.png"
+      },
+      "descripcion": "The Physical Education (P.E.) teacher in the cram school. Called by some students as &quot;Ol&#039; Sideburns&quot;, he is well known to abruptly cancel and/or leave class upon recieving a call from a woman currently identified only as &#039;Kitten&#039;, which is the name he calls her.     (Source: BlueExorcist.wikia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141960,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Karura",
+        "native": "伽樓羅"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141960-t4x7Oxxwy1Vk.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141960-t4x7Oxxwy1Vk.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141957,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kinoshita",
+        "native": "木下"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141957-IMqA3xxqc9sH.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141957-IMqA3xxqc9sH.jpg"
+      },
+      "descripcion": "is an Exorcist of the True Cross Order. During the Impure King incident, she treated the wounded at the Kyoto Branch.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 43386,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kinzou Shima",
+        "native": "志摩金造"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43386-jUOATXKrcIEZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b43386-jUOATXKrcIEZ.png"
+      },
+      "descripcion": "Kinzou is the fourth son of the Shima family, Renzou's older brother. He seems to be a pretty simple guy who is ruled by his emotions, kicking his little brother in the head as a greeting and paying no attention to the conversation at breakfast, preferring to stuff his face.",
+      "genero": "Male",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 17
+      },
+      "media": [
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 73589,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lewin Light",
+        "native": "ルーイン･ライト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73589-TR7obTVfLWGx.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b73589-TR7obTVfLWGx.jpg"
+      },
+      "descripcion": "__Height:__ 177 cm (5'10\") \n\nHe is an Arc Knight and an Exorcist of the True Cross Order.\n\n~!He is the traveling companion and right-hand man of Arthur A. Angel, which makes him ranked second in the True Cross Order.!~\n\n~!He reveals that he doesn't experience empathy towards people, and has always lacked this ability since he was born!~",
+      "genero": "Male",
+      "edad": "34",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 24
+      },
+      "media": [
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210806,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lucifer",
+        "native": "ルシフェル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210806-ix78MMmZrbrp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210806-ix78MMmZrbrp.png"
+      },
+      "descripcion": "The King of Light and the strongest of the Eight Demon Kings. He is also the Commander-in-Chief of the Illuminati.\n\n(Source: Ao no Exorcist Wiki)\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355653,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lucy Yang",
+        "native": "ルーシー・陽"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b355653-BvYmF95u2KSL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b355653-BvYmF95u2KSL.png"
+      },
+      "descripcion": "Lucy is an arc knight and an exorcist of the True Cross Order.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 320990,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Michael Gedouin",
+        "native": "外道院ミハエル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b320990-nE4x0gc10JhD.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b320990-nE4x0gc10JhD.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 49367,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Michelle Neuhaus",
+        "native": "ミシェル・ネイガウス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b49367-V2yxyWzgePa7.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b49367-V2yxyWzgePa7.png"
+      },
+      "descripcion": "The wife of Igor Neuhaus, she was killed on the Blue Night.   ~!But was brought back to life by someone. She was also the masked man who hunt Rin and kept the True Cross Academy students hostage.   She only appears in the anime.!~ (Source: Blue Exorcist Wikia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141958,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Miketsu",
+        "native": "御饌津"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141958-xPE2c4hKFg3t.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141958-xPE2c4hKFg3t.png"
+      },
+      "descripcion": "Miketsu, or simply Mike, is a Byakko and Eighth in rank amongst his peers. He is Izumo Kamiki's familiar, having previously served her mother, Tamamo Kamiki.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 45001,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nemu Takara",
+        "native": "宝ねむ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b45001-DUT4jJDPghM8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b45001-DUT4jJDPghM8.png"
+      },
+      "descripcion": "__Height:__ 163 cm\n\nTakara is a quiet, mysterious character. He is also somewhat of a ventriloquist. He hasn't talked much, and when he does, it's usually through ventriloquism. He is short, only slightly taller than Konekomaru, and wears the typical True Cross Academy uniform. Has yet to be shown opening his eyes and is always seen with his rabbit puppet. Not much is known about him he also did not contribute to the group effort in the Exwire exam. However, when he speaks with his rabbit puppet, the voice and tone is usually very rude.",
+      "genero": "Male",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 47527,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nii-chan",
+        "native": "ニーちゃん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b47527-Ms1bzAyPzCih.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b47527-Ms1bzAyPzCih.png"
+      },
+      "descripcion": "Nii-chan is Shiemi Moriyama's Familiar that she summons during the demonstration after Izumo Kamiki summoned two spirit foxes. It is a baby Greenman spirit that takes a liking to Shiemi often sitting on top of her head. Nii-chan aids Shiemi by producing plant from it's body such as aloe and sprouts tree branches as barriers. Nii-chan appears protective of Shiemi as he shields her from the falling debris during a mission in the amusement park with tree barriers. Possibly because it's still an infant, it does not think of Shiemi or the humans as a threat. It speaks by saying the phrase \"Nii!\"",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141954,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nishiki Houjou",
+        "native": "宝生錦"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141954-0WFc1ttxempL.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141954-0WFc1ttxempL.jpg"
+      },
+      "descripcion": "She is an Exorcist at the Kyoto Branch of the True Cross Order and Uwabami Houjou's daughter. Her sisters are Mamushi and Ao Houjou.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 43239,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Noriko Paku",
+        "native": "朴朔子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43239-jnFBSkQSQ2FE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b43239-jnFBSkQSQ2FE.png"
+      },
+      "descripcion": "Noriko is Izumo's best friend but quits the cram school because she did not understand the classes and she was failing.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 10647,
+          "title": {
+            "romaji": "Ao no Exorcist: Ura Eku",
+            "english": "Blue Exorcist Specials",
+            "native": "青の祓魔師 裏エク"
+          }
+        },
+        {
+          "id": 11266,
+          "title": {
+            "romaji": "Ao no Exorcist: Kuro no Iede",
+            "english": "Blue Exorcist: Runaway Kuro",
+            "native": "青の祓魔師 クロの家出"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 143379,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Osceola Redarm",
+        "native": "オセオラ・レッドアーム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b143379-q18jZsbNhNYY.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b143379-q18jZsbNhNYY.jpg"
+      },
+      "descripcion": "Osceola Redarm is an Arc Knight and an Exorcist of the True Cross Order. He is a member of the Mexican Branch and works in surveillance.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 42208,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Reiji Shiratori",
+        "native": "白鳥零二"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b42208-m2qTsuHUCnpi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b42208-m2qTsuHUCnpi.png"
+      },
+      "descripcion": "He's a boy of Rin's age who's about to go to True Cross Academy, but since he's a bit of a delinquent in his free time he finds that he must pay Rin to keep his mouth shut about it since Rin saw him when he was about to kill some birds with a crossbow.    ~!He's later possessed by a demon named Astaroth. When he finds out that Rin's also a demon, he tries to get him so he can bring Rin to Gehenna.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 10647,
+          "title": {
+            "romaji": "Ao no Exorcist: Ura Eku",
+            "english": "Blue Exorcist Specials",
+            "native": "青の祓魔師 裏エク"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355649,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rick Lincoln",
+        "native": "リック・リンカーン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b355649-lBxxe1sfmvjn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b355649-lBxxe1sfmvjn.png"
+      },
+      "descripcion": "Rick is a member of the True Cross Order raised in Asylum at the same time of Yuri Egin.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141955,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Saburouta Toudou",
+        "native": "藤堂三郎太"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141955-uWxdyqqddQBZ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141955-uWxdyqqddQBZ.jpg"
+      },
+      "descripcion": "Upper second-class exorcist of the Order, First Year Magic Circles and Seals instructor at the True Cross Academy, and Warden of the Deep Keep.\n~! He has betrayed the Order as he helped steal the Left Eye of the Impure King, which used to be in the Deep Keep.!~ ~! He is a Demon Eater and has swallowed Karura the Phoenix, which has given him impressive regeneration skills. Now, he answers to the Illuminati secret society.!~",
+      "genero": "Male",
+      "edad": "55",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 48449,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Satan",
+        "native": "サタン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b48449-LZibifWzcpoo.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b48449-LZibifWzcpoo.png"
+      },
+      "descripcion": "Satan is the king of Gehenna. It has been said that he is the creator of every demon in existence. There is no body in Assiah powerful enough to host him because of his incredible powers.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141956,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Satoru",
+        "native": "サトル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141956-UGMHeBJb0YXi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141956-UGMHeBJb0YXi.png"
+      },
+      "descripcion": "Satoru is a young boy who was taken hostage by a mysterious masked figure.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141964,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Satoru no Haha",
+        "native": "サトルの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141964-XDM6vcE0NA7c.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141964-XDM6vcE0NA7c.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 64213,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Satou",
+        "native": "佐藤先生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64213-erHY5HskNFdF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b64213-erHY5HskNFdF.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355269,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sei Godaiin",
+        "native": "醐醍院誠"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b355269-YmQ29pBRCxdS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b355269-YmQ29pBRCxdS.png"
+      },
+      "descripcion": "Sei Godaiin is a student who attends True Cross Academy.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355265,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shiemi no Haha",
+        "native": "しえみの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 32110,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shura Kirigakure",
+        "native": "霧隠・シュラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b32110-Ats6VvSZy300.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b32110-Ats6VvSZy300.png"
+      },
+      "descripcion": "Shura Kirigakure is a Knight and an Upper-First Class Exorcist. Having trained under the guidance of Shirou Fujimoto, she officially works as an inspector for the Vatican, but has infiltrated True Cross Academy, first as a student under the name Yamada, and later as a teacher for the Exwires. She is currently the mentor of Rin Okumura.",
+      "genero": "Female",
+      "edad": "26",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 11266,
+          "title": {
+            "romaji": "Ao no Exorcist: Kuro no Iede",
+            "english": "Blue Exorcist: Runaway Kuro",
+            "native": "青の祓魔師 クロの家出"
+          }
+        },
+        {
+          "id": 11737,
+          "title": {
+            "romaji": "Ao no Exorcist Movie",
+            "english": "Blue Exorcist: The Movie",
+            "native": "青の祓魔師 -劇場版-"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141963,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tatsuma no Chichi",
+        "native": "達磨の父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141963-3fRqYWDjsgXF.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141963-3fRqYWDjsgXF.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 43137,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tatsuma Suguro",
+        "native": "勝呂達磨"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/43137.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/43137.jpg"
+      },
+      "descripcion": "Ryuuji Suguro&#039;s father. Survivor of the Blue Night, when scores of clergymen were massacred by Satan. Known as the &quot;Priest of the Cursed Temple.&quot;  (source: BlueExorcist.com)",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141953,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Torako Suguro",
+        "native": "勝呂虎子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141953-N4HXZcHxRAlU.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141953-N4HXZcHxRAlU.jpg"
+      },
+      "descripcion": "Torako is Ryuuji's mother and the wife of Tatsuma Suguro.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335251,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ucchusma",
+        "native": "烏枢沙摩"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b335251-oZki2htfCgDo.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b335251-oZki2htfCgDo.png"
+      },
+      "descripcion": "A high-level fire Demon and a sworn enemy of the Impure King",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141962,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ukemochi",
+        "native": "保食"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141962-a7W9yO0aXw8O.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141962-a7W9yO0aXw8O.png"
+      },
+      "descripcion": "Ukemochi or simply Uke, is a Byakko and Izumo Kamiki's familiar. He previously served her mother, Tamamo Kamiki.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 84925,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ukobach",
+        "native": "ウコバク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84925-XAU47vDVmu10.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b84925-XAU47vDVmu10.png"
+      },
+      "descripcion": "Ukobach is Mephisto's familiar and a stove spirit who prepares Rin and Yukio's meals. He developed a close bond with Rin through their mutual love for cooking.  Ukobach is a minotaur like demon. He has been seen to transform into a bigger minotaur and appears from thunder strikes (for a comedic effect of some sort).  Ukobach is proud of his cooking skills, but also fiercely protective of his food and his domain, the dorm kitchen. As such he was enraged at Rin for using the dorm kitchen without his permission and for a while he refused to cook for the brothers. He also tried to cook 3 girls for ruining his lunch for Rin and Yukio. He is often silent, but Rin has been able to communicate with the little demon and the two get along well due to their mutual love of cooking.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141959,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Uwabami Houjou",
+        "native": "宝生蟒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141959-GsUyiyR6yCrs.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141959-GsUyiyR6yCrs.jpg"
+      },
+      "descripcion": "is an Upper First-Class Exorcist at the Kyoto Branch Office and father to Mamushi, Nishiki and Ao Houjou.\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141961,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yaozou Shima",
+        "native": "志摩八百造"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141961-aKq0KIYaU61K.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141961-aKq0KIYaU61K.jpg"
+      },
+      "descripcion": "is an Upper First Class Exorcist, and the Chief of the True Cross Order's Kyoto Branch Office. He is the father of Juuzou, Kinzou and Renzou Shima, as well as the overall head of the Shima family.",
+      "genero": "Male",
+      "edad": "53",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 21861,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "english": "Blue Exorcist: Kyoto Saga",
+            "native": "青の祓魔師 京都不浄王篇"
+          }
+        },
+        {
+          "id": 97891,
+          "title": {
+            "romaji": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+            "english": null,
+            "native": "青の祓魔師 京都不浄王篇 OVA"
+          }
+        },
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        },
+        {
+          "id": 176311,
+          "title": {
+            "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+            "english": "Blue Exorcist -Beyond the Snow Saga-",
+            "native": "青の祓魔師 雪ノ果篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 49371,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yoshikuni XI",
+        "native": "吉国"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b49371-uTq5t9KuQYvt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b49371-uTq5t9KuQYvt.png"
+      },
+      "descripcion": "A descendant of the one who forged the Kurikara, Rin&#039;s sword. She seems easygoing and friendly. She is especially nice towards Ryuji, and calls him &quot;Ryu-chan&quot;. The two are childhood friends, and she even embarrasses him by mentioning that he was in love with her and asked her to marry him.     She remains nameless and is an anime only character.     (Source: BlueExorcist.wikia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        }
+      ]
+    },
+    {
+      "id": 45969,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Youhei",
+        "native": "洋平"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b45969-1HovUV9Q5Diz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b45969-1HovUV9Q5Diz.png"
+      },
+      "descripcion": "He appeared in the 11th episode of the anime.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        }
+      ]
+    },
+    {
+      "id": 356463,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Bijo",
+        "native": "美女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 356464,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Bijo",
+        "native": "美女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 359191,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi Seito",
+        "native": "女子生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 359199,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi Seito",
+        "native": "女子生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 359200,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi Seito",
+        "native": "女子生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 356465,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kunrensei",
+        "native": "訓練生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 356466,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kunrensei",
+        "native": "訓練生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355267,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kyoushi",
+        "native": "教師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355651,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Niko-chan",
+        "native": "ニコちゃん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b355651-SlbYJdHyvsp5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b355651-SlbYJdHyvsp5.png"
+      },
+      "descripcion": "Niko was a homeless woman who raised Yuri Egin during her youth.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355647,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Obaba",
+        "native": "オババ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b355647-bBvr89Xekn5Z.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b355647-bBvr89Xekn5Z.png"
+      },
+      "descripcion": "Obaba was a former Exorcist and homeless woman who raised Yuri Egin during her youth.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355648,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Oku-chan",
+        "native": "オクちゃん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b355648-bgTCpfTeBRwx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b355648-bgTCpfTeBRwx.png"
+      },
+      "descripcion": "Oku was a former exorcist and homeless man who raised Yuri during her youth.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355266,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355268,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355666,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shiemi no Sobo",
+        "native": "しえみの祖母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b355666-eBdXjG0YFV7S.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b355666-eBdXjG0YFV7S.png"
+      },
+      "descripcion": "Shiemi's Grandmother was a gardener at the Exorcist shop Futsumaya, located on the campus of the True Cross Academy.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9919,
+          "title": {
+            "romaji": "Ao no Exorcist",
+            "english": "Blue Exorcist",
+            "native": "青の祓魔師"
+          }
+        },
+        {
+          "id": 185880,
+          "title": {
+            "romaji": "Ao no Exorcist: Yosuga-hen",
+            "english": "Blue Exorcist -The Blue Night Saga-",
+            "native": "青の祓魔師 終夜篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355270,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Toilet no Mayuko-san",
+        "native": "トイレの繭子さん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b355270-Rmk3VSrspoTH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b355270-Rmk3VSrspoTH.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158931,
+          "title": {
+            "romaji": "Ao no Exorcist: Shimane Illuminati-hen",
+            "english": "Blue Exorcist -Shimane Illuminati Saga-",
+            "native": "青の祓魔師 島根啓明結社篇"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 77,
+  "actualizado": 1788566014
+}

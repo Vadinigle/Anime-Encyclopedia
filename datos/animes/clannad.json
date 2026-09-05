@@ -1,0 +1,1936 @@
+{
+  "clave": "clannad",
+  "nombre": "Clannad",
+  "descripcion": "Tomoya, Nagisa y su historia",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2167-pSDBcyc0vjej.jpg",
+  "medios": [
+    {
+      "id": 2167,
+      "title": {
+        "romaji": "CLANNAD",
+        "english": "Clannad",
+        "native": "ＣＬＡＮＮＡＤ -クラナド-"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2167-pSDBcyc0vjej.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2167-pSDBcyc0vjej.jpg"
+      }
+    },
+    {
+      "id": 4181,
+      "title": {
+        "romaji": "CLANNAD: After Story",
+        "english": "Clannad: After Story",
+        "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4181-zUKE7BZC62OF.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4181-zUKE7BZC62OF.png"
+      }
+    },
+    {
+      "id": 4059,
+      "title": {
+        "romaji": "CLANNAD: Mou Hitotsu no Sekai, Tomoyo-hen",
+        "english": "Clannad: Another World, Tomoyo Chapter",
+        "native": "ＣＬＡＮＮＡＤ もうひとつの世界 智代編"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4059-mrA0Wky7bTgz.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4059-mrA0Wky7bTgz.jpg"
+      }
+    },
+    {
+      "id": 6351,
+      "title": {
+        "romaji": "CLANNAD: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+        "english": "Clannad: Another World, Kyou Chapter",
+        "native": "ＣＬＡＮＮＡＤ ~After Story~ もうひとつの世界 杏編"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6351.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6351.jpg"
+      }
+    },
+    {
+      "id": 1723,
+      "title": {
+        "romaji": "Clannad Movie",
+        "english": "Clannad: The Motion Picture",
+        "native": "劇場版 クラナド"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1723-PzMdQPvfcxxA.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1723-PzMdQPvfcxxA.png"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 4601,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Fuuko Ibuki",
+        "native": "伊吹風子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4601-ndvzx7vVREJU.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4601-ndvzx7vVREJU.jpg"
+      },
+      "descripcion": "__Height:__ 150 cm\n\nFuko is a first year student at Tomoya's school (Technically, her age is same as Tomoya's), but she is always alone by herself, making wood carvings of starfish with a small knife to give to others as presents for her sister's upcoming wedding. Whenever Fuko sees something she thinks is incredibly cute she completely loses awareness of her surroundings, which Tomoya takes advantage of by playing a variety of pranks on her.   \n",
+      "genero": "Female",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": 1985,
+        "month": 7,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 4872,
+          "title": {
+            "romaji": "Goku Sayonara Zetsubou Sensei",
+            "english": null,
+            "native": "獄・さよなら絶望先生"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        },
+        {
+          "id": 143150,
+          "title": {
+            "romaji": "Kaginado Season 2",
+            "english": "KAGINADO Season 2",
+            "native": "かぎなど シーズン２"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4602,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kotomi Ichinose",
+        "native": "一ノ瀬ことみ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4602-L9sSmkyQhZeC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4602-L9sSmkyQhZeC.jpg"
+      },
+      "descripcion": "__Height:__ 160 cm (5'3'')\n\nKotomi is another schoolmate of [Tomoya](https://anilist.co/character/4606/Okazaki-Tomoya)'s in the same year, but, like [Kyou](https://anilist.co/character/4605/Fujibayashi-Kyou), is in a separate class from Tomoya. The \"Koto\" in Kotomi is derived from the Japanese musical stringed instrument of the same name. She is in the top ten for every subject throughout the whole country in standardized exam results—she always goes to library to read extra materials, especially books in foreign languages. Kotomi is a very quiet girl and it is quite difficult to communicate with her. In her spare time, she plays the violin, although she is very poor at it to the point of causing pain to those who hear her play.   \n\n\n",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": 1985,
+        "month": 5,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 1723,
+          "title": {
+            "romaji": "Clannad Movie",
+            "english": "Clannad: The Motion Picture",
+            "native": "劇場版 クラナド"
+          }
+        },
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        },
+        {
+          "id": 143150,
+          "title": {
+            "romaji": "Kaginado Season 2",
+            "english": "KAGINADO Season 2",
+            "native": "かぎなど シーズン２"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4605,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kyou Fujibayashi",
+        "native": "藤林杏"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4605-a0D3NeVbCz1m.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4605-a0D3NeVbCz1m.jpg"
+      },
+      "descripcion": "__Height:__ 160 cm\n\nKyou is a bad-mouthed and aggressive girl well known as a good cook. She was in Tomoya&#039;s class in their second year, and has maintained a steady friendship with Tomoya even though they are put in different classes on their third year. She is currently the class representative of her class. She has a pet baby boar named Botan. She owns a scooter and she throws various types of dictionaries towards anyone she gets furious with, especially Youhei.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": 1985,
+        "month": 9,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 1723,
+          "title": {
+            "romaji": "Clannad Movie",
+            "english": "Clannad: The Motion Picture",
+            "native": "劇場版 クラナド"
+          }
+        },
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 6351,
+          "title": {
+            "romaji": "CLANNAD: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+            "english": "Clannad: Another World, Kyou Chapter",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ もうひとつの世界 杏編"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        },
+        {
+          "id": 143150,
+          "title": {
+            "romaji": "Kaginado Season 2",
+            "english": "KAGINADO Season 2",
+            "native": "かぎなど シーズン２"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4604,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Nagisa Furukawa",
+        "native": "古河渚"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4604-YFJiWeuGSIYf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4604-YFJiWeuGSIYf.png"
+      },
+      "descripcion": "__Height:__ 155 cm\n\nNagisa is the daughter of [Akio](https://anilist.co/character/7095/Furukawa-Akio) and [Sanae Furukawa](https://anilist.co/character/6831/Furukawa-Sanae). Though she is in her senior year, Nagisa is one year older than her classmates; she had to repeat her third year again after an illness that lasted nine months. Nagisa meets [Tomoya](https://anilist.co/character/4606/Okazaki-Tomoya) on the first day of this year.  Nagisa is very timid, and has a habit of saying the names of food that she wants to eat as a way of motivating herself. She wants to reestablish the suspended Theater Club, but does not have enough self-confidence to do so.",
+      "genero": "Female",
+      "edad": "18-19",
+      "fecha_nacimiento": {
+        "year": 1984,
+        "month": 12,
+        "day": 24
+      },
+      "media": [
+        {
+          "id": 1723,
+          "title": {
+            "romaji": "Clannad Movie",
+            "english": "Clannad: The Motion Picture",
+            "native": "劇場版 クラナド"
+          }
+        },
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 4872,
+          "title": {
+            "romaji": "Goku Sayonara Zetsubou Sensei",
+            "english": null,
+            "native": "獄・さよなら絶望先生"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        },
+        {
+          "id": 143150,
+          "title": {
+            "romaji": "Kaginado Season 2",
+            "english": "KAGINADO Season 2",
+            "native": "かぎなど シーズン２"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4608,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ryou Fujibayashi",
+        "native": "藤林椋"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/4608.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4608.jpg"
+      },
+      "descripcion": "__Height:__ 159 cm\n\nRyou is Tomoya&#039;s classmate and class representative. She is the younger of the Fujibayashi twins. Unlike her older sister, she is timid and doesn&rsquo;t cook well, though she is good with other household chores. Ryou is very keen about fortune telling, but her predictions, while incredibly specific, always manage to be either somewhat skewed or extremely wrong. She aspires to become a nurse.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": 1985,
+        "month": 9,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 6351,
+          "title": {
+            "romaji": "CLANNAD: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+            "english": "Clannad: Another World, Kyou Chapter",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ もうひとつの世界 杏編"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        },
+        {
+          "id": 143150,
+          "title": {
+            "romaji": "Kaginado Season 2",
+            "english": "KAGINADO Season 2",
+            "native": "かぎなど シーズン２"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4606,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Tomoya Okazaki",
+        "native": "岡崎朋也"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4606-61r9h3WUrkA9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4606-61r9h3WUrkA9.png"
+      },
+      "descripcion": "__Height:__ 173cm\n__Class:__ 3-D\n\nTomoya Okazaki is the protagonist of Clannad. Due to his habit of always arriving late to school, skipping classes during the day, and staying out all night, he has been labeled as a delinquent.",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": 1985,
+        "month": 10,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 1723,
+          "title": {
+            "romaji": "Clannad Movie",
+            "english": "Clannad: The Motion Picture",
+            "native": "劇場版 クラナド"
+          }
+        },
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4059,
+          "title": {
+            "romaji": "CLANNAD: Mou Hitotsu no Sekai, Tomoyo-hen",
+            "english": "Clannad: Another World, Tomoyo Chapter",
+            "native": "ＣＬＡＮＮＡＤ もうひとつの世界 智代編"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 6351,
+          "title": {
+            "romaji": "CLANNAD: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+            "english": "Clannad: Another World, Kyou Chapter",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ もうひとつの世界 杏編"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        },
+        {
+          "id": 143150,
+          "title": {
+            "romaji": "Kaginado Season 2",
+            "english": "KAGINADO Season 2",
+            "native": "かぎなど シーズン２"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4603,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Tomoyo Sakagami",
+        "native": "坂上智代"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4603-pq4b7UGmmOyH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4603-pq4b7UGmmOyH.png"
+      },
+      "descripcion": "__Height:__ 161 cm\n\nTomoyo transferred to [Tomoya](https://anilist.co/character/4606/Okazaki-Tomoya)'s school as a second year student during spring. Although Tomoya is older than her, Tomoyo does not show him his due respect as a senior student. She has a younger brother named [Takafumi](https://anilist.co/character/9301/Sakagami-Takafumi).\n\nShe is rumored to be violent and to have a misconduct record for fighting. These rumors are later confirmed, when she beats up several delinquents from her previous school at a day during school hours. [Youhei](https://anilist.co/character/4610/Sunohara-Youhei) challenges Tomoyo, unable to believe what he saw. After several meetings with Tomoyo, Tomoya learns from Tomoyo that she wants to be a student council president, and later, her reason of wanting to be one.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": 1986,
+        "month": 10,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 1723,
+          "title": {
+            "romaji": "Clannad Movie",
+            "english": "Clannad: The Motion Picture",
+            "native": "劇場版 クラナド"
+          }
+        },
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4059,
+          "title": {
+            "romaji": "CLANNAD: Mou Hitotsu no Sekai, Tomoyo-hen",
+            "english": "Clannad: Another World, Tomoyo Chapter",
+            "native": "ＣＬＡＮＮＡＤ もうひとつの世界 智代編"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        },
+        {
+          "id": 143150,
+          "title": {
+            "romaji": "Kaginado Season 2",
+            "english": "KAGINADO Season 2",
+            "native": "かぎなど シーズン２"
+          }
+        }
+      ]
+    },
+    {
+      "id": 10342,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ushio Okazaki",
+        "native": "岡崎汐"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b10342-phfYzfGOw5WD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b10342-phfYzfGOw5WD.png"
+      },
+      "descripcion": "Ushio is [Tomoya](https://anilist.co/character/4606) and [Nagisa](https://anilist.co/character/4604)'s daughter. She is a well-behaved, well-loved girl who is very curious about the world around her. Tomoya notes that she does not act like other girls her age. For example, most girls would want to have dolls; however, when Tomoya goes on a trip with her, he buys her a robot with which she is fascinated. Tomoya, finding it strange that she would prefer this type of toy, learns that Ushio has some interest in robots; thus he also calls her \"boyish\". Ushio also appears to like baseball. Ushio's interest has been influenced by her grandfather who teaches her to imitate famous baseball players. She refers to [Akio](https://anilist.co/character/7095) as \"Akii\" and calls her grandmother by her given name \"Sanae\".\n\nIn the few earlier episodes of the stories, Ushio stays with [Sanae](https://anilist.co/character/6831) and Akio. During her time with her grandparents, she learns to be a baseball addict like Akio, Ushio also learns strict disciplines from Sanae not to cry unless it is in the restroom.\n\n~!As the story progresses on with Tomoya's recovery, she starts to live with her father. As she lives with her father, she later becomes friends with [Fuuko](https://anilist.co/character/4601), the sister of her mother's old teacher, [Kouko](https://anilist.co/character/6971). Due to the lack of time Tomoya can spend with Ushio, she sneaks out of her father's house to view a hospital she refers as \"pleasant.\" This is the place that Akio once took Nagisa to beg for her life.!~ \n\n~!One day, Ushio falls dangerously ill, and the doctor's conclude that she has contracted the same mysterious illness that Nagisa once had. To support his daughter, Tomoya quits his job and chooses to stay with Ushio as she unsuccessfully fights for her life. Ushio asks Tomoya to take her on a trip like the last one they went to, but he refuses, saying she needs to heal first. Tomoya finally gives in the second time she asks. As they walk towards the train station in the snow, Ushio collapses, whispers \"I love you\" to her father, before dying in his arms. \n\nIn the extra ending of Clannad: After Story, Nagisa and Ushio do not die and live happily with Tomoya.!~\n\n~!At the edge of death after failing to get away from the world, it is revealed that she is actually the Girl in the Illusionary World who had lost her memory after dying in the real world.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": 2006,
+        "month": 2,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1723,
+          "title": {
+            "romaji": "Clannad Movie",
+            "english": "Clannad: The Motion Picture",
+            "native": "劇場版 クラナド"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        },
+        {
+          "id": 143150,
+          "title": {
+            "romaji": "Kaginado Season 2",
+            "english": "KAGINADO Season 2",
+            "native": "かぎなど シーズン２"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4610,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Youhei Sunohara",
+        "native": "春原陽平"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4610-tMnUyYDlUbX1.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4610-tMnUyYDlUbX1.jpg"
+      },
+      "descripcion": "__Height:__ 167 cm (5'4\")\n__Occupation:__ Student\n\nYouhei is Tomoya's friend and also a delinquent. He entered the school on an athletic recommendation in football (soccer), but was kicked out of the soccer club after being involved in a fight. After this incident, he became lazy, becoming the only student with a higher absence rate than Tomoya. He and Tomoya are known as the \"Dirty Pair\" in school. Youhei plays a major role in some character paths. Youhei plays the most role in Sunohara siblings' arc, which centers around his relationship with his sister Mei, who tries to bring back her brother's former self.  In After Story arc,  ~!he attends Nagisa's fake graduating ceremony after being begged by Tomoya, and visits Nagisa when she is sick and pregnant. According to the scriptwriters, he has the most appearance in the School Life arc.!~  In the movie, Youhei is depicted less as a comic relief character and is more serious about life, such as when he gets a part-time job due to his family's financial situations. He also gets along with Tomoyo and the two even worked together to ease Tomoya's depression.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": 1986,
+        "month": 2,
+        "day": 17
+      },
+      "media": [
+        {
+          "id": 1723,
+          "title": {
+            "romaji": "Clannad Movie",
+            "english": "Clannad: The Motion Picture",
+            "native": "劇場版 クラナド"
+          }
+        },
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4059,
+          "title": {
+            "romaji": "CLANNAD: Mou Hitotsu no Sekai, Tomoyo-hen",
+            "english": "Clannad: Another World, Tomoyo Chapter",
+            "native": "ＣＬＡＮＮＡＤ もうひとつの世界 智代編"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 6351,
+          "title": {
+            "romaji": "CLANNAD: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+            "english": "Clannad: Another World, Kyou Chapter",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ もうひとつの世界 杏編"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        },
+        {
+          "id": 143150,
+          "title": {
+            "romaji": "Kaginado Season 2",
+            "english": "KAGINADO Season 2",
+            "native": "かぎなど シーズン２"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7095,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akio Furukawa",
+        "native": "古河秋生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7095-C1tzbivkPU0A.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7095-C1tzbivkPU0A.png"
+      },
+      "descripcion": "**Height:** 175 cm (5' 9\")\n\nAkio is Nagisa's father. \n\nAlthough he often talks and plays rough, he is kind and sympathetic. His childish side makes it easy for people to befriend him. He runs the Furukawa Bakery with his wife [Sanae](https://anilist.co/character/6831/Sanae-Furukawa). In his spare time, Akio plays baseball with children in the small park next to the bakery, and indulges in the Gundam fandom. He is often the victim of Sanae's bread, having to eat her bread in front of her while claiming that he loves it.\n\n~! \nDuring the School Life arc, Akio reveals that he was an actor in a theatrical company, but has to quit his job due to Nagisa's health. Akio replaces Youhei's role as the comic relief during the After Story arc, however, he can be serious when needed, as he often gives advice to Tomoya on what it is like to become a man. He tells the story about how Nagisa almost died due to their unintended negligence, and how her life is connected to the city after getting saved from her fever. \n!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 1723,
+          "title": {
+            "romaji": "Clannad Movie",
+            "english": "Clannad: The Motion Picture",
+            "native": "劇場版 クラナド"
+          }
+        },
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        }
+      ]
+    },
+    {
+      "id": 218071,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Botan",
+        "native": "ボタン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b218071-eG3QVTVM0ziS.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b218071-eG3QVTVM0ziS.jpg"
+      },
+      "descripcion": "Botan is Kyou's pet boar. Despite loving her owner, Botan hates and fears her twin sister Ryou, since she once tried to get her into the bath with her, which she mistook for an attempt of cooking her alive. Botan is well known for her catchphrase \"Puhi-Puhi\", the sounds that she makes.\n\n(Source: Fandom)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7286,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Garakuta no Ningyou",
+        "native": "ガラクタの人形"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/7286.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7286.jpg"
+      },
+      "descripcion": "He has no name and but narrates the situation in the illusionary world seen through Tomoya's dream while referring to himself only as \"Me\". He has his body created by the girl out of garbage so that he can be with her. The body is about half the girl's height. He can't talk as he is created without a mouth, so relies on body language to communicate with the girl. Unlike most characters in the series, he is created via CGI. (Source: Wikipedia)\n\n~! In After Story, It is revealed that the Garbage Doll is Tomoya in a world after Ushio's death, as well as [the girl](https://anilist.co/character/9193/Girl-from-the-Illusionary-World) being his daughter,  [Ushio](https://anilist.co/character/10342/Ushio-Okazaki). The last we get to see of the Garbage Doll and the girl is when the Imaginary World is supposedly destroyed. !~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36919,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Harada",
+        "native": "原田"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36919-mgX0YTEQwAvD.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36919-mgX0YTEQwAvD.jpg"
+      },
+      "descripcion": "**Height:** 158cm\n\nHarada appears in the anime as a cameo in The Girl Genius' Challenge. She was with the other members of the Choir Club when [Kotomi](https://anilist.co/character/4602/Kotomi-Ichinose) came in and saw the violin in [Rie](https://anilist.co/character/14833/Rie-Nishina)'s hands. Like everyone else, [Sugisaka](https://anilist.co/character/21507/Sugisaka) covered her ears when [Kotomi](https://anilist.co/character/4602/Kotomi-Ichinose) played and dropped down when she stopped.\n\n(Source: Clannad Wiki)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 22031,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Igarashi",
+        "native": "五十嵐"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/22031.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/22031.jpg"
+      },
+      "descripcion": "Igarashi is Misae&#039;s past love interest, who already had a girlfriend. After finding out about Misae&#039;s crush, he asks Shima to tell Misae about his relationship with another girl without hurting her. It is Igarashi&#039;s rejection of Misae&#039;s love that Shima and Misae&#039;s feeling for each other develop",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36920,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Igarashi no Kanojo",
+        "native": "五十嵐の彼女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/36920.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/36920.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 21227,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kanako",
+        "native": "河南子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21227-AZYiSI4Z6UsM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b21227-AZYiSI4Z6UsM.png"
+      },
+      "descripcion": "Kanako is a character from Tomoyo After. She had a short cameo appearance in Clannad (episode 6).    Takafumi (Tomoyo's brother) ex-girlfriend who had shown dissatisfaction from seeing her mother remarry and thus does not like to live at home. In effect, she becomes a freeloader in Tomoya's apartment. She has a foul mouth and is excessively sarcastic. Her favorite food is ice cream, and it is never revealed what her surname is.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        }
+      ]
+    },
+    {
+      "id": 16704,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Katsuki Shima",
+        "native": "志麻賀津紀"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/16704-Q88bKDK2vcee.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16704-Q88bKDK2vcee.png"
+      },
+      "descripcion": "Katsuki is a boy Misae Sagara met many years ago. She encourages Shima to recover when he is still in his wheelchair. Their meeting leads to the event in Misae&#039;s path.  ~!It turns out that he is a cat kept by the real Shima, who asked the cat to grant Misae a wish before dying.!~     Several years ago when he was still in a wheelchair he met Misae in a hospital and was encouraged by her to recover. Eventually he finds her again and wants to thank her by granting her wish.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36951,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kotarou Ichinose",
+        "native": "一ノ瀬光太郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/36951.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/36951.jpg"
+      },
+      "descripcion": "Kotomi's father.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6971,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kouko Ibuki",
+        "native": "伊吹公子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6971-EHkQK34Sriqi.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b6971-EHkQK34Sriqi.jpg"
+      },
+      "descripcion": "Kouko is Fuko&#039;s older sister. She used to be an art teacher at Tomoya&#039;s school, and she treats everyone kindly. Kouko is one of the familiar faces in the Furukawa Bakery, and Nagisa admires her very much, being her former art teacher. Currently she is engaged with Yusuke Yoshino.  \n\n~!and is the major reason why Fuko still exists in the school, despite still sleeping in the hospital.!~  \n\nIn the movie, Kouko was a drama teacher instead of an art teacher. She, along with Youhei and Tomoya helped supervise and revive the drama club for Nagisa.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1723,
+          "title": {
+            "romaji": "Clannad Movie",
+            "english": "Clannad: The Motion Picture",
+            "native": "劇場版 クラナド"
+          }
+        },
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        }
+      ]
+    },
+    {
+      "id": 86617,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Male customer",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": "Appears in episode 23.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4611,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mei Sunohara",
+        "native": "春原芽衣"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4611-YEXqF3N8hqGe.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4611-YEXqF3N8hqGe.jpg"
+      },
+      "descripcion": "Mei is Youhei's younger sister who loves Youhei as a brother and lives in the countryside. Mei is a smart girl and likes to see new things. She is a fan of Yusuke Yoshino, an older male graduate from Tomoya's school, who is a member of a band. Worried about her brother's situation, she calls Youhei, but instead of her brother, Tomoya disguised as Youhei tells her to come.  Mei's personality is a direct opposite of that of her brother, Youhei. She can be very nosy about things, like trying to further Tomoya's relationship with Nagisa by becoming their cupid angel or learning Youhei's current situation.   ",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4609,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Misae Sagara",
+        "native": "相楽美佐枝"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4609-IEH2MbDtFoBx.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4609-IEH2MbDtFoBx.jpg"
+      },
+      "descripcion": "Misae Sagara is the resident manager at Youhei&#039;s dorm. Misae is 23 years old at the time the story takes place; this is only mentioned in the visual novel. She was Hikarisaka&#039;s first female student council president when she was in high school. She achieved a full week of perfect attendance for the whole student body and she was loved by the students. Misae is friendly with the dorm students but strict when it comes to the dorm rules. She is also well-liked by the rugby members. Depending on decisions, Tomoya can change her to a violent dorm lady through his lecture, which is her original personality, who uses brute force to convince the dorm students to do their cleaning duty.      ~!Misae is waiting for her lover to return, which is actually her cat&mdash;Katsuki Shima. When Tomoya tries to pursue Misae, the cat gives Tomoya a dream about Misae&#039;s past. When Misae was still in high school, she met a boy named Katsuki Shima who insisted in granting her wish as a payment for encouraging him to recover. Misae&#039;s reluctance on having her wish granted and Katsuki&#039;s persistency eventually have their feelings for each other develop further, which also made her elected as the student council president due to her rumors with Katsuki. However, Katsuki realizes that his true identity is not Katsuki but his cat, who gave him the duty of granting Misae a wish before dying. Being conflicted with his duty and his love for Misae, he insisted her on having her wish granted. After announcing her wish on having Katsuki forever loving Misae, Katsuki obliged. Katsuki returned to his cat form, and waited for Misae like usual. Noticing the cat&#039;s fondness on her, Misae takes the cat as her pet, without knowing the cat&#039;s identity as her lover. At the town&#039;s festival, Tomoya tells Misae about her cat&#039;s true identity. !~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        }
+      ]
+    },
+    {
+      "id": 73009,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mitsui",
+        "native": "三井"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/73009.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/73009.jpg"
+      },
+      "descripcion": "Mitsui is a student of Hikarizaka Private High School. She talked with Fuko for a bit during the school's entrance ceremony before her accident. Though she remembers Fuko, she refuses to accept Fuko's starfish sculpture gift and request to go to her sister's wedding, since she is a senior and is busy with entrance exams. This hurts Fuko's feelings. In The Older and Younger Sister's Founder's Festival, she finally accepts Fuko's gift after seeing that she continued to give them out to people. She then promises to go to Fuko's sister's wedding if it was after her exams. This cheers Fuko up. In The Wind That Vanishes Into Dusk, however, Mitsui, like most people, starts to forget about Fuko. She thinks Tomoya and Nagisa were playing a trick on her when they try to make her remember Fuko. In Until the End of the Dream, she finally remembers Fuko and her sister's wedding, and came to the wedding to celebrate it.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36952,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mizue Ichinose",
+        "native": "一ノ瀬水恵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/36952.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/36952.jpg"
+      },
+      "descripcion": "Kotomi&#039;s mother.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 16054,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Naoyuki Okazaki",
+        "native": "岡崎直幸"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16054-OlxLgcJxZNHz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16054-OlxLgcJxZNHz.png"
+      },
+      "descripcion": "Naoyuki is Tomoya's father. Tomoya's mother Atsuko Okazaki died when Tomoya was young, thus leaving only himself to raise Tomoya. After the accident, Naoyuki turns to alcohol and smoking, and held frequent fights with his son. One day while arguing with his son on trivial things, he slammed Tomoya against the wall, dislocating Tomoya's right shoulder. Immediately after that, Tomoya refused to come out of his room, and by the time he finally went to the hospital, it was declared to be untreatable. Ever since then, his father has treated Tomoya more kindly, but like a stranger rather than family. This only hurt Tomoya even more, so he becomes a delinquent, as he is unable to participate in basketball activities any longer, and he avoided returning to his home early enough to be confronted with his father. Tomoya has the intention of running away from his home, as revealed from Kotomi's path.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 1723,
+          "title": {
+            "romaji": "Clannad Movie",
+            "english": "Clannad: The Motion Picture",
+            "native": "劇場版 クラナド"
+          }
+        },
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        }
+      ]
+    },
+    {
+      "id": 9193,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nazo no Shoujo",
+        "native": "謎の少女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9193-R6wiynnEko8U.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b9193-R6wiynnEko8U.jpg"
+      },
+      "descripcion": "The only human in the illusionary world, a world Tomoya dreams of. She creates a body out of garbage for an unnamed entity only referred to as, \"Me,\" so that she will not be alone in the illusionary world. She is not created by CGI, everything she does is hand-drawn.  \n\n(Source: Wikipedia)\n\n<b>After Story</b>  ~!It is revealed that the girl is [Ushio](https://anilist.co/character/10342/Ushio-Okazaki), Tomoya's daughter in a world with her father after she dies in the real world. !~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36962,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Oogami-sensei",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/36962.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/36962.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14833,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rie Nishina",
+        "native": "仁科りえ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14833-Qvt0J83hoHQg.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14833-Qvt0J83hoHQg.jpg"
+      },
+      "descripcion": "Nishina Rie has played the violin since she was young, she entered a lot of concerts, and had won many competitions. Rie was set to go study overseas, but she was then involved in an accident that weakened her grip and prevented her from playing the violin as well as she used to. Rie was lonely when she entered this school, she almost gave up her life when Koumura confronts her and teaches her chorus. Thus, Rie regained her meaning of her life, and wants to create the choir club.    In Kotomi&#039;s path, she lends Kotomi a violin, after Kotomi hears the violin from her. In the After Story, Rie works as a waitress in the same family restaurant as Nagisa.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 381762,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Saki",
+        "native": "サキ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381762-AHw6n7vnP2iQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b381762-AHw6n7vnP2iQ.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6831,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sanae Furukawa",
+        "native": "古河早苗"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6831-8jUtY6oLk5bp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b6831-8jUtY6oLk5bp.png"
+      },
+      "descripcion": "**Height:** 158 cm (5' 2\")\n\nSanae is Nagisa&#039;s mother. Normally she&#039;s very childish and a cry-baby, but when needed she can be very strong-willed and dependable. She runs the Furukawa Bakery with her husband Akio. She often tries out strange concepts to make breads that are anything but edible and never get sold. Outside of the bakery, she tutors children. She&#039;s quite proud of the way people often mistake her for Nagisa&#039;s older sister because of her youthful appearance.    ~!Sanae plays a larger role in After Story, often comes to Tomoya&#039;s aid when Nagisa is sick and needs to be accompanied, especially during Nagisa&#039;s pregnancy. Before being a baker at the Furukawa Bakery, she was a junior-high teacher, and had to quit her job due to Nagisa&#039;s health. Sanae is the mastermind behind Tomoya and Ushio&#039;s trip to the flower cape, in hope for them to reconcile. She knows Shino, Tomoya&#039;s grandmother in his father&#039;s side, although it is never revealed how they met. !~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 1723,
+          "title": {
+            "romaji": "Clannad Movie",
+            "english": "Clannad: The Motion Picture",
+            "native": "劇場版 クラナド"
+          }
+        },
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        }
+      ]
+    },
+    {
+      "id": 25964,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sasaki",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/25964.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/25964.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 25963,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sudou",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/25963.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/25963.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 21507,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sugisaka",
+        "native": "杉坂"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21507-yWnbbMtkOH24.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b21507-yWnbbMtkOH24.jpg"
+      },
+      "descripcion": "Sugisaka is a member of the chorus club. She tries to force Nagisa to give up on establishing theatre club by threatening her, but later confronts Nagisa directly, telling Rie&#039;s past, hoping she will not bother Rie&#039;s dream. Youhei does not trust Sugisaka due to her usage of threat letter, and her attempt on messing up Nagisa&#039;s shoe cabinet. In the After Story anime, Sugisaka works as a waitress in the same family restaurant as Nagisa.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 25962,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tajima",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/25962.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/25962.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 9301,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Takafumi Sakagami",
+        "native": "坂上鷹文"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9301-hn0V5GoimihZ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b9301-hn0V5GoimihZ.jpg"
+      },
+      "descripcion": "Takafumi is Tomoyo&#039;s younger brother. Just when Tomoyo&#039;s family is about to break apart, Takafumi attempted suicide in hope of reconciling the family. After he is hospitalized, Tomoyo&#039;s family reunite again for the sake of their family. He enters the same school as Tomoya one year later. He plays as a secondary character in Clannad&#039;s sequel Tomoyo After: It&#039;s a Wonderful Life.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        }
+      ]
+    },
+    {
+      "id": 33163,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Toshio Koumura",
+        "native": "幸村俊夫"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/33163.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/33163.jpg"
+      },
+      "descripcion": "Toshio Koumura is a language teacher at Tomoya's school and Tomoya's home room teacher during his first year. His age conceals his once vigorous past marked by his enthusiasm in teaching. He was friends with Kouko Ibuki three years ago.  Five years ago, he was a strict teacher in an engineering school being well known for delinquents. He changed a lot of delinquents in the engineering school for the better, but at Tomoya's school, his skill is not needed due to the prestigious image of the school. He finds Tomoya and Youhei to be odd ones and decides to change them for the better; he is the one who arranged Tomoya and Youhei to meet.  He retires one year later, prior to the end of the school segment of the story. In After Story, he returns and organizes the fake graduating ceremony intended for Nagisa, arranged by Tomoya.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        }
+      ]
+    },
+    {
+      "id": 43668,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yagi",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/43668.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/43668.jpg"
+      },
+      "descripcion": "Sanae&#039;s friend who serves as Nagisa&#039;s midwife during Ushio&#039;s birth.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14277,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuji Suehara",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14277-RXHpb6bStzkn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14277-RXHpb6bStzkn.png"
+      },
+      "descripcion": "A guy who came into the scene and tell Tomoya to stop dating Tomoyo, since their relationship made the society view them in a bad way. Second Grade Students&#039; Union Member, he known as that name and Tomoyo&#039;s path. He is the vice-president of Hikarizaka&#039;s student council.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4059,
+          "title": {
+            "romaji": "CLANNAD: Mou Hitotsu no Sekai, Tomoyo-hen",
+            "english": "Clannad: Another World, Tomoyo Chapter",
+            "native": "ＣＬＡＮＮＡＤ もうひとつの世界 智代編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 381761,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuki",
+        "native": "ユキ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381761-iobVM3Mn5tHZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b381761-iobVM3Mn5tHZ.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4607,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yukine Miyazawa",
+        "native": "宮沢有紀寧"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4607-bIYTFfyghFx0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4607-bIYTFfyghFx0.png"
+      },
+      "descripcion": "Yukine is a second year student who hangs around in the library's reference room during lunchtime. She takes care of many newcomers from other schools who also happen to be delinquents - in particular, people who knew her brother. She's very kind, and avails [Tomoya](https://anilist.co/character/4606) and [Youhei](https://anilist.co/character/4610) an instruction book for magical spells for them to try.\n\n~!Yukine is actually involved deeply with the story relating to the delinquents. Her brother is well known for being a delinquent, and this sometimes gets her into different situations involving the delinquents of the town. It is later revealed, in After Story, that her brother died and nobody knew that other than the group of people that reside on her brother's side. Yukine later helps reunite the members of opposite gangs, and they all end up being friends.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7096,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yusuke Yoshino",
+        "native": "芳野祐介"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7096-WO9iY1KKOABn.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7096-WO9iY1KKOABn.jpg"
+      },
+      "descripcion": "Yusuke is an electrician who once attended Tomoya's high school and lived as a rock musician. He is admired by Mei for his infrequent rock play. Tomoya first met Yusuke during a street light accident involving a person's car, and assists Yusuke in his work. Through Yusuke, he realizes the pain of working in society. Yusuke is engaged to Kouko, and is also one of the reasons why Fuko exists in the school.   Clannad After-Story:  ~! He plays a more prominent role in After Story, giving Tomoya a job as an assistant electrician in his company, and sometimes gives him advice. Due to Tomoya's interest in him, Yusuke tells him of his past - how he became a rock musician, rose in fame, and ended due to his loss of his original motivation, along with stress and drugs. After being rehabilitated, no one wanted him anymore, except for Kouko, who had encouraged him to become a rock musician during his high school days. Throwing away his past, he now works as an electrician. Realizing that there are people who still love his music through Tomoya, Yusuke decides to create another music CD that sings his love for the city.  !~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 1723,
+          "title": {
+            "romaji": "Clannad Movie",
+            "english": "Clannad: The Motion Picture",
+            "native": "劇場版 クラナド"
+          }
+        },
+        {
+          "id": 2167,
+          "title": {
+            "romaji": "CLANNAD",
+            "english": "Clannad",
+            "native": "ＣＬＡＮＮＡＤ -クラナド-"
+          }
+        },
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        },
+        {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO",
+            "native": "かぎなど"
+          }
+        },
+        {
+          "id": 143150,
+          "title": {
+            "romaji": "Kaginado Season 2",
+            "english": "KAGINADO Season 2",
+            "native": "かぎなど シーズン２"
+          }
+        }
+      ]
+    },
+    {
+      "id": 28212,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuu",
+        "native": "勇"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/28212.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/28212.jpg"
+      },
+      "descripcion": "Yū only appears in Yukine&#039;s path. Wanting to locate his sister, who is a delinquent, he meets up with Yukine. His mother escorts him later, leaving bad remarks on Tomoya, Youhei and Yukine.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4181,
+          "title": {
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story",
+            "native": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 42,
+  "actualizado": 1788566706
+}

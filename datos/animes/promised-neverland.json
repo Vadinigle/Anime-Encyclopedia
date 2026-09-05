@@ -1,0 +1,1075 @@
+{
+  "clave": "promised-neverland",
+  "nombre": "The Promised Neverland",
+  "descripcion": "Yakusoku no Neverland",
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Sobrenatural"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-8UR7r9MNVpz2.jpg",
+  "medios": [
+    {
+      "id": 101759,
+      "title": {
+        "romaji": "Yakusoku no Neverland",
+        "english": "The Promised Neverland",
+        "native": "約束のネバーランド"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-8UR7r9MNVpz2.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101759-8UR7r9MNVpz2.jpg"
+      }
+    },
+    {
+      "id": 108725,
+      "title": {
+        "romaji": "Yakusoku no Neverland 2",
+        "english": "The Promised Neverland Season 2",
+        "native": "約束のネバーランド2"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108725-ZKivuyr4Jtc9.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108725-ZKivuyr4Jtc9.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 121725,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Emma",
+        "native": "エマ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121725-LQciVJOjnMVh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b121725-LQciVJOjnMVh.png"
+      },
+      "descripcion": "__Height:__ 145 cm\n__Farm Identifier:__ 63194\n\nEmma acts as an older sister to the other children and loves her family very intensely. She is sweet, heroic, caring, and has a big heart. She can also be naive and reckless, and doesn't hesitate to put herself at risk to ensure the safety of the group. The other kids describe her as having monster reflexes and an astounding ability to learn, which enables her to think fast in difficult situations and makes her a very good strategist. She could be considered a beacon of hope for the rest of the children.\n",
+      "genero": "Female",
+      "edad": "11-15",
+      "fecha_nacimiento": {
+        "year": 2034,
+        "month": 8,
+        "day": 22
+      },
+      "media": [
+        {
+          "id": 101759,
+          "title": {
+            "romaji": "Yakusoku no Neverland",
+            "english": "The Promised Neverland",
+            "native": "約束のネバーランド"
+          }
+        },
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 121700,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Norman",
+        "native": "ノーマン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121700-CRwKIlcBcjbv.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b121700-CRwKIlcBcjbv.jpg"
+      },
+      "descripcion": "__Height:__ 145 cm\n__Farm Identifier:__ 22194\n\nNorman seems to be logical, well-meaning, and devoted, with a slightly naive side. He can easily plan his actions in advance and he anticipates on other's actions. He is one of the top 3 ranking orphans, along with [Emma](https://anilist.co/character/121725/Emma) and [Ray](https://anilist.co/character/121724/Ray). Norman loves Emma and he is helpful and loyal towards her.",
+      "genero": "Male",
+      "edad": "11",
+      "fecha_nacimiento": {
+        "year": 2034,
+        "month": 3,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 101759,
+          "title": {
+            "romaji": "Yakusoku no Neverland",
+            "english": "The Promised Neverland",
+            "native": "約束のネバーランド"
+          }
+        },
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 121724,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ray",
+        "native": "レイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121724-SJTdODjeO7e6.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b121724-SJTdODjeO7e6.jpg"
+      },
+      "descripcion": "__Height:__ 150 cm\n__Farm Identifier:__ 81194\n\nAs one of the three perfect students at the orphanage, Ray is very logical, smart, cunning, extremely patient and is usually shown to read books by himself. Although he is extremely book smart he says that he never liked to study. According to data obtained by sister [Krone](https://anilist.co/character/121702/Krone), his weakness is that he gives up easily. \n\n",
+      "genero": "Male",
+      "edad": "11",
+      "fecha_nacimiento": {
+        "year": 2034,
+        "month": 1,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 101759,
+          "title": {
+            "romaji": "Yakusoku no Neverland",
+            "english": "The Promised Neverland",
+            "native": "約束のネバーランド"
+          }
+        },
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 199115,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Alicia",
+        "native": "アリシア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b199115-IDyDlyokeLHw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b199115-IDyDlyokeLHw.png"
+      },
+      "descripcion": "__Height:__ 109cm\n__Farm Identifier:__ 71394 (Grace Field House)\n\nAlicia is a cheerful, extroverted young girl with a tomboyish personality. She can also be sneaky, and knows how to stand up for herself. She is shown to have a strong bond with [Jemima](https://anilist.co/character/199114/Jemima).\n",
+      "genero": "Female",
+      "edad": "5",
+      "fecha_nacimiento": {
+        "year": 2036,
+        "month": 9,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126504,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Anna",
+        "native": "アンナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n126504-xHMVYY9uEfkh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n126504-xHMVYY9uEfkh.png"
+      },
+      "descripcion": "__Age (2045):__ 9 yo\n__Farm Identifier:__ 48194 (Grace Field House)\n__D.O.B:__ 2036/4/25\n__Height (2045-2049):__ 135 - 162 cm \n\nJust like every other orphans of Grace Field, she wears the standard Grace Field Orphanage uniform. Anna grows to be a surprisingly big boned, tall girl. She has blonde hair tied into twin braids. \n~!Later, she cuts her hair in order to help with the escape.!~~!During her time at the B06-32 shelter, she spends a lot of time studying medicine in order to help her family.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 101759,
+          "title": {
+            "romaji": "Yakusoku no Neverland",
+            "english": "The Promised Neverland",
+            "native": "約束のネバーランド"
+          }
+        },
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 192866,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Barbara",
+        "native": "バーバラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b192866-Cqo4XXcYT8cR.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b192866-Cqo4XXcYT8cR.jpg"
+      },
+      "descripcion": "Barbara is a former Lambda 7214 (aka Λ7214) experiment. She eats a lot, and as a result of the experiments that were done on her she has inherited superhuman strength. At age 12, she was shipped from Goodwill Ridge to Lambda along with her close friend [Cislo](https://anilist.co/character/192864/Cislo). Goodwill is one of the four premium farms.\n\n~!She likes to eat demon meat because she is \"pissed off\" that humans are the only ones getting eaten. It seems to be safe to do, as she shows no symptoms of it affecting her.!~",
+      "genero": "Female",
+      "edad": "16-18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 199113,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Christie",
+        "native": "クリスティ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b199113-o58sBqMb1m3h.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b199113-o58sBqMb1m3h.png"
+      },
+      "descripcion": "__Farm Identifier:__ 70394 (Grace Field House)\n__Height (2045):__ 103 cm \n\nChris is a curious young boy, who is very cheerful and outspoken.",
+      "genero": "Male",
+      "edad": "5",
+      "fecha_nacimiento": {
+        "year": 2040,
+        "month": 5,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 192864,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cislo",
+        "native": "シスロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b192864-BHyTEeQZAu7o.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b192864-BHyTEeQZAu7o.jpg"
+      },
+      "descripcion": "Cislo is a former Lambda 7214 (aka Λ7214) experiment. His hobby is weight training, despite his looks he is easily moved to tears and he loves boss(Norman) . He was shipped to Lambda at age 12/13 from Goodwill Ridge, along with his close friend Barbara. Goodwill is one of the four premium farms.",
+      "genero": "Male",
+      "edad": "17-19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 129785,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Conny",
+        "native": "コニー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129785-7MHIm3Cp2HuM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b129785-7MHIm3Cp2HuM.jpg"
+      },
+      "descripcion": "__Height:__ 115cm\n__Farm Identifier:__ 48294\n\nConny is nice and lovely towards Emma, Don and the other orphans. She always carried her stuffed rabbit Little Bernie around with her. Her intellect level seemed to be average for her age.",
+      "genero": "Female",
+      "edad": "6",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 101759,
+          "title": {
+            "romaji": "Yakusoku no Neverland",
+            "english": "The Promised Neverland",
+            "native": "約束のネバーランド"
+          }
+        }
+      ]
+    },
+    {
+      "id": 199118,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dominic",
+        "native": "ドミニク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b199118-FEIoj5A6GSxW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b199118-FEIoj5A6GSxW.png"
+      },
+      "descripcion": "__Farm Identifier:__ 07294 (Grace Field House)\n__Height (2045-2049):__ 119 - 147 cm \n\nDominic is an energetic and rather muscular young boy. He is very brave as well as caring towards others, and is willing to risk much to make sure everyone is safe.",
+      "genero": "Male",
+      "edad": "6",
+      "fecha_nacimiento": {
+        "year": 2039,
+        "month": 2,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126454,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Don",
+        "native": "ドン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126454-TI3LXk2oN7WV.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126454-TI3LXk2oN7WV.jpg"
+      },
+      "descripcion": "__Age (2045):__ 10 yo\n__Farm Identifier:__ 16194\n__D.O.B:__ 2035/7/4\n__Height (2045-2049):__ 155 - 174 cm\n\nDon has dark skin and a tall and slender appearance. He has short, messy black hair with an undercut and brown eyes. He wears the standard white uniform. Like [Emma](https://anilist.co/character/121725/Emma), Don cares deeply about his siblings. Don is portrayed as a cheerful and slightly careless boy, however, he too is fairly intelligent, coming around 5th place in the everyday test, after [Gilda](https://anilist.co/character/126455/Gilda). He also has talents in pick pocketing. His physical ability is also fairly strong.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 101759,
+          "title": {
+            "romaji": "Yakusoku no Neverland",
+            "english": "The Promised Neverland",
+            "native": "約束のネバーランド"
+          }
+        },
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126455,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gilda",
+        "native": "ギルダ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126455-ki6wpr5Un4fF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126455-ki6wpr5Un4fF.png"
+      },
+      "descripcion": "__Farm Identifier:__ 65194\n__Height (2045-2049):__ 138 - 155 cm\n\nGilda has short olive drab hair kept in a Chinese bob hairstyle and wears circular-lensed glasses. Gilda is an intuitive young girl. She also has a caring personality. She seems to be an introvert, however she also has her moments of bravery. She can also be quite threatening.",
+      "genero": "Female",
+      "edad": "10",
+      "fecha_nacimiento": {
+        "year": 2035,
+        "month": 5,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 101759,
+          "title": {
+            "romaji": "Yakusoku no Neverland",
+            "english": "The Promised Neverland",
+            "native": "約束のネバーランド"
+          }
+        },
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 121701,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Isabella",
+        "native": "イザベラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121701-hP5hanKRUH9u.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b121701-hP5hanKRUH9u.png"
+      },
+      "descripcion": "__Height:__ 170 cm\n__Farm Identifier:__ 73584\n\nIsabella worked as a Mama at Grace Field House, taking care of the orphans that reside within.",
+      "genero": "Female",
+      "edad": "31",
+      "fecha_nacimiento": {
+        "year": 2014,
+        "month": 9,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 101759,
+          "title": {
+            "romaji": "Yakusoku no Neverland",
+            "english": "The Promised Neverland",
+            "native": "約束のネバーランド"
+          }
+        },
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 199114,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jemima",
+        "native": "ジェミマ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b199114-dyn7IeoolRi1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b199114-dyn7IeoolRi1.png"
+      },
+      "descripcion": "__Age (2045):__ 5 yo\n__Farm Identifier:__ 31394 (Grace Field House)\n__Height (2045-2049):__ 107 - 134 cm \n\nJemima is cheerful and well-behaved. Though, she can display acts of mischievousness. She is seen to have a strong bond with [Alicia](https://anilist.co/character/199115).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": 2040,
+        "month": 7,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 101759,
+          "title": {
+            "romaji": "Yakusoku no Neverland",
+            "english": "The Promised Neverland",
+            "native": "約束のネバーランド"
+          }
+        },
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 121702,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Krone",
+        "native": "クローネ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121702-yOmK9dyvOvVL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b121702-yOmK9dyvOvVL.png"
+      },
+      "descripcion": "Sister Krone runs the Grace Field House orphanage with [Madam Isabella](https://anilist.co/character/121701/Isabella). She has the desire to usurp the position of \"Mama\" from Isabella.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 101759,
+          "title": {
+            "romaji": "Yakusoku no Neverland",
+            "english": "The Promised Neverland",
+            "native": "約束のネバーランド"
+          }
+        }
+      ]
+    },
+    {
+      "id": 129783,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lannion",
+        "native": "ラニオン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129783-6KAMdcOzkmCv.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b129783-6KAMdcOzkmCv.jpg"
+      },
+      "descripcion": "__Age (2045):__ 7 yo\n__Farm Identifier:__ 54294 (Grace Field House)\n__D.O.B:__ 2038/4/28\n__Height (2045-2049):__ 125 - 144 cm \n\nLani is a mischievous and resourceful boy, who enjoys pulling pranks with his best friend, [Thoma](https://anilist.co/character/129784/Thoma). He is a bit cowardly, but also blunt and straightforward.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 101759,
+          "title": {
+            "romaji": "Yakusoku no Neverland",
+            "english": "The Promised Neverland",
+            "native": "約束のネバーランド"
+          }
+        },
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 198999,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Leslie",
+        "native": "レスリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b198999-bzNwD1iHZNiz.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b198999-bzNwD1iHZNiz.jpg"
+      },
+      "descripcion": "__Farm Identifier:__ 71584\n\nLeslie was Isabella's childhood friend and is shown to be very kind and loves music.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 101759,
+          "title": {
+            "romaji": "Yakusoku no Neverland",
+            "english": "The Promised Neverland",
+            "native": "約束のネバーランド"
+          }
+        }
+      ]
+    },
+    {
+      "id": 199117,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mark",
+        "native": "マルク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b199117-hf0KR44q2XkP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b199117-hf0KR44q2XkP.png"
+      },
+      "descripcion": "__Age (2045):__ 5 yo\n__Farm Identifier:__ 79294\n__D.O.B:__ 2040/1/8\n__Height (2045-2049):__ 115 - 136 cm",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126498,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mujika",
+        "native": "ムジカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126498-w5eif6lqQLoC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126498-w5eif6lqQLoC.jpg"
+      },
+      "descripcion": "Mujika (or Musica) is a demon descent traveling in the forest outside the Grace Field House.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 129805,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nat",
+        "native": "ナット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129805-rUUS2wWGIAnH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b129805-rUUS2wWGIAnH.png"
+      },
+      "descripcion": "__Age (2045):__ 9 yo\n__Farm Identifier:__ 48194 (Grace Field House)\n__D.O.B:__ 2036/12/18\n__Height (2045-2049):__ 133 - 156 cm\n\nNat is a rather frail boy, with brown eyes and a tall nose line (which he takes great pride in).  He wears the standard orphanage uniform. Even though he can be easily intimidated, he does have his moments of bravery.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101759,
+          "title": {
+            "romaji": "Yakusoku no Neverland",
+            "english": "The Promised Neverland",
+            "native": "約束のネバーランド"
+          }
+        },
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126495,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Peter Ratri",
+        "native": "ピーターラートリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126495-rOG3lcE3GBfD.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126495-rOG3lcE3GBfD.jpg"
+      },
+      "descripcion": "Peter Ratri is the 36th and current head of the famous Ratri Clan and the younger brother of [James Ratri](https://anilist.co/character/126494/Ratri-James).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126475,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Phil",
+        "native": "フィル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126475-EqxsU9P6ajKE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126475-EqxsU9P6ajKE.jpg"
+      },
+      "descripcion": "__Height:__ 100 cm\n__Farm Identifier:__ 34394 (Grace Field House)\n__D.O.B:__ 2041\n\nPhil is very active and can always be seen running around.\n\n~!He is also shown to be very mature and intelligent for his age, even suspecting something was wrong when [Emma](https://anilist.co/character/121725/Emma) and the other older orphans were trying to find out ways to escape.!~",
+      "genero": "Male",
+      "edad": "4",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 31
+      },
+      "media": [
+        {
+          "id": 101759,
+          "title": {
+            "romaji": "Yakusoku no Neverland",
+            "english": "The Promised Neverland",
+            "native": "約束のネバーランド"
+          }
+        },
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 199116,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rossi",
+        "native": "ロッシー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b199116-njqloLk0EMXO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b199116-njqloLk0EMXO.png"
+      },
+      "descripcion": "__Age (2045):__ 5 yo\n__Farm Identifier:__ 50394 (Grace Field House)\n__D.O.B:__ 2040/4/14\n__Height (2045-2049):__ 108 - 130 cm \n\nRossi is a delicate and prudent boy, but he can also be quite mischievous.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136463,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sobo",
+        "native": "祖母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136463-CHTYDFuQnr7Q.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136463-CHTYDFuQnr7Q.jpg"
+      },
+      "descripcion": "Grandmother is a high-ranking human and once worked as [Isabella's](https://anilist.co/character/121701/Isabella) Mama although she treated her more as a pawn than a human. \n\n~!On January 27, 2046, it was revealed that all of Isabella's mistakes and responsibilities, as in letting the children escape, were placed on Grandma Sarah. Although Isabella wasn't able to manage her products, Sarah wasn't able to manage Isabella. As a result, Sarah was shipped out to be served at the upcoming Tifari in order to make up for the escapees. Isabella took the role of Grandmother after that.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101759,
+          "title": {
+            "romaji": "Yakusoku no Neverland",
+            "english": "The Promised Neverland",
+            "native": "約束のネバーランド"
+          }
+        },
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126497,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sonju",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/126497-tzUtqWwy3Mkf.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/126497-tzUtqWwy3Mkf.jpg"
+      },
+      "descripcion": "__Age:__ At-Least 1000\n__Hair Color:__ Red\n__Eye Color:__ Black\n\nSonju (or Sung-Joo) is a demon that lives outside Grace Field House. ~!He saved Ray just before he was captured by his demon-hound pursuers. He and Mujika were suspected to be demons by Ray.\nSonju believes in the same religion as Mujika, hence is strongly against the practice of eating humans. However, Sonju remained reluctant and was eager to resume his intention of eating humans once their population increased.!~ Sonju retains a stoic and composed personality, as he sometimes refrained himself from interacting with the orphans, and during the times when he does, he was known to intimidate them due to his appearance. Nevertheless, Sonju on a certain degree still care for the orphans' safety and have faith in them being able to break the promise.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 129784,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Thoma",
+        "native": "トーマ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129784-fn5VoMYAqCsk.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b129784-fn5VoMYAqCsk.jpg"
+      },
+      "descripcion": "__Height:__ 123 cm\n__Farm Identifier:__ 55294 (Grace Field House)\n\nThoma is a resourceful and mischievous boy, who enjoys pulling pranks alongside his best friend [Lani](https://anilist.co/character/129783). He is blunt, but can also be quite cowardly.\n",
+      "genero": "Male",
+      "edad": "7",
+      "fecha_nacimiento": {
+        "year": 2038,
+        "month": 8,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 101759,
+          "title": {
+            "romaji": "Yakusoku no Neverland",
+            "english": "The Promised Neverland",
+            "native": "約束のネバーランド"
+          }
+        },
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 192865,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Vincent",
+        "native": "ヴィンセント"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b192865-ZVapJOXSrXkv.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b192865-ZVapJOXSrXkv.jpg"
+      },
+      "descripcion": "Vincent is a previous Lambda 7214 (aka Λ7214) experiment. He was born in Glory bell. He is known to have medical knowledge and is very fashionable. Also he can make snacks , cloths and weapons. He loves boss(aka Norman).",
+      "genero": "Male",
+      "edad": "18-20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 208450,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Vylk",
+        "native": "ヴィルク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b208450-QS7iG01kAHjk.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b208450-QS7iG01kAHjk.jpg"
+      },
+      "descripcion": "A blind demon.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 199112,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yvette",
+        "native": "イベット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b199112-xyVfJn8irWMX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b199112-xyVfJn8irWMX.png"
+      },
+      "descripcion": "__Farm Identifier:__ 59294\n__Height:__ 110 - 133 cm\n\nYvette is a smart and observant girl who is very artistic. She carries a pencil and a block with her.\n~!Once they escape, she helps to collect food and draws maps when asked.!~",
+      "genero": "Female",
+      "edad": "5-",
+      "fecha_nacimiento": {
+        "year": 2040,
+        "month": 12,
+        "day": 31
+      },
+      "media": [
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169006,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zazie",
+        "native": "ザジー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169006-wVXUuayBDq9q.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169006-wVXUuayBDq9q.jpg"
+      },
+      "descripcion": "Zazie is a former Λ7214 experiment. He is the strongest among the humans. He gets mad when he doesn't wear the paper bag. He loves his boss, Norman.",
+      "genero": "Male",
+      "edad": "5",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126494,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "James Ratri",
+        "native": "ジェイムズ・ラートリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126494-WL5id6tHPrJZ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126494-WL5id6tHPrJZ.jpg"
+      },
+      "descripcion": "James Latley is the 35th descendant of the Latley Clan who sealed the promise between humans and demons 1000 years ago. After seeing the horrors that humans has been through, he decided to give them a chance to live.\n\nHe put several codes inside his books so the kids could escape the plantations.\n\n~!The elevator inside Golden Pond is not working anymore, so he said that others can be used, including the one in the Grace Field house. He was betrayed by a person, and so, the Village is not a safe place anymore. The last recording that Emma and Lucas found said that it was the 20th of March, 2031. He is presumed dead.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108725,
+          "title": {
+            "romaji": "Yakusoku no Neverland 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "約束のネバーランド2"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 31,
+  "actualizado": 1788566871
+}

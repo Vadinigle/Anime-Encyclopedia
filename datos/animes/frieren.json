@@ -1,0 +1,5147 @@
+{
+  "clave": "frieren",
+  "nombre": "Frieren: Beyond Journey's End",
+  "descripcion": "Sousou no Frieren",
+  "generos": [
+    "Fantasía",
+    "Drama",
+    "Aventura"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-qQTzQnEJJ3oB.jpg",
+  "medios": [
+    {
+      "id": 154587,
+      "title": {
+        "romaji": "Sousou no Frieren",
+        "english": "Frieren: Beyond Journey’s End",
+        "native": "葬送のフリーレン"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-qQTzQnEJJ3oB.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-qQTzQnEJJ3oB.jpg"
+      }
+    },
+    {
+      "id": 182255,
+      "title": {
+        "romaji": "Sousou no Frieren 2nd Season",
+        "english": "Frieren: Beyond Journey’s End Season 2",
+        "native": "葬送のフリーレン 第2期"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182255-butzrqd4I0aC.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182255-butzrqd4I0aC.jpg"
+      }
+    },
+    {
+      "id": 209939,
+      "title": {
+        "romaji": "Sousou no Frieren 3rd Season",
+        "english": null,
+        "native": "葬送のフリーレン 第3期"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209939-g2Njkml1rheG.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209939-g2Njkml1rheG.jpg"
+      }
+    },
+    {
+      "id": 170068,
+      "title": {
+        "romaji": "Sousou no Frieren: ●● no Mahou",
+        "english": null,
+        "native": "葬送のフリーレン ～●●の魔法～"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170068-ijY3tCP8KoWP.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170068-ijY3tCP8KoWP.jpg"
+      }
+    },
+    {
+      "id": 189513,
+      "title": {
+        "romaji": "Sousou no Frieren: ●● no Mahou Part 2",
+        "english": null,
+        "native": "葬送のフリーレン ～●●の魔法～ 2クール"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189513-1R9Sryve0K53.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189513-1R9Sryve0K53.png"
+      }
+    },
+    {
+      "id": 206425,
+      "title": {
+        "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
+        "english": null,
+        "native": "葬送のフリーレン ～●●の魔法～ 3クール"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206425-WOwXsfDbHZwb.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206425-WOwXsfDbHZwb.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 183965,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Fern",
+        "native": "フェルン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b183965-uGFohBjlFoTp.png"
+      },
+      "descripcion": "Fern is the young mage apprentice of [Frieren](https://anilist.co/character/176754/Frieren) and accompanies her as a member of her party. She is an orphaned war refugee originally from the Southern Lands, later adopted by  [Heiter](https://anilist.co/character/184310/Heiter) and placed under Frieren's care.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 170068,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        },
+        {
+          "id": 189513,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 2",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 2クール"
+          }
+        },
+        {
+          "id": 206425,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 3クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 176754,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Frieren",
+        "native": "フリーレン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b176754-PCnpqIOkjhFk.png"
+      },
+      "descripcion": "Frieren is the protagonist of _Sousou no Frieren_ and [Fern](https://anilist.co/character/183965)'s master. She was the Mage of the Hero Party and traveled alongside Hero [Himmel](https://anilist.co/character/184311/Himmel), Warrior [Eisen](https://anilist.co/character/184312/Eisen), and Priest [Heiter](https://anilist.co/character/184310/Heiter) in a 10-year journey to defeat the Demon King. \n\nShe was a magic prodigy at a young age, with an impressive quantity of mana, which caught the interest of [Flamme](https://anilist.co/character/219733/Flamme), a human wizard who taught her everything there is to know about magic and mana control until she passed away. Frieren persists in collecting magic knowledge no matter how trivial it may be.",
+      "genero": "Female",
+      "edad": "1000+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 169811,
+          "title": {
+            "romaji": "Yuusha",
+            "english": "The Brave",
+            "native": "勇者"
+          }
+        },
+        {
+          "id": 170068,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        },
+        {
+          "id": 189513,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 2",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 2クール"
+          }
+        },
+        {
+          "id": 206425,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 3クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184313,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Stark",
+        "native": "シュタルク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184313-CQl6GSt4RSny.jpg"
+      },
+      "descripcion": "Stark is a warrior who fights alongside [Frieren](https://anilist.co/character/176754/Frieren) and [Fern](https://anilist.co/character/183965/Fern). After his village was attacked by demons, he fled and became [Eisen](https://anilist.co/character/184312/Eisen)'s apprentice. At Eisen's instruction, he joined Frieren's party as their vanguard.",
+      "genero": "Male",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 170068,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        },
+        {
+          "id": 189513,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 2",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 2クール"
+          }
+        },
+        {
+          "id": 206425,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 3クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318148,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akuma no Ko",
+        "native": "悪魔の子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b318148-u49X2U8E5jS6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b318148-u49X2U8E5jS6.png"
+      },
+      "descripcion": "A young demon girl that ate the daughter of two villagers in a town the Hero Party visited. She called for \"mother\" when Himmel attempted to kill her, and the village chief takes her in as his own family and tries to give her a chance to atone.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 219110,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aura",
+        "native": "アウラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b219110-LEB5T4oG0gel.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b219110-LEB5T4oG0gel.png"
+      },
+      "descripcion": "Aura is one of the Seven Sages of Destruction directly serving the Demon King. \n\n~!She later was killed by [Frieren](https://anilist.co/character/176754/Frieren) after being commanded to kill herself using her own Auserlese.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 325587,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Blei",
+        "native": "ブレイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b325587-P0uMjKW28Lue.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b325587-P0uMjKW28Lue.png"
+      },
+      "descripcion": "Participant in the examination for the title of mage first class.\n~!Sacrificed himself to help Dunst deliver important information to his comrades in the lower level of the dungeon.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 331423,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dach Hakushaku",
+        "native": "ダッハ伯爵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331423-D1WkXFsj0Rdk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331423-D1WkXFsj0Rdk.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 246058,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Denken",
+        "native": "デンケン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246058-FOtuSIUBQ4WJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b246058-FOtuSIUBQ4WJ.png"
+      },
+      "descripcion": "Denken is an imperial mage of the second-class. In his youth he belonged to an army but became an imperial mage after winning a power struggle. Often calm and calculating, however he still has a fire burning within despite his old age. He saw [Frieren](https://anilist.co/character/176754/Frieren) as his motivation to become a mage. ~!Becomes a first-class mage after the examination.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        },
+        {
+          "id": 189513,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 2",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316987,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Draht",
+        "native": "ドラート"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316987-QDp2A6SoHsee.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316987-QDp2A6SoHsee.png"
+      },
+      "descripcion": "Draht was a demon who served [Aura the Guillotine](https://anilist.co/character/219110/Aura).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327560,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dünste",
+        "native": "ドゥンスト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327560-WvAkF0ZoXLSD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327560-WvAkF0ZoXLSD.png"
+      },
+      "descripcion": "Participant in the First Class Mage Exam. \n\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315929,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Edel",
+        "native": "エーデル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315929-mJfCA4CLVxJZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315929-mJfCA4CLVxJZ.png"
+      },
+      "descripcion": "Edel is a second-class mage in the Seventeenth Party, alongside Blei and Dunst, of the First Class Mage Exam. She specializes in Hypnosis Magic.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 321718,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ehre",
+        "native": "エーレ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321718-MV9ZCxtNdOpJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b321718-MV9ZCxtNdOpJ.png"
+      },
+      "descripcion": "Second-class mage in the Eighth Party, alongside Wirbel and Scharf, in the First Class Mage Exam. Fern feels that she is the strongest within both the Fourth and Eighth parties.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184312,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eisen",
+        "native": "アイゼン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184312-kxd5H6iOHIq4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184312-kxd5H6iOHIq4.png"
+      },
+      "descripcion": "Dwarf warrior who was a part of the Hero's party, later became a mentor to [Stark](https://anilist.co/character/184313/Stark).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 169811,
+          "title": {
+            "romaji": "Yuusha",
+            "english": "The Brave",
+            "native": "勇者"
+          }
+        },
+        {
+          "id": 170068,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        },
+        {
+          "id": 189513,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 2",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 2クール"
+          }
+        },
+        {
+          "id": 206425,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 3クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 325588,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Falsch",
+        "native": "ファルシュ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b325588-sjv4RqiBH9Ar.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b325588-sjv4RqiBH9Ar.png"
+      },
+      "descripcion": "First class mage. Acts as an observer in magical exams.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 331439,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fass",
+        "native": "ファス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331439-meDK5YbPGLuQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331439-meDK5YbPGLuQ.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 219733,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Flamme",
+        "native": "フランメ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b219733-FgXseEhMdDE9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b219733-FgXseEhMdDE9.png"
+      },
+      "descripcion": "She lived a millennium before the story and was [Frieren](https://anilist.co/character/176754/Frieren)'s teacher.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326826,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gabel",
+        "native": "ガーベル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326826-KhpnVx4CE6Oc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326826-KhpnVx4CE6Oc.png"
+      },
+      "descripcion": "Servant of [Lord Orden](https://anilist.co/character/326825).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 331424,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gehen",
+        "native": "ゲーエン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331424-kn1wRDukHtfY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331424-kn1wRDukHtfY.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 246055,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Genau",
+        "native": "ゲナウ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246055-3eoVNiZu3bTy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b246055-3eoVNiZu3bTy.png"
+      },
+      "descripcion": "First-class mage who was a proctor for the first examination.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318147,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Granat Hakushaku",
+        "native": "グラナト伯爵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b318147-BcJTRcTqSIYy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b318147-BcJTRcTqSIYy.png"
+      },
+      "descripcion": "Ruler of Graf Granat's Domain, a fortified city in the Northern Lands constantly at war with Aura.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184310,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Heiter",
+        "native": "ハイター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184310-tiXvrq4FINXP.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184310-tiXvrq4FINXP.jpg"
+      },
+      "descripcion": "A priest who is a part of the Hero's party. He later took care of [Fern](https://anilist.co/character/183965/Fern) until [Frieren](https://anilist.co/character/176754/Frieren) arrived.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 169811,
+          "title": {
+            "romaji": "Yuusha",
+            "english": "The Brave",
+            "native": "勇者"
+          }
+        },
+        {
+          "id": 170068,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        },
+        {
+          "id": 189513,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 2",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 2クール"
+          }
+        },
+        {
+          "id": 206425,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 3クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 393042,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hermon",
+        "native": "へモン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b393042-gJUh80660HzR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b393042-gJUh80660HzR.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184311,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Himmel",
+        "native": "ヒンメル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-wQFySqYXEqf1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184311-wQFySqYXEqf1.png"
+      },
+      "descripcion": "Hero and Leader of the party that defeated the Demon King, and a self-proclaimed handsome narcissist. He cares about his friends and can't help but help those in need. He had a great influence on [Frieren](https://anilist.co/character/176754/Frieren), with whom he had adventures for 10 years.\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 169811,
+          "title": {
+            "romaji": "Yuusha",
+            "english": "The Brave",
+            "native": "勇者"
+          }
+        },
+        {
+          "id": 170068,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        },
+        {
+          "id": 189513,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 2",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 2クール"
+          }
+        },
+        {
+          "id": 206425,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 3クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293728,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kanne",
+        "native": "カンネ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293728-0ylNRoIOORcD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293728-0ylNRoIOORcD.png"
+      },
+      "descripcion": "Kanne is a third-class mage who graduated from the Academy of Magic. She is childhood friends and classmates with [Lawine](https://anilist.co/character/293727), and the two entered the first-class mage exam together. In the first stage of the exam, she was paired with Lawine and [Frieren](https://anilist.co/character/176754).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 219732,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kraft",
+        "native": "クラフト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b219732-GKmSY9oTm6cR.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b219732-GKmSY9oTm6cR.jpg"
+      },
+      "descripcion": "He is an elf that Frieren's group meets in a cabin in the mountains. He's a monk and believed to be the last elf alive until meeting Frieren.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 321719,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Land",
+        "native": "ラント"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321719-GUHhBOb81K9H.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b321719-GUHhBOb81K9H.png"
+      },
+      "descripcion": "Second-class mage in the Fourth Party of the First Class Mage Examination. He specializes in illusion magic.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 189513,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 2",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 246056,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Laufen",
+        "native": "ラオフェン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246056-erQexxLtGHVU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b246056-erQexxLtGHVU.png"
+      },
+      "descripcion": "A third-class mage. Specializes in magic that makes her move at high speed. Treats [Denken](https://anilist.co/character/246058/Denken) as her grandfather.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 189513,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 2",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293727,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lawine",
+        "native": "ラヴィーネ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293727-Jaf2eiNfINWx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293727-Jaf2eiNfINWx.png"
+      },
+      "descripcion": "Lawine is a third-class mage in the Second Party of the First Class Mage Examinations. She specializes in manipulating ice.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327299,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lernen",
+        "native": "レルネン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327299-NgvxpyNecgoZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327299-NgvxpyNecgoZ.png"
+      },
+      "descripcion": "An old friend of Denken. First Class Mage and Serie's apprentice. Rarely acts directly, preferring stealth.\n~!Helped in the extraction and transfer of information necessary for the liberation of Denken's hometown.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316986,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Linie",
+        "native": "リーニエ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316986-spmwGktNwX3W.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316986-spmwGktNwX3W.png"
+      },
+      "descripcion": "Linie is a Demon working under [Aura](https://anilist.co/character/219110/Aura). Under Aura's instruction, she was sent to assist [Lügner](https://anilist.co/character/316985/Lgner) alongside [Draht](https://anilist.co/character/316987/Draht) to perform negotiations with [Graf Granat](https://anilist.co/character/318147/Granat-Hakushaku).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 325589,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Länge",
+        "native": "レンゲ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b325589-EcLdKYGE9gCz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b325589-EcLdKYGE9gCz.png"
+      },
+      "descripcion": "Participant in the examination for the title of mage first class. Slightly distracted girl. Likes to read books and learn new spells.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316985,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lügner",
+        "native": "リュグナー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316985-YkCeSIfDF7U1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316985-YkCeSIfDF7U1.png"
+      },
+      "descripcion": "Lügner was a demon who served [Aura the Guillotine](https://anilist.co/character/219110/Aura).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 300778,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Macht",
+        "native": "マハト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b300778-kvoUHowLjexj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b300778-kvoUHowLjexj.png"
+      },
+      "descripcion": "Macht is a demon and a member of the Seven Sages of Destruction that directly serve the Demon King.\n\nHe wishes to understand human emotions and find a solution for humans and demons to coexist.\nHe strives for this goal by utilizing inhumane methods.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        },
+        {
+          "id": 209939,
+          "title": {
+            "romaji": "Sousou no Frieren 3rd Season",
+            "english": null,
+            "native": "葬送のフリーレン 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 246054,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Methode",
+        "native": "メトーデ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246054-TKwFFWVGISUd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b246054-TKwFFWVGISUd.png"
+      },
+      "descripcion": "A mage that can use restraint and mental manipulation magic. Good at detecting mana and can use simple recovery magic.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        },
+        {
+          "id": 206425,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 3クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 331425,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Milliarde",
+        "native": "ミリアルデ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331425-XgqTo4PKsdhH.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331425-XgqTo4PKsdhH.jpg"
+      },
+      "descripcion": "An Elf acquaintance of Frieren and the creator of the inscription that names Boshaft as the finest spirit in the world.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 331267,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Minami no Yuusha",
+        "native": "南の勇者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331267-hLeSvYXwuTDt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331267-hLeSvYXwuTDt.png"
+      },
+      "descripcion": "The Hero of the South is a Hero who fought on the front lines against the demons for mankind before Himmel met Frieren. He was said to be mankind's strongest.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 331435,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Norm",
+        "native": "ノルム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331435-KtkRdUqphwVk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331435-KtkRdUqphwVk.png"
+      },
+      "descripcion": "The president of the Norm Company in the Northern Plateau.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326825,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Orden",
+        "native": "オルデン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326825-NKZMl8ythv6u.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326825-NKZMl8ythv6u.png"
+      },
+      "descripcion": "Nobleman presiding over the Vorig Fortified City and the current head of the Orden family, one of the Three Great Knightly Houses of the Northern Lands.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315278,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Qual",
+        "native": "クヴァール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315278-PKRDf4IJJ1GK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315278-PKRDf4IJJ1GK.png"
+      },
+      "descripcion": "A feared and powerful demon who served the Demon King.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 331269,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Revolte",
+        "native": "レヴォルテ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331269-PSE8DO36qCoW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331269-PSE8DO36qCoW.png"
+      },
+      "descripcion": "Revolte, also known as Divine Revolte, is a demon general. Revolte wields four swords made of magic.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 321717,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Richter",
+        "native": "リヒター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321717-hDlFSdvTeZpq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b321717-hDlFSdvTeZpq.png"
+      },
+      "descripcion": "Second-class mage who participates in the First Class Mage Exam at the same time as Frieren and Fern. He owns a magical store in Äußerst where he specializes in repairing broken staves.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 189513,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 2",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327305,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Scharf",
+        "native": "シャルフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327305-DsvizGfxKnE8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327305-DsvizGfxKnE8.png"
+      },
+      "descripcion": "Scharf is a third-class mage and member of the eighth party along with Wirbel and Ehre for the First Class Mage Examination.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205177,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sein",
+        "native": "ザイン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205177-hLV4nVQjoBIC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205177-hLV4nVQjoBIC.png"
+      },
+      "descripcion": "Sein is a Priest from a small village in the Alt Woods. After [Frieren](https://anilist.co/character/176754/Frieren) spotted his talent, he joined her group for a period of time with the goal of reuniting with his childhood friend Gorilla.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 170068,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 321720,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sense",
+        "native": "ゼンゼ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321720-LRfYAvhD5I7l.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b321720-LRfYAvhD5I7l.png"
+      },
+      "descripcion": "First-class mage that is proctoring the Second Exam of the First Class Mage Examination. She is a solemn person who rarely speaks.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326423,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Senshi Gorilla",
+        "native": "戦士ゴリラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326423-uewX18Jqk86t.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326423-uewX18Jqk86t.png"
+      },
+      "descripcion": "Childhood friend of [Sein](https://anilist.co/character/205177) who dreamed of going on an adventure and becoming a legendary hero. A long time ago, he asked Sein to start adventuring with him, which Sein refused and regretted since.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 219734,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Serie",
+        "native": "ゼーリエ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b219734-aS4UMAb16DGd.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b219734-aS4UMAb16DGd.jpg"
+      },
+      "descripcion": "An elven mage who is said to possess knowledge about nearly every magic that exists. She was Flamme's master. She founded the Continental Magic Association around 20 years before Himmel's death. First-class mages get the privilege of meeting her and can ask for any magic they desire.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        },
+        {
+          "id": 206425,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 3クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319598,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Stoltz",
+        "native": "シュトルツ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319598-R0kVKvFug65D.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b319598-R0kVKvFug65D.png"
+      },
+      "descripcion": "Stark's older brother, referred to as the strongest warrior in the village.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327306,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Toun",
+        "native": "トーン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327306-YqyWmCb95C6F.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327306-YqyWmCb95C6F.png"
+      },
+      "descripcion": "Participant in the examination for the title of mage first class. Distrustful and self-confident mage.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319599,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tsurugi no Sato no Satoosa",
+        "native": "剣の里の里長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319599-mCoQepXMeCi6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b319599-mCoQepXMeCi6.png"
+      },
+      "descripcion": "The current chief of the Village of the Sword. Her position was inherited. She is young for the position and postures to try to make up for her lack of height, but when faced with danger or matters regarding the Hero's Blade, she is collected and calm.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326830,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Voll Jii",
+        "native": "フォル爺"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326830-aTNNxR4FaVfV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326830-aTNNxR4FaVfV.png"
+      },
+      "descripcion": "Elderly Dwarf warrior and a long-time friend of Frieren. He resides in a village in the Klar Region.",
+      "genero": "Male",
+      "edad": "400+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 321716,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Wirbel",
+        "native": "ヴィアベル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321716-ORxrJOHaI4H4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b321716-ORxrJOHaI4H4.png"
+      },
+      "descripcion": "Second-class mage and the leader of the eighth party during the first stage of the First Class Mage Exam. He is the captain of the Northern Magic Corps and is thus a very experienced mage. Specializes in magic that restrains the opponent when their body is in full-view.",
+      "genero": "Male",
+      "edad": "33-34",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        },
+        {
+          "id": 206425,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 3クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 393045,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yun",
+        "native": "ユン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b393045-8BhpSTh9qeMU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b393045-8BhpSTh9qeMU.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 393043,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zorida",
+        "native": "ゾリーダ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b393043-rYRzXoZyBYDG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b393043-rYRzXoZyBYDG.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 246057,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Übel",
+        "native": "ユーベル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b246057-ixvDfpng6I1S.png"
+      },
+      "descripcion": "Übel is a third-class mage. Was disqualified in an earlier examination due to killing a first-class wizard. Specializes in magic that allows her to copy the spells of people she can empathize with. Relies mostly on her intuition and is not bound by logical reasoning. ~!Becomes a first-class mage after the examination.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        },
+        {
+          "id": 189513,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou Part 2",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～ 2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315638,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Arakuremono A",
+        "native": "荒くれ者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315638-5logd93rfCIx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315638-5logd93rfCIx.png"
+      },
+      "descripcion": "An adventurer that hangs out in a tavern in Warm.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315639,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Arakuremono B",
+        "native": "荒くれ者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315639-f4fv83rO4NM4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315639-f4fv83rO4NM4.png"
+      },
+      "descripcion": "An adventurer that hangs out in a tavern in Warm.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315644,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Baasan",
+        "native": "婆さん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315644-sv7ZoEaOwu42.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315644-sv7ZoEaOwu42.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394785,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Boukensha",
+        "native": "冒険者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394785-hIUJr1pxziid.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b394785-hIUJr1pxziid.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315938,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Böse",
+        "native": "ボーズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315938-GOkQKOqUAQo9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315938-GOkQKOqUAQo9.png"
+      },
+      "descripcion": "Böse, also known as the Immortal Böse, was one of the Seven Sages of Destruction.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315637,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Chounin A",
+        "native": "町人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315637-hmH9dWqqKEK4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315637-hmH9dWqqKEK4.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326421,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Chounin B",
+        "native": "町人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326421-00YUuaZFnfzs.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326421-00YUuaZFnfzs.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 387927,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Dach Hakushaku no Sousofu",
+        "native": "ダッハ伯爵の曾祖父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b387927-FDZ8i6BhPjB1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b387927-FDZ8i6BhPjB1.png"
+      },
+      "descripcion": "Graf Dach's great-grandfather.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 389793,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Eihei",
+        "native": "衛兵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b389793-l75n0uMYqzty.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b389793-l75n0uMYqzty.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326365,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Eihei A",
+        "native": "衛兵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326365-wIkgs5umXhPH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326365-wIkgs5umXhPH.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326371,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Eihei B",
+        "native": "衛兵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326371-nTVwhZU8VeUk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326371-nTVwhZU8VeUk.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326367,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Eihei Taichou",
+        "native": "衛兵隊長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326367-7UGb0cxDUJTa.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326367-7UGb0cxDUJTa.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326833,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gankobaa-san",
+        "native": "頑固婆さん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326833-kn1X1mSLWtTC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326833-kn1X1mSLWtTC.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 393611,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Genau no Motoaibou",
+        "native": "ゲナウの元相棒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b393611-AghC87jMixld.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b393611-AghC87jMixld.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392379,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Genau no Osananajimi",
+        "native": "ゲナウの幼馴染"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392379-jPQZTBj1XE7Y.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b392379-jPQZTBj1XE7Y.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 331273,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Grausam",
+        "native": "グラオザーム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331273-hV3gfkSJA0Iw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331273-hV3gfkSJA0Iw.png"
+      },
+      "descripcion": "Grausam, also known as the Grausam the Miraculous, was one of the Seven Sages of Destruction that served the Demon King.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 386951,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gyosha",
+        "native": "御者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b386951-yMbsDNZdoDyR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b386951-yMbsDNZdoDyR.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326373,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hahaoya",
+        "native": "母親"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326373-scCzFQPjzwlx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326373-scCzFQPjzwlx.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326366,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joudai",
+        "native": "城代"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326366-0StaxFsTuljH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326366-0StaxFsTuljH.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327496,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Juken-sha A",
+        "native": "受験者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327496-fFQzGKemc5rx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327496-fFQzGKemc5rx.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327515,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Juken-sha B",
+        "native": "受験者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327515-v4JNUed3tTGr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327515-v4JNUed3tTGr.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392382,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kishi",
+        "native": "騎士"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392382-07lF704bOQgf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b392382-07lF704bOQgf.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392381,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kishidan Taichou",
+        "native": "騎士団隊長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392381-NaTc3YPClxhf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b392381-NaTc3YPClxhf.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394469,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kishidan Taichou",
+        "native": "騎士団隊長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394469-ihvSxBw64NPq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b394469-ihvSxBw64NPq.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394786,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kishidan Taichou",
+        "native": "騎士団隊長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394786-McDGM6t7ODxM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b394786-McDGM6t7ODxM.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 387930,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kodomo",
+        "native": "子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 387931,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kodomo",
+        "native": "子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 387932,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kodomo",
+        "native": "子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392380,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kodomo",
+        "native": "子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392380-BKj56n1yh8Q2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b392380-BKj56n1yh8Q2.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316459,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kodomo A",
+        "native": "子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316459-d982O7o48BPF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316459-d982O7o48BPF.png"
+      },
+      "descripcion": "A child from Riegel Canyon. He adores [Stark](https://anilist.co/character/184313/Stark) and seek his attention.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326422,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kodomo B",
+        "native": "子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326422-84h0nA2XWWly.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326422-84h0nA2XWWly.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 390705,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Koufu",
+        "native": "鉱夫"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327208,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Koya no Omo",
+        "native": "小屋の主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327208-MknLdYM8opUz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327208-MknLdYM8opUz.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 388977,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Koya no Shu",
+        "native": "小屋の主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b388977-N4J4JRpOO0Xd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b388977-N4J4JRpOO0Xd.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327522,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Lecker",
+        "native": "レッカー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327522-LQCVZCDyr6kl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327522-LQCVZCDyr6kl.png"
+      },
+      "descripcion": "The head chef for the restaurant Bell in Äußerst.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 391560,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Machi no Hito",
+        "native": "街の人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 170068,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326329,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mago",
+        "native": "孫"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326329-EujDTc2NtPm2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326329-EujDTc2NtPm2.png"
+      },
+      "descripcion": "A child from Riegel Canyon. He adores [Stark](https://anilist.co/character/184313/Stark) and seek his attention.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315631,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mahou-ten Tenshu",
+        "native": "魔法店店主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315631-GLsgmUdVPOvY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315631-GLsgmUdVPOvY.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326368,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Master",
+        "native": "マスター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326368-VLLHDdvQkNHw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326368-VLLHDdvQkNHw.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319165,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mazoku",
+        "native": "魔族"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319165-8WI7HrFjTgQr.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b319165-8WI7HrFjTgQr.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392383,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mazoku",
+        "native": "魔族"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392383-iBWbGmPnFXEk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b392383-iBWbGmPnFXEk.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 387929,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 389790,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 389791,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 389792,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 390700,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 390701,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394471,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394471-gYCh6chOePtH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b394471-gYCh6chOePtH.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394472,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394472-WSmxAaDC1JGG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b394472-WSmxAaDC1JGG.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394787,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394788,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316456,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito A",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316456-qIoFlUCR6Qbw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316456-qIoFlUCR6Qbw.png"
+      },
+      "descripcion": "A old lady that is seen taking care of two young children in Riegel Canyon.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316457,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito B",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316457-iAhpLGFDqR4R.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316457-iAhpLGFDqR4R.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316458,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito C",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316458-uigEvTamAbqV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316458-uigEvTamAbqV.png"
+      },
+      "descripcion": "A man who live in the village [Stark](https://anilist.co/character/184313/Stark) protected in Riegel Canyon.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326831,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito D",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326832,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito E",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327209,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Murabito F",
+        "native": "村人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327209-8VCBCUpfGpI2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327209-8VCBCUpfGpI2.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 388979,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Musuko",
+        "native": "息子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 388981,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Musuko",
+        "native": "息子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326827,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mut",
+        "native": "ムート"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326827-wtHrYsdSocOK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326827-wtHrYsdSocOK.png"
+      },
+      "descripcion": "Lord Orden's youngest son and the next heir of the Orden family.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315641,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Neko",
+        "native": "ネコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315641-Wa7OuPAnzK73.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315641-Wa7OuPAnzK73.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315636,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Noufu A",
+        "native": "農夫"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315636-mW4aEOKDvXCq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315636-mW4aEOKDvXCq.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326418,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Noufu B",
+        "native": "農夫"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326418-4FAzgSQpxqz1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326418-4FAzgSQpxqz1.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 388982,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Onsen no Obaa-san",
+        "native": "温泉のおばあさん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b388982-gk4zMnsoTZXc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b388982-gk4zMnsoTZXc.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315630,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ou-sama",
+        "native": "王様"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315630-8KezkCJX7RoK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315630-8KezkCJX7RoK.png"
+      },
+      "descripcion": "The King resides in the Royal Capital in the Central Lands. The King's influence reaches across the Central and Northern Lands. When the Hero Party first set out on their journey to defeat the Demon King, he provided them with ten copper coins.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 390704,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Oyakata",
+        "native": "親方"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315643,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Pan-ya Tenshu",
+        "native": "パン屋店主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315643-WqB5zj3zrZsf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315643-WqB5zj3zrZsf.png"
+      },
+      "descripcion": "A kind woman that owns a bakery in the Granz Channel. She gives [Fern](https://anilist.co/character/183965/Fern) extra bread for being a regular customer while [Frieren](https://anilist.co/character/176754/Frieren) and Fern stay in town to clean up the shore.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327521,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Roufujin",
+        "native": "老婦人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327521-oAFD2538qD73.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327521-oAFD2538qD73.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315640,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Roujin",
+        "native": "老人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315640-y840skyBVFcH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315640-y840skyBVFcH.png"
+      },
+      "descripcion": "An elder wearing a straw hat in the village by where Qual is sealed. Himmel would talk with him when he visited to check on the condition of the seal.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326829,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ryoushu",
+        "native": "領主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326829-Rr4Axla8I7KU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326829-Rr4Axla8I7KU.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394789,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Saikutsusha",
+        "native": "採掘者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 391561,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sakana Ani",
+        "native": "魚(兄)"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b391561-L3A58cYYOE4g.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b391561-L3A58cYYOE4g.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 170068,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 391562,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sakana Otouto",
+        "native": "魚(弟)"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b391562-Tvn6zn9g53gn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b391562-Tvn6zn9g53gn.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 170068,
+          "title": {
+            "romaji": "Sousou no Frieren: ●● no Mahou",
+            "english": null,
+            "native": "葬送のフリーレン ～●●の魔法～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315628,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sanretsu-sha C",
+        "native": "参列者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315629,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sarentsu-sha A",
+        "native": "参列者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315632,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sarentsu-sha B",
+        "native": "参列者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 331265,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Schlacht",
+        "native": "シュラハト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331265-V6xCje9U7OeT.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331265-V6xCje9U7OeT.png"
+      },
+      "descripcion": "Schlacht, also known as the Omniscient Schlacht, is a demon who was said to be the Demon King's confidant.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326424,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sein no Ani",
+        "native": "ザインの兄"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326424-7XjJM2L2SDJ2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326424-7XjJM2L2SDJ2.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394473,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Senchou",
+        "native": "船長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394473-nbBMfGd5JLTa.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b394473-nbBMfGd5JLTa.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326401,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shinpu",
+        "native": "神父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326401-KRjCtGDYapXj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326401-KRjCtGDYapXj.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 387926,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shitsuji",
+        "native": "執事"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b387926-SiDGkz0ZvGYJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b387926-SiDGkz0ZvGYJ.png"
+      },
+      "descripcion": "Dach Hakushaku's butler.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326419,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shounen",
+        "native": "少年"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326419-uIABOuHXclfv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326419-uIABOuHXclfv.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326425,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shounin",
+        "native": "商人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326425-0n6DeTHGvxc9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326425-0n6DeTHGvxc9.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 389794,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shuuraku no Juunin",
+        "native": "集落の住人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326416,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sokkin A",
+        "native": "側近"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326416-ypzhGTLPDeTC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326416-ypzhGTLPDeTC.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326417,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sokkin B",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326417-VR4iS7PYRDN9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326417-VR4iS7PYRDN9.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394470,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sonchou",
+        "native": "村長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394470-0h0RqMqs0CBR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b394470-0h0RqMqs0CBR.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315642,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sonchou A",
+        "native": "村長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315642-Nm5q1N4QCmlt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315642-Nm5q1N4QCmlt.png"
+      },
+      "descripcion": "An elder that lives in the Granz Channel. He offers [Frieren](https://anilist.co/character/176754/Frieren) and [Fern](https://anilist.co/character/183965/Fern) a fake of one of the [Great Mage Flamme](https://anilist.co/character/219733/Flamme)'s grimoires as payment for cleaning up the shore of the channel by the New Year's Anniversary and checks up on them throughout their stay in town.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326372,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sonchou B",
+        "native": "村長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326372-HseZd8BYVRKH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326372-HseZd8BYVRKH.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326420,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Stark no Chichi",
+        "native": "シュタルクの父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326420-ILAb6lB1X1ug.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326420-ILAb6lB1X1ug.png"
+      },
+      "descripcion": "[Stark](https://anilist.co/character/184313/Stark)'s father is a harsh, militant man. He considers Stark a failure. He is also strict with the other warriors of the village, scolding them for their pathetic display against a monster and praising [Stoltz](https://anilist.co/character/319598/Stoltz), who he considered the pride of the village, for defeating it while keeping his white cape pristine.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326370,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tabibito",
+        "native": "旅人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326370-kX9lZoYMqx5l.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326370-kX9lZoYMqx5l.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327520,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Take no Ojii-san",
+        "native": "武のおじいさん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327520-Srf2rY1z3pG5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327520-Srf2rY1z3pG5.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326328,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tenshu",
+        "native": "店主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326328-mfYja0XnPyaf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326328-mfYja0XnPyaf.png"
+      },
+      "descripcion": "A woman who live in the village [Stark](https://anilist.co/character/184313/Stark) protected in Riegel Canyon.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327493,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Touzoku A",
+        "native": "盗賊"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327494,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Touzoku B",
+        "native": "盗賊"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 387928,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tsurugi no Mazoku",
+        "native": "剣の魔族"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b387928-QHEDJrm7kVgb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b387928-QHEDJrm7kVgb.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 390703,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Uketsuke",
+        "native": "受付"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182255,
+          "title": {
+            "romaji": "Sousou no Frieren 2nd Season",
+            "english": "Frieren: Beyond Journey’s End Season 2",
+            "native": "葬送のフリーレン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327210,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Uufu",
+        "native": "ウーフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327210-Z8BgPruEI9fT.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327210-Z8BgPruEI9fT.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327519,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Wakamono",
+        "native": "若者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327519-z7UZ3j4Mqj8Z.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327519-z7UZ3j4Mqj8Z.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326828,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Wirt",
+        "native": "ヴィルト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326828-cujHlvsd6xLc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326828-cujHlvsd6xLc.png"
+      },
+      "descripcion": "Lord Orden's oldest son. Wirt passed away in a melee against demon forces but managed to kill the enemy general.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315634,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yakusou-ka",
+        "native": "葉草家"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315634-P8SlQd4L5IVp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315634-P8SlQd4L5IVp.png"
+      },
+      "descripcion": "A herbalist that lives in a village in the Turk Region.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 154587,
+          "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 155,
+  "actualizado": 1788565514
+}

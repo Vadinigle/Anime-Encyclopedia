@@ -1,0 +1,2969 @@
+{
+  "clave": "hells-paradise",
+  "nombre": "Hell's Paradise",
+  "descripcion": "Jigokuraku",
+  "generos": [
+    "Acción",
+    "Fantasía",
+    "Sobrenatural"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128893-Gc2t8b8M0mVu.jpg",
+  "medios": [
+    {
+      "id": 128893,
+      "title": {
+        "romaji": "Jigokuraku",
+        "english": "Hell’s Paradise",
+        "native": "地獄楽"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128893-Gc2t8b8M0mVu.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128893-Gc2t8b8M0mVu.jpg"
+      }
+    },
+    {
+      "id": 166613,
+      "title": {
+        "romaji": "Jigokuraku 2nd Season",
+        "english": "Hell’s Paradise Season 2",
+        "native": "地獄楽 第二期"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166613-uHB8q3D4qbon.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166613-uHB8q3D4qbon.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 137260,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Gabimaru",
+        "native": "画眉丸"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137260-xmSis8FmwhEE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137260-xmSis8FmwhEE.png"
+      },
+      "descripcion": "__Race:__ Human\n__Tao Attribute:__ Fire\n__Occupation:__ Shinobi\n__Affiliation:__ Iwagakure (Formerly)\n\nGabimaru is an elite shinobi assassin formerly from Iwagakure. He is the husband of [Yui](https://anilist.co/character/151771/Yui) and the son-in-law to the [chief of Iwagakure](https://anilist.co/character/301607/Osa).\n\nGabimaru is calm, level-headed and rarely shows any emotions. He is calm to the point where he is unfazed by any sort of crisis, such as being executed or when he is confronted and attacked by a strong enemy. As noted by [Sagiri](https://anilist.co/character/137263/Sagiri), once Gabimaru calms down he tends to complain. He prefers to stick with his main objective at hand and not get tangled with anything else that doesn't involve his goals. Although he is viewed as being obnoxious (mainly by Sagiri), he can also be respectful and polite at times.\n\n~!During his time in Iwagakure, Gabimaru was known and admired by his peers for his cruelty and ruthless killings of his victims, but after being married to Yui, Gabimaru underwent a major change. Even though he was influenced by his leader's words of ridding himself of his emotions to become strong, Gabimaru was also influenced by Yui's kind and caring nature into believing that having emotions made him truly strong and would turn him into a true warrior. This overwrote his cruel nature as a ninja and made him want to avoid unnecessary killing.!~\n\nHe served as Iwagakure's most infamous shinobi until he was betrayed by his village for wanting to abandon his role as a murderer and live a peaceful life with his wife, resulting in him being handed over to the authorities to be executed. However, after the shogun calls for convict criminals to acquire the Elixir of Life from the dangerous island known as Kotaku, in exchange for a pardon for their past crimes, Gabimaru accepts the invitation to be a part of the competition mission in order to reunite with Yui and live the life he so desired. Upon taking the mission, Yamada Asaemon Sagiri was chosen as his assigned monitor.\n\n~!Shortly after, Gabimaru becomes a part of a united front formed from the remaining surviving criminals and executioners to defeat Lord Tensen, work together in capturing the elixir, and have everyone escape the island.!~",
+      "genero": "Male",
+      "edad": "15-16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137263,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Sagiri",
+        "native": "佐切"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137263-I2krXFEFOHjL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137263-I2krXFEFOHjL.png"
+      },
+      "descripcion": "__Race:__ Human\n__Tao Attribute:__ Wood\n__Occupation:__ Asaemon\n__Affiliation:__ Yamada Clan\n__Rank:__ 12th\n__Relative:__ [Kichiji](https://anilist.co/character/302527/Kichiji) (Father)\n\nYamada Asaemon Sagiri is the 12th rank Asaemon in the Yamada Clan. After the shogun sent criminals to Kotaku to find the Elixir of Life, she was tasked with being [Gabimaru](https://anilist.co/character/137260/Gabimaru)'s executioner.\n\nSagiri generally displays a calm demeanor when taking on her role as an executioner. However, after landing on Kotaku, she allowed herself to act casual around others as long as she continued to do her job. She is very polite and caring towards her fellow Asaemon members, despite the fact that she is aware that some view her as being unworthy of becoming a samurai. However, she is not afraid to speak her mind and to stand up for herself. Though she takes matters seriously, Sagiri does possess a sense of humor, often laughing at [Shion](https://anilist.co/character/137267/Shion)'s jokes. \n\n~!After her experience with working successfully with criminals and witnessing the deaths of her fellow clansmen, Sagiri resolved to abandon her role as an executioner on the mission and viewed everyone that came not as a criminal or an executioner but as allies so they can work together to return home safely.!~\n\nWhen she was young, Sagiri watched as her father skillfully decapitated a condemned performer with a single swing of his sword. From that day she became inspired to walk the path of an executioner and achieve the same level of skill as her father. As she began her training on how to wield a sword, Sagiri was looked down on by her fellow Yamada members, as well as her father, for being a female following the path of a samurai. Sagiri was also shunned by other children because of the clan's bad reputation. Despite the harsh treatment she faced, Sagiri managed to earn her name as a Yamada Asaemon.",
+      "genero": "Female",
+      "edad": "16-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 16
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302053,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Adachi Matagorou",
+        "native": "安達又五郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302053-ZIkqWdlkdeja.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302053-ZIkqWdlkdeja.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302050,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aoki",
+        "native": "青木"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302050-IX99PePUve0D.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302050-IX99PePUve0D.jpg"
+      },
+      "descripcion": "__Height:__ 175 cm\n\nOne of the [shogun](https://anilist.co/character/301606/Nariyoshi-Tokugawa)'s retainers.",
+      "genero": "Male",
+      "edad": "30",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306729,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chou Doushi",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306729-YW5YzEiDq3Cy.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306729-YW5YzEiDq3Cy.jpg"
+      },
+      "descripcion": "This Doushi is a subordinate of Lord Tensen and was one of the few that were ordered to observe the humans that made landfall on Kotaku.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137269,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Choubei Aza",
+        "native": "亜左弔兵衛"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137269-8sLwiijk0bti.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137269-8sLwiijk0bti.jpg"
+      },
+      "descripcion": "__Tao Attribute:__ Metal\n__Occupation:__ Bandit\n__Race:__ Human (Formerly), ~!Semi-Immortal Human!~\n\nAza Chobe also known as the Bandit King, is a well-known bandit leader in Iyo that is responsible for multiple crimes committed.\n\nChobe is an extremely barbaric individual who attacks anyone or anything that poses as a threat to him. He prefers to do things of his own accord and would rather resort to violence than talk things through. Chobe is also very sadistic whenever he engages in fights with his enemies, Chobe always stuck to taking on the role of the villain, and holds grudges to those that have bested him. Although he tends to act like a brute, Chobe is a rationale thinker that knows what is the best course of action in a serious situation.\n\n~!Chobe and [Toma](https://anilist.co/character/137261/Touma) were born as sons to a retainer under the service of the daimyō of Akō Domain, Asano Takunori. However, after Asano Takunori attacked the court official Kira Yoshinaka at Edo Castle, he was sentenced to commit seppuku. As a result, their father and the rest of the retainers had their status removed and were left as ronin, leaving their family in poverty. They were eventually taken by bandits who planned on selling them but later came to live amongst them after Chobe managed to become their leader.!~",
+      "genero": "Male",
+      "edad": "19-20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 388252,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dokuro Doushi",
+        "native": "ドクロ道士"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 151774,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eizen",
+        "native": "衛善"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b151774-BYqBHZU6mWAQ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b151774-BYqBHZU6mWAQ.jpg"
+      },
+      "descripcion": "__Height:__ 180 cm\n__Race:__ Human\n__Tao Attribute:__ Unknown\n__Occupation:__ Asaemon\n__Affiliation:__ Yamada Clan\n__Rank:__ 1st\n\nEizen is the 1st rank Asaemon in the Yamada clan. He joined the Shinsenkyo Island expedition and was assigned to keep watch over the criminal, [Rokurōta](https://anilist.co/character/302052/Rokurouta).\n\nEizen has great pride for the Yamada clan and believes that no task is impossible for them when it came to executing people, such as his assigned criminal Rokurōta. As an executioner, Eizen acts professional in his line of work as he knows that defiling the execution grounds by trying to bring pain to the condemned with his blade would defile the magistrate and he follows the Yamada clan's ideal way of ending lives by cutting his victims with no pain or emotion, a concept which he tried to impart to a young [Shugen](https://anilist.co/character/148752/Shugen). \n\nEizen is also kind and caring as he promised to look after Shugen when he was young, which brought a great influence to him in the present. Like his fellow clan members, Eizen believes that women in the Yamada clan should not follow the path of a samurai and is antagonistic when [Sagiri](https://anilist.co/character/137263/Sagiri) took the shogun's mission.\n\n~! Upon arriving in Shinsenkyo, Eizen is almost instantly crushed by Rokurōta and dies. Shugen becomes devastated after finding Eizen's corpse and took the time to lay his soul to rest despite the fact that his team was being under attack. His death went on to impact Shugen on his mission to the extent that he vowed to kill everyone on the island in order to avenge his master. !~\n\nEizen has a profound influence on Shugen as he is the one person the young man looks up to the most.\n\n",
+      "genero": "Male",
+      "edad": "28",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137268,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fuchi",
+        "native": "付知"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137268-veVGOk95qa87.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137268-veVGOk95qa87.jpg"
+      },
+      "descripcion": "__Height:__ 148 cm\n__Race:__ Human\n__Tao Attribute:__ Metal\n__Occupation:__ Asaemon\n__Affiliation:__ Yamada Clan\n__Rank:__ 9th\n\nYamada Asaemon Fuchi is the 9th rank Asaemon in the Yamada Clan and was chosen to be [Tamiya Gantetsusai](https://anilist.co/character/137264/Gantetsusai-Tamiya)'s assigned monitor. \n\nFuchi is a rational thinker that has a good sense of judgement in situations and carries a no-nonsense view when it comes to matters that he deems are unscientific, pointless, and illogical. He has great pride as a Yamada Asaemon and does not tolerate anybody speaking disgracefully about the Yamada clan. He is very close with his Asaemon comrades and gives them nicknames instead of using honourifics. Even though the Yamada clan mainly deal with testing new swords and executions, Fuchi preferrs, and has a deep passion, for studying the human anatomy to improve medical science that came with the trade. He whole-heartedly believes that anatomical research would save lives and despises those who thought so little of this study.\n\n~!Although he was an executioner, after his experience working together with the surviving convicts, Fuchi found that both \"crime\" and \"evil\" were entirely different from one another, with Tamiya Gantetsusai as an example. From a scientific view point, Fuchi found that samurai and criminals were not so different since they are structured the same and had a will to live, which was reason enough for the survivors to band together in trying to return home.!~\n\n~!With both him and Gantetsusai badly injured Fuchi musters up the rest of his strength to administer first aid to Gantetsusai instead of himself resulting in him dying. In his last thoughts, Fuchi warns [Shugen](https://anilist.co/character/148752/Shugen) not to underestimate the survivors since they are not willing to die easily and wishes the best of luck to both his allies and enemies.!~",
+      "genero": "Male",
+      "edad": "19-20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137264,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gantetsusai Tamiya",
+        "native": "民谷巌鉄斎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137264-qmjsYXb6YkX7.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137264-qmjsYXb6YkX7.png"
+      },
+      "descripcion": "__Race:__ Human\n__Age:__ Unknown\n__Tao Attribute:__ Fire\n\nTamiya Gantetsusai formerly known as Tetsunosuke is a renown master swordsman known throughout as the Blade Dragon and Eight Provinces Unparalleled.\n\nHe considers fighting to be fun and lives to seek out and battle strong opponents that can make him feel a thrill whenever he has to draw his blade. Even when critically injured, Gantetsusai's carries a satisfied smile from the adrenaline he gets from fighting and feels as though as he is becoming stronger with each injury. However, he is not very disciplined, preferring to recklessly fight his opponents head on without thinking of a clear strategy, or listen to his allies, and hates it when others try to interfere in his enjoyment. Gantetsusai also has a perverted side as he took note and commented on [Yuzuriha](https://anilist.co/character/137270/Yuzuriha)'s physique during the selection process. Despite his perverted behavior, Gantetsusai has morals as he felt disgusted of the thought of the Dōshi using [Mei](https://anilist.co/character/148755/Mei) for sexual intercourse to complete their Tao training.\n\n~!Gantetsusai has a massive ego and wishes to go down in history as a legendary figure. He believes that by performing extraordinary feats and people remembering his name throughout generations is the true form of immortality rather than gaining the Elixir of Life.!~\n\nAt a young age, Tetsunosuke was trained in the art of swordsmanship. After being defeated by his master, Tetsunosuke asked how he was able to despite his old age. He explains to Tetsunosuke that he has become greedy with wanting to become stronger and says that he must throw away his strength in order to see everything in what he has left. Despite this lesson, Tetsunosuke was unable to understand what his master was telling him. As he grew up, Tetsunosuke renamed himself to Tamiya Gantetsusai and went around searching for strong opponents, eventually making a name for himself as a fame swordsman.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302049,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Genji",
+        "native": "源嗣"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302049-go8XyPxymI0S.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302049-go8XyPxymI0S.jpg"
+      },
+      "descripcion": "__Height:__ 205 cm",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 170488,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gui Fa",
+        "native": "桂花"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b170488-3YyeY3FGm7Sn.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b170488-3YyeY3FGm7Sn.jpg"
+      },
+      "descripcion": "A member of Lord Tensen and a partial ruler of Kotaku. Gui Fa maintains a complete deadpan demeanor and is known to be extremely shy around others, as they prefer to cover their face with a book at all times to avoid making eye contact.",
+      "genero": "Male/Female",
+      "edad": "1000+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305440,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Houko",
+        "native": "木人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305440-nNgZoPz0B2NE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305440-nNgZoPz0B2NE.jpg"
+      },
+      "descripcion": "__Race:__ Houko\n__Tao Attribute:__ Metal\n",
+      "genero": "Male",
+      "edad": "500+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 151770,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Isuzu",
+        "native": "威鈴"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b151770-kRchCoGLzflU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b151770-kRchCoGLzflU.png"
+      },
+      "descripcion": "__Height:__ 215 cm\n__Race:__ Human\n__Age:__ Unknown\n__Tao Attribute:__ Water\n__Occupation:__ Asaemon, Female Combat Instructor\n__Rank:__ Unranked\n\nIsuzu is an unranked Asaemon in the Yamada clan. After the shogun became impatient of the first team acquiring the Elixir of Life, Isuzu and [Kiyomaru](https://anilist.co/character/151776/Kiyomaru) were chosen to join [Shugen](https://anilist.co/character/148752/Shugen) and [Jikka](https://anilist.co/character/148756/Jikka) to be a part of the second team sent to acquire the elixir.\n\nIsuzu is very respectful towards her allies and wishes to avoid any conflict between them. In battle, or when one of her allies steps out of line, such as Kiyomaru, Isuzu behavior changes and becomes more serious and fierce. She is also capable of self restraint, that is greatly expressed on her face, when dealing with a troublesome situation. Isuzu highly respects Shugen and follows his view of justice in believing that criminals should not be given mercy or to those that protect them as well.\n\n~!Similar to her brother [Genji](https://anilist.co/character/302049/Genji), Isuzu follows the samurai code of honor known as bushidō. After [Gantetsusai](https://anilist.co/character/137264/Tamiya-Gantetsusai) brought [Fuchi](https://anilist.co/character/137268/Fuchi)'s dead body, Isuzu was prepared to commit seppuku for the death of her fallen Asaemon comrades on the island and hoped that her death would appeased the shogun.!~\n\nAs a child, Isuzu was sensitive about her stature and would often be referred to her as a gorilla. However, after receiving words of encouragement from her brother about gorillas being strong animals, Isuzu no longer took it as an insult and believed that gorillas embody the concept of bushidō.\n",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 148756,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jikka",
+        "native": "十禾"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148756-BRSo9v4Rzds2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b148756-BRSo9v4Rzds2.png"
+      },
+      "descripcion": "__Height:__ 177 cm\n__Race:__ Human\n__Tao Attribute:__ Earth\n__Occupation:__ Asaemon\n__Affiliation:__ Yamada Clan\n__Rank:__ 3rd\n\nJikka is the 3rd ranked Asaemon in the Yamada clan. After the shogun sent criminals to Kotaku to find the Elixir of Life, he was tasked with being [Hōrubō](https://anilist.co/character/302525/Hourubou)'s executioner.\n\nJikka is a laid-back individual who compared to his fellow clan members, especially Shugen, is less dedicated to his work as an Asaemon. He is rather dishonest and goes as far as to lie to shogun's officials. Jikka is also rude and disrespectful to others around him regardless of who they are, even towards his fellow Asaemon. Also, unlike his clan members who each show concern for one another, Jikka is the only member shown to have little to no concern over the safety of the other Asaemon. \n\nJikka stated that he is an individual that prefers to enjoy life to the fullest rather than focus on status and rank. This way of thinking greatly shows in his life as an executioner as he has been reported to attend his execution assignments while intoxicated and even sold his own sword as a way to collect money for his vulgar exploits. As a result, Jikka has received a bad reputation amongst his peers in the Yamada clan. Despite being so lazy and laid-back he is a very analytical individual and is incapable of being fooled through deception.\n\n~!He is one of the most mysterious people of the Yamada clan and also one of the strongest despite the attitude towards his duties, he is in fact so strong that he's the only person known who has come back from Kotatsu island alive and in perfect condition. Having sold his sword he now carries a simple takemitsu (bamboo sword), but even then he still manages to cut off criminal heads and kill monsters with ease.!~\n\nJikka believes that he and [Gabimaru](https://anilist.co/character/137260/Gabimaru) are similar in that they value life more than anything.",
+      "genero": "Male",
+      "edad": "28",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 151772,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ju Fa",
+        "native": "菊花"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b151772-SvkrizvwLicX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b151772-SvkrizvwLicX.png"
+      },
+      "descripcion": "__Height:__ 173 - 185 cm\n__Race:__ Tensen\n__Tao Attribute:__ Fire\n__Occupation:__ Partial Ruler of Kotaku\n__Affiliation:__ Lord Tensen, Xu Fu\n\nJu Fa is a member of Lord Tensen, as well as one of the rulers of Kotaku.\n\nJu Fa is very short tempered and has aggressive tendencies towards anything that irritated him at the slightest, which also applied to his fellow Lord Tensen members. While its true that all members of Lord Tensen have a negative view on humans, Ju Fa is the one that truly despises them with a passion and believes that they are nothing more than \"livestock\". \n\nHe is very protective of [Tao Fa](https://anilist.co/character/151778/Tao-Fa) since they had been by each others side from the moment they were born, because of that [Rien](https://anilist.co/character/148754/Rien) stated that the two were special in that they are in fact two of a whole. Despite their ability to heal themselves, Ju Fa hated when Tao Fa got hurt and was told that he cared greatly for Tao Fa as his partner.\n\nJu Fa found the male gender to be well-suited for him because of his moods and how he is able to easily handle situations.",
+      "genero": "Male/Female (Prefer the Male gender)",
+      "edad": "1000+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302522,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Keiun",
+        "native": "慶雲"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302522-D9kb6Ho4EIw9.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302522-D9kb6Ho4EIw9.jpg"
+      },
+      "descripcion": "__Height:__ 210 cm\n\nDeath row convict who is recruited to find the Elixir of Life. While undergoing training as a souhei (warrior monk), Keiun developed an obsession for weapons and armor and decided to take his training to the next level by slaughtering martials artists and stealing their weapons.",
+      "genero": "Male",
+      "edad": "35",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 16
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 151777,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kishou",
+        "native": "期聖"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b151777-wY3ktSkeiwe3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b151777-wY3ktSkeiwe3.jpg"
+      },
+      "descripcion": "__Race:__ Human\n__Age:__ Unknown\n__Tao Attribute:__ Unknown\n__Occupation:__ Asaemon\n__Affiliation:__ Yamada Clan\n__Rank:__ 11th\n\nKishou is the 11th rank Asaemon in the Yamada Clan and was assigned to keep watch over the criminal, [Warped Keiun](https://anilist.co/character/302522/Keiun).\n\nKishou is an individual who is known for never losing his composure and rarely acting assertive. He is able to see the big picture in situations and finds it annoying when people question his way of handling them. Kishou has shown that he doesn't mind taking the easy way out, offering to cut down [Gabimaru](https://anilist.co/character/137260/Gabimaru) to help [Sagiri](https://anilist.co/character/137263/Sagiri) return home instead of following through with the mission. He also doesn't like to be pushed around.\n\n~!After Gabimaru kills Warped Keiun, Kishou has no reason to stay on the island and tries to escape. Kishou at some point becomes infected with Arborification and immediately dies. After trying to make an attempt at escaping the island, [Nurugai](https://anilist.co/character/137262/Nurugai) & [Tensa](https://anilist.co/character/137265/Tenza) finds Kishou's bloomed corpse. As Tensa tries to get a response from Kishou, the dead Asaemon is split in half by the Watatsumi's large tentacle. Before departing Kishou also told Gabimaru that the Iwagakure might come to the island later on shogun's request.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 151776,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kiyomaru",
+        "native": "清丸"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b151776-cSAXW38xkM5B.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b151776-cSAXW38xkM5B.png"
+      },
+      "descripcion": "__Race:__ Human\n__Age:__ Unknown\n__Tao Attribute:__ Metal\n__Occupation:__ Asaemon\n__Affiliation:__ Yamada Clan\n\nKiyomaru is an unranked Asaemon in the Yamada Clan. After the shogun became impatient of the first team acquiring the Elixir of Life, Kiyomaru and [Isuzu](https://anilist.co/character/151770/Isuzu) were chosen to join [Shugen](https://anilist.co/character/148752/Shugen) and [Jikka](https://anilist.co/character/148756/Jikka) to be a part of the second team sent to acquire the elixir.\n\nDue to his young age, Kiyomaru is very immature. While departing to Kotaku, Kiyomaru spoke rudely to one of his superiors and childishly did as he pleased, such as cutting one of the ninjas mask to prove his strength and ordered one ninja to kill themselves to prove their loyalty. Kiyomaru is also very arrogant, as he declared that he was far superior to everyone that came along on the mission and hates it when people look down on him for not having a ranking.\n\n~! Despite being loyal to Shugen, because of the dire situation escalating in Hōrai, Kiyomaru and a few others decide to cooperate with the Vanguard Party. After discussing the plan to destroy the Banko's tandens scattered around Hōrai, Kiyomaru is paired with Isuzu to strengthen her Water Tao with his Metal Tao and goes after the tandens.  !~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306843,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kumokiri",
+        "native": "雲霧"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306843-tk8Z4a3qTCXi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306843-tk8Z4a3qTCXi.png"
+      },
+      "descripcion": "__Height:__ 180 cm\n\nKumokiri is a jounin-class shinobi of Iwagakure.",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 16
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 148755,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mei",
+        "native": "メイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148755-KybQKJ8BPh1Q.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b148755-KybQKJ8BPh1Q.jpg"
+      },
+      "descripcion": "__Tao Attribute:__ Water\n\nAn islander from Kotaku. Mei is a shy and quiet girl. She is innocent and can easily be frightened when harm comes to her. Mei is especially kind and caring to the people around her that she views are her allies and can also be accepting of others when seeing their good qualities. When they first met, Mei was afraid of [Gabimaru](https://anilist.co/character/137260/Gabimaru) because of his intimating demeanor but after showing signs of respect towards her she wasn't afraid to come near him.\n\n~!Mei is a Tensen that was formerly affiliated with [Rien](https://anilist.co/character/148754/Rien) and [Xu Fu](https://anilist.co/character/306854/Jofuku) but escaped after disagreeing with Rien's methods to unlock immortality. She then resided with [Hōko](https://anilist.co/character/305440/Houko) and soon became an ally of Gabimaru and his group in their attempt to retrieve the elixir known as Tan from Lord Tensen and escape Kotaku.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 148753,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mu Dan",
+        "native": "牡丹"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148753-yLtDQsR4vB4f.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b148753-yLtDQsR4vB4f.png"
+      },
+      "descripcion": "__Height:__ 173 - 185 cm\n__Race:__ Tensen\n__Tao Attribute:__ Earth\n__Occupation:__ Ruler of Kotaku\n__Affiliation:__ Lord Tensen\n\nMu Dan is a member of Lord Tensen, as well as one of the rulers of Kotaku.\n\nMu Dan has a cheerful, yet very sadistic attitude. He is very blunt with his words and is not afraid to tell his enemies what they want because of the confidence in his own power. Mu Dan views humans as simply research material and \"toys\" that he can do whatever he wants with.  He seems to get along quite well enough with the other Tensens, shown as they were all having a nice conversation. However, he shows no signs of pity for them no matter what. Mu Dan stated that he is a believer in functional beauty and preferres the male gender because there was nothing wasted in its composition.",
+      "genero": "Male/Female (Prefers the Male gender)",
+      "edad": "1000+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306732,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mukade Doushi",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306732-fJpadCcHf0Hl.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306732-fJpadCcHf0Hl.jpg"
+      },
+      "descripcion": "This Doushi is a subordinate of Lord Tensen and was one of the few that were ordered to observe the humans that made landfall on Kotaku.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137262,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nurugai",
+        "native": "ヌルガイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137262-frEjtAk5zYRV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137262-frEjtAk5zYRV.png"
+      },
+      "descripcion": "__Height:__ 138 cm\n__Race:__ Human\n__Tao Attribute:__ Water\n\nNurugai is the last remaining member of the Sanka and a wrongly convicted death-row criminal. Her assigned monitor is [Tenza](https://anilist.co/character/137265/Tenza).\n\nNurugai looks down on samurai, viewing them as stupid. Her disdain for them stems from the fact that they were partially responsible for killing her people. Because of this incident, Nurugai feels a strong guilt for leading her village's extermination, even believed that the reason why she is on a dangerous mission is because she was receiving divine punishment for her actions and accepted death. \n\nNurugai was raised with the Sanka Mountain People in a village where she had lived with her grandfather. Nurugai and her grandfather were in a friendly, familial relationship where she would learn off her grandfather's wisdom. Her village however were considered rebels against the current shogunate, refusing to submit to [Tokugawa](https://anilist.co/character/301606/Nariyoshi-Tokugawa). Because of this, samurai were sent to locate the hillside tribes they defined as Emishis. One day, Nurugai crossed paths with a party of lost men, encouraging Nurugai to offer her help by seeking rest in the security of her village. Nurugai recognized her mistake when she realised that these men were samurai under the order of Tokugawa, who began a mass killing of her village that would leave her as the sole survivor.",
+      "genero": "Female",
+      "edad": "12",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301607,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Osa",
+        "native": "長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301607-ERwRfX9Ddda3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301607-ERwRfX9Ddda3.png"
+      },
+      "descripcion": "Chief of Iwagakure and father of [Yui](https://anilist.co/character/151771).",
+      "genero": "Male",
+      "edad": "Unknown",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 151773,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ran",
+        "native": "蘭"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b151773-THqI74IGmHsS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b151773-THqI74IGmHsS.png"
+      },
+      "descripcion": "__Race:__ Tensen\n__Tao Attribute:__ Water\n__Occupation:__ Partial ruler of Kotaku\n__Affiliation:__ Lord Tensen, Xu Fu\n\nRan is a member of Lord Tensen and part ruler of Kotaku.\n\nRan is very loyal to [Rien](https://anilist.co/character/148754/Rien) and carries the same view of seeing the Tensens as family. Like all the members of Lord Tensen, Ran has no sympathy for humans and uses them as they see fit. He believes that it is a futile effort for the trespassers to invade the palace and try their hand at opposing the Tensens, showing signs that he views them inferior compared to his family. However, he is not above praising or admiring them if they show impressive skills. Due to specializing in Dō'in, Ran is extremely passionate about the physical work of the body and fighting styles that can only be obtained through diligent training.\n\n~! Upon transforming into his Kishikai form, Ran expressed his physicality while attacking [Gabimaru](https://anilist.co/character/137260/Gabimaru) and [Yuzuriha](https://anilist.co/character/137270/Yuzuriha). He was also up to the challenge of facing the two in their use of ninjutsu in order to strengthen his Dō'in training. !~\n\n~! He is bested in a fight against Gabimaru and Yuzuriha and is killed. Ran slowly dies with his last thoughts about Rien. !~",
+      "genero": "Male/Female (Prefers the Male gender)",
+      "edad": "1000+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 148754,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rien",
+        "native": "蓮"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148754-YBgD5DYoerY3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b148754-YBgD5DYoerY3.jpg"
+      },
+      "descripcion": "__Height:__ 173 - 185 cm\n__Race:__ Human; Tensen (Through her puppets)\n__Tao Attribute:__ Earth\n__Occupation:__ Leader of Lord Tensen, Ruler of Kotaku\n__Affiliations:__ Lord Tensen\n\nRien is a Tensen-class Sennin serving as the true ruler of Kotaku, the creator of the Tensens, and the leader of Lord Tensen.\n\n~!At some point during 3rd century BC, Rien was married to [Jofuku](https://anilist.co/character/306854/Jofuku) and went with him on his voyage to the East to acquire the Elixir of Life for the ruler of the Qin Dynasty. Their journey ended on an island where they decided to use the island's resources and their knowledge of Taoism to discover the secrets to gaining immortality. This resulted in many experimental creations. As part of their research, Rien used her Tao to create a clone of herself that she could remotely control. After receiving a new body, Rien used the Tao puppet to create another fabricated clone named [Mei](https://anilist.co/character/148755/Mei), who assisted both her and Jofuku, along with six fabricated newborns. These seven then came to be known as Tensens. After Jofuku's death, Rien made a commitment to revive him. With the Tensens she created, Rien formed the group known as Lord Tensen to maintain order over the island and trained the six young ones in the ways of Tao.!~",
+      "genero": "Female; Male/Female (Through her puppets)",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302052,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rokurouta",
+        "native": "陸郎太"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302052-avZhbeKO5Phy.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302052-avZhbeKO5Phy.jpg"
+      },
+      "descripcion": "__Height:__ 321 cm\n\nOne of the criminals sent to acquire the Elixir of Life for the [shogun](https://anilist.co/character/301606/Nariyoshi-Tokugawa). ~!Despite his size, he is an 8-year old child suffering from an abnormal case of gigantism.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306735,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Saya",
+        "native": "小夜"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306735-z9jqyKEcD2w2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306735-z9jqyKEcD2w2.png"
+      },
+      "descripcion": "Saya was the late younger sister of [Yuzuriha](https://anilist.co/character/137270/Yuzuriha).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137266,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Senta",
+        "native": "仙汰"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137266-5BQ0RQI2SXjs.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137266-5BQ0RQI2SXjs.png"
+      },
+      "descripcion": "__Race:__ Human\n\nYamada Asaemon Senta is the 5th rank Asaemon in the Yamada Clan. After the shogun sent criminals to Kotaku to find the Elixir of Life, he was tasked with being [Yuzuriha's](https://anilist.co/character/137270/Yuzuriha) executioner.\n\nSenta is very nervous around others and tends to frequently sweat. He usually remains in the background and goes along with whatever is happening around him but will speak up when he feels that whatever he has to say would be helpful. Senta is capable of assessing the situation and makes good judgements as to how to approach them. He dislikes his role of killing people but feels that he has no choice in the matter and chooses to abandon his dream of becoming an artist. After observing Yuzuriha, he becomes envious and enchanted by her innate freedom. Despite his nervous demeanor, Senta is fearless and stands his ground no matter who he is up against.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 170487,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shija",
+        "native": "シジャ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b170487-I4NQfboRrqtV.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b170487-I4NQfboRrqtV.jpg"
+      },
+      "descripcion": "__Height:__ 165 cm\n__Race:__ Human\n__Tao Attribute:__ Unknown\n__Occupation:__ Shinobi\n__Affiliation:__ Iwagakure\n\nShija is an elite shinobi assassin from Iwagakure. After the shogun came to Iwagakure for assistance in retrieving the Elixir of Life from Kotaku, having become impatient with the first group, Shija, and a squad of Iwa ninja, was assigned to the second team to complete the mission and supposedly provide support to the first team.\n\n~! In actuality, the Iwa ninjas' true mission is to kill [Gabimaru](https://anilist.co/character/137260/Gabimaru) and take back the alias of __Gabimaru the Hollow__. Shija is also the next chosen Iwagakure shinobi to potentially succeed the current holder of the alias. !~\n\nWhile working on missions, Shija has the complete mindset of a shinobi and only speaks when it is necessary. As a shinobi, Shija views themselves as a pawn for their master and only prioritizes on the orders they have been given on a mission no matter what the situation was. To this extent, they also hold no sense of concern for their ninja allies since they too follow the same belief.\n\n~! Shija has a long history with Gabimaru and has respect and a deep infatuation towards him, admiring his skills in ruthlessly killing his targets. Whenever they met or even have a mere thought about Gabimaru would cause Shija to break out in an excited love-struck behavior. Despite them respecting Gabimaru a lot, their love for him can be seen as being a twisted, borderline obsession. They think of themselves as Gabimaru's supporter and was driven to commit horrendously violent acts from the shadows for his sake in the past. In terms of loyalty between Iwagakure and Gabimaru, Shija has been pointed out by the latter to be an unpredictable individual that can either chose to give in to their feelings and become his ally or put the village's orders first and serve as his enemy. !~\n\nWhen they were young, Shija and their brothers underwent intense ninja training, along with many other children. While they managed to endure the gruesome training, Shija was left as the only surviving sibling and one of the few children to survive the screening.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137267,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shion",
+        "native": "士遠"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137267-D3mKSNS6H4o8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137267-D3mKSNS6H4o8.png"
+      },
+      "descripcion": "__Height:__ 178 cm\n__Race:__ Human \n__Tao Attribute:__ Wood\n\nShion is the 4th rank Asaemon of the Yamada clan and is the one chosen to be [Akaginu](https://anilist.co/character/302523/Akaginu)'s monitor. \n\nShion is a strict but kind man. He is well aware of the brutal nature of his work as an executioner, opting to spend the rest of his time helping others. Like the other Asaemon, he possesses a strong loyalty to the Yamada clan. Shion also has a witty sense of humor, often making puns and jokes regarding his eyesight, which has become a major part of his character to the people around him. Shion is shown to be fearless, showing no fear or hesitation when facing extremely strong enemies. \n",
+      "genero": "Male",
+      "edad": "27",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 393830,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shion no Hahaoya",
+        "native": "士遠の母親"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 307701,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shokushu Doushi",
+        "native": "道士"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b307701-vmr1ov2ZJNaq.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b307701-vmr1ov2ZJNaq.jpg"
+      },
+      "descripcion": "A subordinate of Lord Tensen who was ordered to check to see if [Aza Chōbei](https://anilist.co/character/137269/Aza-Choubei) and [Tōma](https://anilist.co/character/137261/Touma) were still in the pit becoming Tan.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 148752,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shugen",
+        "native": "殊現"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148752-WkhrTfWC7kC8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b148752-WkhrTfWC7kC8.png"
+      },
+      "descripcion": "__Race:__ Human\n__Tao Attribute:__ Water\n__Occupation:__ Asaemon, Assistant Instructor\n__Affiliation:__ Yamada Clan\n__Rank:__ 2nd\n\nShugen is the 2nd ranked Asaemon, as well as an Assistant Instructor, in the Yamada clan. Shugen is the leader of the second team sent to Kotaku after the [shogun](https://anilist.co/character/301606/Nariyoshi-Tokugawa) became impatient waiting for the first team to comeback. \n\nShugen is very dignified and diligent in his duties as an Asaemon. Shugen cares greatly for his Yamada clansmen, having spent his years with them and being taught what they know. He greatly expressed his concern for their safety on the island and vowed to bring them back home no matter what the means were. Furthermore, Shugen has a tendency to become emotional whenever he thinks about his comrades. He's one of the only Yamada clan members who doesn't look down on women in the clan and vouches for their qualifications as executioners. He greatly despises all criminals and truly believes that they are evil no matter who they are. At a young age, Shugen could not understand the Yamada clan's way of thinking when executing criminals and believed that they should all deserve a painful death.\n\nShugen believes in order of all things in the world; the order in which those who abide by the law are to be protected while those who break them should be punish without mercy.",
+      "genero": "Male",
+      "edad": "19-20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 26
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 151778,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tao Fa",
+        "native": "桃花"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b151778-eaLrGLvveKGL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b151778-eaLrGLvveKGL.png"
+      },
+      "descripcion": "__Height:__ 173-185 cm\n__Race:__ Tensen\n__Tao Attribute:__ Wood\n__Occupation:__ Partial Ruler of Kotaku\n__Affiliation:__ Lord Tensen, Xu Fu\n\nTao Fa is a member of Lord Tensen, as well as one of the rulers of Kotaku.\n\nTao Fa is very cheerful and always seems to be in a good mood. Unlike the other members of Lord Tensen, Tao Fa is rather friendly towards humans, or at least ones that are willing to cooperate with Lord Tensen's plans. However, she still carries the same view of using them as tools and shows no signs of sympathy towards them. Because she specializes in Bōchū Jutsu, Tao Fa is quite vulgar and often likes to flirt with others.\n\nTao Fa is always being protected by [Ju Fa](https://anilist.co/character/151772/Ju-Fa) since they had been by each others side from the moment they were born, because of that [Rien](https://anilist.co/character/148754/Rien) stated that the two were special in that they are in fact two of a whole.\n\nTao Fa had stated that they preferred the female gender because of their liking to their appearance. As such, they also acted feminine on top of their appearance.\n",
+      "genero": "Female/Male (Prefers the Female gender)",
+      "edad": "1000+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137265,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tenza",
+        "native": "典坐"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137265-seGQMLb69BKV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137265-seGQMLb69BKV.png"
+      },
+      "descripcion": "__Height:__ 176 cm (5'9\")\n\nTenza is the 10th rank Asaemon in the Yamada Clan. After [the shogun](https://anilist.co/character/301606/Tokugawa-Nariyoshi) sent criminals to Kotaku to find the Elixir of Life, he was chosen as [Nurugai's](https://anilist.co/character/137262/Nurugai) assigned monitor. From youth, Tenza started off on the streets but was eventually picked up by [Shion](https://anilist.co/character/137267/Shion) and made into his apprentice in the Yamada Clan. \n\nTenza is energetic and confident. He is a practitioner of bushido, taking in the lesson of continuing on forward no matter what is blocking his way. Tenza is also extremely righteous and does not let his duties as an Asaemon get in the way of doing what is right. He believes that Nurugai is innocent and does not deserve to die on the island. Although righteous he is, Tenza does not think things through, believing that without the elixir he would be able to convince his superiors to turn a blind eye. Tenza has a strong will to protect the people he cares about.\n\n",
+      "genero": "Male",
+      "edad": "16-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 22
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306847,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tesshin",
+        "native": "鉄心"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306847-pTOq1RighbhL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306847-pTOq1RighbhL.png"
+      },
+      "descripcion": "__Height:__ 173 cm\n\nTesshin was a former Asaemon of the Yamada clan and the first apprentice of [Shion](https://anilist.co/character/137267/Shion).",
+      "genero": "Male",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301606,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tokugawa Nariyoshi",
+        "native": "徳川斉慶"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301606-08sCkI5L3d11.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301606-08sCkI5L3d11.png"
+      },
+      "descripcion": "11th Shogun of Japan.",
+      "genero": "Male",
+      "edad": "48",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137261,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Touma",
+        "native": "桐馬"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137261-lWhxTwLOYLpO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137261-lWhxTwLOYLpO.png"
+      },
+      "descripcion": "__Race:__ Human\n__Tao Attribute:__ Earth\n__Occupation:__ Asaemon (Unofficial)\n__Affiliation:__ Yamada Clan\n\nToma is a relatively new member of the Yamada clan trying to rise in their ranks and is the assigned monitor of [Chobe Aza](https://anilist.co/character/137269/Chobe-Aza).\n\n~! He turns out to be the younger brother of Chobe Aza and had a mission of infiltrating the Yamada clan to rescue him from prison. !~\n\nToma believes that the key to surviving in life is adapting to ones environment. Toma tends to act rather unfriendly when someone tries to communicate with him on friendly terms. He also displays a cocky attitude.\n\n~! He is very caring and loyal to Chobe since he has been his protector since they were children and stresses out whenever harm comes to him. Because of how his father died fighting for his allies, Toma is reluctant to cooperate with anyone except for his brother. In his own eye, Toma views himself as an extension of his brother instead of an ally and stated that the bandits that followed the two were merely pawns for them to use. However, Toma soon realizes that his reliance on his brother to protect him interferes with his growth rate to look after himself. !~\n\n~! Toma and Chobe were born as sons to a retainer under the service of the daimyō of Akō Domain, Asano Takunori. However, after Asano Takunori attacked the court official Kira Yoshinaka at Edo Castle, he was sentenced to commit seppuku. As a result, their father and the rest of the retainers had their status removed and were left as ronin, leaving their family in poverty. Their mother eventually died of an illness and their father was executed for being a part of the Akō Incident, leaving the two siblings left alone to defend for themselves. They were eventually taken by bandits who planned on selling them but later came to live amongst them after Chobe managed to become their leader. !~",
+      "genero": "Male",
+      "edad": "15-16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 151771,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yui",
+        "native": "結"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b151771-obZQxZPwjiud.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b151771-obZQxZPwjiud.png"
+      },
+      "descripcion": "__Race:__ Human\n__Occupation:__ House Wife\n__Affiliations:__ Iwagakure\n\nYui is the daughter of the [Iwagakure chief](https://anilist.co/character/301607/Osa) and the wife of [Gabimaru](https://anilist.co/character/137260/Gabimaru).\n\nYui is very kind, caring and gentle. She truly loves Gabimaru and believes that he is not completely emotionless as people make him out to be. She accepts the fact that he kills people and is not terrified being around him. Yui is also shown to be wise as she gave Gabimaru words of wisdom on why he should relax his body while giving him a bath. She is very civilized as she taught Gabimaru basic manners when they became a couple.\n\nYui was born as the daughter of the Iwagakure chief. Being born a female, Yui was not trained in the ways of the shinobi and instead lived a semi-normal life within the village. \n\n~!At some point, during her time with her father, the chief burned her face to make sure that she gave up on her dreams of ever living a normal, peaceful life as a woman. After Gabimaru proved his worth to the chief, Yui was forced by her father to marry him. The two then came to love each other as their days went by. Wanting to give his wife a peaceful life, Gabimaru came to the village chief requesting to abandon his duties as a shinobi, resulting in him being betrayed by the village and handed over to the authorities to be executed. After hearing news of her husband's captured, Yui went into a state of depression and refused to speak to anyone or eat as she waits in hopes for Gabimaru's return.!~",
+      "genero": "Female",
+      "edad": "16-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137270,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuzuriha",
+        "native": "杠"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137270-PTFen9fxyo4H.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137270-PTFen9fxyo4H.png"
+      },
+      "descripcion": "__Height:__ 160 cm\n__Race:__ Human\n__Age:__ Unknown\n__Tao Attribute:__ Earth\n__Occupation:__ Kunoichi\n\nYuzuriha also known as Yuzuriha of the Keishu, is a kunoichi and one of the few criminals recruited to acquire the Elixir of Life.\n\nYuzuriha is friendly and cheerful around others with a typical teenage girl personality. She is shown to be carefree and prefers to do things at her own pace. Because of her reputation as a criminal, Yuzuriha has no problems when it comes to killing or who she has to sacrifice to achieve a goal. Underneath her friendly attitude, Yuzuriha's true nature is that of a complete narcissist, only focusing on her own well-being and shows little concern for others. This attitude stemmed from her past vow to her little sister to live only for the both of them. As a kunoichi, Yuzuriha uses her charms to get what she wants, but despite that she is shown to be a terrible liar after trying to make up her backstory.\n\n~!Though selfish, Yuzuriha can show compassion to others. As Senta was dying, she consoled him and had him die in peace by making him forget about his duties as an Asaemon and gave him the last bit of freedom he had to think about what he wanted to imagine as his last memory.!~\n\n~!Despite her beautiful appearence, with her mucus abilities she actually hides a body full of scars.!~\n\nYuzuriha grew up in a shinobi village living with her little sister, [Saya](https://anilist.co/character/306735/Saya), who was suffering from an incurable disease and eventually died. From then on, Yuzuriha swore to live her life for the both of them and started her career as a kunoichi. Sometime ago, Yuzuriha raided the Sagiwa Castle and defeated the retainers defending it.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 151775,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zhu Jin",
+        "native": "朱槿"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b151775-1f264MokbLYd.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b151775-1f264MokbLYd.jpg"
+      },
+      "descripcion": "__Height:__ 173 - 185 cm\n__Race:__ Tensen\n__Tao Attribute:__ Water\n__Occupation:__ Partial Ruler of Kotaku\n__Affiliation:__ Lord Tensen, Xu Fu\n\nZhu Jin is one of the rulers of Kotaku and one of the seven Lord Tensen.\n\nZhu Jin carries themselves with a calm and relaxed demeanor even when handling threats. Like their fellow Tensen, Zhu Jin has no sympathy for humans when it comes to killing them. Zhu Jin is also very perceptive of their opponents skills and can quickly adjust to them, causing them to become unfazed by whatever move they make. Zhu Jin can become easily irritated with troubling matters. Despite usually keeping a straight face at all times, when faced with an unbelievable crisis, Zhu Jin can break into a state of panic and fear and will take matters seriously. \n\nZhu Jin follows [Gui Fa](https://anilist.co/character/170488/Gui-Fa)'s example of taking the Middle Way in terms of the two sexes. Therefore, unlike the other Tensens, Zhu Jin does not carry a preference to either being male or female and allows themselves to switch in and out of the two chi's over time.",
+      "genero": "Male/Female (Switches constantly)",
+      "edad": "1000+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        },
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302523,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Akaginu",
+        "native": "あか絹"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302523-gLqxyQKvyVWC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302523-gLqxyQKvyVWC.jpg"
+      },
+      "descripcion": "Death row convict recruited to find the Elixir of Life. She is a cannibal with a taste for male flesh, especially after first making them succumb to her sexual temptations.",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 303222,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Bugyou Yoriki",
+        "native": "奉行与力"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b303222-SbKOdsiZHrVK.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b303222-SbKOdsiZHrVK.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392488,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Choumin A",
+        "native": "町民A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392489,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Choumin B",
+        "native": "町民B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305983,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Chounin A",
+        "native": "町人A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305985,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Chounin B",
+        "native": "町人B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305982,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Chounin C",
+        "native": "町人C"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306845,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gabimaru no Chichi",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306845-cNQMCF4ubjrm.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306845-cNQMCF4ubjrm.png"
+      },
+      "descripcion": "He was a former jounin-class shinobi of Iwagakure and [Gabimaru](https://anilist.co/character/137260/Gabimaru)'s father.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306859,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gabimaru no Haha",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306859-HnYYj7W4cpfL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306859-HnYYj7W4cpfL.png"
+      },
+      "descripcion": "She was a former jougnin-class kunoichi of Iwagakure and [Gabimaru](https://anilist.co/character/137260/Gabimaru)'s mother.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 389172,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hakusai Doushi",
+        "native": "ハクサイ道士"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302058,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hana Yoriki",
+        "native": "花与力"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302058-DCJ3fUO3BKs5.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302058-DCJ3fUO3BKs5.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 303162,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hanshu",
+        "native": "藩主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b303162-s8N4j5hXDfA0.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b303162-s8N4j5hXDfA0.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306994,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Houko-tachi no Koe",
+        "native": "木人たちの声"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302525,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hourubou",
+        "native": "法流坊"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302525-iKmveUnK7Z6Z.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302525-iKmveUnK7Z6Z.jpg"
+      },
+      "descripcion": "Death row convict recruited to find the Elixir of Life. Due to how his body is constructed, he has the unique ability to stretch or contort his limbs to restrain and constrict his opponents.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302057,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Irezumimono",
+        "native": "入れ墨者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302057-05ESDHgJF5mU.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302057-05ESDHgJF5mU.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394953,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ishi Kakure Nin",
+        "native": "石隠れ忍"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302051,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Karou",
+        "native": "家老"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302527,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kichiji",
+        "native": "吉次"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302527-tigkE4fAyNLW.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302527-tigkE4fAyNLW.jpg"
+      },
+      "descripcion": "Head of the Yamada clan. He is the father of [Sagiri](https://anilist.co/character/137263).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306855,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kinkakubou",
+        "native": "金閣坊"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306855-fG61hBdkOF2S.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306855-fG61hBdkOF2S.png"
+      },
+      "descripcion": "__Height:__ 214 cm\n\nKinkakubou is a jounin-class shinobi of Iwagakure.",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 303161,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Machibugyou",
+        "native": "町奉行"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302526,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Makiya Moro",
+        "native": "茂籠牧耶"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302526-wT5r7s2l5O9O.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302526-wT5r7s2l5O9O.jpg"
+      },
+      "descripcion": "__Height:__ 191 cm\n\nDeath row convict recruited to find the Elixir of Life. Makiya had an ambition to overthrow the shogun and went about it by forming a cult that was based off of multiple religions.",
+      "genero": "Male",
+      "edad": "24",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 303160,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Monkasei",
+        "native": "門下生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392487,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Monkasei",
+        "native": "門下生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36309,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Narrator",
+        "native": "ナレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+      },
+      "descripcion": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 6,
+          "title": {
+            "romaji": "TRIGUN",
+            "english": "Trigun",
+            "native": "TRIGUN"
+          }
+        },
+        {
+          "id": 21,
+          "title": {
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
+          }
+        },
+        {
+          "id": 25,
+          "title": {
+            "romaji": "Sunabouzu",
+            "english": "Desert Punk",
+            "native": "砂ぼうず"
+          }
+        },
+        {
+          "id": 28,
+          "title": {
+            "romaji": "Yakitate!! Japan",
+            "english": null,
+            "native": "焼きたて!! ジャぱん"
+          }
+        },
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 33,
+          "title": {
+            "romaji": "Kenpuu Denki Berserk",
+            "english": "Berserk",
+            "native": "剣風伝奇ベルセルク"
+          }
+        },
+        {
+          "id": 60,
+          "title": {
+            "romaji": "Chrno Crusade",
+            "english": "Chrono Crusade",
+            "native": "クロノクルセイド"
+          }
+        },
+        {
+          "id": 67,
+          "title": {
+            "romaji": "Basilisk: Kouga Ninpouchou",
+            "english": "Basilisk",
+            "native": "バジリスク 甲賀忍法帖"
+          }
+        },
+        {
+          "id": 80,
+          "title": {
+            "romaji": "Kidou Senshi Gundam",
+            "english": "Mobile Suit Gundam",
+            "native": "機動戦士ガンダム"
+          }
+        },
+        {
+          "id": 90,
+          "title": {
+            "romaji": "Shin Kidou Senki Gundam Wing",
+            "english": "Mobile Suit Gundam Wing",
+            "native": "新機動戦記ガンダムW"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306731,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Nikimaru",
+        "native": "二木丸"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306731-ZAXAtJdrzhYr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306731-ZAXAtJdrzhYr.png"
+      },
+      "descripcion": "\"Serial Firebug\" Nikimaru was a criminal put on death row and a candidate to partake in the expedition to Shinsenkyou.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 388254,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ninsoku",
+        "native": "人足"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304199,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Nurugai no Sofu",
+        "native": "ヌルガイの祖父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b304199-K3OkohtgVKkE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b304199-K3OkohtgVKkE.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 389171,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Oyabun",
+        "native": "親分"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304848,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Rokurouta no Chichi",
+        "native": "陸郎太の父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b304848-qK6yP1whCc3C.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b304848-qK6yP1whCc3C.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304847,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Rokurouta no Haha",
+        "native": "陸郎太の母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b304847-kprr2DtDxR8Y.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b304847-kprr2DtDxR8Y.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392486,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Roushi",
+        "native": "老師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392486-9cmikT0J7s1E.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b392486-9cmikT0J7s1E.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301608,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Rouyakunin A",
+        "native": "牢役人A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301609,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Rouyakunin B",
+        "native": "牢役人B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301610,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Rouyakunin C",
+        "native": "牢役人C"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305984,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Samurai",
+        "native": "侍"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306858,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shuukan Kido",
+        "native": "木戸周監"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306858-Tm5TYFOQwl4a.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306858-Tm5TYFOQwl4a.png"
+      },
+      "descripcion": "Kido Shuukan was a well known vicious criminal.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306736,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tanio Seikichi",
+        "native": "谷尾清吉"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306736-slekxDYLpoPo.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306736-slekxDYLpoPo.png"
+      },
+      "descripcion": "Tanio Seikichi was a criminal put on death row and a candidate to partake in the expedition to Shinsenkyou.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 389961,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tsukushi Doushi",
+        "native": "ツクシ道士"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302054,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tsumibito A",
+        "native": "罪人A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302056,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tsumibito B",
+        "native": "罪人B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304198,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Uwayaku",
+        "native": "上役"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 303159,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yakunin",
+        "native": "役人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    },
+    {
+      "id": 388253,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yakunin",
+        "native": "役人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 393834,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yamada-ya Montei",
+        "native": "山田家門弟"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166613,
+          "title": {
+            "romaji": "Jigokuraku 2nd Season",
+            "english": "Hell’s Paradise Season 2",
+            "native": "地獄楽 第二期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302055,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yoriki",
+        "native": "与力"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 128893,
+          "title": {
+            "romaji": "Jigokuraku",
+            "english": "Hell’s Paradise",
+            "native": "地獄楽"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 88,
+  "actualizado": 1788565178
+}

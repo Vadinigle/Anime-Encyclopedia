@@ -1,0 +1,1256 @@
+{
+  "clave": "steins-gate",
+  "nombre": "Steins;Gate",
+  "descripcion": "Viajes en el tiempo y Akihabara",
+  "generos": [
+    "Drama",
+    "Ciencia ficción"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-tIUXF2gfU8Sg.jpg",
+  "medios": [
+    {
+      "id": 9253,
+      "title": {
+        "romaji": "Steins;Gate",
+        "english": "Steins;Gate",
+        "native": "シュタインズ・ゲート"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-tIUXF2gfU8Sg.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9253-tIUXF2gfU8Sg.jpg"
+      }
+    },
+    {
+      "id": 21127,
+      "title": {
+        "romaji": "Steins;Gate 0",
+        "english": "Steins;Gate 0",
+        "native": "シュタインズ・ゲート ゼロ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21127-7ARWZkDXKiiD.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21127-7ARWZkDXKiiD.jpg"
+      }
+    },
+    {
+      "id": 11577,
+      "title": {
+        "romaji": "Steins;Gate: Fuka Ryouiki no Déjà vu",
+        "english": "Steins;Gate The Movie – Load Region of Déjà Vu",
+        "native": "劇場版 シュタインズゲート 負荷領域のデジャヴ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11577-rhqsxLOAge4f.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11577-rhqsxLOAge4f.png"
+      }
+    },
+    {
+      "id": 10863,
+      "title": {
+        "romaji": "Steins;Gate: Oukoubakko no Poriomania",
+        "english": "Steins;Gate: Egoistic Poriomania",
+        "native": "シュタインズ・ゲート 横行跋扈のポリオマニア"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10863-V6oW2kN8bBYf.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10863-V6oW2kN8bBYf.png"
+      }
+    },
+    {
+      "id": 21624,
+      "title": {
+        "romaji": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+        "english": "Steins;Gate 0: 23β -Divide by Zero-",
+        "native": "シュタインズ・ゲート 境界面上のミッシングリンク -Divide By Zero-"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21624-szbmwyC3sJos.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21624-szbmwyC3sJos.jpg"
+      }
+    },
+    {
+      "id": 104174,
+      "title": {
+        "romaji": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
+        "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+        "native": "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104174-aoNLSSN6bT4L.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104174-aoNLSSN6bT4L.png"
+      }
+    },
+    {
+      "id": 20907,
+      "title": {
+        "romaji": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+        "english": null,
+        "native": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20907-Pl4YwH8RopKT.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20907-Pl4YwH8RopKT.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 35258,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Itaru Hashida",
+        "native": "橋田至"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35258-FeTGR4LEUNvt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35258-FeTGR4LEUNvt.png"
+      },
+      "descripcion": "__Height:__ 164 cm (5'5\")\n\nFirst-year student at Tokyo Denki University. Pro-active otaku, who's got a thing for both 2-D and 3-D girls. Plenty of statements he makes could be taken as sexual harassment. He and [Rintarou](https://anilist.co/character/35252/Okabe-Rintarou) have known each other since high school. He usually dismissed Rintarou's ridiculous requests as \"annoying\", but actually completes them well, and trusts Rintarou as a friend. Has great confidence in his programming and hacking abilities (he doesn't mind being called a Super Hacker, but doesn't like it when people call him Super Haker). He's always in front of the computer.",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": 1991,
+        "month": 5,
+        "day": 19
+      },
+      "media": [
+        {
+          "id": 9253,
+          "title": {
+            "romaji": "Steins;Gate",
+            "english": "Steins;Gate",
+            "native": "シュタインズ・ゲート"
+          }
+        },
+        {
+          "id": 10863,
+          "title": {
+            "romaji": "Steins;Gate: Oukoubakko no Poriomania",
+            "english": "Steins;Gate: Egoistic Poriomania",
+            "native": "シュタインズ・ゲート 横行跋扈のポリオマニア"
+          }
+        },
+        {
+          "id": 11577,
+          "title": {
+            "romaji": "Steins;Gate: Fuka Ryouiki no Déjà vu",
+            "english": "Steins;Gate The Movie – Load Region of Déjà Vu",
+            "native": "劇場版 シュタインズゲート 負荷領域のデジャヴ"
+          }
+        },
+        {
+          "id": 20907,
+          "title": {
+            "romaji": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+            "english": null,
+            "native": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング"
+          }
+        },
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        },
+        {
+          "id": 21624,
+          "title": {
+            "romaji": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+            "english": "Steins;Gate 0: 23β -Divide by Zero-",
+            "native": "シュタインズ・ゲート 境界面上のミッシングリンク -Divide By Zero-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126104,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kagari Shiina",
+        "native": "椎名かがり"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126104-51UIwJ3ZnbTi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126104-51UIwJ3ZnbTi.png"
+      },
+      "descripcion": "\n~!Adopted daughter of Shiina Mayuri from the year 2036. She travels with Suzuha Amane in the time machine back to 1998 and is separated, causing her to be 22 years old in 2010. She's found with amnesia.!~",
+      "genero": "Female",
+      "edad": "10 (2036); 22 (2010)",
+      "fecha_nacimiento": {
+        "year": 2026,
+        "month": 7,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        },
+        {
+          "id": 104174,
+          "title": {
+            "romaji": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
+            "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+            "native": "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 34470,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kurisu Makise",
+        "native": "牧瀬紅莉栖"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b34470-Jw2LXZBL5R8i.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b34470-Jw2LXZBL5R8i.png"
+      },
+      "descripcion": "__Height:__ 160 cm (5'3\")\n\nKurisu is a research member in Viktor Chondria University's Brain Research Program. Her age group matches that of third-year high schoolers, but she skipped a grade through America's educational system. She is also famous in America for writing theses papers, part of which is covered in the news. Thanks to skipping a grade in America as a girl, she was envied by people around her, and ended up building a strong personality. She does not want to show weakness to others, so she always has a stern expression. However, she is very curious, and when she builds interest, she pokes into things. Occasionally, she has views that differ from regular opinions, such as, \"The experiment data is more important than the subject's privacy.\" [Rintarou](https://anilist.co/character/35252) often tells her, \"Hey, you've got a pretty good sense of being a Mad Scientist,\" but she is not one to agree to such things personally. She is a tsundere.",
+      "genero": "Female",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": 1992,
+        "month": 7,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 9253,
+          "title": {
+            "romaji": "Steins;Gate",
+            "english": "Steins;Gate",
+            "native": "シュタインズ・ゲート"
+          }
+        },
+        {
+          "id": 10519,
+          "title": {
+            "romaji": "Mahou Shoujo Sonico☆Magica",
+            "english": "Puella Magi Sonico Magica",
+            "native": "魔法少女そに子☆マギカ"
+          }
+        },
+        {
+          "id": 10863,
+          "title": {
+            "romaji": "Steins;Gate: Oukoubakko no Poriomania",
+            "english": "Steins;Gate: Egoistic Poriomania",
+            "native": "シュタインズ・ゲート 横行跋扈のポリオマニア"
+          }
+        },
+        {
+          "id": 11577,
+          "title": {
+            "romaji": "Steins;Gate: Fuka Ryouiki no Déjà vu",
+            "english": "Steins;Gate The Movie – Load Region of Déjà Vu",
+            "native": "劇場版 シュタインズゲート 負荷領域のデジャヴ"
+          }
+        },
+        {
+          "id": 20907,
+          "title": {
+            "romaji": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+            "english": null,
+            "native": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング"
+          }
+        },
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        },
+        {
+          "id": 21624,
+          "title": {
+            "romaji": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+            "english": "Steins;Gate 0: 23β -Divide by Zero-",
+            "native": "シュタインズ・ゲート 境界面上のミッシングリンク -Divide By Zero-"
+          }
+        },
+        {
+          "id": 104174,
+          "title": {
+            "romaji": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
+            "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+            "native": "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 83419,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Maho Hiyajou",
+        "native": "比屋定真帆 "
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83419-p2gjgTL37GTU.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b83419-p2gjgTL37GTU.jpg"
+      },
+      "descripcion": "__Height:__ 140 cm (4’7”)\n\nAnother researcher at Victor Concordia University's Neuroscience Lab, similar to Kurisu. She attends a lecture at Okabe's university as Professor Leskinen's assistant.",
+      "genero": "Female",
+      "edad": "21",
+      "fecha_nacimiento": {
+        "year": 1989,
+        "month": 11,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        },
+        {
+          "id": 104174,
+          "title": {
+            "romaji": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
+            "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+            "native": "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 35253,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Mayuri Shiina",
+        "native": "椎名まゆり"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35253-u6QVgLLyHq2W.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35253-u6QVgLLyHq2W.png"
+      },
+      "descripcion": "__Height:__ 151 cm  (4'11\")\n\nSecond year in Kasensou Private Prepatory Academy. Childhood friend of [Rintarou](https://anilist.co/character/35252/Okabe-Rintarou)'s, and slow by nature. Speaks in a very wavy manner, and seems to always be smiling and having fun. She's quite the optimist. She has trouble understanding complicated theories, but doesn't mind as long as it's enjoyable. Doesn't like people arguing, and is depressed when things are unpleasant. Though she'd like to ease the situation in such cases, she's not really good at reading between the lines. She often went with her grandmother to see the stars on her grandmother's back. Because of that, she has a habit of reaching her arm out to the sky at times, which has led Rintarou to naming it the \"Stardust Shakehand\". She abruptly does this (even if she's talking with someone), which surprises everyone around her.",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": 1994,
+        "month": 2,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 9253,
+          "title": {
+            "romaji": "Steins;Gate",
+            "english": "Steins;Gate",
+            "native": "シュタインズ・ゲート"
+          }
+        },
+        {
+          "id": 10863,
+          "title": {
+            "romaji": "Steins;Gate: Oukoubakko no Poriomania",
+            "english": "Steins;Gate: Egoistic Poriomania",
+            "native": "シュタインズ・ゲート 横行跋扈のポリオマニア"
+          }
+        },
+        {
+          "id": 11577,
+          "title": {
+            "romaji": "Steins;Gate: Fuka Ryouiki no Déjà vu",
+            "english": "Steins;Gate The Movie – Load Region of Déjà Vu",
+            "native": "劇場版 シュタインズゲート 負荷領域のデジャヴ"
+          }
+        },
+        {
+          "id": 20907,
+          "title": {
+            "romaji": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+            "english": null,
+            "native": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング"
+          }
+        },
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        },
+        {
+          "id": 21624,
+          "title": {
+            "romaji": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+            "english": "Steins;Gate 0: 23β -Divide by Zero-",
+            "native": "シュタインズ・ゲート 境界面上のミッシングリンク -Divide By Zero-"
+          }
+        },
+        {
+          "id": 104174,
+          "title": {
+            "romaji": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
+            "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+            "native": "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 35252,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Rintarou Okabe",
+        "native": "岡部倫太郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35252-DY9TW6pusqeh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35252-DY9TW6pusqeh.png"
+      },
+      "descripcion": "__Height:__ 177 cm (5'10\")\n\nOkabe Rintarou is a first-year student attending Tokyo Denki University and calls himself a Crazy Mad Scientist. He acts like a villain​ but is rather immature as he frequently shows traits of Chuunibyou syndrome despite being a grown-up man. After enrolling in university, he established a laboratory in Akihabara named the \"Future Gadget Research Establishment\", where he invents gadgets which tend to be of little use. He often speaks to himself on his cellphone, often not making any sense. Supposedly, he has very few friends that can understand what he's talking about.\n\nThe phrase he uses to end conversations, particularly with himself, is \"El Psy Kongroo\" (エル・プサイ・コングルゥ).\n\nSteins;Gate:\n~!Eventually, he falls in love with, and confesses to, [Makise Kurisu](https://anilist.co/character/34470).!~\n\nSteins;Gate 0:\n~!In the future of the Alpha world line, Okabe became the leader of the resistance against SERN's rule, and was known as an international terrorist (in the side story \"The Distant Valhalla\", it's revealed that SERN released Okabe and [Daru](https://anilist.co/character/35258) so that they could found the resistance, thus completing the cycle of fate). Okabe got captured by SERN's Rounder unit in 2025 and was tortured to death.!~",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": 1991,
+        "month": 12,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 9253,
+          "title": {
+            "romaji": "Steins;Gate",
+            "english": "Steins;Gate",
+            "native": "シュタインズ・ゲート"
+          }
+        },
+        {
+          "id": 10863,
+          "title": {
+            "romaji": "Steins;Gate: Oukoubakko no Poriomania",
+            "english": "Steins;Gate: Egoistic Poriomania",
+            "native": "シュタインズ・ゲート 横行跋扈のポリオマニア"
+          }
+        },
+        {
+          "id": 11577,
+          "title": {
+            "romaji": "Steins;Gate: Fuka Ryouiki no Déjà vu",
+            "english": "Steins;Gate The Movie – Load Region of Déjà Vu",
+            "native": "劇場版 シュタインズゲート 負荷領域のデジャヴ"
+          }
+        },
+        {
+          "id": 20907,
+          "title": {
+            "romaji": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+            "english": null,
+            "native": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング"
+          }
+        },
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        },
+        {
+          "id": 21624,
+          "title": {
+            "romaji": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+            "english": "Steins;Gate 0: 23β -Divide by Zero-",
+            "native": "シュタインズ・ゲート 境界面上のミッシングリンク -Divide By Zero-"
+          }
+        },
+        {
+          "id": 104174,
+          "title": {
+            "romaji": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
+            "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+            "native": "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 35256,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Rumiho Akiha",
+        "native": "秋葉留美穂"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35256-A729dmHEgSYQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35256-A729dmHEgSYQ.png"
+      },
+      "descripcion": "__Height:__ 143 cm (4'8\")\n  \nSecond year in Kanaria Private Academy. Faris is someone who works part-time at a maid cafe called \"MayQueen+Nyan2\". [Mayuri](https://anilist.co/character/35253/Shiina-Mayuri) works with her. She's quite child-like. Acts like a childish devil towards men. Also adds embarrassing \"meows\" to her speech. Has an ability to see into people's hearts just by looking into their eyes (which she calls the \"Cheshire Break\").",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 9253,
+          "title": {
+            "romaji": "Steins;Gate",
+            "english": "Steins;Gate",
+            "native": "シュタインズ・ゲート"
+          }
+        },
+        {
+          "id": 10863,
+          "title": {
+            "romaji": "Steins;Gate: Oukoubakko no Poriomania",
+            "english": "Steins;Gate: Egoistic Poriomania",
+            "native": "シュタインズ・ゲート 横行跋扈のポリオマニア"
+          }
+        },
+        {
+          "id": 11577,
+          "title": {
+            "romaji": "Steins;Gate: Fuka Ryouiki no Déjà vu",
+            "english": "Steins;Gate The Movie – Load Region of Déjà Vu",
+            "native": "劇場版 シュタインズゲート 負荷領域のデジャヴ"
+          }
+        },
+        {
+          "id": 20907,
+          "title": {
+            "romaji": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+            "english": null,
+            "native": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング"
+          }
+        },
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        },
+        {
+          "id": 104174,
+          "title": {
+            "romaji": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
+            "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+            "native": "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 35255,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Suzuha Amane",
+        "native": "阿万音鈴羽"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35255-Ra9Aq5Kn9lYq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35255-Ra9Aq5Kn9lYq.png"
+      },
+      "descripcion": "__Height__: 163 cm (5'4\")\n\nA girl that really likes riding bicycles, and is quite energetic, though a little crude. If you stick around her, she's surprisingly cautious. Very helpful. A little too familiar with things, but doesn't dig too deep. Not quite comfortable with having other people help her. For that reason, she spends as little time as possible. Her personality drastically changes when it comes to her own interests. Proactive. Has a habit of using strange and difficult vocabulary at times, but somehow you can tell she's purposely doing so. Ended up hanging out with the Future Gadget Laboratory since she started working at the CRT TV Workshop.   \n\n~!It is revealed in Episode 14 that she came from the year 2036 to save the world from SERN's rule. Therefore, she used the name John Titor on Internet boards so that Okabe and the others would notice. She was the one who sent the time machine crashing into Akihabara in 2010, right when the Phone Microwave was being developed. This time machine, revealed to have been created by Daru, could only go back in time, but could never go to the future.  In order to find the IBN 5100, Suzuha decides to go back to 1975 and then bring it to Okabe to stop SERN. In deciding so, she would have to leave 2010 and wouldn't be able to come back. Dedicated to her mission, she decides to go. A few hours after her departure, Okabe and the others receive a letter from her, written in the year 2000. It revealed that she had failed to retrieve the PC, due to the time machine's malfunction, causing her to lose her memory until the year 2000. It was revealed by Mr. Braun that she had committed suicide that day, but thanks to the D-Mail Okabe sent, her death changed from suicide to illness. This caused the meter to raise its number, but not up to 1%.  In the Drama CD, it's revealed that after going back to 1975, she later became a professor in Akiha Yukitaka's and Nakabachi (then Makise Shouichi)'s university, and started their interest in the creation of a time machine.!~",
+      "genero": "Female",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": 2017,
+        "month": 9,
+        "day": 27
+      },
+      "media": [
+        {
+          "id": 9253,
+          "title": {
+            "romaji": "Steins;Gate",
+            "english": "Steins;Gate",
+            "native": "シュタインズ・ゲート"
+          }
+        },
+        {
+          "id": 11577,
+          "title": {
+            "romaji": "Steins;Gate: Fuka Ryouiki no Déjà vu",
+            "english": "Steins;Gate The Movie – Load Region of Déjà Vu",
+            "native": "劇場版 シュタインズゲート 負荷領域のデジャヴ"
+          }
+        },
+        {
+          "id": 20907,
+          "title": {
+            "romaji": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+            "english": null,
+            "native": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング"
+          }
+        },
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        },
+        {
+          "id": 21624,
+          "title": {
+            "romaji": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+            "english": "Steins;Gate 0: 23β -Divide by Zero-",
+            "native": "シュタインズ・ゲート 境界面上のミッシングリンク -Divide By Zero-"
+          }
+        },
+        {
+          "id": 104174,
+          "title": {
+            "romaji": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
+            "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+            "native": "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89506,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Upa",
+        "native": "コグニティブコンピューティングシステム・うーぱ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/89506-dTT3eSBnB8Lw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/89506-dTT3eSBnB8Lw.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20907,
+          "title": {
+            "romaji": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+            "english": null,
+            "native": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126105,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Alexis Leskinen",
+        "native": "アレクシス・レスキネン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126105-rQd5KLcYgtvi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126105-rQd5KLcYgtvi.png"
+      },
+      "descripcion": "An American professor and senior researcher at Victor Chondria University's Brain Research Institute. He serves as a mentor to Kurisu Makise and Maho Hiyajo. He is well respected in his field and is often described as childlike and friendly by Maho Hiyajo.\n~!He works for Stratfor and destroyed the time machine several times directly and indirectly!~\n\n~!He brainwashed Kagari in the future and sent her back in time to contact his past self about the time machine!~",
+      "genero": "Male",
+      "edad": "34",
+      "fecha_nacimiento": {
+        "year": 1976,
+        "month": 8,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        },
+        {
+          "id": 104174,
+          "title": {
+            "romaji": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
+            "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+            "native": "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 41897,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dr. Nakabachi",
+        "native": "ドクター中鉢"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41897-qc6fWvsXdBVo.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b41897-qc6fWvsXdBVo.png"
+      },
+      "descripcion": "He is the professor who gives the lecture about time travels in Episode 1.   ~!It is revealed in episode 23, that he is Shouichi Makise, Kurisu's father and also the one who stabbed her in the first episode. Due to his deep-seated jealousy with his daughter's talents, which has strained their relationship for years, Nakabachi stole her papers on the creation of the time machine and took it as his own. He later defected to Russia, and with the papers put to practice, in the future the time machine race will break out, and World War III will doom the Alpha worldline.  In the Drama CD, it's revealed that he and Akiha Yukitaka (Feiris's dad) were students of Hashida Suzu, aka Amane Suzuha, and the three of them were devoted to the research on time machine. Shouichi changed his surname to Nakabachi, a mentor of his, in order to continue the research without being tracked down by organizations with the same interest.   Also in this Drama CD, it's shown that Nakabachi used to love Kurisu, and was very proud of her prodigious intellect, displayed as early as two. However, as Kurisu became more intrigued by his works, she started to learn by herself and soon surpassed him. When she was eleven, she was able to disprove his time machine theory, and the shame drove Nakabachi to cut off his relationship with her, and never gave her the 11th birthday present he bought, an incident he later confessed to Yukitaka that he deeply regretted. He became more resolved to build  a time machine \"that could not be denied by [his] daughter\". !~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9253,
+          "title": {
+            "romaji": "Steins;Gate",
+            "english": "Steins;Gate",
+            "native": "シュタインズ・ゲート"
+          }
+        },
+        {
+          "id": 21624,
+          "title": {
+            "romaji": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+            "english": "Steins;Gate 0: 23β -Divide by Zero-",
+            "native": "シュタインズ・ゲート 境界面上のミッシングリンク -Divide By Zero-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 42945,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eisuke Urushibara",
+        "native": "漆原栄輔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/42945-VOf3QD9mGJIq.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/42945-VOf3QD9mGJIq.jpg"
+      },
+      "descripcion": "Ruka&#039;s father.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9253,
+          "title": {
+            "romaji": "Steins;Gate",
+            "english": "Steins;Gate",
+            "native": "シュタインズ・ゲート"
+          }
+        },
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 41913,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "John Titor",
+        "native": "ジョン・タイター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": "Based on a 'real' person, John Titor is the name used on several bulletin boards during 2000 and 2001 by a poster claiming to be a time traveler from the year 2036. In these posts he made numerous predictions (a number of them vague, some quite specific) about events in the near future, starting with events in 2004.\n\n~! In Steins;Gate, it is a codename used by Amane Suzuha on the internet. !~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9253,
+          "title": {
+            "romaji": "Steins;Gate",
+            "english": "Steins;Gate",
+            "native": "シュタインズ・ゲート"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126252,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Judy Reyes",
+        "native": "ジュディ・レイエス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126252-HURAfUyTIzgC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126252-HURAfUyTIzgC.jpg"
+      },
+      "descripcion": "A Colleague of Leskinen, also a scientist.\n\n~!She works for DURPA and is one of the people In the motorcycle suits!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126251,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaede Kurushima",
+        "native": "来嶋かえで"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126251-DCxqXhRRQIaF.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126251-DCxqXhRRQIaF.jpg"
+      },
+      "descripcion": "One of Mayuri's cosplayer friends.\nWhen attending events, she likes to wear the costumes Mayuri makes.",
+      "genero": "Female",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        },
+        {
+          "id": 104174,
+          "title": {
+            "romaji": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
+            "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+            "native": "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126253,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Katsumi Nakase",
+        "native": "中瀬克美"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126253-Dh2Mj3jGm8Ho.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126253-Dh2Mj3jGm8Ho.jpg"
+      },
+      "descripcion": "One of Mayuri's cosplayer friends.\nHer stage name is \"Fubuki\". She's popular for her boyish charms.",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        },
+        {
+          "id": 104174,
+          "title": {
+            "romaji": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
+            "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+            "native": "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 30919,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Luka Urushibara",
+        "native": "漆原るか"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30919-5PjiA4ucfuuJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b30919-5PjiA4ucfuuJ.png"
+      },
+      "descripcion": "__Height:__ 161 cm (5'3\")\n\nSecond year in Kasensou Private Prepatory Academy. Mayuri's classmate. Luka has the personality of a polite, well-groomed, and justified kind of person. Uses honorifics specifically with Rintarou. Luka doesn't push their opinions much upon others, but when they do they become quite bashful and blush quite a bit. Because they're quite serious by nature, they simply believe what others say. Thanks to that, Luka thinks all the ridiculous stuff Rintarou talks about is real. Rintarou makes them out to be his student on their own, and is currently in the middle of brainwashing them. A very shy person, Luka often turns down Mayuri's requests to cosplay.  ~!In Episode 8, Luka succeeded in changing their sex to female by sending a message to their mother's pager, telling them to consume more vegetables to alter their sex.!~   ~!In exchange of dating Rintarou, Luka undid their message which turned back their sex to male again. !~",
+      "genero": null,
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": 1993,
+        "month": 8,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 9253,
+          "title": {
+            "romaji": "Steins;Gate",
+            "english": "Steins;Gate",
+            "native": "シュタインズ・ゲート"
+          }
+        },
+        {
+          "id": 10863,
+          "title": {
+            "romaji": "Steins;Gate: Oukoubakko no Poriomania",
+            "english": "Steins;Gate: Egoistic Poriomania",
+            "native": "シュタインズ・ゲート 横行跋扈のポリオマニア"
+          }
+        },
+        {
+          "id": 11577,
+          "title": {
+            "romaji": "Steins;Gate: Fuka Ryouiki no Déjà vu",
+            "english": "Steins;Gate The Movie – Load Region of Déjà Vu",
+            "native": "劇場版 シュタインズゲート 負荷領域のデジャヴ"
+          }
+        },
+        {
+          "id": 20907,
+          "title": {
+            "romaji": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+            "english": null,
+            "native": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング"
+          }
+        },
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        },
+        {
+          "id": 104174,
+          "title": {
+            "romaji": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
+            "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+            "native": "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 35257,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Moeka Kiryuu",
+        "native": "桐生萌郁"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35257-uepVZyOvuqhi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35257-uepVZyOvuqhi.png"
+      },
+      "descripcion": "__Height:__ 167 cm  (5'6\")\n\nA tall girl that Rintarou bumps into in Akihabara and is on a search for the IBN 5100 personal computer. Moeka is extremely protective of her mobile phone and becomes agitated if someone tries to take it from her hands. She is very shy and prefers to talk to someone by sending them a text message instead of speaking.   \n\n~!In Episode 12 it is revealed that she's in fact a Rounder member, a unit belonging to SERN. Her codename is M4. In multiple timelines of the Alpha attractor field, she is the one who kills Mayuri.!~",
+      "genero": "Female",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 9253,
+          "title": {
+            "romaji": "Steins;Gate",
+            "english": "Steins;Gate",
+            "native": "シュタインズ・ゲート"
+          }
+        },
+        {
+          "id": 10863,
+          "title": {
+            "romaji": "Steins;Gate: Oukoubakko no Poriomania",
+            "english": "Steins;Gate: Egoistic Poriomania",
+            "native": "シュタインズ・ゲート 横行跋扈のポリオマニア"
+          }
+        },
+        {
+          "id": 11577,
+          "title": {
+            "romaji": "Steins;Gate: Fuka Ryouiki no Déjà vu",
+            "english": "Steins;Gate The Movie – Load Region of Déjà Vu",
+            "native": "劇場版 シュタインズゲート 負荷領域のデジャヴ"
+          }
+        },
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        },
+        {
+          "id": 104174,
+          "title": {
+            "romaji": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
+            "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+            "native": "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 38559,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nae Tennouji",
+        "native": "天王寺綯"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b38559-s2jG8GbHLdI2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b38559-s2jG8GbHLdI2.png"
+      },
+      "descripcion": "\n[Tennouji Yuugo's](https://anilist.co/character/38558) only daughter, in grade school. Really loves her father, and often shows up at the CRT TV Workshop on the way home from school. She's a bit docile. Thinks of Mayuri as her \"older sister\", but is often frightened by Itaru and Rintarou.  \n\nOn [__Robotics;Notes__](https://anilist.co/anime/13599/RoboticsNotes/) Nae returns in Robotics;Notes as an important member of the cast and while not part of the Robot Research Club she provides assistance to them via ties at her job at JAXA (Japan Aerospace Exploration Agency)",
+      "genero": "Female",
+      "edad": "11 (Steins;Gate), 20-21 (Robotics;Notes)",
+      "fecha_nacimiento": {
+        "year": 1998,
+        "month": 11,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 9253,
+          "title": {
+            "romaji": "Steins;Gate",
+            "english": "Steins;Gate",
+            "native": "シュタインズ・ゲート"
+          }
+        },
+        {
+          "id": 10863,
+          "title": {
+            "romaji": "Steins;Gate: Oukoubakko no Poriomania",
+            "english": "Steins;Gate: Egoistic Poriomania",
+            "native": "シュタインズ・ゲート 横行跋扈のポリオマニア"
+          }
+        },
+        {
+          "id": 11577,
+          "title": {
+            "romaji": "Steins;Gate: Fuka Ryouiki no Déjà vu",
+            "english": "Steins;Gate The Movie – Load Region of Déjà Vu",
+            "native": "劇場版 シュタインズゲート 負荷領域のデジャヴ"
+          }
+        },
+        {
+          "id": 13599,
+          "title": {
+            "romaji": "Robotics;Notes",
+            "english": "Robotics;Notes",
+            "native": "Robotics;Notes"
+          }
+        },
+        {
+          "id": 20907,
+          "title": {
+            "romaji": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+            "english": null,
+            "native": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング"
+          }
+        },
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 57403,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuki Amane",
+        "native": "阿万音由季"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b57403-r7ox34brRVJL.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b57403-r7ox34brRVJL.jpg"
+      },
+      "descripcion": "~!She is the future wife of Hashida Itaru, with whom she will have a daughter named Suzuha. In the Alpha world line, her husband invents a time machine in 2036, which Suzuha uses to travel back in time. !~\n\n~!In the manga \"Boukan no Rebellion\", it's revealed that Yuki is killed by Tennouji Nae, moments before Suzuha uses the time machine.\nIn the anime (Steins;Gate 0), however, Yuki dies saving Suzuha (World Line: Beta)!~",
+      "genero": "Female",
+      "edad": "22",
+      "fecha_nacimiento": {
+        "year": 1988,
+        "month": 5,
+        "day": 31
+      },
+      "media": [
+        {
+          "id": 10863,
+          "title": {
+            "romaji": "Steins;Gate: Oukoubakko no Poriomania",
+            "english": "Steins;Gate: Egoistic Poriomania",
+            "native": "シュタインズ・ゲート 横行跋扈のポリオマニア"
+          }
+        },
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        },
+        {
+          "id": 104174,
+          "title": {
+            "romaji": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
+            "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+            "native": "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 44274,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yukitaka Akiha",
+        "native": "秋葉幸高"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/44274-GDkveusoWUqX.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/44274-GDkveusoWUqX.jpg"
+      },
+      "descripcion": "Feiris's father.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9253,
+          "title": {
+            "romaji": "Steins;Gate",
+            "english": "Steins;Gate",
+            "native": "シュタインズ・ゲート"
+          }
+        }
+      ]
+    },
+    {
+      "id": 38558,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuugo Tennouji",
+        "native": "天王寺裕吾"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b38558-E4By0N5JXskJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b38558-E4By0N5JXskJ.png"
+      },
+      "descripcion": "Owner of the CRT TV Workshop set up in the first floor of the Oohiyama building. Also the landlord. Widower. Has an only daughter by the name of Nae, though he's the only one who loves CRTs. Hates LCDs with a passion, and perhaps anarchic. Though he's not quite enthusiastic in the CRT TV Workshop, for some reason he doesn't seem like he'd go bankrupt anytime soon.  Nicknamed \"Mr. Brown\" by Rintarou, due to the loan word \"Braun\" used in the Japanese term for CRTs (ブラウン管).   ~! In episode 20, it is revealed that he's actually a veteran SERN henchman. In the Alpha world line, he was acquainted with Suzuha (who traveled back to 1975 and took the name \"Hashida Suzu\") and was taken care of by her for some time. He commands the Rounder unit (including Moeka)  in Akihabara, under SERN's order to search for the IBN 5100. After Moeka successfully stole it, he was responsible for transferring the computer to SERN.  In the anime, after Moeka and Rintarou found out about his identity, he confessed that he got close to Suzuha due to SERN's order. As Rounder members were to kill themself after finishing their mission, in order to protect his daughter, he killed Moeka and himself.  In the VN, after he found out the relation Hashida Suzu had to the time machine and the future, he regretted his actions, and committed suicide. His death caused Nae to become vengeful, especially against Okabe and Moeka. She later became the Rounder commander, and killed Okabe in 2025, then time-leaped 15,000 times back to the time of his death to kill Moeka.!~",
+      "genero": "Male",
+      "edad": "32",
+      "fecha_nacimiento": {
+        "year": 1978,
+        "month": 3,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 9253,
+          "title": {
+            "romaji": "Steins;Gate",
+            "english": "Steins;Gate",
+            "native": "シュタインズ・ゲート"
+          }
+        },
+        {
+          "id": 10863,
+          "title": {
+            "romaji": "Steins;Gate: Oukoubakko no Poriomania",
+            "english": "Steins;Gate: Egoistic Poriomania",
+            "native": "シュタインズ・ゲート 横行跋扈のポリオマニア"
+          }
+        },
+        {
+          "id": 11577,
+          "title": {
+            "romaji": "Steins;Gate: Fuka Ryouiki no Déjà vu",
+            "english": "Steins;Gate The Movie – Load Region of Déjà Vu",
+            "native": "劇場版 シュタインズゲート 負荷領域のデジャヴ"
+          }
+        },
+        {
+          "id": 20907,
+          "title": {
+            "romaji": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+            "english": null,
+            "native": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング"
+          }
+        },
+        {
+          "id": 21127,
+          "title": {
+            "romaji": "Steins;Gate 0",
+            "english": "Steins;Gate 0",
+            "native": "シュタインズ・ゲート ゼロ"
+          }
+        },
+        {
+          "id": 104174,
+          "title": {
+            "romaji": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
+            "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+            "native": "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 22,
+  "actualizado": 1788566244
+}

@@ -1,0 +1,3965 @@
+{
+  "clave": "tokyo-ghoul",
+  "nombre": "Tokyo Ghoul",
+  "descripcion": "Ken Kaneki y el mundo de los ghouls",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Sobrenatural"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg",
+  "medios": [
+    {
+      "id": 20605,
+      "title": {
+        "romaji": "Tokyo Ghoul",
+        "english": "Tokyo Ghoul",
+        "native": "東京喰種 トーキョーグール"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg"
+      }
+    },
+    {
+      "id": 20850,
+      "title": {
+        "romaji": "Tokyo Ghoul √A",
+        "english": "Tokyo Ghoul √A",
+        "native": "東京喰種[トーキョーグール]√A"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20850-glDf9EMKeCwe.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20850-glDf9EMKeCwe.jpg"
+      }
+    },
+    {
+      "id": 100240,
+      "title": {
+        "romaji": "Tokyo Ghoul:re",
+        "english": "Tokyo Ghoul:re",
+        "native": "東京喰種-トーキョーグール-:re"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100240-vJNaKd5HwPJ2.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100240-vJNaKd5HwPJ2.jpg"
+      }
+    },
+    {
+      "id": 102351,
+      "title": {
+        "romaji": "Tokyo Ghoul:re 2",
+        "english": "Tokyo Ghoul:re 2",
+        "native": "東京喰種-トーキョーグール-:re 2"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102351-yD3Ty9YZFMsf.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102351-yD3Ty9YZFMsf.jpg"
+      }
+    },
+    {
+      "id": 21132,
+      "title": {
+        "romaji": "Tokyo Ghoul: [JACK]",
+        "english": null,
+        "native": "東京喰種トーキョーグール [JACK]"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21132-nY3Ifx1GYQ6f.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21132-nY3Ifx1GYQ6f.jpg"
+      }
+    },
+    {
+      "id": 21326,
+      "title": {
+        "romaji": "Tokyo Ghoul: [PINTO]",
+        "english": null,
+        "native": "東京喰種トーキョーグール【PINTO】"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21326-Vmunxqzj1umc.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21326-Vmunxqzj1umc.jpg"
+      }
+    },
+    {
+      "id": 195457,
+      "title": {
+        "romaji": "「unravel」×『Tokyo Ghoul』TV Animation 10th Anniversary Collaboration MV",
+        "english": null,
+        "native": "「unravel」×『東京喰種』TV Animation 10th Anniversary Collaboration MV"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195457-aPAOYhTGWhVw.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195457-aPAOYhTGWhVw.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 145221,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Aki Sasada",
+        "native": "笹田アキ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145221-t5dkg5bjdu8M.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b145221-t5dkg5bjdu8M.jpg"
+      },
+      "descripcion": "(Jack), 32 (Tokyo Ghoul:re)\n\nAki is the childhood friend of Taishi and Ryou's girlfriend.",
+      "genero": null,
+      "edad": "16-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21132,
+          "title": {
+            "romaji": "Tokyo Ghoul: [JACK]",
+            "english": null,
+            "native": "東京喰種トーキョーグール [JACK]"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88887,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ginshi Shirazu",
+        "native": "不知吟士"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88887-XjY2i5Jhkwl1.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88887-XjY2i5Jhkwl1.jpg"
+      },
+      "descripcion": "__Height:__ 176 cm (5'9\")\n\nGinshi Shirazu is a Rank 3 Ghoul Investigator, a Quinx and the Current Squad Leader of the Quinx Squad. Shirazu, like most of his teammates, is shown to have great respect for his mentor, Haise Sasaki. However, this doesn’t stop him from going out of his way to execute missions without Sasaki’s permission, and so he is constantly seen accompanying Kuki Urie, the former squad leader, on dangerous assignments. Although he is a competent fighter with a ruthless nature, Urie describes Shirazu as a simple-minded person. \n\nHe also seems to be quite exaggerated in his expressions and movements. His primary motive for joining the Quinx Squad is to get fast money for a purpose unknown at this point in time. Shirazu is also a quite carefree individual, and he seems to have an obsession for exterminating ghouls; both of which are traits that submit to the cocky grin he usually displays.\n\nHe is stated to be poor at tasks that require thought, such as academics or investigation. However, his consideration for others and attention to his surroundings convince Sasaki he has potential as a Squad Leader. In contrast to his loud and violent mannerisms, he is also someone that cares greatly for his team. While prone to bickering with Urie, he shows a gentler side when interacting with Mutsuki or civilians such as Chie",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 87275,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ken Kaneki",
+        "native": "金木研"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87275-mb13EWZBdbh3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b87275-mb13EWZBdbh3.png"
+      },
+      "descripcion": "__Height:__ 169 cm (5'6\")\n\nKen Kaneki was originally a human and a normal college student until he encountered a female ghoul named [Rize](https://anilist.co/character/88413/Rize-Kamishiro) who was posing as a human at the time. Rize, using Kaneki's crush on her as leverage, managed to lure him into an alley and tried to eat him but ended up dying when construction beams fell on top of her. Kaneki, already in a half-dead state from Rize's attempts at killing him, ends up in a hospital and has some of Rize's organs transplanted into his body. This results in him absorbing some of Rize's powers and characteristics, such as a ghoul eye, powers of regeneration, and the inability to stomach human food.\n\nTerrified and lost, Kaneki's life takes a dramatic turn from then on as he tries to find a place for himself in the world, realizing he now belongs to neither the human nor ghoul world and refusing to eat humans to sustain himself. Meeting some of the ​other ghouls, as well as humans, makes him realize that things aren't just black and white and that there are more to ghouls and humans than originally thought.",
+      "genero": "Male",
+      "edad": "18-29",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        },
+        {
+          "id": 195457,
+          "title": {
+            "romaji": "「unravel」×『Tokyo Ghoul』TV Animation 10th Anniversary Collaboration MV",
+            "english": null,
+            "native": "「unravel」×『東京喰種』TV Animation 10th Anniversary Collaboration MV"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88946,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kishou Arima",
+        "native": "有馬貴将"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88946-YbTQAGJAdpoH.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88946-YbTQAGJAdpoH.jpg"
+      },
+      "descripcion": "__Height:__ 180 cm\n__Quinque:__ IXA (Koukaku), Narukami (Ukaku), Yukimura 1/3 (Koukaku) \n\nKishou Arima is a famed Special Class Ghoul Investigator known as the CCG's Reaper. He is undefeated as a Ghoul Investigator and at some point was formerly partnered with Take Hirako.\n\nHis investigative skills and prowess in combat has led many investigators such as [Koutarou Amon](https://anilist.co/character/88407/Koutarou-Amon) to admire him.\n\n__Tokyo Ghoul:Re__\n\n~!He later passes down his Yukimura 1/3 (Koukaku) quinque to [Sasaki Haise](https://anilist.co/character/87275/Ken-Kaneki), a rank 1 investigator and mentor of Quinx squad.\n\nAlong with [Akira Mado](https://anilist.co/character/88838/Akira-Mado), he is the overseer of the Quinx squad and keeps a check on Sasaki Haise along with the Quinx members.!~",
+      "genero": "Male",
+      "edad": "29",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 21132,
+          "title": {
+            "romaji": "Tokyo Ghoul: [JACK]",
+            "english": null,
+            "native": "東京喰種トーキョーグール [JACK]"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88935,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kuki Urie",
+        "native": "瓜江久生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88935-AtMsL0lEmeK6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88935-AtMsL0lEmeK6.png"
+      },
+      "descripcion": "__Height:__ 173 cm\n__Species:__ Quinx\n__Affiliations:__ CCG's Quinx Squad - Former squad leader\n__RC type:__ Koukaku\n__Quinque:__ Tsunagi (Bikaku)\n\nHe is a Rank 2 Ghoul Investigator,a Quinx and the former Squad Leader of the Quinx Squad.\n\nUrie often displays himself as a cool-headed individual, holding a monotonous facial expression the majority of the time. As a Ghoul Investigator, he appears to be very dedicated and stern about his work, to the point where it may seem as though he is ruthlessly slaughtering more ghouls than necessary, which is a habit he often gets berated for. Urie also tends to be quite hasty when investigating the slightest details or signs of a suspect. He has a tendency to execute mission objectives independently, without awaiting the arrival of his fellow team mates, or even requesting their help. This is because he is an ambitious person, and does not wish to share credit with others, as he merely wishes to achieve higher ranks as a Ghoul Investigator. To achieve his personal goals, he is willing to go as far as manipulating his comrades or causing discord within the team. But beneath his ambition and cool-headed demeanor is an insatiable jealousy towards his superiors, particularly Sasaki. Urie believes that ghouls, under any circumstance, must cease to exist. He is a person who is always striving for power and as a result, constantly looks for ways to one-up everyone around him which is shown by asking Professor Shiba to help augments his kagune's power to presumably to get an edge over Sasaki. \n\nUrie believes that as an investigator, he must never retreat and will fight on even if it means straining himself to the end. This belief stemmed from the fact that his father, a special class investigator in charge of the S3 squad, ordered his team members to retreat while he stayed to fight the One-Eyed Owl to the death. He also holds a grudge against Takeomi Kuroiwa and Iwao, for not fighting by his father's side during the Owl battle; and therefore thinks that they are inconsiderate of his loss. Thus, Urie refuses to forgive them.\n\nAn omake in Volume 1, shows that he is a talented painter.",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126031,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Nimura Furuta",
+        "native": "旧多二福"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126031-3tBpl6tvYwaZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126031-3tBpl6tvYwaZ.png"
+      },
+      "descripcion": "__Height:__ 175 cm\n~!__RC Type:__ Rinkaku!~\n\n~!Kichimura Washuu is the primary antagonist of the Tokyo Ghoul series and the former Bureau Director of the CCG. He is involved in numerous organizations and is responsible for several major events of the series.!~\n\n~!He was originally the illegitimate son of former CCG Chairman Tsuneyoshi Washuu and an agent of V raised in the Sunlit Garden.\n\nTo further his own agenda, he has used various identities to infiltrate organizations or build personal alliances. As a member of the Clowns, he was responsible for the Steel Beam Incident. He also joined the Ghoul Restaurant as __PG__, and has been a partner in Akihiro Kanou's ghoulification experiments. Like [Ken Kaneki](https://anilist.co/character/87275/Ken-Kaneki), he is an artificial one-eyed ghoul who possesses [Rize Kamishiro](https://anilist.co/character/88413/Rize-Kamishiro)'s kagune.!~",
+      "genero": "Male",
+      "edad": "20-25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88413,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Rize Kamishiro",
+        "native": "神代利世"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88413-FmAvV0hGSljG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88413-FmAvV0hGSljG.png"
+      },
+      "descripcion": "__Height:__ 164 cm\n\nRize Kamishiro is a ghoul that was hanging out at Anteiku. She set her eyes on [Ken Kaneki](https://anilist.co/character/87275/Kaneki-Ken), but moments before eating him, she died in an accident and her organs were transplanted in Ken Kaneki, making him half-ghoul.",
+      "genero": "Female",
+      "edad": "18-22",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        },
+        {
+          "id": 195457,
+          "title": {
+            "romaji": "「unravel」×『Tokyo Ghoul』TV Animation 10th Anniversary Collaboration MV",
+            "english": null,
+            "native": "「unravel」×『東京喰種』TV Animation 10th Anniversary Collaboration MV"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88872,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Saiko Yonebayashi",
+        "native": "米林才子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88872-uhlmoT4vBxE3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88872-uhlmoT4vBxE3.png"
+      },
+      "descripcion": "**Height:** 143 cm\n\nSaiko Yonebayashi is a Rank 3 Ghoul Investigator, a Quinx, and a member of the Quinx Squad. She dislikes having to work, as she prefers having a peaceful, happy-go-lucky and carefree life by playing video games and eating junk food excessively. Saiko often oversleeps, which earns her the absence from most missions. While not trying to reduce it, she is apparently embarrassed about her weight, humorously covering it during her introduction.\n\nShe is excessively lazy to the point of being a hikikomori, unable to remove herself from her room without the intervention and often force of others, even jeopardizing her occupation. Saiko is also depicted as greedy, and heavily involved in her video games to the point of escapism.",
+      "genero": "Female",
+      "edad": "19-20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88424,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Shuu Tsukiyama",
+        "native": "月山習"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88424-mFPgcZlCuODC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88424-mFPgcZlCuODC.png"
+      },
+      "descripcion": "__Height:__ 180 cm\n\nShuu Tsukiyama was the infamous Gourmet ghoul of the 20th ward. He was a fourth-year student studying Social Welfare at the Department of Human Sciences at Seinan Gakuin University. He comes from the extremely wealthy and influential Tsukiyama family which his father, Mirumo Tsukiyama was the head of. Tsukiyama himself became the head of his family after the Tsukiyama Family Extermination Operation. He was also a member of the Ghoul Restaurant, known as MM until he betrayed them.\n\nHe joined Kaneki's group with the hidden intention of eating Ken Kaneki, obsessed with his scent and taste but eventually came to genuinely care for Kaneki. Two years later, his severe depression and anorexia after Kaneki's apparent demise left him emaciated and required constant care from his family servants. After finding out Kaneki was alive and meeting him, he recovers, being able to walk and eat on his own as well as take measures to help Kaneki regain his memories.",
+      "genero": "Male",
+      "edad": "26",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 21326,
+          "title": {
+            "romaji": "Tokyo Ghoul: [PINTO]",
+            "english": null,
+            "native": "東京喰種トーキョーグール【PINTO】"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 145217,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Taishi Fura",
+        "native": "富良太志"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145217-ZQ9Iw8HOxHFQ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b145217-ZQ9Iw8HOxHFQ.jpg"
+      },
+      "descripcion": "Taishi Fura is a First-Class Ghoul Investigator. He is the protagonist of the side story Tokyo Ghoul: Jack, alongside Kishou Arima.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 21132,
+          "title": {
+            "romaji": "Tokyo Ghoul: [JACK]",
+            "english": null,
+            "native": "東京喰種トーキョーグール [JACK]"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88886,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Tooru Mutsuki",
+        "native": "六月透"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n88886-bGodL2ANji2m.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n88886-bGodL2ANji2m.jpg"
+      },
+      "descripcion": "__Height:__ 165 cm (5'4\")\n\nTooru Mutsuki is a Rank 3 Ghoul Investigator, a Quinx and a member of the Quinx Squad. Tooru is kind with a gentle heart and seems to be shy with little self-confidence. Having a constant case of Anemia, ironically, Mutsuki feels repulsive when he comes into contact with blood. Because of this anxiety, he faces discouragement as a ghoul investigator, to the point where he feels as though he isn’t even needed for the job. He expresses frustration with his own weakness, feeling anger at his lack of ability compared to his comrades. When not working, he is shown to enjoy reading books and is the one often left to relate information to Haise Sasaki. As such, he is shown to be a reliable and hard-working individual, following orders in contrast to the more troublesome or lazy members of his team. Though lacking in confidence, he shows a strong desire to help others and does not hesitate to place himself at risk to protect the innocent.\n\n~!A flashback reveals him to have been born female, but unable to reconcile his feelings of discomfort towards his birth sex. As such, he has began living as a man and uses highly-masculine personal pronouns.!~",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 87277,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Touka Kirishima",
+        "native": "霧嶋董香"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87277-oUaqrI1iBzu6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b87277-oUaqrI1iBzu6.png"
+      },
+      "descripcion": "__Height:__ 156 cm (5'1\")\n\nTouka is a ghoul successfully posing as a human and working as a waitress at a cafe which serves as a gathering place for other ghouls, as well as a food resource.\n\nShe saves [Kaneki](https://anilist.co/character/87275/Kaneki-Ken)'s life at one point and acts as a reluctant guide to him and his adaptation to the ghoul society. She doesn't like Kaneki much and has no qualms about expressing her dislike for him. She is very serious, tough and hard-working, trying to keep their district as safe for ghouls and humans as possible. Her powers and strength are also quite great and she makes for a formidable opponent.",
+      "genero": "Female",
+      "edad": "17-28",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        },
+        {
+          "id": 195457,
+          "title": {
+            "romaji": "「unravel」×『Tokyo Ghoul』TV Animation 10th Anniversary Collaboration MV",
+            "english": null,
+            "native": "「unravel」×『東京喰種』TV Animation 10th Anniversary Collaboration MV"
+          }
+        }
+      ]
+    },
+    {
+      "id": 145222,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Uruka Minami",
+        "native": "三波麗花"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145222-Njk3g24gd40l.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b145222-Njk3g24gd40l.jpg"
+      },
+      "descripcion": "Minami Uruka is a second-year student at Seishin Senior High School. She is a classmate of Kishou Arima and Taishi Fura.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21132,
+          "title": {
+            "romaji": "Tokyo Ghoul: [JACK]",
+            "english": null,
+            "native": "東京喰種トーキョーグール [JACK]"
+          }
+        }
+      ]
+    },
+    {
+      "id": 189325,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akihiro Kanou",
+        "native": "嘉納明博"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b189325-kRquPHZwi7Zj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b189325-kRquPHZwi7Zj.png"
+      },
+      "descripcion": "Akihiro Kanou, often referred to as Professor Kanou, is a physician at Kanou General Hospital.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88838,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akira Mado",
+        "native": "真戸暁"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88838-LWDgYMTqb1pd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88838-LWDgYMTqb1pd.png"
+      },
+      "descripcion": "__Species:__ Human\n__Height:__ 164 cm\n__Affiliations:__ CCG\n__Quinque:__ Amatsu (Koukaku/Bikaku)\n__Likes:__ making quinques, solving puzzles and cats\n\nAkira Mado is a Rank 2 Ghoul Investigator and Kureo's daughter. She is currently partnered with Koutarou Amon.\n\nShe is an intelligent woman and seems to be always serious about work and her daily routine in general. Like her father, she has deep insight and intuition that helps her in investigation and determining what is going on around her while on the field. She shares her father's \"quinque-mania,\" but it is not as extreme as his was.\n\nAkira remains professional in most situations, no matter who she is faced with, and she isn't one to admit her own feelings on a subject unless provoked to a certain degree. Seen through her interactions with others, it is most likely that she would prefer to make a quinque rather than to interact with someone else.",
+      "genero": "Female",
+      "edad": "21 (Tokyo Ghoul), 24 (Tokyo Ghoul:re)",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 189326,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Arata Kirishima",
+        "native": "霧嶋新"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b189326-dL5Wz6KQ4kOU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b189326-dL5Wz6KQ4kOU.png"
+      },
+      "descripcion": "Father of Touka Kirishima and Ayato Kirishima. Virtuous and gentle, Arata is a pacifist ghoul who is content to live peacefully with humans and wants the same for his children.\n\n~!Arata's status is currently unknown. However, it is known that his kagune is currently being used as CCG's new exoskeleton armor.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88411,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ayato Kirishima",
+        "native": "霧嶋絢都"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88411-dI6vqLy4pvHK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88411-dI6vqLy4pvHK.png"
+      },
+      "descripcion": "__Height:__ 159 cm (5'2\")\n\nAyato Kirishima is [Touka Kirishima](https://anilist.co/character/87277/Touka-Kirishima)'s younger brother. He grew up with his sister in the 20th ward but at some point of time, he disappeared. Currently, he is an executive of Aogiri Tree. An arrogant youth with a similar harsh attitude that resembles his sister. Other than physical looks, he shares many similarities with Touka such as his cold, hotblooded attitude and a habit for kicking people. However, he's more harsh compared to her and surprisingly nicer than his Aogiri superiors.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241530,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ayumu Hogi",
+        "native": "穂木あゆむ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241530-Doqj0pw6wjXx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241530-Doqj0pw6wjXx.png"
+      },
+      "descripcion": "Ayumu is a First Class Investigator from the CCG and Vice-Chief of Chuu Hachikawa's squad. Ayumu was part of the Squad 3 in the Anteiku raid.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241489,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Big Madam",
+        "native": "ビッグマダム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241489-0wVzzwmug8n4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241489-0wVzzwmug8n4.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 121595,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chie Hori",
+        "native": "掘ちえ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/121595-qMkSZxjKbvMV.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/121595-qMkSZxjKbvMV.jpg"
+      },
+      "descripcion": "Chie is a human photographer and information broker. She is a long-time friend of Shuu Tsukiyama, aware of his secret but uninterested in exposing him as a Ghoul. At his request, she serves as an informant to Kaneki's group. (Source: MAL)\n\nShe seeks out the members of the Quinx Squad, and offers to sell them information pertaining to Torso. This is because she has an unusual interest in their leader, Sasaki.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21326,
+          "title": {
+            "romaji": "Tokyo Ghoul: [PINTO]",
+            "english": null,
+            "native": "東京喰種トーキョーグール【PINTO】"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 278926,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ching-Li Hsiao",
+        "native": "小静麗"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b278926-W6F5DhYZXgnK.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b278926-W6F5DhYZXgnK.jpg"
+      },
+      "descripcion": "Ching-Li Hsiao is a Taiwanese Rank 1 Ghoul Investigator and one of the second batch of recruits to the Quinx Squad.",
+      "genero": "Female",
+      "edad": "19-",
+      "fecha_nacimiento": {
+        "year": 2015,
+        "month": 6,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 235080,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chuu Hachikawa",
+        "native": "鉢川忠"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b235080-nue7NGGuagvw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b235080-nue7NGGuagvw.png"
+      },
+      "descripcion": "An Associate Special Class Investigator from the CCG.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 195607,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Donato  Porpora ",
+        "native": "ドナート・ポルポラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b195607-P5EBGjABlBhx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b195607-P5EBGjABlBhx.png"
+      },
+      "descripcion": "Donato Porpora is a Russian ghoul and a prisoner in the 23rd ward's Ghoul Detention Center. He was once running a Catholic orphanage in Japan. His alias was Priest (神父). He was also Koutarou Amon's foster father.\n\n(Source: Tokyo Ghoul Wikia)\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88416,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Enji Koma",
+        "native": "古間円児"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/88416.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88416.jpg"
+      },
+      "descripcion": "Enji Koma is a ghoul and a waiter at Anteiku. He is an expert coffee brewer.\nIn his youth, he was known as the Devil Ape and led the Apes ghoul gang.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 24
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90231,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eto",
+        "native": "エト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90231-7ZeFK1DbrAxw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90231-7ZeFK1DbrAxw.jpg"
+      },
+      "descripcion": "__Height:__ 151 cm\n__RC Type:__ Ukaku\n__Rating:__\n~!S as Eto\nSSS as One Eyed Owl!~\n\nEto is an executive of Aogiri Tree from the 24th ward. Eto is often seen interacting with fellow Aogiri member [Tatara](https://anilist.co/character/88418/Tatara).\n\n~!She is the daughter of [Yoshimura](https://anilist.co/character/136024/Yoshimura), and the half-Ghoul known as the One-Eyed Owl. Her human identity is Sen Takatsuki (高槻 泉), a best-selling horror novelist mentioned throughout the series. Her relation with the One-Eyed King is unclear. However the CCG and [Nico](https://anilist.co/character/88419/Nico) speculate that they are the same person.!~",
+      "genero": "Female",
+      "edad": "24",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241547,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Goumasa Tokage",
+        "native": "戸影豪正"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241547-5LYkjrdXBl0L.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241547-5LYkjrdXBl0L.png"
+      },
+      "descripcion": "Goumasa Tokage is a combat instructor at the 2nd Academy.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90234,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hairu Ihei",
+        "native": "伊丙入"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90234-56Qw3D3nmV2A.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90234-56Qw3D3nmV2A.png"
+      },
+      "descripcion": "Hairu Ihei is a First Class Ghoul investigator and the partner of Koori Ui. She is the deputy leader of S1 Squad.\n\nShe is a veteran of the Owl Suppression Operation and serves as a member of Squad 0, commanded by Kishou Arima.\n\n~!She is killed during the Tsukiyama Extermination Operation.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 227329,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hanbee Abara",
+        "native": "阿原半兵衛"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b227329-qC6LwlztAl9q.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b227329-qC6LwlztAl9q.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88421,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hideyoshi Nagachika",
+        "native": "永近英良"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88421-F8yaeVfHjwYn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88421-F8yaeVfHjwYn.png"
+      },
+      "descripcion": "__Race:__ Human\n\nHideyoshi is a normal human and the best friend of [Ken Kaneki](https://anilist.co/character/87275/Kaneki-Ken). Hide is incredibly observant and can figure things out about people in a almost sherlock-like manner. He also becomes interested in things and works hard on them until he finds something else to interest him.",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 189324,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hikari Kirishima",
+        "native": "霧嶋ヒカリ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b189324-xzubn01APIUz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b189324-xzubn01APIUz.png"
+      },
+      "descripcion": "Hikari was the mother of Touka and Ayato Kirishima. Arata Kirishima was her husband.\n\n~!Hikari is the elder sister of Renji Yomo.!~\n\n~!Hikari was killed by Kishou Arima shortly after Ayato and Touka had been born.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88293,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hinami Fueguchi",
+        "native": "笛口雛実"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88293-4J36uyflNWvb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88293-4J36uyflNWvb.png"
+      },
+      "descripcion": "__Height:__ 148 cm - 152 cm (4'10\" - 4'11\")\n\nHinami is a child ghoul whose parents were killed by ghoul investigators. Before, she and her mother seek help from the owner of the Antique Cafe to acquire food. Hinami is initially quite shy, but when she opens up, she is cheerful and earnest. [Ken](https://anilist.co/character/87275/Kaneki-Ken) helps her learn kanji, as she cannot attend school, and is very eager to learn. She is living together with [Touka Kirishima](https://anilist.co/character/87277/Kirishima-Touka).",
+      "genero": "Female",
+      "edad": "13-24",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241553,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hisashi Ogura",
+        "native": "小倉久志"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241553-o4oJZnswyIEx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241553-o4oJZnswyIEx.png"
+      },
+      "descripcion": "Hisashi Ogura is a ghoul researcher. He often goes on TV programs to speak about them.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241536,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ippei Kusaba",
+        "native": "草場一平"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241536-YUtAuXw3ueYR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241536-YUtAuXw3ueYR.png"
+      },
+      "descripcion": "Ippei Kusaba was a Rank 3 Bureau Investigator working at CCG's branch in the 20th ward and the partner of Yasunori Nakajima.\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88415,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Itori",
+        "native": "イトリ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/88415.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88415.jpg"
+      },
+      "descripcion": "Itori is an old friend of Yomo and Uta. She can be found in Helter Skelter bar, where she makes her share in the information web of the underworld. Itori is over friendly and talkative. She likes having fun and even doing pranks. Her bad point might be her using people like toys to get the information she wants.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 145219,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Itsuki Marude",
+        "native": "丸手斎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145219-5UZ7wyA5gaCq.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b145219-5UZ7wyA5gaCq.jpg"
+      },
+      "descripcion": "Itsuki is a Special Class Ghoul Investigator. He is the commander of the 11th Ward Special Countermeasures Unit and Chief of Division II.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 21132,
+          "title": {
+            "romaji": "Tokyo Ghoul: [JACK]",
+            "english": null,
+            "native": "東京喰種トーキョーグール [JACK]"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241539,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Iwao Kuroiwa",
+        "native": "黒磐巌"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241539-lHcX6rN9gQZF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241539-lHcX6rN9gQZF.png"
+      },
+      "descripcion": "Iwao Kuroiwa is a Special Class Ghoul Investigator. Currently, he serves as the vice commander of the 11th Ward Special Countermeasures Unit.\n\nYukinori Shinohara calls him by the nickname Iwaccho.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88412,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Juuzou Suzuya",
+        "native": "鈴屋什造"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88412-sIOJUnIkyFRe.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88412-sIOJUnIkyFRe.png"
+      },
+      "descripcion": "__Height:__ 160 cm (5'3\")\n\nA Rank 3 Ghoul Investigator. In the past, he went by the name Rei Suzuya. He is the partner of [Yukinori Shinohara](https://anilist.co/character/88408). He is a young man with androgynous appearance. He has many stitches used as both first-aid and fashion. His hair is tied with a stitching string in a roman numeral 13 pattern, with large pupils that leaves an eerie and frightening impression.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124971,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kanae von Rosewald",
+        "native": "カナエ＝フォン・ロゼヴァルト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124971-twa3emS0030F.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124971-twa3emS0030F.jpg"
+      },
+      "descripcion": "\nKanae von Rosewald is a Ghoul and the last survivor of the Rosewald family. After Matsuri Washuu led an extermination operation to destroy the Rosewalds, Kanae was taken in as an employee of the Tsukiyama family.\n\n(Source: Tokyo Ghoul Wikia)",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 189328,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaneki no Haha",
+        "native": "カネキの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b189328-ozglqPsBuINF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b189328-ozglqPsBuINF.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241545,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Katsuya Mabuchi",
+        "native": "馬淵活也"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241545-2toYZZdtVuU5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241545-2toYZZdtVuU5.png"
+      },
+      "descripcion": "Katsuya Mabuchi is a ghoul investigator. He is the subordinate of Itsuki Marude and is normally seen standing beside Marude.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241529,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaya Irimi",
+        "native": "入見カヤ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241529-RAGhEkI8DOsL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241529-RAGhEkI8DOsL.png"
+      },
+      "descripcion": "Kaya Irimi is a waitress working at Anteiku.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241488,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kazuichi Banjou",
+        "native": "万丈数壱"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241488-zzvhFejLf75p.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241488-zzvhFejLf75p.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 259906,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Keijin Nakarai",
+        "native": "半井恵仁"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b259906-Ore3i0sj3XJL.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b259906-Ore3i0sj3XJL.jpg"
+      },
+      "descripcion": "__Height__: 167 cm\n__Affiliations__: CCG\n\nKeijin is a First Class Ghoul Investigator. He is the Vice-Squad Leader of CCG's Suzuya Squad that's assigned to the 13th Ward.",
+      "genero": "Male",
+      "edad": "24",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88410,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kimi Nishino",
+        "native": "西野貴未"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/88410.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88410.jpg"
+      },
+      "descripcion": "Kimi Nishino is a assistant for Akihiro Kanou who aids in his ghoulification experiments, the previous human lover of Nishiki Nishio and a medical student at Kamii University.~!Although she is aware of his ghoul nature, she remained loyal to him and kept his secret. After the Owl Suppression Operation, he left her in order to keep her safe.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241532,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kiyoko Aura",
+        "native": "安浦清子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241532-4EYkZaczmutn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241532-4EYkZaczmutn.png"
+      },
+      "descripcion": "Kiyoko is a Special Class Investigator, and noteworthy for being the first woman to achieve that rank. She is assigned to the 1st Ward as the Chief of Division I . She was a classmate of Kasuka Mado, and is greatly admired by the female employees of CCG for her many achievements.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241525,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kouitsu Chigyou",
+        "native": "地行甲乙"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241525-NGM2jr86lv1r.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241525-NGM2jr86lv1r.png"
+      },
+      "descripcion": "Kouitsu Chigyou is the head ghoul researcher at CCG Laboratory Division. He used to be a researcher in the GFG in Germany.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 167631,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kousuke Houji",
+        "native": "法寺項介"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b167631-TV6kzYnv1iwP.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b167631-TV6kzYnv1iwP.jpg"
+      },
+      "descripcion": "Kousuke is a Special Class Investigator and a former partner of Kureo Mado prior to a major assignment in China. He was previously assigned to the 20th Ward as the partner of Seidou Takizawa and worked on the Gourmet case. He's devoted to the mastery of quinque and is said to have surpassed Kureo.\n\nCurrently, he serves as a member of the illustrious S3 Squad.\n\n(Source: Tokyo Ghoul Wikia)\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88407,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Koutarou Amon",
+        "native": "亜門鋼太朗"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88407-YwE6D75Xskxl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88407-YwE6D75Xskxl.png"
+      },
+      "descripcion": "__Height:__ 191 cm (6'3\")\n\nA first class police investigator who investigates Ghouls, also known as a Dove. He comes to the 20th ward with his mentor, [Mado Kureo](https://anilist.co/character/88423), to investigate Ghoul incidents in the area. He has a strong sense of justice, fervently believing it is the right and moral thing to do to exterminate the Ghouls. He hunts the Ghouls in order to prevent more human children from becoming orphaned like himself, and he often works after hours to achieve his goals.\n\nHe wields a \"Quinque\" (a weapon made from the \"Kagune\" of a Ghoul) that has the appearance of a pole-arm with a large cylindrical bludgeon at the end.",
+      "genero": "Male",
+      "edad": "26\r",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 206156,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kuramoto Itou",
+        "native": "伊東倉元"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b206156-weVMMBSDG2dA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b206156-weVMMBSDG2dA.png"
+      },
+      "descripcion": "__Height:__ 172 cm\n\nKuramoto Itou is a First Class Ghoul Investigator and the deputy squad leader of the Hirako Squad.",
+      "genero": "Male",
+      "edad": "23-25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88423,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kureo Mado",
+        "native": "真戸呉緒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88423-H6fFZMWeFj25.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88423-H6fFZMWeFj25.png"
+      },
+      "descripcion": "__Height:__ 177 cm\n\nA senior first class investigator, or a \"Dove,\" who hunts Ghouls. He is Amon's mentor and partner. He hunts Ghouls with a maniacal glee, and believes that all Ghouls are lesser than humans, calling them \"trash,\" and mocking them for trying to \"imitate\" human behavior. Mado is a fanatic about collecting Ghoul's \"Kagune\" (their extra limbs) and making them into \"Quinque,\" or weapons that Doves use to kill Ghouls.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 24
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90236,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kurona Yasuhisa",
+        "native": "安久黒奈"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/90236-N3omdU6A3scr.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/90236-N3omdU6A3scr.jpg"
+      },
+      "descripcion": "Kurona Yasuhisa is an artificial one-eyed ghoul who impeded Ken Kaneki's pursuit of Madam A alongside her twin sister Nashiro.\n\n~!After being abandoned by Akihiro Kanou, she vanished until her appearance during the Rushima Landing Operation. She merged with her sister and became known to the CCG as Floppy.!~",
+      "genero": "Female",
+      "edad": "18-29",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241526,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Maiko Abe",
+        "native": "阿倍麻衣子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241526-7AmP24ZMIHrl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241526-7AmP24ZMIHrl.png"
+      },
+      "descripcion": "__Height:__ 160 cm\n\nMaiko is a member of the Ghoul Restaurant",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241535,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Matasaka Kamishiro",
+        "native": "神代叉栄"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241535-ZmcGdnyCSepJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241535-ZmcGdnyCSepJ.png"
+      },
+      "descripcion": "Matasaka Kamishiro is a SS-rank ghoul and the former leader of the ghouls in the 6th ward. Most people refer to him by his nickname Orca or Shachi. He is a strong ghoul, well-versed in the martial arts. When he was the leader of the ghouls in the 6th ward, he trained and strengthened his followers. However, he was captured and sent to the Ghoul Detention Center. After he was freed during Aogiri Tree's attack, he decided to join the organization.\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 236716,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Matsumae",
+        "native": "松前"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b236716-tssb66PEpshB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b236716-tssb66PEpshB.png"
+      },
+      "descripcion": "Matsumae is a teacher at Seinan Gakuin High School and the homeroom teacher of Shuu Tsukiyama. She is also a Ghoul in the employment of the Tsukiyama family.\n\nShe's responsible for keeping an eye on Tsukiyama while acting as his teacher. She's shown to keep a cool head, even when surrounded by ghoul investigators, and commanded her group of ghouls in combat. Like her master, Matsumae retains a professional behavior even when under what is normally considered pressuring, such as a CCG extermination.\n\n(Source: Tokyo Ghoul Wikia)",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21326,
+          "title": {
+            "romaji": "Tokyo Ghoul: [PINTO]",
+            "english": null,
+            "native": "東京喰種トーキョーグール【PINTO】"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 310080,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Matsuri Washuu",
+        "native": "和修政"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b310080-leC3enyHxfzh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b310080-leC3enyHxfzh.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": "29-36",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 206157,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mayu",
+        "native": "痲ユ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b206157-vtAm8pHJFMbC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b206157-vtAm8pHJFMbC.png"
+      },
+      "descripcion": "__Height:__ 166 cm\n__Affiliations:__ Ghoul Restaurant\n\nMayu, also known as Nutcracker, was a ghoul that preyed on men by crushing their testicles before drinking the fluids. She was tasked with capturing humans for an underground \"Gourmet\" society.",
+      "genero": null,
+      "edad": "21",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 282392,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mirumo Tsukiyama",
+        "native": "月山観母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b282392-tRc73slGIQHg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b282392-tRc73slGIQHg.png"
+      },
+      "descripcion": "Mirumo Tsukiyama (月山観母) is an extremely wealthy and eccentric ghoul, well-known within ghoul society for being extravagant. He is the father of Shuu Tsukiyama, and took part in the auction as a major bidder under the alias Croque Monsieur.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241531,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Misato Gori",
+        "native": "五里美郷"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241531-dfpsPLLxIhRm.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241531-dfpsPLLxIhRm.png"
+      },
+      "descripcion": "Misato Gori is a Rank 2 Ghoul Investigator. She is currently affiliated with the 13th ward.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 250540,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Miza Kusakari",
+        "native": "草刈ミザ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b250540-ExG6lG86V6lF.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b250540-ExG6lG86V6lF.jpg"
+      },
+      "descripcion": "She's a ghoul and a former executive of Aogiri Tree. She is known by the alias Three Blades (三枚刃, Sanmaiba) in reference to the shape of her kagune. She was the leader of the 18th ward and the Blades gang.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241551,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mougan Tanakamaru",
+        "native": "田中丸望元"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241551-xaAOi9laTPPJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241551-xaAOi9laTPPJ.png"
+      },
+      "descripcion": "Mougan is a Special Class Investigator and the Division I Branch Director of CCG's 2nd Ward Branch Office. He acted as the captain of Squad 2 in the Anteiku raid.\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90232,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Naki",
+        "native": "ナキ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/90232-7lFh0vRCty6s.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/90232-7lFh0vRCty6s.jpg"
+      },
+      "descripcion": "Naki is a ghoul who was imprisoned in Cochlea until Aogiri Tree's invasion on the prison. He was liberated by Aogiri Tree due to being a direct underling and supposedly the right hand man of Yamori. He was almost always accompanied by the Twins Gagi and Guge.\n\nHe eventually climbs the ranks within Aogiri, and has become an Executive in his own right. The number of Ghouls following him has grown considerably, forming a gang known as the White Suits for their distinctive dressing style. Naki is left handed.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90237,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nashiro Yasuhisa",
+        "native": "安久 奈白"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/90237-nVik0TNNqfH3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/90237-nVik0TNNqfH3.jpg"
+      },
+      "descripcion": "Nashiro Yasuhisa is an artificial one-eyed ghoul who impeded Ken Kaneki's pursuit of Madam A alongside her twin sister Kurona.\n\n~!She was fatally wounded in battle, and abandoned to die by Akihiro Kanou. Her sister claimed that she survived on as a parasitic mass on her stomach, but Kanou claimed this to have been nothing but a delusion to cope with Nashiro's death.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88419,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nico",
+        "native": "ニコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/88419.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88419.jpg"
+      },
+      "descripcion": "__Species:__ Ghoul\n__Height:__ 175 cm\n__Affiliations:__ Clown Mask Ghoul Gang\n\nA gay ghoul (okama) in love. He was once acting together with Yamori and participating in Aogiri Tree.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88409,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nishiki Nishio",
+        "native": "西尾錦"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88409-rOaEex2Ml2ah.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88409-rOaEex2Ml2ah.png"
+      },
+      "descripcion": "__Height:__ 177 cm (5'9\")\n\nNishiki Nishio is a ghoul whose original feeding ground was taken from Rize. He is a sophomore in the Pharmaceutical Department of Kamii University and Kimi Nishino's boyfriend.",
+      "genero": "Male",
+      "edad": "19-25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241543,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nobu Shimoguchi",
+        "native": "下口房"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241543-Nl9zIfUZnPyg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241543-Nl9zIfUZnPyg.png"
+      },
+      "descripcion": "Nobu was a First Class Ghoul Investigator and led his own Squad. Until recently, he worked on the Torso case, along with the Quinx Squad.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 125567,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Noro",
+        "native": "ノロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/125567-V8XLbbHt8xis.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/125567-V8XLbbHt8xis.jpg"
+      },
+      "descripcion": "He is one of the direct subordinates of the King of an Eye and one of the leaders of the Aogiri Tree, next to Tatara.\nIn the past he was called Noroi and was responsible for raising Eto, when Kuzen surrendered in District 24.\n\nHe is a giant who intimidates with an overwhelming silence, seems to communicate only through actions, not words.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 172074,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Renji Yomo",
+        "native": "四方蓮示"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b172074-KyZ7MjpUkz6H.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b172074-KyZ7MjpUkz6H.jpg"
+      },
+      "descripcion": "__Height:__ 182 cm (5'11\")\n\nRenji Yomo is a worker at Anteiku and the right hand of [Yoshimura](https://anilist.co/character/136024/Yoshimura). He is an old friend of [Uta](https://anilist.co/character/88414/Uta) and [Itori](https://anilist.co/character/88415/Itori). Because of his scavenging habits and long-beaked, avian mask, he has the nickname of \"Raven.\"",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241540,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Roma Hoito",
+        "native": "帆糸ロマ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241540-jhKncKLFWClj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241540-jhKncKLFWClj.png"
+      },
+      "descripcion": "Roma Hoito is a ghoul and used to be a waitress at Anteiku.",
+      "genero": "Female",
+      "edad": "51",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 145218,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryou",
+        "native": "リョウ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145218-Qk2JbeK7zdcA.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b145218-Qk2JbeK7zdcA.jpg"
+      },
+      "descripcion": "Ryou was the childhood friend of Taishi Fura and Aki Sasada.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21132,
+          "title": {
+            "romaji": "Tokyo Ghoul: [JACK]",
+            "english": null,
+            "native": "東京喰種トーキョーグール [JACK]"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88422,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryouko Fueguchi",
+        "native": "笛口リョーコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/88422.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88422.jpg"
+      },
+      "descripcion": "[Hinami](https://anilist.co/character/88293/Hinami-Fueguchi)'s mother.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 236717,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sankou",
+        "native": "三晃"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b236717-rEVGF5GxI8so.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b236717-rEVGF5GxI8so.png"
+      },
+      "descripcion": "Ikaru is a Ghoul, and a classmate of Shuu Tsukiyama at Seinan Gakuin University.\n\n(Source: Tokyo Ghoul Wikia)",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21326,
+          "title": {
+            "romaji": "Tokyo Ghoul: [PINTO]",
+            "english": null,
+            "native": "東京喰種トーキョーグール【PINTO】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 125884,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Seidou Takizawa",
+        "native": "滝澤政道"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125884-x9UNA2Lp31pf.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b125884-x9UNA2Lp31pf.jpg"
+      },
+      "descripcion": "__Height:__ 171 cm\n\nTakizawa is a Rank 2 Ghoul Investigator. A classmate of [Akira Mado](https://anilist.co/character/88838/Akira-Mado) at the Academy, he is partnered with Kousuke Houji and assigned to the 20th ward to investigate the Gourmet. He greatly respects [Kishou Arima](https://anilist.co/character/88946/Kishou-Arima) and [Koutarou Amon](https://anilist.co/character/88407/Koutarou-Amon) and admires their achievements.\n\n~!Though he was declared among the casualties of the raid in the 20th Ward, it is revealed that he had actually survived as artificial one-eyed ghoul. He is now a member of Aogiri Tree. As an artificial one-eyed ghoul, he is known as Owl. After betraying Aogiri and killing [Tatara](https://anilist.co/character/88418/Tatara), Takizawa reunited with Akira Mado, and became a member of Ken Kaneki's organization, Goat. !~",
+      "genero": "Male",
+      "edad": "21-31",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 265042,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shiki Kijima",
+        "native": "キジマ式"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b265042-MiI0tTaHODLf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b265042-MiI0tTaHODLf.png"
+      },
+      "descripcion": "Special Class ghoul investigator.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241549,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Souta",
+        "native": "宗太"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241549-XdIuuibsxyfC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241549-XdIuuibsxyfC.png"
+      },
+      "descripcion": "Souta was a member of the Ghoul Restaurant, where he went by the alias PG. He hides his face with a clown mask.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241546,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Taguchi",
+        "native": "田口"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241546-GafaVfAm031j.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241546-GafaVfAm031j.png"
+      },
+      "descripcion": "Taguchi is a nurse at Kanou General Hospital.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136023,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Take Hirako",
+        "native": "平子丈"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136023-P8bnNAjc8I6J.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136023-P8bnNAjc8I6J.jpg"
+      },
+      "descripcion": "__Species:__ Human\n__Height:__ 172 cm\n__Affiliations:__ CCG\n__Quinque:__ Nagomi 1/3 (Rinkaku)\n\nTake Hirako is a First Class Ghoul Investigator. In the past, he formed a duo with Kishou Arima.\n\nHirako is of average height and his facial features have been described as \"plain\" or \"bland.\" He usually has a blank expression on his face. Like all members of CCG, he usually wears formal attire.\n\nLike his mentor Kishou Arima, Hirako has a very calm personality and has inherited the same cold and calculating approach to fighting ghouls.He is skilled to the point of being able to suppress a S-class Ukaku type ghoul.\n",
+      "genero": "Male",
+      "edad": "27 (Tokyo Ghoul), 31 (Tokyo Ghoul:re)",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88417,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Taro-chan",
+        "native": "タロちゃん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/88417.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88417.jpg"
+      },
+      "descripcion": "Taro is a scrapper of the Ghoul Restaurant and owned by Madam A.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88418,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tatara",
+        "native": "タタラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88418-OyaEfoP3tf1e.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88418-OyaEfoP3tf1e.png"
+      },
+      "descripcion": "A direct subordinate of the One-Eyed King and one of Aogiri Tree's leaders. He was a former member of the Chinese ghoul organization Chi She Lian. \n\nAs one of the Aogiri Tree leaders and a trusted subordinate working under the One-Eyed King, Tatara comes off as a rather loyal individual. He is portrayed as composed and stoic mostly. He often monitors the activities of the Aogiri executives, but kills in cold-blood when embarking on a mission. He is also proud of his immense stamina when fighting and the accuracy of his calculations as well. Tatara seems to have a taste for precision; as shown when he turns down Kaneki considering he's an artificial one-eyed ghoul. He appears to hold a grudge against Houji, to the extent that even the Quinque associated with him, is enough to make him enraged and lose his near unflappable composure.\n\nAs the second-in-command of Aogiri, it can be inferred that he is quite powerful.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169534,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ui Koori",
+        "native": "宇井郡"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169534-3CQT8VSJ3ywj.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169534-3CQT8VSJ3ywj.jpg"
+      },
+      "descripcion": "Koori is a Special Class Investigator and an Investigation Commander in Division I. He is the leader of S1 Squad, and a former protege of Kishou Arima and the partner of Hairu Ihei. He is in charge of the 4th ward.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88414,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Uta",
+        "native": "ウタ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88414-r2Xd7jJeMrvR.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88414-r2Xd7jJeMrvR.jpg"
+      },
+      "descripcion": "__Height:__ 177 cm\n\nA ghoul that has his own art studio where he makes masks for other ghouls. He has a lot of piercings and tattoos on his body, making him look pretty intimidating, even as a normal-looking human. He's the one who also made a mask for Kaneki.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88428,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yakumo Oomori",
+        "native": "大守八雲"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/88428.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88428.jpg"
+      },
+      "descripcion": "A white-haired brute with sharp lizard eyes. Yamori is ghoul who is as scary as he looks. Normally in a entirely white suit and black dress shirt, he resembles a typical gangster.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 21132,
+          "title": {
+            "romaji": "Tokyo Ghoul: [JACK]",
+            "english": null,
+            "native": "東京喰種トーキョーグール [JACK]"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241541,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yasunori Nakajima",
+        "native": "中島康智"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241541-uClUjAA7Pnzb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241541-uClUjAA7Pnzb.png"
+      },
+      "descripcion": "Yasunori Nakajima is a bureau investigator working at CCG's branch in the 20th ward and was the partner of Ippei Kusaba.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 189327,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yoriko Kosaka",
+        "native": "小坂依子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b189327-knXukyqhaoXx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b189327-knXukyqhaoXx.png"
+      },
+      "descripcion": "A university friend of Touka's.\n\nIn :re she is revealed to be working in a bakery, often frequented by Rank1 Ghoul Inspector Takeomi Kuroiwa, son of the Special Class Ghoul Investigator Iwao Kuroiwa.\n\n~!Takeomi proposes to Yoriko in chapter 104 of :re!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136024,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yoshimura",
+        "native": "芳村"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136024-cSFppR7s21xh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136024-cSFppR7s21xh.png"
+      },
+      "descripcion": "Yoshimura is a ghoul and the manager of the Anteiku cafe. He tries to help every ghoul, especially those who can't hunt themselves. He takes in Ken Kaneki and tries to help him survive being a ghoul.\n\n~!He is Eto's father.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241552,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yoshitoki Washuu",
+        "native": "和修吉時"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241552-YUPUxpI8L3jL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241552-YUPUxpI8L3jL.png"
+      },
+      "descripcion": "Yoshitoki Washuu is the current Bureau Director of CCG's Main Office and Tsuneyoshi Washuu's son.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88408,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yukinori Shinohara",
+        "native": "篠原幸紀"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88408-zezMB3WoVXd3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88408-zezMB3WoVXd3.png"
+      },
+      "descripcion": "A Special Class Ghoul Investigator. In the past, he acted as Koutarou Amon's instructor at the Academy.",
+      "genero": "Male",
+      "edad": "37",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        },
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241528,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Asaki Fueguchi",
+        "native": "笛口 アサキ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241528-PdQTMAc505q6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241528-PdQTMAc505q6.png"
+      },
+      "descripcion": "Hinami's father.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241544,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Bin Kyoudai",
+        "native": "瓶兄弟"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241544-Nva4bWx8KlmH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241544-Nva4bWx8KlmH.png"
+      },
+      "descripcion": "Masked ghoul brothers and executives of Aogiri Tree. Most of the ghouls in the 11th ward of Aogiri Tree are their subordinates. It is said they strongly believe in the one eyed king's ideology. Their Kagune is of the Bikaku type.\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 206209,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hetare",
+        "native": "ヘタレ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b206209-OxCzdSWZFehz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b206209-OxCzdSWZFehz.png"
+      },
+      "descripcion": "Hetare is a cockatiel parrot who lived in Anteiku prior to its destruction. \n\nHetare is a plump bird with pale, yellow feathers and grey wings. As is common with cockatiels, he has orange circles on his cheeks, and a wispy crest protruding from the top of his head. His most notable feature is the star mark on his left wing, hence Renji Yomo's alternate nickname for him.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 244814,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ichika Kaneki",
+        "native": "金木一花"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b244814-XLA8cWceR8Hh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b244814-XLA8cWceR8Hh.png"
+      },
+      "descripcion": "__Height__: 112 cm\n\n~!Daughter of Ken Kaneki and Touka Kirishima.!~",
+      "genero": "Female",
+      "edad": "5",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 102351,
+          "title": {
+            "romaji": "Tokyo Ghoul:re 2",
+            "english": "Tokyo Ghoul:re 2",
+            "native": "東京喰種-トーキョーグール-:re 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 140952,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kangoshi",
+        "native": "看護師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b140952-DP7wKIgrC6Q0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b140952-DP7wKIgrC6Q0.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21326,
+          "title": {
+            "romaji": "Tokyo Ghoul: [PINTO]",
+            "english": null,
+            "native": "東京喰種トーキョーグール【PINTO】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241550,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kazuo Yoshida",
+        "native": "吉田カズオ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241550-btpQLpwsr4GY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241550-btpQLpwsr4GY.png"
+      },
+      "descripcion": "__Species:__ Ghoul\n__Height:__ 179 cm\n\nKazuo Yoshida is a ghoul who Ken met in a dark alley and moments later was killed by Nishiki Nishio since he was feeding on his turf. He also appeared in omake at the end of some volumes and worked as Chief Instructor in the Fitness Club \"ZEN.\"",
+      "genero": "Male",
+      "edad": "41",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 207563,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maris-Stella",
+        "native": "マリスステラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207563-JbpZveOdEQG3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b207563-JbpZveOdEQG3.jpg"
+      },
+      "descripcion": "The grumpy cat of Akira Mado. She appears to be affectionate towards Akira, but hostile to anyone else.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 230227,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Masami Umeno",
+        "native": "梅野雅巳"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b230227-OIsgB3p6KmwW.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b230227-OIsgB3p6KmwW.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": "25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241542,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Older Bin-Brother",
+        "native": "瓶兄弟"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241542-OUq8LLmvWH5Z.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241542-OUq8LLmvWH5Z.png"
+      },
+      "descripcion": "Masked ghoul brothers and executives of Aogiri Tree. Most of the ghouls in the 11th ward of Aogiri Tree are their subordinates. It is said they strongly believe in the one eyed king's ideology. Their Kagune is of the Bikaku type.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20605,
+          "title": {
+            "romaji": "Tokyo Ghoul",
+            "english": "Tokyo Ghoul",
+            "native": "東京喰種 トーキョーグール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 241555,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tsuneyoshi Washuu",
+        "native": "和修常吉"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241555-cL7Hl9HogoGS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241555-cL7Hl9HogoGS.png"
+      },
+      "descripcion": "Tsuneyoshi Washuu is the current chairman of CCG and Yoshitoki Washuu's father.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20850,
+          "title": {
+            "romaji": "Tokyo Ghoul √A",
+            "english": "Tokyo Ghoul √A",
+            "native": "東京喰種[トーキョーグール]√A"
+          }
+        },
+        {
+          "id": 100240,
+          "title": {
+            "romaji": "Tokyo Ghoul:re",
+            "english": "Tokyo Ghoul:re",
+            "native": "東京喰種-トーキョーグール-:re"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 96,
+  "actualizado": 1788565975
+}

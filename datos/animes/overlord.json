@@ -1,0 +1,5225 @@
+{
+  "clave": "overlord",
+  "nombre": "Overlord",
+  "descripcion": "Ainz Ooal Gown y Nazarick",
+  "generos": [
+    "Isekai",
+    "Fantasía",
+    "Acción"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20832-vUNm5zrYWifc.jpg",
+  "medios": [
+    {
+      "id": 20832,
+      "title": {
+        "romaji": "Overlord",
+        "english": "Overlord",
+        "native": "オーバーロード"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20832-vUNm5zrYWifc.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20832-vUNm5zrYWifc.jpg"
+      }
+    },
+    {
+      "id": 98437,
+      "title": {
+        "romaji": "Overlord II",
+        "english": "Overlord II",
+        "native": "オーバーロードⅡ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98437-5q0GWqHhNAgJ.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98437-5q0GWqHhNAgJ.jpg"
+      }
+    },
+    {
+      "id": 101474,
+      "title": {
+        "romaji": "Overlord III",
+        "english": "Overlord III",
+        "native": "オーバーロードⅢ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101474-tGRyvSAWMjU9.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101474-tGRyvSAWMjU9.jpg"
+      }
+    },
+    {
+      "id": 133844,
+      "title": {
+        "romaji": "Overlord IV",
+        "english": "Overlord IV",
+        "native": "オーバーロードⅣ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133844-E32FjKZ0XxEs.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133844-E32FjKZ0XxEs.jpg"
+      }
+    },
+    {
+      "id": 133845,
+      "title": {
+        "romaji": "Overlord: Sei Oukoku-hen",
+        "english": "OVERLORD: The Sacred Kingdom",
+        "native": "オーバーロード 聖王国編"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133845-InD67nSzCAUr.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133845-InD67nSzCAUr.png"
+      }
+    },
+    {
+      "id": 98873,
+      "title": {
+        "romaji": "Overlord: Fushisha no Ou",
+        "english": "Overlord: The Undead King",
+        "native": "劇場版総集編 オーバーロード 不死者の王"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98873-XAcxAF1rXuyM.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98873-XAcxAF1rXuyM.jpg"
+      }
+    },
+    {
+      "id": 98874,
+      "title": {
+        "romaji": "Overlord: Shikkoku no Senshi",
+        "english": "Overlord: The Dark Hero",
+        "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98874-pZZievwSEwwC.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98874-pZZievwSEwwC.jpg"
+      }
+    },
+    {
+      "id": 21305,
+      "title": {
+        "romaji": "Overlord: Ple Ple Pleiades",
+        "english": "Overlord: Ple Ple Pleiades",
+        "native": "オーバーロード ぷれぷれぷれあです"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21305-TaVD5SO86umP.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21305-TaVD5SO86umP.jpg"
+      }
+    },
+    {
+      "id": 87489,
+      "title": {
+        "romaji": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+        "english": null,
+        "native": "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/87489-rizr4yabatdV.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/87489-rizr4yabatdV.jpg"
+      }
+    },
+    {
+      "id": 101083,
+      "title": {
+        "romaji": "Overlord: Ple Ple Pleiades 2",
+        "english": null,
+        "native": "オーバーロード ぷれぷれぷれあです2"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101083-glFBs3o8ej3g.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101083-glFBs3o8ej3g.png"
+      }
+    },
+    {
+      "id": 103209,
+      "title": {
+        "romaji": "Overlord: Ple Ple Pleiades 3",
+        "english": null,
+        "native": "オーバーロード ぷれぷれぷれあです3"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b103209-3YzdSL4JkSi9.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b103209-3YzdSL4JkSi9.png"
+      }
+    },
+    {
+      "id": 101098,
+      "title": {
+        "romaji": "Gekijouban Ple Ple Pleiades",
+        "english": "Overlord Movie: Ple Ple Pleiades",
+        "native": "劇場版ぷれぷれぷれあです"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101098-1cOz8WyzC0Yi.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101098-1cOz8WyzC0Yi.jpg"
+      }
+    },
+    {
+      "id": 107264,
+      "title": {
+        "romaji": "Overlord: Ple Ple Pleiades - Clementine Toubou-hen",
+        "english": null,
+        "native": "ぷれぷれぷれあです ～クレマンティーヌ逃亡編～"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107264-TX4kTrvaNLBU.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107264-TX4kTrvaNLBU.jpg"
+      }
+    },
+    {
+      "id": 151898,
+      "title": {
+        "romaji": "Overlord: Ple Ple Pleiades 4",
+        "english": null,
+        "native": "オーバーロード ぷれぷれぷれあです4"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151898-O2DNX5aVCB8q.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151898-O2DNX5aVCB8q.png"
+      }
+    },
+    {
+      "id": 166035,
+      "title": {
+        "romaji": "Overlord: Ple Ple Pleiades Tokubetsu-hen",
+        "english": null,
+        "native": "オーバーロード ぷれぷれぷれあです 特別編"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166035-hQZ7BI4mLkxL.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166035-hQZ7BI4mLkxL.jpg"
+      }
+    },
+    {
+      "id": 107370,
+      "title": {
+        "romaji": "Xue Ying Lingzhu",
+        "english": "Legendary Overlord",
+        "native": "雪鹰领主"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx107370-PVPvU1RnF7hz.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx107370-PVPvU1RnF7hz.jpg"
+      }
+    },
+    {
+      "id": 215526,
+      "title": {
+        "romaji": "Taigu Shen Zun",
+        "english": "Primeval Overlord",
+        "native": "太古神尊"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx215526-z36fLEPzhEO4.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx215526-z36fLEPzhEO4.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 89122,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Albedo",
+        "native": "アルベド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89122-Gj7MBs7F5cMJ.png"
+      },
+      "descripcion": "The overseer of the Floor Guardians and one of the most powerful NPC in Nazarick. She takes the form of a beautiful woman with fallen angel wings and horns. Because [Ainz](https://anilist.co/character/89103) modified her settings on a whim, she ends up madly in love with him. Albedo's romantic obsessions are so strong that if Ainz were to even glance at her body, she would immediately become excited. Albedo's obsession with Ainz has led him to greatly regret his actions. While she tries to act calm, as befitting of her role, any perceived insult against Ainz or Nazarick, real or imagined, sends her into a rage. Like most inhabitants of Nazarick, she despises humans which she refers to as \"lower life-forms.\" ~!Though the reason is not yet known, Albedo holds a strong hatred towards all of the 41 Supreme Beings except for Ainz. It is hinted that she is scheming to annihilate all the other guild members if they are found.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 21305,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades",
+            "english": "Overlord: Ple Ple Pleiades",
+            "native": "オーバーロード ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 87489,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        },
+        {
+          "id": 101083,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 2",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです2"
+          }
+        },
+        {
+          "id": 101098,
+          "title": {
+            "romaji": "Gekijouban Ple Ple Pleiades",
+            "english": "Overlord Movie: Ple Ple Pleiades",
+            "native": "劇場版ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 103209,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 3",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 128401,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Clementine",
+        "native": "クレマンティーヌ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n128401-ntBGw9BGMacx.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n128401-ntBGw9BGMacx.jpg"
+      },
+      "descripcion": "__Race:__ Human \n__Affiliation:__\n- Slane Theocracy (Former)\n- Black Scripture (Former)\n- Zurrernorn\n\n__Family:__ Quaiesse Hazeia Quintia (Brother)\n__Occupation:__ Warrior \n\nClementine was a sadistic psychopath, obsessed with inflicting pain and torture on others. As a former member of the Black Scripture, Clementine was extremely confident in her abilities. She would go so far as to declare herself unbeatable until her unfortunate encounter with Ainz, who proved to be much more powerful than her. Before Clementine went rogue, she once held the position of 9th Seat in the Black Scripture. Besides betraying the Scripture, she also stole the magical Crown of Wisdom from one of the Six Miko Princesses of the Theocracy. Because of that, she has chosen to flee from her homeland and join Zurrernorn for protection.",
+      "genero": "Female",
+      "edad": "Mid 20s",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 87489,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        },
+        {
+          "id": 107264,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Clementine Toubou-hen",
+            "english": null,
+            "native": "ぷれぷれぷれあです ～クレマンティーヌ逃亡編～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 191166,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Eclair Ecleir Eicler",
+        "native": "エクレア・エクレール・エイクレアー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191166-TA7dqOhLRrGO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191166-TA7dqOhLRrGO.png"
+      },
+      "descripcion": "Assistant butler of the Great Tomb of Nazarick.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 151898,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 4",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです4"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126869,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Gazef Stronoff",
+        "native": "ガゼフ・ストロノーフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126869-oKHjOvk80dD6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126869-oKHjOvk80dD6.png"
+      },
+      "descripcion": "__Race:__ Human\n__Affiliation:__ Re-Estize Kingdom\n__Occupation:__ Warrior Captain\n\nGazeff Stronoff is the Warrior Captain of the Re-Estize Kingdom and King Ramposa III's personal bodyguard, and professes his utmost loyalty to him. Incredibly talented with the sword and well-versed in martial arts, he is famously considered the strongest warrior in the entire kingdom, and commands the respect and admiration of everyone who knows his name. Due to internal power struggles among the nobles in the kingdom, Gazeff is not knighted, so the King granted him the title of \"Warrior Captain\", which allows him to command his own unit comprised of \"Warrior Troops\".\n\nBorn a commoner in a frontier village, he later became a mercenary. During his travels, he encountered a former adamantite-ranked adventurer who taught him his extraordinary swordsmanship. He participated in the grand tournament and defeated Brain Unglaus, becoming the champion and earning the King's trust.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 128569,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Hamusuke",
+        "native": "ハムスケ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n128569-vRysqOLW66l0.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n128569-vRysqOLW66l0.jpg"
+      },
+      "descripcion": "Hamsuke resembles a giant Djungarian hamster with a long snake tail. Six sigils dot her silvery fur.\n\nBefore being inducted in the Great Tomb of Nazarick, Hamusuke was very boastful and prideful of her ability and power as the \"Virtuous King of the Forest.\" However, since meeting [Momonga](https://anilist.co/character/89103) and witnessing the power of the denizens of Nazarick, she has seen how vastly inferior she is. She accepts this and swears loyalty to Momonga, willing to do anything to please his master and earn his keep.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        },
+        {
+          "id": 101098,
+          "title": {
+            "romaji": "Gekijouban Ple Ple Pleiades",
+            "english": "Overlord Movie: Ple Ple Pleiades",
+            "native": "劇場版ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 103209,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 3",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです3"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89103,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Momonga",
+        "native": "モモンガ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89103-ZsnA0r77GHsR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89103-ZsnA0r77GHsR.png"
+      },
+      "descripcion": "He is the guild master of Ainz Ooal Gown and regarded as the highest of the Almighty 41 Supreme Beings by the NPCs of the Great Tomb of Nazarick. He is also the creator of [Pandora's Actor](https://anilist.co/character/89154/Pandoras-Actor).\n\nA cautious and stingy person, Momonga always tries to plan and control details, avoiding any haphazard actions. Because he doesn't underestimate his opponents, he will usually overkill them. Since being transferred to a new world and becoming an actual Undead being, Momonga could feel himself becoming very cold and calculating, his emotions repressed.\n\nLoyal to his friends and creations, since becoming Lord ruler of Nazarick in the new world he acts with a certain degree of nobility for his devoted followers. Momonga only does things that will benefit Nazarick or himself, whether its information or prestige. Although he does have a sense of justice and doesn't hate humans as much as his followers, he holds no attachment to them, and he feels nothing toward their deaths.\n\n~!His real name is Satoru Suzuki.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 21305,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades",
+            "english": "Overlord: Ple Ple Pleiades",
+            "native": "オーバーロード ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 87489,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        },
+        {
+          "id": 101083,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 2",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです2"
+          }
+        },
+        {
+          "id": 101098,
+          "title": {
+            "romaji": "Gekijouban Ple Ple Pleiades",
+            "english": "Overlord Movie: Ple Ple Pleiades",
+            "native": "劇場版ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 103209,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 3",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89152,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Narberal Gamma",
+        "native": "ナーベラル・ガンマ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89152-S3WrhOMakSCq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89152-S3WrhOMakSCq.png"
+      },
+      "descripcion": "One of the Pleiades, combat maids of the Tenth floor under [Sebas Tian](https://anilist.co/character/89155). She's a Doppelgänger and, because she's one of the most human-looking of the maids, she is [Momonga](https://anilist.co/character/89103)'s companion in his exploration of the new world disguised as adventurers. Narberal takes great pride in this duty, often \"wearing\" it like a badge of honor. However, like most in Nazarick, she holds great disdain towards humans. This proves troublesome, as she becomes incredibly violent when human males make advances on her. \n\nWhile operating as a member of the adventuring guild, \"Darkness\", Narberal operates under the alias of \"Nabe\", which becomes \"Nabe, the Beautiful Lady\" when Darkness becomes famous. Narberal's beauty has been compared to that of the \"Golden Princess of Re-Estize\" by many of the country's inhabitants.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 21305,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades",
+            "english": "Overlord: Ple Ple Pleiades",
+            "native": "オーバーロード ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 87489,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        },
+        {
+          "id": 101083,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 2",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです2"
+          }
+        },
+        {
+          "id": 101098,
+          "title": {
+            "romaji": "Gekijouban Ple Ple Pleiades",
+            "english": "Overlord Movie: Ple Ple Pleiades",
+            "native": "劇場版ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 103209,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 3",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130011,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Neia Baraja",
+        "native": "ネイア・バラハ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130011-wbJTPDd4tnzV.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130011-wbJTPDd4tnzV.jpg"
+      },
+      "descripcion": "Neia Baraja is a Squire serving in the Holy Kingdom Liberation Army and the daughter of Pavel Baraja. While initially a low-ranking member of the Paladin Order, she became recognized as a hero after playing a vital role in the liberation of the Northern Holy Kingdom.\n\nNeia is a woman with short blonde hair and beady black eyes slanted upwards, giving the impression that she was constantly glaring at others. On the other hand, the dark circles around her eyes made people think that she was the kind of person who hung around with criminals in seedy back alleys. She also carries a sword at her waist, emblazoned with the crest of the Holy Kingdom's knight order. Additionally, she adorns a blackish cape around her attire.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133845,
+          "title": {
+            "romaji": "Overlord: Sei Oukoku-hen",
+            "english": "OVERLORD: The Sacred Kingdom",
+            "native": "オーバーロード 聖王国編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89154,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Pandora's Actor",
+        "native": "パンドラズ・アクタ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/89154-jbsFsEsjL3aS.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/89154-jbsFsEsjL3aS.jpg"
+      },
+      "descripcion": "__Height:__ 177cm \n__Race:__ Doppelgänger\n__Affiliation:__ Great Tomb of Nazarick\n__Occupation:__ Area Guardian of the Treasury\n__Creator:__ Ainz Ooal Gown (Momonga)\n__Hobby:__ Managing Magic Items\n\n\nThe Area Guardian in charge of the Treasury and finances of Nazarick, who was created by Ains himself. He's a Doppelgänger whose face is a simple egghead with three holes dressed in a Neo-Nazi-esque uniform. In Momonga's original design, he's the combination of everything that he thought was cool, with exaggerated gestures and body language. His existence embarrasses Ains, but at the same time knows he's the NPC he can trust the most and the only one who can perform all his master's tasks without misunderstanding his intentions. He's on the same level as the Floor Guardians, and can copy the appearance and skills of anyone he has seen.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 87489,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        },
+        {
+          "id": 101098,
+          "title": {
+            "romaji": "Gekijouban Ple Ple Pleiades",
+            "english": "Overlord Movie: Ple Ple Pleiades",
+            "native": "劇場版ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 103209,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 3",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです3"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        },
+        {
+          "id": 133845,
+          "title": {
+            "romaji": "Overlord: Sei Oukoku-hen",
+            "english": "OVERLORD: The Sacred Kingdom",
+            "native": "オーバーロード 聖王国編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126841,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Shizu Delta",
+        "native": "シズ・デルタ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/126841-zO8B5EQgj2dj.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/126841-zO8B5EQgj2dj.jpg"
+      },
+      "descripcion": "One of the members of the battle maids originally created by someone except for Tabula Smaragdina.\n\nCZ2I28 Delta is an automaton battle maid and member of the \"Pleiades Six Stars,\" the battle maid squad of the Great Tomb of Nazarick.\n\nCZ2128 appears emotionless and has a silent nature. Her Karma is relatively high, which makes her, along with Yuri Alpha, one of the two \"safe\" Pleiades to humans. Though she usually ignores conversations from humans, sometimes there is a possibility to communicate with her. She hates cannibalism and likes cute things, such as Eclair.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 21305,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades",
+            "english": "Overlord: Ple Ple Pleiades",
+            "native": "オーバーロード ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 87489,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101083,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 2",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです2"
+          }
+        },
+        {
+          "id": 101098,
+          "title": {
+            "romaji": "Gekijouban Ple Ple Pleiades",
+            "english": "Overlord Movie: Ple Ple Pleiades",
+            "native": "劇場版ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 103209,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 3",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです3"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 107264,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Clementine Toubou-hen",
+            "english": null,
+            "native": "ぷれぷれぷれあです ～クレマンティーヌ逃亡編～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 191165,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Sous-chef",
+        "native": "副料理長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191165-9wB1k4CmDQ83.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191165-9wB1k4CmDQ83.png"
+      },
+      "descripcion": "NPC of the Great Tomb of Nazarick. He normally works in the Restaurant of Nazarick, but during a specific day of the week, he manages a bar on the 9th Floor.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 151898,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 4",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです4"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179059,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Agu",
+        "native": "アーグ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179059-n9r6ck97tWnK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179059-n9r6ck97tWnK.png"
+      },
+      "descripcion": "Agu is a hobgoblin and also a member of the Gigu Tribe that originated from the Great Forest of Tob.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 191170,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ampetif Cocco Doll",
+        "native": "アンペティフ・コッコドール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191170-eb6KmooYrpnU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191170-eb6KmooYrpnU.png"
+      },
+      "descripcion": "Leader of the slave trafficking department of the criminal organization Eight Fingers. He was freed from by his comrades during Re-Estize's Destruction to rejoin the orginazation now under the control of Nazarick",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 177011,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Antilene Fouche",
+        "native": "アンティリーネ・ヘラン・フーシェ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177011-iQ6vM4OD4YDP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177011-iQ6vM4OD4YDP.png"
+      },
+      "descripcion": "Antilene Heran Fouche (Zesshi Zetsumei) is the holder of the extra seat in the Black Scripture. She is plagued with extreme boredom with everything except battle.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179058,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Arche Eeb Rile Furt",
+        "native": "アルシェ・イーブ・リリッツ・フルト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179058-nF33LbBOrHAn.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179058-nF33LbBOrHAn.jpg"
+      },
+      "descripcion": "Arche Eeb Rile Furt is a worker and magic caster of Foresight who volunteered to explore and investigate the mysterious large tomb. She was a former noble and student of the Imperial Magic Academy.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89129,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aura Bella Fiora",
+        "native": "アウラ・ベラ・フィオーラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89129-2Qrm5TnoKYct.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89129-2Qrm5TnoKYct.png"
+      },
+      "descripcion": "One of the Guardians of the Sixth floor of Nazarick, alongside her twin brother [Mare](https://anilist.co/character/89126). She's very energetic and extroverted, in contrast with her brother. Aura is a 70-year-old Dark Elf. Despite constantly fighting, she and Shalltear are quite close. Aura specializes in beast-taming and fights with a long, bladed whip.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 87489,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        },
+        {
+          "id": 101083,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 2",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです2"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 103209,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 3",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです3"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179054,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Barbro Andrean Ierudo Ryle Vaiself",
+        "native": "バルブロ・アンドレアン・イエルド・ライル・ヴァイセルフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179054-XOIjlOoSYrt0.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179054-XOIjlOoSYrt0.jpg"
+      },
+      "descripcion": "Barbro is the first prince of the Re-Estize Kingdom, son of King Lanposa III, and older brother of Renner and Zanac. He has a large build and befitting of a member of the royal family, he is described as of respectable stature and deeds.\nHe has a bossy and short-tempered personality. He is competing on the line of succession against Zanac, the second prince, and Marquis Pespea, the son-in-law of King Lanposa III.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179045,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Baziwood Peshmel",
+        "native": "バジウッド・ペシュメル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179045-26mcpagOji0c.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179045-26mcpagOji0c.jpg"
+      },
+      "descripcion": "Baziwood Peshmel is the acting leader of the Four Imperial Knights of the Baharuth Empire.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175039,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Belius",
+        "native": "ベリュース"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175039-q8w0x6oWWrie.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175039-q8w0x6oWWrie.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175040,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bellote",
+        "native": "ベロテ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175040-09ThYj4kvdAW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175040-09ThYj4kvdAW.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        }
+      ]
+    },
+    {
+      "id": 128263,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Brain Unglaus",
+        "native": "ブレイン・アングラウス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128263-CnJQGDZm6Wo1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b128263-CnJQGDZm6Wo1.png"
+      },
+      "descripcion": "Brain is a warrior turned mercenary after he lost to Gazef Stronoff in a grand tournament to determine the strongest fighter in Re-Estize Kingdom. He has brown eyes with blue hair and the appearance of a wild beast. He is equipped with a chainmail and wears a necklace and ring which are infused with protection magic. His whole body is lean and his muscles are tough as steel and tempered through experience.\n\nOriginally a farmer, he was gifted with what could only be described as a God-given talent in the mastery of the sword. He has always believed himself to be the strongest fighter inside the Kingdom, having never lost a fight before he entered the grand tournament to decide the King's guard captain. He easily fought his way to the final where he faced off against Gazef Stronoff. A grand and close battle ensued between the two, but eventually,​ he would taste his first defeat at the hand of Gazef.\n\nHis fame was shattered and his confidence as an unbeatable warrior took a hit. He then decided to do everything he could to become stronger, so he would truly become unbeatable. At the same time, in order to make a living he started working as a mercenary for the Death Spreading Brigade. \n\n\n~!When first introduced he is very arrogant, thinking that he is the most powerful, even though he earlier lost to Gazef. While a mercenary, he suffered a devastating defeat at the hand of Shalltear Bloodfallen when she attacked the hideout of the Death Spreading Brigade. After that, his personality changes drastically. Having his confidence completely crushed and getting a feel of what true terror is like, his attitude changes to one where he is completely depressed, hinting at a suicidal tendency.\n\nHe eventually does a complete overhaul after meeting Climb and Sebas Tian. He changes to a much friendlier person that starts to think that strength is more than simply being skilled with a sword.\n\nIn his second encounter with Shalltear, he managed to chip off Shalltear's pinky fingernail using Fourfold Slash of Light.\n\nIn the web novel version, he becomes a vampire under Shalltear.!~\n\n(Source: Overlord Wikia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175036,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Brita",
+        "native": "ブリタ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175036-DKyLq9N2wdbc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175036-DKyLq9N2wdbc.png"
+      },
+      "descripcion": "Brita (ブリタ) is the leader of the Vigilance Committee of Carne Village and a former iron ranked adventurer whose hard-earned healing potion was broken by Momon but was compensated with a new but unknown one which fortunately saved her life.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        }
+      ]
+    },
+    {
+      "id": 189109,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bukubukuchagama",
+        "native": "ぶくぶく茶釜"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b189109-qwP4y0rg9vOM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b189109-qwP4y0rg9vOM.png"
+      },
+      "descripcion": "Bukubukuchagama (ぶくぶく茶釜) is one of the three female guild members of Ainz Ooal Gown and regarded as one of the Forty-One Supreme Beings by the NPCs of the Great Tomb of Nazarick. She is the older sister of Peroroncino and the creator of Aura Bella Fiora and Mare Bello Fiore.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        }
+      ]
+    },
+    {
+      "id": 330970,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Calca Bessarez",
+        "native": "カルカ・ベサーレス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b330970-c7GkSuk4wsFB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b330970-c7GkSuk4wsFB.png"
+      },
+      "descripcion": "Holy Queen of the Roble Holy Kingdom.",
+      "genero": "Female",
+      "edad": "25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133845,
+          "title": {
+            "romaji": "Overlord: Sei Oukoku-hen",
+            "english": "OVERLORD: The Sacred Kingdom",
+            "native": "オーバーロード 聖王国編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 352882,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Caspond Bessarez",
+        "native": "カスポンド・ベサーレス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b352882-87ZW93wHer0c.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b352882-87ZW93wHer0c.jpg"
+      },
+      "descripcion": "A royal prince of the Roble Holy Kingdom and the older brother of Calca Bessarez.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133845,
+          "title": {
+            "romaji": "Overlord: Sei Oukoku-hen",
+            "english": "OVERLORD: The Sacred Kingdom",
+            "native": "オーバーロード 聖王国編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179057,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cixous",
+        "native": "シクスス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179057-iU0lIdDcArJd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179057-iU0lIdDcArJd.png"
+      },
+      "descripcion": "Cixous is one of the forty one Homunculus Maids that are responsible for the various maid jobs on the 9th and 10th Floors of the Great Tomb of Nazarick.\n(Source: Overlord Wiki)\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 128287,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Climb",
+        "native": "クライム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n128287-MBxEj9BMQKpJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n128287-MBxEj9BMQKpJ.jpg"
+      },
+      "descripcion": "The Personal Bodyguard of Princess Renner. She saved him when he was just a street urchin about to die from sickness. As such, he views his services to her as a fulfilling of that debt he owes and is even willing to give up his life for her. However, he remains unaware of Renner's true nature. He is rather disliked due to him having such a position despite not even being a commoner, but an urchin. Despite this position, he holds no talent at fighting, making up for it with sheer effort. He eventually meets Sebas and, after convincing him to teach him some of his skills, they become friends, though he remains unaware of his loyalty towards Ainz. He also has a close friendship with Gazef and Brain as well as several members of Blue Rose.<br></br>(Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89138,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cocytus",
+        "native": "コキュートス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89138-HUcvLWduh6Mc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89138-HUcvLWduh6Mc.png"
+      },
+      "descripcion": "Cocytus is the guardian of the Fifth floor of Nazarick. An insectoid heteromorph, he was created by Warrior Takemikazuchi to be an honourable warrior and is tasked with keeping a cache of powerful weapons for Nazarick. He has a neutral alignment, which stands out against the many evil entities in Nazarick. An extremely skilled fighter, Cocytus is an expert at selecting the right combination of weapons for the fight, and dealing huge amounts of damage quickly. With the help of his extra arms, he is capable of wielding four of his twenty-one weapons at once, allowing him to deal the highest damage per second of any floor guardian.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 87489,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        },
+        {
+          "id": 101083,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 2",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです2"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 103209,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 3",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです3"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127434,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Crusch Lulu",
+        "native": "クルシュ・ルールー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/127434-4niQP00EPWzf.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/127434-4niQP00EPWzf.jpg"
+      },
+      "descripcion": "Crusch Lulu is an albino white lizardman and the chieftain of the Red Eye tribe. Over the course of time, she proved herself to be a strong practitioner of magic. Currently, she is the strongest of all the magic casters that exist within the lizardmen tribes. Her magic consists of controlling nature and summoning spirits to assist her in different ways.\n\nShe has snow white scales and spotless purity, bright red eyes like rubies and slim limbs. Since she was born an albino, in the lizardmen community that would normally mean that she would be abandoned. In Lulu's case however, her parents decided to raise her even with this genetic fault. Due to her this, Crusch burns easily in the sun and is very weak against direct sunlight, which forces her to wear a ridiculous bush outfit during the day. [Zenberu](https://anilist.co/character/127433/Gugu-Zenberu) teases her about it and refers to her as 'Plant Monster'.\n\n~!He met [Zaryusu](https://anilist.co/character/127431/Shasha-Zaryusu) when he visited Red Eye tribe in order to propose the formation of an alliance. She revealed that when the famine in the Wetlands occurred, the Red Eye tribe managed to stave off extinction through fratricide. However, unable to bear with the guilt and shame, Crusch led a rebellion against the previous chief. Her rebellion was a success and the mantle of leadership was passed down to her.\n\nEventually she fell in love with Zaryusu, a feeling had been mutual since the moment he had met her. Before the lizardmen's duel with [Cocytus](https://anilist.co/character/89138/Cocytus), Crusch asked his lover to impregnate her, fearful that he might die. Indeed, after he was slain in battle, [Ainz](https://anilist.co/character/89103/Momonga) made a deal with Crusch Lulu where he would revive Zaryusu in exchange of her keeping a close watch on whether there are lizardmen thinking of rebelling. Even after the assimilation of her tribe, Crusch is still fearful of Ainz, as when he inquired about her and Zaryusu's newly born child, and thinks that Ainz will take their child away.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 191168,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Davernoch",
+        "native": "デイバーノック"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191168-S1wsRX96IQ5q.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191168-S1wsRX96IQ5q.png"
+      },
+      "descripcion": "Member of Six Arms, the security department of the criminal organization Eight Fingers.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 286480,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Death Cavalier",
+        "native": "デス・キャバリエ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b286480-pj8W2fZmndzP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b286480-pj8W2fZmndzP.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89125,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Demiurge",
+        "native": "デミウルゴス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89125-pnLki4r5UyV5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89125-pnLki4r5UyV5.png"
+      },
+      "descripcion": "The Guardian of the Seventh floor of Nazarick, with the form of a demon wearing glasses. Demiurge is very intelligent, but is also considered the most evil NPC on Nazarick. He greatly enjoys the suffering of others, made clear by his vicious experiments on prisoners. He's in charge of tactics and defenses of Nazarick. Among the Guardians, he gets along the best with [Mare](https://anilist.co/character/89126/Bello-Fiore-Mare), since he understands the more cunning side of the Dark Elf.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 87489,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        },
+        {
+          "id": 101083,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 2",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです2"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 103209,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 3",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです3"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175037,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dyne Woodwonder",
+        "native": "ダイン・ウッドワンダー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175037-AQQhRCTTEMEY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175037-AQQhRCTTEMEY.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        }
+      ]
+    },
+    {
+      "id": 191163,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Edstrom",
+        "native": "エドストレーム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191163-EuJhtIVGLUso.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191163-EuJhtIVGLUso.png"
+      },
+      "descripcion": "Sole female member of Six Arms, the security department of the criminal organization Eight Fingers.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 128568,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Elias Brandt Dale  Raeven",
+        "native": "エリアス・ブラント・デイル・レエブン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n128568-j5ugexL3I9NW.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n128568-j5ugexL3I9NW.jpg"
+      },
+      "descripcion": "Elias is the leader of the King's Faction and the most powerful noble amongst the six major nobles in Re-Estize Kingdom. He is a tall, thin man with slicked back blonde hair. He looks like a snake due to his pale-white skin and narrow blue eyes. Though his intelligent and careful nature makes him seem cold hearted, Elias is a good father and a patriot in the Kingdom.\n\nAs one of the six great nobles, Elias possesses clothes of the highest quality. He wears a doublet made from high quality fur woven with golden threads. There are intricate patterns and small jewels sewn into his clothes.\n\nElias originally aimed for the throne, but the birth of his son made him forsake this goal. He now simply wants to give his son a better life. He commands the highest authority among the six major nobles. He is known to be an opportunist, cooperating with both Patricians and Loyalists from time to time and constantly switching between the two factions like a snake in order to further his own goals. However, Elias is in fact the leader of the Loyalists, and his behavior as an opportunist is just a performance to prevent the Kingdom from splitting. His true colors are classified, and even Gazef misunderstands him as a traitor.\n\n\nWeb novel: ~!In the web novel version, Elias did not survive the massacre during the war between the Kingdom and the Empire.!~\n\n(Source: Overlord Wikia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 128405,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Enri Emmot",
+        "native": "エンリ・エモット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n128405-Dy4SezyQ9OPV.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n128405-Dy4SezyQ9OPV.jpg"
+      },
+      "descripcion": "Race: Human Race\nAffiliation\nSorcerer Kingdom\nRe-Estize Kingdom (Formerly)\nis the Chieftain of Carne Village and the older sister of Nemu Emmot.\nRaised by a loving family, Enri has grown up to be a kind person, but has shown to have a strong character. As seen when she is willing to sacrifice herself for the sake of her little sister's life. She shows great leadership, being the new village head and defending the town from monsters with the other villagers.\nGrowing up in Carne Village and living there all her life, Enri has always lived the life of a simple farmer's daughter. Due to her healthy lifestyle, Enri has grown to be physically fit to the point where she is considered as one of the strongest five in the village.",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126281,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Entoma Vasilissa Zeta",
+        "native": "エントマ・ヴァシリッサ・ゼータ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126281-wjpp9rEaovPJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126281-wjpp9rEaovPJ.jpg"
+      },
+      "descripcion": "One of the members of the battle maids originally created by Genjiro. \n\n~!She has the appearance of a normal girl but her true form is that of an arachanid hybrid. She has bug mask to cover her real face. She uses a leech that recreates human voices after it kills them to disguise her original voice. She has insect focused abilities and uses talismans.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 21305,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades",
+            "english": "Overlord: Ple Ple Pleiades",
+            "native": "オーバーロード ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 87489,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101083,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 2",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです2"
+          }
+        },
+        {
+          "id": 101098,
+          "title": {
+            "romaji": "Gekijouban Ple Ple Pleiades",
+            "english": "Overlord Movie: Ple Ple Pleiades",
+            "native": "劇場版ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 103209,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 3",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです3"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 107264,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Clementine Toubou-hen",
+            "english": null,
+            "native": "ぷれぷれぷれあです ～クレマンティーヌ逃亡編～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179053,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Erya Uzruth",
+        "native": "エルヤー・ウズルス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179053-PR1bGuclWgRC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179053-PR1bGuclWgRC.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 125881,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Evileye",
+        "native": "イビルアイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n125881-G7IbEWaUyCqc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n125881-G7IbEWaUyCqc.png"
+      },
+      "descripcion": "Evileye is an adamantite ranked adventurer and magic caster of Blue Roses as well as a former companion of the Thirteen Heroes. \n\nEvileye has the figure of a twelve-year-old girl. She covers herself with a reddish robe and an uncanny mask which hides her face. Because of this, she is considered an enigmatic woman by others. Due to her short stature, she is called \"Shorty\" by [Gagaran](https://anilist.co/character/127669/Gagaran). Evileye's young appearance is presumably due to being an immortal vampire, which caused her body to stop developing at the age of twelve.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 284923,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fith",
+        "native": "フィース"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284923-LHr4pUEVwPwY.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b284923-LHr4pUEVwPwY.jpg"
+      },
+      "descripcion": "Fith is one of the forty one Homunculus Maids that are responsible for the various maid jobs on the 9th and 10th Floors of the Great Tomb of Nazarick.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179044,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fluder Paradyne",
+        "native": "フールーダ・パラダイン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179044-OLT3ZdRtUTu6.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179044-OLT3ZdRtUTu6.jpg"
+      },
+      "descripcion": "Fluder Paradyne is the Imperial Court Wizard of the Baharuth Empire in the New World. He is the headmaster of the Imperial Magic Academy and he is also in charge of the Ministry of Magic in Arwintar.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130219,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Foire",
+        "native": "フォアイル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130219-MIUf8Ijl9O0h.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130219-MIUf8Ijl9O0h.png"
+      },
+      "descripcion": "Foire is one of the forty one Homunculus Maids that are responsible for the various maid jobs on the 9th and 10th Floors of the Great Tomb of Nazarick.\n\n(Source: Overlord Wiki)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127669,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gagaran",
+        "native": "ガガーラン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n127669-8nYP4EnGbCTD.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n127669-8nYP4EnGbCTD.jpg"
+      },
+      "descripcion": "She is an adamantite ranked adventurer and a warrior from Blue Rose",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179036,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gringham",
+        "native": "グリンガム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179036-DXUyt7CeiEx1.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179036-DXUyt7CeiEx1.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179037,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gu",
+        "native": "グ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179037-b4Nc4ekZAzi1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179037-b4Nc4ekZAzi1.png"
+      },
+      "descripcion": "Gu is a giant troll who ruled the Eastern Tob Forest.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179050,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hekkeran Termite",
+        "native": "ヘッケラン・ターマイト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179050-cnr5tajXjtwY.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179050-cnr5tajXjtwY.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 189116,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Herohero",
+        "native": "ヘロヘロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b189116-k31RK8Ux0JfE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b189116-k31RK8Ux0JfE.png"
+      },
+      "descripcion": "Herohero (ヘロヘロ) is a guild member of Ainz Ooal Gown and regarded as one of the Forty-One Supreme Beings by the NPCs of the Great Tomb of Nazarick. He is the creator of Solution Epsilon and one of the creators of the Homunculus Maids groups that work in Nazarick.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        }
+      ]
+    },
+    {
+      "id": 191160,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hilma Cygnaeus",
+        "native": "ヒルマ・シュグネウス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191160-V5ICXwV0x3zw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191160-V5ICXwV0x3zw.jpg"
+      },
+      "descripcion": "Leader of the drug trade department of the criminal organization, Eight Fingers.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175043,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Igvarge",
+        "native": "イグヴァルジ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175043-6KuPpxP8d00W.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175043-6KuPpxP8d00W.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179056,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Imina",
+        "native": "イミーナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179056-ilA4Ix7uMFCi.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179056-ilA4Ix7uMFCi.jpg"
+      },
+      "descripcion": "Imina is a half-elf worker and member of Foresight. She and her companions volunteered to explore and investigate the mysterious Large Tomb.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126961,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jircniv Rune Farlord El Nix",
+        "native": "ジルクニフ・ルーン・ファーロード・エル＝ニクス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126961-OS7UfAnUxFfY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126961-OS7UfAnUxFfY.png"
+      },
+      "descripcion": "Jircniv Rune Farlord El Nix is the current Emperor of the Baharuth Empire. He is also known as the Bloody Emperor.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179038,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jugem",
+        "native": "ジュゲム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179038-dnShJozMZ0Y7.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179038-dnShJozMZ0Y7.jpg"
+      },
+      "descripcion": "Jugem is the leader of the Goblin Troop.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179039,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaijali",
+        "native": "カイジャリ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179039-pdOihXLZM3uJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179039-pdOihXLZM3uJ.jpg"
+      },
+      "descripcion": "Kaijali is a goblin soldier and a member of the Goblin Troop.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 330971,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kelart Custodio",
+        "native": "ケラルト・カストディオ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b330971-8wF4u89tgkyI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b330971-8wF4u89tgkyI.png"
+      },
+      "descripcion": "High priestess of the Roble Holy Kingdom and the younger sister of Remedios Custodio. Alongside her sister, she was also one of the \"twin wings\" of Holy Queen Calca Bessarez.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133845,
+          "title": {
+            "romaji": "Overlord: Sei Oukoku-hen",
+            "english": "OVERLORD: The Sacred Kingdom",
+            "native": "オーバーロード 聖王国編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160236,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kyouhukou",
+        "native": "恐怖公"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160236-TdqSH26XporG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160236-TdqSH26XporG.png"
+      },
+      "descripcion": "Kyouhukou is a Black Capsule Area Guardian on the second floor of the Great Tomb of Nazarick .\n\nKyouhukou's personality shows a touch of nobility, as his dress would suggest. He speaks politely and generally seems to think of himself as a noble knight or kind of King. He considers himself open-minded, as he was willing to listen to the person's circumstances, even if that means refusing his help later. At the same time, Kyouhukou is something reasonable for Nazarick residents like Hamsuke whom he helped when he was lost.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 194447,
+          "title": {
+            "romaji": "Isekai Quartet 3",
+            "english": "Isekai Quartet 3",
+            "native": "異世界かるてっと 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179040,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kyumei",
+        "native": "キュウメイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179040-oBtaYRcmYJgC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179040-oBtaYRcmYJgC.jpg"
+      },
+      "descripcion": "Kyumei is a goblin wolf rider and a member of the Goblin Troop.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127667,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lakyus Alvein Dale Aindra",
+        "native": "ラキュース・アルベイン・デイル・アインドラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n127667-TJXgovPZREO6.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n127667-TJXgovPZREO6.jpg"
+      },
+      "descripcion": "Lakyus is an adamantite ranked adventurer and the leader of Blue Rose. She is part of the nobility, friend of the Re-Estize Royal Family, and loyal to the people of Re-Estize Kingdom. She acts as a faith based magic caster and warrior priestess of her adventurer group.\n<br><br>\nShe is described as a young women that has long blonde hair with green eyes and pink lips that showed a healthy gleam. Her beauty falls short of Renner but overflows with a different charm.\n<br><br>\nLakyus is a very bright person who enjoys adventuring with her friends. She sometimes acts weird like wearing apparently meaningless rings or fighting against her dark personality, making her other team members worry about her actually becoming evil. When Lakyus was a young girl, she decided to become an adventurer after hearing the adventure stories about Red Drop. She ran away from home to have an adventure, while she was still inexperienced, she was saved by Gagaran and the two became partners.\n<br><br>\nLakyus becomes one of the strongest adventurers of the kingdom at the age of 19 for her near Heroic-level abilities. She is also one of the few users of revival magic.\n<br><br>\n(Source: Overlord Wiki)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179048,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Leinas Rockbruise",
+        "native": "レイナース・ロックブルズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179048-3QKODBO09zlC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179048-3QKODBO09zlC.jpg"
+      },
+      "descripcion": "Leinas Rockbruise is the only female member of the Four Imperial Knights of the Baharuth Empire.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 312707,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lilynette Piani",
+        "native": "リリネット・ピアニ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b312707-njcyujJVmxDt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b312707-njcyujJVmxDt.png"
+      },
+      "descripcion": "A member of the mithril class adventurer guild, Four Armaments.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 128403,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lizzie Bareare",
+        "native": "リィジー・バレアレ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n128403-gJFHR2J3qMHh.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n128403-gJFHR2J3qMHh.jpg"
+      },
+      "descripcion": "\nRace: Human\nAffiliation:\nSorcerer Kingdom\nRe-Estize Kingdom (Formerly)\nFamily:\nNfirea Bareare (Grandson)\nOccupation:\nHerbalist\nPotion Maker\nResidence\nE-Rantel (Formerly)\nCarne Village (Currently)\nis a pharmacist who used to operate in E-Rantel and the grandmother of Nfirea Bareare. When Nfirea was kidnapped by Zurrernorn, she made a deal with Ainz to rescue him in return for her services. Afterwards, she moved to Carne Village.\nThough a seemingly old woman, Lizzie Bareare is still quite sharp for her age. Highly knowledgeable about the make-up, properties and lore of potions. She also has a demanding and fastidious personality. Her intense gaze gives other people the shivers.\nRenown throughout the city of E-Rantel, Lizzie Bareare holds the title as the city's best pharmacist.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175044,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Londres Di Clamp",
+        "native": "ロンデス・ディ・クランプ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175044-rN8ub9tWn8RN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175044-rN8ub9tWn8RN.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179055,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Loune Vermillion",
+        "native": "ロウネ・ヴァミリネン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179055-MvQC3zaR7uEQ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179055-MvQC3zaR7uEQ.jpg"
+      },
+      "descripcion": "Loune Vermillion is a scribe and the secretary of Emperor Jircniv Rune Farlord El Nix.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174686,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lumiere",
+        "native": "リュミエール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174686-iNRRf8lJ5a5H.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174686-iNRRf8lJ5a5H.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126870,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lupusregina Beta",
+        "native": "ルプスレギナ・ベータ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/126870-DKc1B7cvoUu7.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/126870-DKc1B7cvoUu7.jpg"
+      },
+      "descripcion": "A member of the \"Pleiades Six Stars\", the battle maid squad of the Great Tomb of Nazarick. She serves as the role of battle cleric and focuses on healing magic. In terms of combat ability, she possesses the highest physical defense and resistances among the Pleiades, and has balanced stats overall. Being a werewolf, she is weak to silver weapons, but is blessed with resistance against other metals.\n\nHer appearance is that of a brown-skinned beauty with amber-colored eyes, and red hair which she ties in two long braids. She wears a maid uniform with short sleeves and long black gloves, white stockings, and a skirt that has a long slit on its left side. She is usually seen carrying her signature weapon slung across her back, a menacing black and silver scepter which looks like and oversized religious symbol, the Crosier.\n\nLupusregina boasts a very sociable and outgoing personality, and seems very friendly, even towards humans, a race considered unworthy of respect by other beings of Nazarick. For example, she adds \"-chan\" to the other maid's names, and often likes teasing [Enri](https://anilist.co/character/128405) with lewd jokes. The Homunculus Maids (the ordinary maids of Nazarick) are convinced she's the friendliest of the Pleiades and even believe that being approached by her can be a sign of good fortune. However, her fellow battle-maid [Yuri Alpha](https://anilist.co/character/128288) has commented that Lupusregina's friendliness is merely a facade, and that in reality she can be as brutal and sadistic as [Solution](https://anilist.co/character/89123).\n\nShe likes startling people by using her \"Complete Invisibility\" spell and appearing behind them unnoticed.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 21305,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades",
+            "english": "Overlord: Ple Ple Pleiades",
+            "native": "オーバーロード ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 87489,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101083,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 2",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです2"
+          }
+        },
+        {
+          "id": 101098,
+          "title": {
+            "romaji": "Gekijouban Ple Ple Pleiades",
+            "english": "Overlord Movie: Ple Ple Pleiades",
+            "native": "劇場版ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 103209,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 3",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです3"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 107264,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Clementine Toubou-hen",
+            "english": null,
+            "native": "ぷれぷれぷれあです ～クレマンティーヌ逃亡編～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 191161,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Malmvist",
+        "native": "マルムヴィスト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191161-7VLvdIOD0oIu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191161-7VLvdIOD0oIu.png"
+      },
+      "descripcion": "Member of Six Arms, the security department of the criminal organization Eight Fingers.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89126,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mare Bello Fiore",
+        "native": "マーレ・ベロ・フィオーレ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89126-1WY1bWNYPg44.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89126-1WY1bWNYPg44.png"
+      },
+      "descripcion": "One of the Guardians of the Sixth floor of Nazarick alongside his twin sister [Aura](https://anilist.co/character/89129). He's rather shy and calm in comparison to his sister, although he can fight and be ruthless when necessary. Like his sister, Mare is a Dark Elf. Mare specializes in Druid magic, capable of twisting the earth to his whims.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 87489,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        },
+        {
+          "id": 101083,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 2",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです2"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 103209,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 3",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです3"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 255590,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Margrave Urovana",
+        "native": "ウロヴァーナ辺境伯"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b255590-edmj6winXPS0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b255590-edmj6winXPS0.png"
+      },
+      "descripcion": "Margrave Urovana is one of the Six Great Nobles of the Re-Estize Kingdom. He is loyal to King Ramposa III, being part of the Royalty Faction.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175038,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Moknach",
+        "native": "モックナック"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175038-LLGIB32hi4fk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175038-LLGIB32hi4fk.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174687,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Natel Inyem Dale Carvain",
+        "native": "ナテル・イニエム・デイル・カーベイン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174687-t0UNrZ0Eg0IU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174687-t0UNrZ0Eg0IU.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 128402,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nemu Emmot",
+        "native": "ネム・エモット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n128402-6d5Ab9O2ThK8.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n128402-6d5Ab9O2ThK8.jpg"
+      },
+      "descripcion": "Race: Human \nAffiliation:\n Sorcerer Kingdom \nRe-Estize Kingdom (Formerly)\n Family: \nEnri Emmot (Older Sister) \nNfirea Bareare (Brother-In-Law)\n Occupation: Villager \nResidence: Carne Village\n\n Nemu has a childish and naive personality, but it seems that she may actually know more than her older sister. She used to be more bold and rebel, but after the attack to her village and the death of her parents she try to be more useful and obedient to help Enri. However, it seems that her boldness comes back when she gets emotional, like the time that she visited Nazarick",
+      "genero": "Female",
+      "edad": "10",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 391541,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Neuronist Painkill",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b391541-3rWIiyflHPiC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b391541-3rWIiyflHPiC.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 128404,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nfirea Bareare",
+        "native": "ンフィーレア・バレアレ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n128404-5ncnTSZPNoKV.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n128404-5ncnTSZPNoKV.jpg"
+      },
+      "descripcion": "__Race:__ Human\n__Affiliation:__ Sorcerer Kingdom, Re-Estize Kingdom (Formerly)\n__Family:__ Lizzie Bareare (Grandmother), Enri Emmot (Wife), Nemu Emmot (Sister-In-Law)\n__Occupation:__ Herbalist, Potion Maker\n__Residence:__ E-Rantel (Formerly), Carne Village (Currently)\n__Birthday:__ Middle Wind Month 18th Day\n__Hobby:__ Alchemical Experiments.\n\nNfirea is described as a nice, calm and timid person. He works hard at making potions with his grandmother every day.\nHe also has a minor inferiority complex, due to comparing himself to Ainz.\nAt a young age, Nfirea Bareare was raised by his grandmother Lizzie Bareare after his parents died; he only has murky impressions of them. His grandmother made him her apprentice and taught him everything she knew about herbs, alchemy, and potion-making. He met Enri Emmot while delivering potions to Carne Village and developed feelings for her.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 139673,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nigredo",
+        "native": "ニグレド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b139673-GSlO2IVBGIIW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b139673-GSlO2IVBGIIW.png"
+      },
+      "descripcion": "Nigredo (ニグレド) is an NPC of the Great Tomb of Nazarick, she is the older sister of Albedo and Rubedo. Nigredo was imprisoned in the \"Frozen Prison\", situated on the 5th Floor of Nazarick.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141731,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nigun Grid Luin",
+        "native": "ニグン・グリッド・ルーイン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141731-hiOr8aSP2tO3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141731-hiOr8aSP2tO3.jpg"
+      },
+      "descripcion": "Nigun Grid Luin (ニグン・グリッド・ルーイン) was the captain of the Sunlight Scripture of the Slane Theocracy. He was ordered by the Cardinals to assassinate the Re-Estize Kingdom's strongest warrior, Gazef Stronoff.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179041,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nimble Arc Dale Anoch",
+        "native": "ニンブル・アーク・デイル・アノック"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179041-OjhkI0fIIEYj.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179041-OjhkI0fIIEYj.jpg"
+      },
+      "descripcion": "Nimble Arc Dale Anoch is a member of the Four Imperial Knights of the Baharuth Empire.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179042,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nosuli",
+        "native": "ノスリ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179042-uNE6rNcaxYhb.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179042-uNE6rNcaxYhb.jpg"
+      },
+      "descripcion": "Nosuli is a goblin soldier and a member of the Goblin Troop.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 365268,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Osk",
+        "native": "オスク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": "Osk is a merchant of the Baharuth Empire and promoter of the Martial Lord of the Grand Arena.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179043,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Parpatra Ogrion",
+        "native": "パルパトラ・オグリオン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179043-sZl4RsyzDOgc.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179043-sZl4RsyzDOgc.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 191167,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Peshurian",
+        "native": "ペシュリアン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191167-nROhdXp9H7R1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191167-nROhdXp9H7R1.png"
+      },
+      "descripcion": "Member of Six Arms, the security department of the criminal organization Eight Fingers.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 183730,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pestonya Shortcake Wanko",
+        "native": "ペストーニャ・ショートケーキ・ワンコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183730-XW8pUIgEGscZ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b183730-XW8pUIgEGscZ.jpg"
+      },
+      "descripcion": "**Pestonya Shortcake Wanko** is the Head maid of the Homunculus Maids of the Great Tomb of Nazarick. She is one of the few NPCs who does not look down on normal humans and would prefer to be kind to them, alongside [Sebas](https://anilist.co/character/89155/Sebas-Tian) and [Yuri Alpha](https://anilist.co/character/128288/Yuri-Alpha).\n\n(Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 151898,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 4",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです4"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174103,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Philip Dayton L'Eyre Montserrat",
+        "native": "フィリップ・デイドン・リイル・モチヤラス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174103-ApdxWVMvEVde.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174103-ApdxWVMvEVde.jpg"
+      },
+      "descripcion": "A small Baron in the Re-Estize Kingdom. He is commonly described as an idiot and is thus manipulated into creating an alternative noble faction by Hilma.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175042,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pluton Ainzach",
+        "native": "プルトン・アインザック"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175042-RxEDJ1RzM7c6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175042-RxEDJ1RzM7c6.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179046,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pulcinella",
+        "native": "プルチネッラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179046-UKOG6kcfxOLU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179046-UKOG6kcfxOLU.png"
+      },
+      "descripcion": "Pulcinella is a clown NPC of the Great Tomb of Nazarick.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179047,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ramposa III",
+        "native": "ランポッサIII"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179047-oTcjmVpCyh5A.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179047-oTcjmVpCyh5A.jpg"
+      },
+      "descripcion": "Ramposa III is the current king of the Re-Estize Kingdom. He is the father of Barbro, Zanac and Renner.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 330969,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Remedios Custodio",
+        "native": "レメディオス・カストディオ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b330969-0xdyn5sPZjIj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b330969-0xdyn5sPZjIj.png"
+      },
+      "descripcion": "Grandmaster of the Roble Holy Kingdom's Paladin Order and a member of the Nine Colors.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133845,
+          "title": {
+            "romaji": "Overlord: Sei Oukoku-hen",
+            "english": "OVERLORD: The Sacred Kingdom",
+            "native": "オーバーロード 聖王国編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127241,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Renner Theiere Chardelon Ryle Vaiself",
+        "native": "ラナー・ティエール・シャルドルン・ライル・ヴァイセルフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n127241-jDj7iccxQGdT.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n127241-jDj7iccxQGdT.jpg"
+      },
+      "descripcion": "Renner is the third princess of Re-Estize Kingdom and the childhood friend of [Climb](https://anilist.co/character/128287). She is also known as the Golden Princess for being a reformer who brought major changes within the kingdom such as the ban on slavery. She is the youngest daughter of King Lanposa III and the younger sister of [Barbro](https://anilist.co/character/179054) and [Zanac](https://anilist.co/character/128567).\n\nRenner is described as a young girl with long golden hair, silky smooth and supple as it drapes over the back of her neck. She has vibrant, dark blue eyes that shine like sapphires filled with warmth. She wears a fashionable white dress which further strengthens her image of purity. Around her neck hangs a golden necklace, appearing to symbolize her noble soul.\n\nRenner is known publicly as the Golden Princess for her benevolence and kindness. While she is believed to be a saint, in reality she has a psychopathic personality and doesn't care about the feelings of others. The only exception to this is her childhood friend, Climb. If Climb was wounded, she would declare that anyone involved would be ruthlessly killed.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 186842,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Roberdyck Goltron",
+        "native": "ロバーデイク・ゴルトロン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186842-9i2CcpXZMuXe.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b186842-9i2CcpXZMuXe.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 312706,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Scama Elbero",
+        "native": "スカマ・エルベロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b312706-YiBuFyKh9nhG.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b312706-YiBuFyKh9nhG.jpg"
+      },
+      "descripcion": "The leader of the mithril class adventurer guild, Four Armaments.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89155,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sebas Tian",
+        "native": "セバス・チャン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89155-yVyhseUF82s9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89155-yVyhseUF82s9.png"
+      },
+      "descripcion": "The butler of the Tenth floor of Nazarick, who specializes in unarmed combat, with power comparable with the other Floor Guardians. He has the appearance of an elderly gentleman with a neat beard, but is actually of a species known as Dragonoids. He has a strong sense of justice, like his creator. Thus, he dislikes when the other Guardians kill humans needlessly. Because of their opposite personalities, he and [Demiurge](https://anilist.co/character/89125/Demiurge) don't get along.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 87489,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        },
+        {
+          "id": 101083,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 2",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです2"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 103209,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 3",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです3"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89121,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shalltear Bloodfallen",
+        "native": "シャルティア・ブラッドフォールン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89121-N8hzLH4nfWna.png"
+      },
+      "descripcion": "The Guardian of the First, Second, and Third floors of Nazarick, she has the form of a beautiful vampire girl. She's also in love with [Momonga](https://anilist.co/character/89103). She and [Albedo](https://anilist.co/character/89122) constantly clash for his attention. While the two don't mind sharing Momonga, they still fight for superiority and who would ultimately appeal to Momonga. Shalltear is one of the most powerful guardians, allegedly capable of going toe-to-toe with Albedo.\n\n~!Due to an incident where she is subjected to mind control by a member of the Black Scripture, she ends up unintentionally rebelling against Nazarick.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 87489,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        },
+        {
+          "id": 101083,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 2",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです2"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 103209,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 3",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです3"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127432,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shasuryu Shasha",
+        "native": "シャースーリュー・シャシャ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/127432-i76rwiFQWiO5.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/127432-i76rwiFQWiO5.jpg"
+      },
+      "descripcion": "Shasuryu Shasha is the leader of the lizardmen's tribes and chieftain of the Green Claw Tribe. His younger brother is Zaryusu. He is a skilled warrior in addition to a proficient druid, which allows him to complement his weapon attacks with magic. Unlike other lizardmen who have bone weapons, his sword is forged of pure steel.\n\nIncredibly huge in stature, he has dark green and charcoal black scales, a trait which he shares with his younger brother. Numerous scars are present all over his body, the most prominent of which is an old, long white scar, which stands out amongst his dark-colored scales.\n\nShasuryu follows his ancestors’ traditions, but he is also not blinded by them and is one of the more practical minded lizardmen, as evidenced by the decision to support his brother's innovative idea, which led to the creation of the fishery farms near the Green Tribe village.\n\n~!Shasuryu Shasha led the chieftains, save Crusch Lulu, and a band of the strongest warriors of the Lizardmen Alliance in the duel against Cocytus. The majority of the warriors perished in one fell swoop due to Cocytus's freezing ability, and only the chieftains remained. Ultimately, Shasuryu and Zaryusu were last lizardmen to be left standing. He sacrificed his life in order to create an opening for his brother to attack Cocytus. Unfortunately, his brother was unable to cause damage, and was also slain shortly. However, their acts and sacrifices in battle were not meaningless, since they earned Cocytus' respect, which later influenced Ainz's decision to resurrect them.\nAfter Zaryusu was resurrected by Ainz's magic, the lizardman petitioned his brother and Zenberu be resurrected. Ainz replied he would consider his request, which he later granted.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89123,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Solution Epsilon",
+        "native": "ソリュシャン・イプシロン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89123-HyiNAMbKvj5E.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89123-HyiNAMbKvj5E.png"
+      },
+      "descripcion": "One of the Pleiades. She's a slime and one of the most dangerous Pleiades to humans, since she enjoys devouring humans alive. An assassin and poisoner who can decide to protect or dissolve things she absorbs, she can also control the speed of her digestion. She gets along with [Shalltear](https://anilist.co/character/89121) because of their similar tastes",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 21305,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades",
+            "english": "Overlord: Ple Ple Pleiades",
+            "native": "オーバーロード ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 87489,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        },
+        {
+          "id": 101083,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 2",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです2"
+          }
+        },
+        {
+          "id": 101098,
+          "title": {
+            "romaji": "Gekijouban Ple Ple Pleiades",
+            "english": "Overlord Movie: Ple Ple Pleiades",
+            "native": "劇場版ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 103209,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 3",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです3"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        }
+      ]
+    },
+    {
+      "id": 191162,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Staffan Heivish",
+        "native": "スタッファン ・ ヘーウィッシュ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191162-8ZYvbZWUTJJj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191162-8ZYvbZWUTJJj.png"
+      },
+      "descripcion": "Patrol officer of Re-Estize and he is also an operative of the Eight Fingers.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 191164,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Succulent",
+        "native": "サキュロント"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191164-yUZ5mP0KP7e1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191164-yUZ5mP0KP7e1.png"
+      },
+      "descripcion": "Member of Six Arms, the security department of the criminal organization Eight Fingers.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179049,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Suigyo",
+        "native": "スイギョ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179049-IUjYkvwxHhuR.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179049-IUjYkvwxHhuR.jpg"
+      },
+      "descripcion": "Suigyo is a goblin soldier and a member of the Goblin Troop.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 203948,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Taichou",
+        "native": "隊長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b203948-5nkBC0Bu2Os5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b203948-5nkBC0Bu2Os5.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 128565,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tia",
+        "native": "ティア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n128565-Lhd3G2TBoMJT.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n128565-Lhd3G2TBoMJT.jpg"
+      },
+      "descripcion": "Tia is an adamantite ranked adventurer and a member of Blue Rose. She is the twin sister of Tina.\n<br><br>\n(Source: Overlord Wiki)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127670,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tina",
+        "native": "ティナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n127670-5YG4iz8L8TSS.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n127670-5YG4iz8L8TSS.jpg"
+      },
+      "descripcion": "Tina is an adamantite ranked adventurer and a member of Blue Rose. She is the twin sister of Tia.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127437,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Touch Me",
+        "native": "たっち・みー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/127437-HHvKoQEugGhN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/127437-HHvKoQEugGhN.jpg"
+      },
+      "descripcion": "Touch Me is one of the original founding members of the Ainz Ooal Gown guild and one of the strongest warriors in YGGDRASIL. He is regarded as one of the Forty-One Supreme Beings by the NPCs of the Great Tomb of Nazarick. He is the creator of Sebas Tian. At some point in YGGDRASIL, Touch Me participated in an official martial tournament and defeated all of his adversaries. By winning the tournament, he was awarded a special prize that comes in two. Firstly, he was given a special job class known as the \"World Champion\" of Álfheimr, and in addition he was awarded with the pure white armor set called \"Compliance with Law.\"\n\nTouch Me's outfit consists of shining white armor and a helm. His chest piece contains a huge sapphire embedded in the middle, which radiates with pure and divine light.\nHe is also adorned with a reddish cape attached around his right shoulder. Additionally, he is armed with both sword and shield. Touch Me's actual facial appearance in real life is said to look exactly like Sebas Tian. \n\nAs Touch Me played YGGDRASIL, he decided to assist the heteromorphic players during a time when they were being hunted down for fun through PKing. Thus, that was how he met Momonga, by saving him from a PK party; the two started becoming friends since then. There was also a time when Bukubukuchagama could not find a party to adventure with due to her appearance, so he was the one who approached her before anyone else. Afterwards, they formed a party together with other non-human characters and organized the First Nine, also known as Nine's Own Goal.\n\nAfter that, the clan grew with members chosen and invited personally by Touch Me, becoming a stable and friendly group. However, he felt that the clan was beginning to slowly fall apart. During one of its meetings, Touch Me was seen looking troubled by Momonga and Peroroncino, but their concerns were brushed aside. Once all the clan members had arrived, Touch Me started the meeting by having Nishikienrai report his latest discovery of a new unexplored dungeon. After the various clan members discussed the pros and cons of the dungeon, it was agreed that the clan would launch a raid.  Touch Me then moved unto the next point in the agenda of the meeting, in which he formally announced his intention to dissolve the Clan. His declaration elicited many protests, however he informed them that he wished to form Nine's Own Goal as an official Guild. Hearing the majority of the Clan concur to the idea, Touch Me decided to turn down the suggestion to become the Guildmaster. Just as several members of the groups argued about who should become Guildmaster, Touch Me restored order and nominated Momonga as their new guild leader, a proposal which many accepted. \n\nTouch Me is looked upon as very righteous and fair. He would help people in times of trouble without hesitation, and scolds his friends if one of them did something wrong. Momonga describes Touch Me as someone who is a straightforward person, the kind who was very direct in his words and deeds. However, Touch Me can be self-reflective at times, as evidenced when he was willing to step down as clan leader and proposed for someone else to be the guild master rather than him. If what Ulbert said is true; about him chasing away one of their former clansman leaving the game, then this might be part of the reason why Touch Me decided to step down voluntarily as a candidate for Guildmaster. \n\n(Source: Overlord Wikia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        }
+      ]
+    },
+    {
+      "id": 128267,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tuareninya Veyron",
+        "native": "ツアレニーニャ・ベイロン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n128267-O0y4t2aXmhO1.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n128267-O0y4t2aXmhO1.jpg"
+      },
+      "descripcion": "~!Tuareninya is the Head Maid Candidate of E-Rantel and the older sister of Ninya. She is under the protection of Ainz Ooal Gown after Sebas Tian saved her from the brothel in the Royal Capital.!~\n\n(Source: Overlord Wikia)",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 151898,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 4",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです4"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179051,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Unlai",
+        "native": "ウンライ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179051-usHPtKazfpRT.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179051-usHPtKazfpRT.jpg"
+      },
+      "descripcion": "Unlai is a goblin soldier and a member of the Goblin Troop.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179052,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ureirika",
+        "native": "ウレイリカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179052-X4Msm49XyBYe.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179052-X4Msm49XyBYe.png"
+      },
+      "descripcion": "Ureirika is the younger sister of Arche Eeb Rile Furt and the twin sister of Kuuderika.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 282398,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Vesture Kloff Di Laufen",
+        "native": "ヴェスチャー・クロフ・ディ・ローファン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b282398-WynEmQH6vVgN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b282398-WynEmQH6vVgN.jpg"
+      },
+      "descripcion": "A former adamantite-ranked adventurer and the mentor of Gazef Stronoff.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 128566,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Victim",
+        "native": "ヴィクティム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n128566-tZUEtxlgIGNu.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n128566-tZUEtxlgIGNu.jpg"
+      },
+      "descripcion": "Victim is a Floor Guardian on the eighth floor of the Great Tomb of Nazarick. \n\nIt has the appearance of 1 meter long bright pink embryo with an angelic halo and featherless stick-like wings. Despite being one of the most rarely seen of the Floor Guardians, Victim is courteous to his colleagues. Victim speaks in a different language than the others NPCs, but though he speaks in an alien tongue, they nevertheless seem to have no trouble understanding him. He is humble and modest about his position as a living sacrifice, believing it is his sole duty and purpose to serve the Supreme Beings and Nazarick. \n\nVictim did not exist in the web novel version.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101083,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 2",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです2"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 128288,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuri Alpha",
+        "native": "アルファユリ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n128288-rxWuyLQkxYBL.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n128288-rxWuyLQkxYBL.jpg"
+      },
+      "descripcion": "The Vice-Captain, but de facto leader of the Pleiades. She is a Dullahan who uses a choker to keep her head attached to the rest of her body, causing her to appear to be human. She specializes in unarmed combat and uses Gauntlets in battle. She is programmed to behave like a teacher, because her creator was one, and the other Pleiades look up to her like a big sister. Like Sebas, she holds a primarily neutral stance towards outsiders, but unlike him, her sense of justice is not so strong that she'd help people like him.<br></br>(Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        },
+        {
+          "id": 21305,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades",
+            "english": "Overlord: Ple Ple Pleiades",
+            "native": "オーバーロード ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 87489,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』"
+          }
+        },
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 98873,
+          "title": {
+            "romaji": "Overlord: Fushisha no Ou",
+            "english": "Overlord: The Undead King",
+            "native": "劇場版総集編 オーバーロード 不死者の王"
+          }
+        },
+        {
+          "id": 98874,
+          "title": {
+            "romaji": "Overlord: Shikkoku no Senshi",
+            "english": "Overlord: The Dark Hero",
+            "native": "劇場版総集編 オーバーロード 漆黒の英雄"
+          }
+        },
+        {
+          "id": 101083,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 2",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです2"
+          }
+        },
+        {
+          "id": 101098,
+          "title": {
+            "romaji": "Gekijouban Ple Ple Pleiades",
+            "english": "Overlord Movie: Ple Ple Pleiades",
+            "native": "劇場版ぷれぷれぷれあです"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 103209,
+          "title": {
+            "romaji": "Overlord: Ple Ple Pleiades 3",
+            "english": null,
+            "native": "オーバーロード ぷれぷれぷれあです3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175041,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zach",
+        "native": "ザック"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175041-MfVLMK6PeG0l.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175041-MfVLMK6PeG0l.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20832,
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord",
+            "native": "オーバーロード"
+          }
+        }
+      ]
+    },
+    {
+      "id": 128567,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zanac Valleon Igana Ryle Vaiself",
+        "native": "ザナック・ヴァルレオン・イガナ・ライル・ヴァイセルフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n128567-ru0jYrjZSbbs.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n128567-ru0jYrjZSbbs.jpg"
+      },
+      "descripcion": "Zanac is the Second Prince of Re-Estize Kingdom, son of Lanposa III. He is the younger brother of Barbro and older brother of Renner. He is described as a short and fat man.\n\nHe is described as an incompetent person, but is actually quite sensible, capable of comprehending the true natures of Renner and Marquis Raeven. Zanac is aiming for the throne and as such wants to remove the first prince from the line of succession.\n\n(Source: Overlord Wiki)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        },
+        {
+          "id": 133844,
+          "title": {
+            "romaji": "Overlord IV",
+            "english": "Overlord IV",
+            "native": "オーバーロードⅣ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127431,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zaryusu Shasha",
+        "native": "ザリュース・シャシャ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/127431-Q8tK20xNU9Bb.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/127431-Q8tK20xNU9Bb.jpg"
+      },
+      "descripcion": "Zaryusu Shasha is a lizardman of the Green Claw Tribe, and he's the younger brother of its chieftain, Shasuryu Shasha. His scales are dark green and black charcoal in color. A very wise individual, he is also regarded as the strongest lizardman and he is the wielder of the magical blade Frost Pain, one of the few precious treasures the lizardmen possess.\n\nZaryusu is a traveler, which is the name given to a lizardman who left the village in order to explore the outside world, and has a crimson brand/tattoo on his chest which denotes his status as such.  Travelers are very respected individuals among the lizardmen, but conversely they don't have a say in any important matters, which heavily implies they might be socially shunned.\n\nHe has a Hydra as a pet named Rororo. Zaryusu stumbled upon it during his travels after finding it had been abandoned by its mother. Rororo is actually a deformed Hydra, because it has only four heads, while normally hydras have six. Rororo regards Zaryusu as his parent and would do practically anything to protect him.\n\n~!Zaryusu falls in love with Crusch Lulu the moment he meets her, and claiming it's love at first sight, he immediately proposes in marriage. She eventually reciprocated his feelings and just before the lizardmen's final battle, Crusch fearful that he might die asks him to impregnate her with his child.\nAinz proposed that the lizardmen fight for the right to their freedom in a duel against Ainz's champion, Cocytus. Due to the massive skill gap, he was among those killed by Cocytus, although it should be noted he was the last one to be slain. He is later resurrected when the lizardmen swear loyalty to Ainz.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127433,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zenberu Gugu",
+        "native": "ゼンベル・ググー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/127433-P6STh05zrwRb.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/127433-P6STh05zrwRb.jpg"
+      },
+      "descripcion": "Zenberu Gugu is a lizardman and the chieftain of one of the five lizardmen tribes, the Dragon Tusk Tribe. He is a traveler, a lizardman who has explored the outside world. In terms of brute force, he is most likely the strongest of all the lizardmen.  Zenberu is not a warrior by profession, but rather a monk which fights utilizing Ki to enhance his natural physical abilities. He often prefers to fight unarmed, using his claws to rip apart his enemies. In armed combat, he wields a three-meter-long steel halberd, a parting gift he received from an acquaintance of his, a dwarf.\n\nWith a very muscular constitution, he is quite tall for a lizardman, well exceeding two meters in height. His body, covered by several scars, gives the clear impression that he is veteran of battle. His most bizarre feature are his asymmetrical arms. Similar in trait with a fiddler crab, his right arm is especially thicker and muscular when compared to his left. His left arm’s ring finger and pinky are completely gone. The crimson \"traveler\" brand burned in the form of a two headed snake is displayed on the center of his chest. Overall, his appearance is very crocodile-like, and when he talks, his teeth clash together, making it difficult for others to discern whether he is being casual or threatening.\n\nZenberu is quite blunt when in a conversation, having no need for pointless formalities. Intead of diplomacy, he favors solving disputes with duels, and has somewhat of a cockish attitude, since he likes to challenge any strong individuals he meets. However, while in battle, he can be quite calm and composed, as opposed to brash or reckless.\n\n~!Zenberu is among those slain by Cocytus, and was later resurrected.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        },
+        {
+          "id": 101474,
+          "title": {
+            "romaji": "Overlord III",
+            "english": "Overlord III",
+            "native": "オーバーロードⅢ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 191169,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zero",
+        "native": "ゼロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191169-eDY6AjrE2cQA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191169-eDY6AjrE2cQA.png"
+      },
+      "descripcion": "Leader of Six Arms, Eight Fingers' security department.\n\n~!He gets killed by Sebas later in Season 2.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 98437,
+          "title": {
+            "romaji": "Overlord II",
+            "english": "Overlord II",
+            "native": "オーバーロードⅡ"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 110,
+  "actualizado": 1788566457
+}

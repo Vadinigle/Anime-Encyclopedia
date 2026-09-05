@@ -1,0 +1,2824 @@
+{
+  "clave": "bocchi-the-rock",
+  "nombre": "Bocchi the Rock!",
+  "descripcion": "Hitori Gotoh y Kessoku Band",
+  "generos": [
+    "Comedia",
+    "Música"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-HTDmeL4RGeJ4.png",
+  "medios": [
+    {
+      "id": 130003,
+      "title": {
+        "romaji": "Bocchi the Rock!",
+        "english": "BOCCHI THE ROCK!",
+        "native": "ぼっち・ざ・ろっく！"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-HTDmeL4RGeJ4.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130003-HTDmeL4RGeJ4.png"
+      }
+    },
+    {
+      "id": 186712,
+      "title": {
+        "romaji": "Bocchi the Rock! 2nd Season",
+        "english": null,
+        "native": "ぼっち・ざ・ろっく！ 2期"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186712-d5I2TjUQcHuI.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186712-d5I2TjUQcHuI.jpg"
+      }
+    },
+    {
+      "id": 165253,
+      "title": {
+        "romaji": "Bocchi the Rock! Re:",
+        "english": "BOCCHI THE ROCK! Recap Part 1",
+        "native": "ぼっち・ざ・ろっく！Re:"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165253-nAwyrMZm4jBA.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165253-nAwyrMZm4jBA.jpg"
+      }
+    },
+    {
+      "id": 171099,
+      "title": {
+        "romaji": "Bocchi the Rock! Re:Re:",
+        "english": "BOCCHI THE ROCK! Recap Part 2",
+        "native": "ぼっち・ざ・ろっく！ Re:Re:"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171099-JexoHylkSZ6r.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171099-JexoHylkSZ6r.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 257562,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Hitori Gotou",
+        "native": "後藤ひとり"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b257562-Ru35NYPfsqhY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b257562-Ru35NYPfsqhY.png"
+      },
+      "descripcion": "Gotou Hitori is a shy, gloomy high-schooler who started learning guitar after seeing rock bands on TV, in the hope that she too could become as popular as them. However, after 2 years she has yet to make a single friend or join a band. She instead sits in her closet at home, recording guitar covers and posting them to her YouTube channel, \"guitarhero\", on which she has amassed a reasonable following.",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 127549,
+          "title": {
+            "romaji": "Slow Loop",
+            "english": "Slow Loop",
+            "native": "スローループ"
+          }
+        },
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 165253,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 1",
+            "native": "ぼっち・ざ・ろっく！Re:"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        },
+        {
+          "id": 186712,
+          "title": {
+            "romaji": "Bocchi the Rock! 2nd Season",
+            "english": null,
+            "native": "ぼっち・ざ・ろっく！ 2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 266041,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ikuyo Kita",
+        "native": "喜多郁代"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b266041-1HKgjJGP2MmM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b266041-1HKgjJGP2MmM.png"
+      },
+      "descripcion": "A bright and popular first year of high school. She is in charge of the guitar and vocals of Kessoku Band. She is a cheerful character who likes to interact with people and can talk to her with a smile without hesitation, even when she meets her for the first time. She longs for [Ryo](https://anilist.co/character/264529), and her feelings can go too far. She often takes photos and uploads to Isosta.",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 127549,
+          "title": {
+            "romaji": "Slow Loop",
+            "english": "Slow Loop",
+            "native": "スローループ"
+          }
+        },
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 165253,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 1",
+            "native": "ぼっち・ざ・ろっく！Re:"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        },
+        {
+          "id": 186712,
+          "title": {
+            "romaji": "Bocchi the Rock! 2nd Season",
+            "english": null,
+            "native": "ぼっち・ざ・ろっく！ 2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 261674,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Nijika Ijichi",
+        "native": "伊地知虹夏"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b261674-a8tJYvtzqWgC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b261674-a8tJYvtzqWgC.png"
+      },
+      "descripcion": "An energetic and cheerful second-year high school student. She is the drummer of Kessoku Band and the organizer who takes care of [Hitori](https://anilist.co/character/257562). She has an older sister, [Seika](https://anilist.co/character/289054), who is the manager of the live house \"STARRY\" and has a special feeling for the live house.",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 127549,
+          "title": {
+            "romaji": "Slow Loop",
+            "english": "Slow Loop",
+            "native": "スローループ"
+          }
+        },
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 165253,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 1",
+            "native": "ぼっち・ざ・ろっく！Re:"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        },
+        {
+          "id": 186712,
+          "title": {
+            "romaji": "Bocchi the Rock! 2nd Season",
+            "english": null,
+            "native": "ぼっち・ざ・ろっく！ 2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 264529,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ryou Yamada",
+        "native": "山田リョウ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b264529-BvEusZnJLD2Y.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b264529-BvEusZnJLD2Y.png"
+      },
+      "descripcion": "A cool and solitary second year of high school. She is in charge of the bass of Kessoku Band. She's the best friend of [Nijika](https://anilist.co/character/261674). Her hobbies are out of the ordinary, and she rejoices when called a weirdo. She lives with a wealthy family, but she spends much of her money on instruments and always runs out of money. She occasionally eats weeds to get rid of her hunger.",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 127549,
+          "title": {
+            "romaji": "Slow Loop",
+            "english": "Slow Loop",
+            "native": "スローループ"
+          }
+        },
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 165253,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 1",
+            "native": "ぼっち・ざ・ろっく！Re:"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        },
+        {
+          "id": 186712,
+          "title": {
+            "romaji": "Bocchi the Rock! 2nd Season",
+            "english": null,
+            "native": "ぼっち・ざ・ろっく！ 2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289549,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Death Metal Voice",
+        "native": "デスメタルボイス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289549-lFZItZsHofCS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289549-lFZItZsHofCS.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 165253,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 1",
+            "native": "ぼっち・ざ・ろっく！Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293862,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eliza Shimizu",
+        "native": "清水イライザ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293862-sMo65ZZ69lC5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293862-sMo65ZZ69lC5.png"
+      },
+      "descripcion": "Guitarist of the band \"SICK HACK\". She originally came from England, and moved to Japan 3 years ago so she could attend Comiket (\"Comima\" in the Japanese release of the manga) and be in an anison cover band. On top of her band activities, she also makes doujinshi.",
+      "genero": "Female",
+      "edad": "21",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289059,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Futari Gotou",
+        "native": "後藤ふたり"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289059-AbMjfO2YoThz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289059-AbMjfO2YoThz.png"
+      },
+      "descripcion": "Hitori's younger sister.",
+      "genero": "Female",
+      "edad": "5",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 165253,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 1",
+            "native": "ぼっち・ざ・ろっく！Re:"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293863,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ginjirou Yoshida",
+        "native": "吉田銀次郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293863-Q8ct4HoAcnGm.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293863-Q8ct4HoAcnGm.png"
+      },
+      "descripcion": "The manager of the live house \"FOLT\".",
+      "genero": "Male",
+      "edad": "37",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 291640,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hitori no Fan 1-gou",
+        "native": "ひとりのファン1号"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b291640-Xr48HmvalScG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b291640-Xr48HmvalScG.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 165253,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 1",
+            "native": "ぼっち・ざ・ろっく！Re:"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 291641,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hitori no Fan 2-gou",
+        "native": "ひとりのファン2号"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b291641-dfxBEtM7tiBA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b291641-dfxBEtM7tiBA.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 165253,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 1",
+            "native": "ぼっち・ざ・ろっく！Re:"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289548,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Interviewer",
+        "native": "インタビュアー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289548-SWdRZVgD45Zf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289548-SWdRZVgD45Zf.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 165253,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 1",
+            "native": "ぼっち・ざ・ろっく！Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289056,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jimihen",
+        "native": "ジミへン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289056-Eob1bSBYL1ry.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289056-Eob1bSBYL1ry.png"
+      },
+      "descripcion": "The Gotou family dog.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 165253,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 1",
+            "native": "ぼっち・ざ・ろっく！Re:"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 291639,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kikuri Hiroi",
+        "native": "廣井きくり"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b291639-VYrixXvuwLqx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b291639-VYrixXvuwLqx.png"
+      },
+      "descripcion": "Bassist and vocalist of the band \"SICK HACK\".\n\nAlways drunk to forget about life's downsides.",
+      "genero": "Female",
+      "edad": "25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 165253,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 1",
+            "native": "ぼっち・ざ・ろっく！Re:"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289058,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Michiyo Gotou",
+        "native": "後藤美智代"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289058-5RE0lhteKG3P.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289058-5RE0lhteKG3P.png"
+      },
+      "descripcion": "Hitori and Futari's mother.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 165253,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 1",
+            "native": "ぼっち・ざ・ろっく！Re:"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289057,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Naoki Gotou",
+        "native": "後藤直樹"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289057-kxpKjfUu0KDi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289057-kxpKjfUu0KDi.png"
+      },
+      "descripcion": "Hitori and Futari's father.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 165253,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 1",
+            "native": "ぼっち・ざ・ろっく！Re:"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289055,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "PA-san",
+        "native": "PAさん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289055-khOP70WdXl2V.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289055-khOP70WdXl2V.jpg"
+      },
+      "descripcion": "__Height:__ 162cm\n\nMysterious looking female PA engineer with a mouth piercing. In her private life, she is active as a virtual Youtuber under the name \"Otogi Alto\" producing gameplay videos.",
+      "genero": "Female",
+      "edad": "24",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 165253,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 1",
+            "native": "ぼっち・ざ・ろっく！Re:"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289567,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Saibankan",
+        "native": "裁判官"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289567-Q2pv1i6EgtdE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289567-Q2pv1i6EgtdE.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 165253,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 1",
+            "native": "ぼっち・ざ・ろっく！Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289054,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Seika Ijichi",
+        "native": "伊地知星歌"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289054-UnScwd5RkqBk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289054-UnScwd5RkqBk.png"
+      },
+      "descripcion": "Nijika's older sister and manager of the live house \"STARRY\".",
+      "genero": "Female",
+      "edad": "29-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 24
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 165253,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 1",
+            "native": "ぼっち・ざ・ろっく！Re:"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293861,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shima Iwashita",
+        "native": "岩下志麻"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293861-9JlcvpPnUblL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293861-9JlcvpPnUblL.png"
+      },
+      "descripcion": "Drummer of the band \"SICK HACK\".",
+      "genero": "Female",
+      "edad": "25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293452,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Umi no Ie no Tenin",
+        "native": "海の家の店員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293452-h5d4TXGiR452.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293452-h5d4TXGiR452.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289547,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Bandman",
+        "native": "バンドマン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289569,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Bandman",
+        "native": "バンドマン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293866,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Bunkasai Gyou Iin",
+        "native": "文化祭行委員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293867,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Bunkasai Gyou Iin",
+        "native": "文化祭行委員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289562,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Comment",
+        "native": "コメント"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294515,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Dansei",
+        "native": "男性"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289563,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Enji",
+        "native": "園児"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295148,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gakki-ten no Tenchou",
+        "native": "楽器店の店長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295148-iEVZKZ68alkT.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295148-iEVZKZ68alkT.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295149,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gakki-ten no Tennin",
+        "native": "楽器店の店員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295149-8LyuvWH43x9M.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295149-8LyuvWH43x9M.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 292886,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Houmon Eigyousaki no Yanushi",
+        "native": "訪問営業先の家主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 292883,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Izakaya Tenshu",
+        "native": "居酒屋店主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289568,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kenji",
+        "native": "検事"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289568-UDMcmIOwulRd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289568-UDMcmIOwulRd.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 292219,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kishouyohoushi",
+        "native": "気象予報士"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289545,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kita no Yuujin",
+        "native": "喜多の友人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289545-9ic2u07cZEQZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289545-9ic2u07cZEQZ.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289546,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kita no Yuujin",
+        "native": "喜多の友人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289546-HnJ67v7Tovpu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289546-HnJ67v7Tovpu.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293873,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Live no Kankyaku",
+        "native": "ライブの観客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293874,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Live no Kankyaku",
+        "native": "ライブの観客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293875,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Live no Kankyaku",
+        "native": "ライブの観客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293451,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Miitan",
+        "native": "みーたん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293451-320HJK0lvICU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293451-320HJK0lvICU.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293872,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mousou no AD",
+        "native": "妄想のAD"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 292885,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mousou no Douryou",
+        "native": "妄想の同僚"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 292884,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mousou no Joushi",
+        "native": "妄想の上司"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293871,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mousou no Moto Doukyuusei",
+        "native": "妄想の元同級生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295150,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mousou no Tenin",
+        "native": "妄想の店員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295150-8JlG5l4446Eu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295150-8JlG5l4446Eu.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289570,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Okyaku-san",
+        "native": "お客さん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289570-CSeWmL8US673.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289570-CSeWmL8US673.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289571,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Okyaku-san",
+        "native": "お客さん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289572,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Okyaku-san",
+        "native": "お客さん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289573,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Okyaku-san",
+        "native": "お客さん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 290046,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Okyaku-san",
+        "native": "お客さん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 292879,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Okyaku-san",
+        "native": "お客さん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 292880,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Okyaku-san",
+        "native": "お客さん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 292216,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ryou no Classmate",
+        "native": "リョウのクラスメイト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 292217,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ryou no Classmate",
+        "native": "リョウのクラスメイト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289557,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Salaryman",
+        "native": "サラリーマン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289557-IaIrTOSMvcVt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289557-IaIrTOSMvcVt.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 292881,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Salaryman",
+        "native": "サラリーマン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 292882,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Salaryman",
+        "native": "サラリーマン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289559,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Salaryman no Musume",
+        "native": "サラリーマンの娘"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289559-XeSyZZviq7e9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289559-XeSyZZviq7e9.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289558,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Salaryman no Tsuma",
+        "native": "サラリーマンの妻"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289558-4BUU7WKXcWIy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289558-4BUU7WKXcWIy.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294510,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seikatsu Otoko",
+        "native": "世紀末男子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 292218,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seikimatsu Classmate",
+        "native": "世紀末クラスメイト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293876,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seishun Danshi",
+        "native": "青春男子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289550,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289551,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289552,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289556,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293868,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293870,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294511,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294512,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294513,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294514,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294968,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294969,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294970,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293865,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito Kaichou",
+        "native": "生徒会長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293450,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Takkun",
+        "native": "たっくん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293450-W94oY611j1qk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293450-W94oY611j1qk.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        },
+        {
+          "id": 171099,
+          "title": {
+            "romaji": "Bocchi the Rock! Re:Re:",
+            "english": "BOCCHI THE ROCK! Recap Part 2",
+            "native": "ぼっち・ざ・ろっく！ Re:Re:"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289565,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "TV-nai Onsei",
+        "native": "TV内音声"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289566,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "TV-nai Onsei",
+        "native": "TV内音声"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293453,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Uchuu no Kaisetsu",
+        "native": "宇宙の解説"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293877,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yoyoko Ootsuki",
+        "native": "大槻ヨヨコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293877-qzpgrc6BeaDY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293877-qzpgrc6BeaDY.png"
+      },
+      "descripcion": "Guitarist and vocalist of the band \"SIDEROS\".",
+      "genero": "Female",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 130003,
+          "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 80,
+  "actualizado": 1788566575
+}

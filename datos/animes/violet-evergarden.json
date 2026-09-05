@@ -1,0 +1,1982 @@
+{
+  "clave": "violet-evergarden",
+  "nombre": "Violet Evergarden",
+  "descripcion": "Cartas, recuerdos y emociones",
+  "generos": [
+    "Drama",
+    "Fantasía"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21827-ubzq619ZA2E9.png",
+  "medios": [
+    {
+      "id": 21827,
+      "title": {
+        "romaji": "Violet Evergarden",
+        "english": "Violet Evergarden",
+        "native": "ヴァイオレット・エヴァーガーデン"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21827-ubzq619ZA2E9.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21827-ubzq619ZA2E9.png"
+      }
+    },
+    {
+      "id": 103047,
+      "title": {
+        "romaji": "Violet Evergarden Movie",
+        "english": "Violet Evergarden: the Movie",
+        "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103047-odblDHHEdehK.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103047-odblDHHEdehK.jpg"
+      }
+    },
+    {
+      "id": 109190,
+      "title": {
+        "romaji": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+        "english": "Violet Evergarden: Eternity and the Auto Memory Doll",
+        "native": "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109190-e8mv1qdmpjLW.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109190-e8mv1qdmpjLW.jpg"
+      }
+    },
+    {
+      "id": 101432,
+      "title": {
+        "romaji": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+        "english": "Violet Evergarden: Special",
+        "native": "ヴァイオレット・エヴァーガーデン きっと\"愛\"を知る日が来るのだろう"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101432-NQSedsCDQ6dP.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101432-NQSedsCDQ6dP.png"
+      }
+    },
+    {
+      "id": 154164,
+      "title": {
+        "romaji": "Violet Evergarden CM",
+        "english": null,
+        "native": "ヴァイオレット・エヴァーガーデン CM"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154164-3fNKxQJWaFf0.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154164-3fNKxQJWaFf0.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 126725,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Irma Fellicha",
+        "native": "イルマ・フェリーチェ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126725-5ZJ1JehV0swB.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126725-5ZJ1JehV0swB.jpg"
+      },
+      "descripcion": "Irma Fellicha is an opera singer from Leidenshaftlich who entrusts Violet to write her a letter that will be used in her new opera. Her lover, Hugo, was killed during the war.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101432,
+          "title": {
+            "romaji": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+            "english": "Violet Evergarden: Special",
+            "native": "ヴァイオレット・エヴァーガーデン きっと\"愛\"を知る日が来るのだろう"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160099,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Isabella York",
+        "native": "イザベラ・ヨーク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160099-p1HwxweHYCtw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160099-p1HwxweHYCtw.jpg"
+      },
+      "descripcion": "Isabella York is the daughter of the York family that is closely related to the Drossel Royal Family. She had trouble fitting in with the nobility as she can't follow etiquette and mannerism of the nobles in her school, making her some sort of outcast.\n\n~!She is an illegitimate daughter of the York family, she used to live in poverty with her adopted sister, Taylor Bartlett. Before becoming Isabella York, she goes by the name of Amy Bartlett. The condition she proposed to the York family is to take care of Taylor in exchange for her cooperation to become the daughter of York family!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 109190,
+          "title": {
+            "romaji": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+            "english": "Violet Evergarden: Eternity and the Auto Memory Doll",
+            "native": "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160100,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Taylor Bartlett",
+        "native": "テイラー・バートレット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160100-r4Fj8ssu5fsV.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160100-r4Fj8ssu5fsV.jpg"
+      },
+      "descripcion": "Taylor Bartlett is Amy Bartlett's adoptive sister. Her sister, Amy picked her up from the streets despite barely managing to make ends meet for herself.\n\n~!When Amy was taken as the York's daughter, Taylor was sent to an orphanage where she spent years apart from her sister, Amy. It's not until Benedict delivered Amy's letters to her that she start to reminiscence the day she spent with her sister, Amy.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 109190,
+          "title": {
+            "romaji": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+            "english": "Violet Evergarden: Eternity and the Auto Memory Doll",
+            "native": "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90169,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Violet Evergarden",
+        "native": "ヴァイオレット・エヴァーガーデン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90169-4wr1Zehnsac8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90169-4wr1Zehnsac8.png"
+      },
+      "descripcion": "__Height:__ 161 cm\n\nViolet is described as a very beautiful young woman, being almost doll-like in appearance, with light-blue eyes, a fair complexion, and a slender frame. She is noted for her womanly semblance. She has waist-length golden hair with locks that frame her face. She either has her hair untied, in a low ponytail, or, after becoming a Doll, pulled up into two braided buns with two red ribbons. Due to losing her arms in the war, Violet received maneuverable prosthetic arms made of adamant silver. After the end of the war and on normal occasions, Violet is often seen wearing a white blouse, a green skirt and a pair of heeled brown boots.\n\n~!Growing up as an orphaned child soldier in the army who was treated as a mere tool, Violet was not educated like a regular human being and did not understand human feelings well. She was raised and grew up as a person who had feelings, but couldn't perceive or express them. For this reason, she could be mistaken as emotionless, or apathetic. Even before she was found and taken into the army, she couldn't speak or understand speech, only understanding orders to kill. She did not possess any sense of right or wrong from the start; she didn't understand what could be considered righteous or erroneous. She merely chased after the adults who gave her orders. She followed the idea of \"kill or be killed,\" thus she could kill countless people without feeling guilt or remorse. She did anything that was asked of her and always followed orders, which was a trait from her life as a soldier. Even after the war ended and she was discharged from the military, Violet had a habit of using words back from her life as a soldier; saluting, disliking being defenseless, and doing tasks without taking any breaks. She also continued to think of herself as a \"tool\" and believed that it would be appropriate to discard her if she can no longer be used as a weapon.!~ \n\nViolet is also aloof, expressionless and is said to have the attitude and the presence of a doll. Her expressions are mostly deadpan, so it is hard to tell her mood changes. This is why she sometimes has trouble expressing her own feelings and comes off as expressionless, which makes it difficult to get through her, but she will give a smile from time to time. Through her work as a Doll where she helps people write heartfelt letters, she slowly learns about human emotions, leading her to become more skilled at writing letters and conveying her clients' feelings, as well as becoming understanding of others. She is proven to be a good listener and someone who always thinks about other people's happiness.",
+      "genero": "Female",
+      "edad": "14-18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 101432,
+          "title": {
+            "romaji": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+            "english": "Violet Evergarden: Special",
+            "native": "ヴァイオレット・エヴァーガーデン きっと\"愛\"を知る日が来るのだろう"
+          }
+        },
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 109190,
+          "title": {
+            "romaji": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+            "english": "Violet Evergarden: Eternity and the Auto Memory Doll",
+            "native": "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~"
+          }
+        },
+        {
+          "id": 154164,
+          "title": {
+            "romaji": "Violet Evergarden CM",
+            "english": null,
+            "native": "ヴァイオレット・エヴァーガーデン CM"
+          }
+        }
+      ]
+    },
+    {
+      "id": 195572,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aidan Field",
+        "native": "エイダン・フィールド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b195572-sQ1VEYktRY9X.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b195572-sQ1VEYktRY9X.jpg"
+      },
+      "descripcion": "Aidan is a soldier who appeared in episode 11 and was the one who requested the Auto Memories Doll in Ctrigall.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 330769,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Alberta",
+        "native": "アルベルタ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b330769-etoJuJHTxylM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b330769-etoJuJHTxylM.jpg"
+      },
+      "descripcion": "A court lady in the service of the royal family of the kingdom of Drossel, she has been taking care of Charlotte since she was born, and she is more important to Charlotte than her own parents.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 223025,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aldo Morini",
+        "native": "アルド・モリーニ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b223025-4gANtoX37JHA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b223025-4gANtoX37JHA.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101432,
+          "title": {
+            "romaji": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+            "english": "Violet Evergarden: Special",
+            "native": "ヴァイオレット・エヴァーガーデン きっと\"愛\"を知る日が来るのだろう"
+          }
+        }
+      ]
+    },
+    {
+      "id": 213148,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ann Magnolia",
+        "native": "アン・マグノリア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b213148-YPki9cHn5qrw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b213148-YPki9cHn5qrw.jpg"
+      },
+      "descripcion": "Ann Magnolia is a character in the Violet Evergarden series and the protagonist of the second chapter of the first volume of the light novel. She is a young girl who lives with her terminally ill [mother](https://anilist.co/character/223026/Clara-Magnolia).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 223020,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ashley Lancaster",
+        "native": "アシュリー・ランカスター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b223020-HvhFqQWg36ZJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b223020-HvhFqQWg36ZJ.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 109190,
+          "title": {
+            "romaji": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+            "english": "Violet Evergarden: Eternity and the Auto Memory Doll",
+            "native": "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124788,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Benedict Blue",
+        "native": "ベネディクト・ブルー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124788-upZ5vtGwndzt.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124788-upZ5vtGwndzt.jpg"
+      },
+      "descripcion": "Benedict Blue (ベネディクト・ブルー, Benedikuto Burū?) is a character in the Violet Evergarden series. He is a postman working at the CH Postal Company. He has known Hodgins since before the company's establishment and has had a brusque attitude towards him since he started working there.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 101432,
+          "title": {
+            "romaji": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+            "english": "Violet Evergarden: Special",
+            "native": "ヴァイオレット・エヴァーガーデン きっと\"愛\"を知る日が来るのだろう"
+          }
+        },
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 109190,
+          "title": {
+            "romaji": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+            "english": "Violet Evergarden: Eternity and the Auto Memory Doll",
+            "native": "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124806,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bluebell Unoa",
+        "native": "ブルーベル・ユノア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124806-s4r4rTM7JTwN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124806-s4r4rTM7JTwN.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 260098,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bougainvillea Toushu",
+        "native": "ブーゲンビリア当主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260098-lIe5P7SzoDWk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b260098-lIe5P7SzoDWk.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124791,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bridget",
+        "native": "ブリジット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124791-UZv7eQrf3b2J.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124791-UZv7eQrf3b2J.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124787,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cattleya Baudelaire",
+        "native": "カトレア・ボードレール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124787-1HuZGawvoejp.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124787-1HuZGawvoejp.jpg"
+      },
+      "descripcion": "Cattleya Baudelaire is a character in the Violet Evergarden series. Being a figurehead Auto Memories Doll who works for the CH Postal Company, Cattleya never stops being requested and often takes on clients with love troubles. She works alongside [Violet](https://anilist.co/character/90169/Evergarden-Violet) and has been close with [Hodgins](https://anilist.co/character/124799/Hodgins-Claudia) since before the company was established, joining as one of its initial employees.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 101432,
+          "title": {
+            "romaji": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+            "english": "Violet Evergarden: Special",
+            "native": "ヴァイオレット・エヴァーガーデン きっと\"愛\"を知る日が来るのだろう"
+          }
+        },
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 109190,
+          "title": {
+            "romaji": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+            "english": "Violet Evergarden: Eternity and the Auto Memory Doll",
+            "native": "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~"
+          }
+        }
+      ]
+    },
+    {
+      "id": 142149,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Charlotte Abelfreyja Drossel",
+        "native": "シャルロッテ・エーベルフレイヤ・ドロッセル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142149-YY3OJb6VnZNy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142149-YY3OJb6VnZNy.png"
+      },
+      "descripcion": "She is the princess of Drossel, and the narrator for the 5th episode of Violet Evergarden.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 223026,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Clara Magnolia",
+        "native": "クラーラ・マグノリア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b223026-8YxH3lSDQqEW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b223026-8YxH3lSDQqEW.png"
+      },
+      "descripcion": "She is the mother of [Ann](https://anilist.co/character/213148/Ann-Magnolia), who had a terminal illness and predicted that her fate was close.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124799,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Claudia Hodgins",
+        "native": "クラウディア・ホッジンズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124799-htaqVGZd83GW.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124799-htaqVGZd83GW.jpg"
+      },
+      "descripcion": "A former army commander. He founded the CH postal company and serves as president.\n\n(Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 101432,
+          "title": {
+            "romaji": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+            "english": "Violet Evergarden: Special",
+            "native": "ヴァイオレット・エヴァーガーデン きっと\"愛\"を知る日が来るのだろう"
+          }
+        },
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 109190,
+          "title": {
+            "romaji": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+            "english": "Violet Evergarden: Eternity and the Auto Memory Doll",
+            "native": "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~"
+          }
+        }
+      ]
+    },
+    {
+      "id": 260104,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Daisy Chichi",
+        "native": "デイジー父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260104-Fwkh4EnVykfH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b260104-Fwkh4EnVykfH.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 260105,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Daisy Haha",
+        "native": "デイジー母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260105-xC2BS0ov3z9d.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b260105-xC2BS0ov3z9d.png"
+      },
+      "descripcion": "[Ann](https://anilist.co/character/213148)'s daughter. She is the mother of [Daisy Magnolia](https://anilist.co/character/209726/Daisy-Magnolia).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 209726,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Daisy Magnolia",
+        "native": "デイジー・マグノリア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b209726-2n1Pka75YnWy.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b209726-2n1Pka75YnWy.jpg"
+      },
+      "descripcion": "The granddaughter of [Ann Magnolia](https://anilist.co/character/213148/Ann-Magnolia), whom Violet met when she was asked to write letters to by her [mother](https://anilist.co/character/223026/Clara-Magnolia). After Ann's death, she finds an old letter that has been kept in a safe place and traces the achievements of the automatic memoir doll, [Violet Evergarden](https://anilist.co/character/90169/Violet-Evergarden).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 223022,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Damian Baldur Flugel",
+        "native": "ダミアン・バルドゥール・フリューゲル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b223022-POpRH4oO9GzH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b223022-POpRH4oO9GzH.png"
+      },
+      "descripcion": "He is the prince of the Kingdom of Flugel who is set to marry princess Charlotte of the Kingdom of Drossel.",
+      "genero": "Male",
+      "edad": "24",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124798,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dansei Kyaku",
+        "native": "男性客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124798-CKa1Jqfjm8nN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124798-CKa1Jqfjm8nN.png"
+      },
+      "descripcion": "Appears in episode 2 of the anime.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124789,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dietfried Bougainvillea",
+        "native": "ディートフリート・ブーゲンビリア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124789-DLp0QEJZeiQ8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124789-DLp0QEJZeiQ8.png"
+      },
+      "descripcion": "Dietfried Bougainvillea is a naval captain in the navy and [Gilbert](https://anilist.co/character/124790/)'s older brother. He was the one who found [Violet](https://anilist.co/character/90169/) and made her into Gilbert's \"weapon\" on his promotion to a major in the army.\n\n(Source: Violet Evergarden wiki)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 223028,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eckhart Munter",
+        "native": "エックハルト・ミュンター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b223028-jKLLaiucqmew.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b223028-jKLLaiucqmew.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124792,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Erica Brown",
+        "native": "エリカ・ブラウン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124792-NWFK2r8zIxYX.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124792-NWFK2r8zIxYX.jpg"
+      },
+      "descripcion": "Erica Brown is a character in the Violet Evergarden series. She is an Auto Memories Doll who has been working at the CH Postal Company for a while. She is not good at communicating and isn't confident in her work.\n\n~!Erica is an anime-original character.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 101432,
+          "title": {
+            "romaji": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+            "english": "Violet Evergarden: Special",
+            "native": "ヴァイオレット・エヴァーガーデン きっと\"愛\"を知る日が来るのだろう"
+          }
+        },
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 109190,
+          "title": {
+            "romaji": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+            "english": "Violet Evergarden: Eternity and the Auto Memory Doll",
+            "native": "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124790,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gilbert Bougainvillea",
+        "native": "ギルベルト・ブーゲンビリア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124790-QR7zyemTK0zq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124790-QR7zyemTK0zq.png"
+      },
+      "descripcion": "Gilbert Bougainvillea is a character in the Violet Evergarden series. He is a major in the Leidenschaftlich army who values Violet more than anything, seeing her as a human being rather than a tool.\n\n~!Violet was \"given\" to Gilbert as a gift to commemorate his promotion, having being promoted to a major in light of his wartime achievements and expectations from his bloodline. Dietfried, not wanting to take care of Violet, pushed this task to his younger brother. Gilbert then decided to enlist her on a militant unit that he had been appointed to take overall command of in his promotion to major. He later received permission to conduct private experiments at the training grounds as to whether Violet could be officially classified as a \"weapon.\"!~",
+      "genero": null,
+      "edad": "29",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 101432,
+          "title": {
+            "romaji": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+            "english": "Violet Evergarden: Special",
+            "native": "ヴァイオレット・エヴァーガーデン きっと\"愛\"を知る日が来るのだろう"
+          }
+        },
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124794,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Iberis Conoway",
+        "native": "イベリス・コノウェ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124794-nNNzoCGufkAF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124794-nNNzoCGufkAF.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 223027,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Illias Vandal",
+        "native": "イライアス・ヴァンダル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b223027-Fwk7l8pJh9R5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b223027-Fwk7l8pJh9R5.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124793,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Iris Cannary",
+        "native": "アイリス・カナリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124793-dLsKOcQbMu85.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124793-dLsKOcQbMu85.png"
+      },
+      "descripcion": "Iris Cannary is a character in the Violet Evergarden series. A rookie Auto Memories Doll with an unyielding spirit who works at CH Postal Company, Iris admires young working women and is enthusiastic about quickly making a name for herself in the industry.\n\n~!As a child, she became friends with a boy named Emonn Snow and the two were very close. Iris was in love with him, and she had also supposedly convinced herself that her feelings were reciprocated. Because of that, she confessed to him before they graduated school, but he rejected her confession. The emotional pain caused by Emonn's rejection was what caused her to leave her hometown to become an Auto Memories Doll.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 101432,
+          "title": {
+            "romaji": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+            "english": "Violet Evergarden: Special",
+            "native": "ヴァイオレット・エヴァーガーデン きっと\"愛\"を知る日が来るのだろう"
+          }
+        },
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 109190,
+          "title": {
+            "romaji": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+            "english": "Violet Evergarden: Eternity and the Auto Memory Doll",
+            "native": "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124803,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Iris no Mei",
+        "native": "アイリスの姪"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124803-9qK35gh1KwkO.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124803-9qK35gh1KwkO.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 129999,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Leon Stephanotis",
+        "native": "レオン・ステファノティス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129999-jMLXrlIQ98GK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b129999-jMLXrlIQ98GK.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124801,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lilian",
+        "native": "リリアン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124801-RQQ3TxLi4d4y.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124801-RQQ3TxLi4d4y.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 209729,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lucas",
+        "native": "リュカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b209729-x3D3tJfNgLTt.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b209729-x3D3tJfNgLTt.jpg"
+      },
+      "descripcion": "Julis' best friend. They used to play together a lot.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124810,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Luculia Marlborough",
+        "native": "ルクリア・モールバラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124810-CuoTUTc7U08r.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124810-CuoTUTc7U08r.jpg"
+      },
+      "descripcion": "Luculia is a graduate of the Auto Memories Doll Training School and a novice Auto Memories Doll. Luculia and Violet became friends as fellow classmates at the training school, and she is the one who helped Violet graduate and earn her licence.\n\nShe is shown to be a kind and considerate person who is willing to go out of her way to assist others, such as her offering Violet some of her food the first day they met as well as attempting to help her write a letter to Gilbert. Despite a tragic backstory, she is shown to carry a positive attitude and cheerful demeanor when around other people, but tends to be more quiet and solemn when alone. She is expressive and sociable, but she struggles to communicate her own feelings, particularly regarding her brother.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 101432,
+          "title": {
+            "romaji": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+            "english": "Violet Evergarden: Special",
+            "native": "ヴァイオレット・エヴァーガーデン きっと\"愛\"を知る日が来るのだろう"
+          }
+        },
+        {
+          "id": 109190,
+          "title": {
+            "romaji": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+            "english": "Violet Evergarden: Eternity and the Auto Memory Doll",
+            "native": "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~"
+          }
+        }
+      ]
+    },
+    {
+      "id": 223029,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Merkulov",
+        "native": "メルクーロフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b223029-uXohM0S0rWjd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b223029-uXohM0S0rWjd.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124809,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nerine",
+        "native": "ネリネ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124809-0xAWuBr638EZ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124809-0xAWuBr638EZ.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 109190,
+          "title": {
+            "romaji": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+            "english": "Violet Evergarden: Eternity and the Auto Memory Doll",
+            "native": "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124808,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Oliver",
+        "native": "オリバー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124808-zzb8RhH6z3LX.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124808-zzb8RhH6z3LX.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 223024,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Olivia Webster",
+        "native": "オリビア・ウェブスター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b223024-xYLwf6yiJe3U.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b223024-xYLwf6yiJe3U.png"
+      },
+      "descripcion": "She is the beloved daughter of Oscar and the insipration behind Olive, the main character in her father's first children's play.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 223023,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Oscar Webster",
+        "native": "オスカー・ウェブスター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b223023-wV9gimuZXbHn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b223023-wV9gimuZXbHn.png"
+      },
+      "descripcion": "A playwright who used to seclude himself due to the deaths of his wife and daughter. However, after deciding to write his very first children's play to dedicate it to his daughter's memory, he entrusts Violet with the task of putting his ideas on paper.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 223021,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rhodanthe",
+        "native": "ローダンセ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b223021-wV0NIFbkvPsE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b223021-wV0NIFbkvPsE.png"
+      },
+      "descripcion": "She is the instructor at the Auto Memories Doll Training School.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124807,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Roland",
+        "native": "ローランド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124807-cTrQjEhuQC5e.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124807-cTrQjEhuQC5e.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 101432,
+          "title": {
+            "romaji": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+            "english": "Violet Evergarden: Special",
+            "native": "ヴァイオレット・エヴァーガーデン きっと\"愛\"を知る日が来るのだろう"
+          }
+        },
+        {
+          "id": 109190,
+          "title": {
+            "romaji": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+            "english": "Violet Evergarden: Eternity and the Auto Memory Doll",
+            "native": "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~"
+          }
+        }
+      ]
+    },
+    {
+      "id": 260099,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Roujin",
+        "native": "老人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260099-cfLpVFfanwQW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b260099-cfLpVFfanwQW.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 252993,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shion",
+        "native": "シオン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b252993-8skVaeAYBwsJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b252993-8skVaeAYBwsJ.png"
+      },
+      "descripcion": "[Yuris’](https://anilist.co/character/209728) little brother.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124805,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Spencer Marlborough",
+        "native": "スペンサー・モールバラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124805-EouyBUScvHdi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124805-EouyBUScvHdi.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124795,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tiffany Evergarden",
+        "native": "ティファニー・エヴァーガーデン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124795-TVTdrCVsDONn.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124795-TVTdrCVsDONn.jpg"
+      },
+      "descripcion": "An old woman who wants to take in Violet after being contacted by Gilbert. She has lost her son during the war.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        },
+        {
+          "id": 109190,
+          "title": {
+            "romaji": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+            "english": "Violet Evergarden: Eternity and the Auto Memory Doll",
+            "native": "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~"
+          }
+        }
+      ]
+    },
+    {
+      "id": 161638,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Toby Selwyn",
+        "native": "トビー・セルウィン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b161638-bOsXdyPsdiAq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b161638-bOsXdyPsdiAq.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21827,
+          "title": {
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden",
+            "native": "ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 209728,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuris",
+        "native": "ユリス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b209728-Qg1VwPUMpOok.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b209728-Qg1VwPUMpOok.png"
+      },
+      "descripcion": "A boy who asked Violet to write a letter.\" I'm frustrated that I can't be honest with my family and my best friend Lucas.\"",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 260096,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuris Chichi",
+        "native": "ユリス父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260096-lMe64aEeymuR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b260096-lMe64aEeymuR.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 260097,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuris Haha",
+        "native": "ユリス母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260097-ungkKbaZUz0x.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b260097-ungkKbaZUz0x.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 260102,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hahaoya",
+        "native": "母親"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 260103,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hahaoya",
+        "native": "母親"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 260106,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kodomo",
+        "native": "子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 260107,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kodomo",
+        "native": "子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 260100,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shichou",
+        "native": "市長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260100-Xg4YstauDrd3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b260100-Xg4YstauDrd3.png"
+      },
+      "descripcion": "The Mayor of Leiden.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 260101,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shikaisha",
+        "native": "司会者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 103047,
+          "title": {
+            "romaji": "Violet Evergarden Movie",
+            "english": "Violet Evergarden: the Movie",
+            "native": "劇場版 ヴァイオレット・エヴァーガーデン"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 55,
+  "actualizado": 1788566502
+}

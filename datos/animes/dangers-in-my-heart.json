@@ -1,0 +1,1254 @@
+{
+  "clave": "dangers-in-my-heart",
+  "nombre": "The Dangers in My Heart",
+  "descripcion": "Boku no Kokoro no Yabai Yatsu",
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153152-Xnwmx7wuoIWV.jpg",
+  "medios": [
+    {
+      "id": 153152,
+      "title": {
+        "romaji": "Boku no Kokoro no Yabai Yatsu",
+        "english": "The Dangers in My Heart",
+        "native": "僕の心のヤバイやつ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153152-Xnwmx7wuoIWV.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153152-Xnwmx7wuoIWV.jpg"
+      }
+    },
+    {
+      "id": 166216,
+      "title": {
+        "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+        "english": "The Dangers in My Heart Season 2",
+        "native": "僕の心のヤバイやつ 第2期"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166216-vCMkF4e3x5FB.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166216-vCMkF4e3x5FB.jpg"
+      }
+    },
+    {
+      "id": 182317,
+      "title": {
+        "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+        "english": "The Dangers in My Heart: The Movie",
+        "native": "劇場版 僕の心のヤバイやつ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182317-zzpOnAECrM2o.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182317-zzpOnAECrM2o.png"
+      }
+    },
+    {
+      "id": 170221,
+      "title": {
+        "romaji": "Boku no Kokoro no Yabai Yatsu: Twi-Yaba",
+        "english": "The Dangers in My Heart Special",
+        "native": "僕の心のヤバイやつ ツイヤバ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170221-5QNbaEZrxkfv.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170221-5QNbaEZrxkfv.png"
+      }
+    },
+    {
+      "id": 209247,
+      "title": {
+        "romaji": "Boku no Kokoro no Yabai Yatsu 3rd Season",
+        "english": null,
+        "native": "僕の心のヤバイやつ 第3期"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b209247-WvEUGMipZDl9.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b209247-WvEUGMipZDl9.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 174190,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Anna Yamada",
+        "native": "山田杏奈"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174190-Yl9xcIc5VTtI.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174190-Yl9xcIc5VTtI.jpg"
+      },
+      "descripcion": "__Height:__ 171 cm (5'8\")\n__Occupation:__ Middle School Student (Second Year)\n\nYamada Anna is the main heroine of the story and is the classmate and love interest of [Ichikawa Kyoutarou](https://anilist.co/character/174191/Kyoutarou-Ichikawa). She is also an airhead who is pretty and very immature besides her looks.\n\nShe is a magazine model and actress. She is very popular with both boys and girls but has a clumsy side to her. Anna frequently snacks in the library, much to Kyoutarou's dismay. She is also shown to be very jealous to the point of obsession whenever Kyoutarou interacts with other girls.",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 153152,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu",
+            "english": "The Dangers in My Heart",
+            "native": "僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 170221,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu: Twi-Yaba",
+            "english": "The Dangers in My Heart Special",
+            "native": "僕の心のヤバイやつ ツイヤバ"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 209247,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 3rd Season",
+            "english": null,
+            "native": "僕の心のヤバイやつ 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174191,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kyoutarou Ichikawa",
+        "native": "市川京太郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174191-ZxpNhPXKgxhX.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174191-ZxpNhPXKgxhX.jpg"
+      },
+      "descripcion": "__Height:__ 156.5 cm (5'2\")\n__Occupation:__ Middle School Student (Second Year)\n__Twitter:__ https://twitter.com/thanatos_moros\n\nIchikawa is the protagonist of the story Boku no Kokoro no Yabai Yatsu and a classmate of  [Yamada Anna](https://anilist.co/character/174190/Anna-Yamada). He at the beginning of the manga is a gloomy, antisocial, sadistic boy and eager to kill his classmates, but in reality he is a kind boy with an incredibly low self-esteem, reaching the point where he believes that the people feel disgusted with the simple fact of being by his side, but the only person who does not think that of him is Yamada.\n\n~!He later becomes the love interest of Anna Yamada.!~",
+      "genero": "Male",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 26
+      },
+      "media": [
+        {
+          "id": 153152,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu",
+            "english": "The Dangers in My Heart",
+            "native": "僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 170221,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu: Twi-Yaba",
+            "english": "The Dangers in My Heart Special",
+            "native": "僕の心のヤバイやつ ツイヤバ"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 209247,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 3rd Season",
+            "english": null,
+            "native": "僕の心のヤバイやつ 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 373434,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akira Momoyama",
+        "native": "桃山晶"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b373434-H5LX2JkMmflj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b373434-H5LX2JkMmflj.png"
+      },
+      "descripcion": "Akira is Ichikawa Kana's friend and a fellow member of their band, Primary COLOR, where her role is the drummer. She is a fashionable but sleazy college girl, who runs through boyfriends at a breakneck pace, and enjoys drinking and other acts of random debauchery.",
+      "genero": "Female",
+      "edad": "21",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 202927,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chihiro Kobayashi",
+        "native": "小林ちひろ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b202927-bQP0mtgDeNt1.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b202927-bQP0mtgDeNt1.jpg"
+      },
+      "descripcion": "Anna's best friend.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 153152,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu",
+            "english": "The Dangers in My Heart",
+            "native": "僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 170221,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu: Twi-Yaba",
+            "english": "The Dangers in My Heart Special",
+            "native": "僕の心のヤバイやつ ツイヤバ"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297346,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chikara Oota",
+        "native": "太田力"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b297346-JRFPFZaZxfzK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b297346-JRFPFZaZxfzK.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153152,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu",
+            "english": "The Dangers in My Heart",
+            "native": "僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306749,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Haruya Nanjou",
+        "native": "南条ハルヤ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306749-QVhr3FiPeobE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306749-QVhr3FiPeobE.png"
+      },
+      "descripcion": "Haruya Nanjou is a secondary character in Boku no Kokoro no Yabai Yatsu.\nA suave, but shallow playboy, Nanjou takes an interest in [Anna Yamada](https://anilist.co/character/174190/Anna-Yamada) for her looks and social status. He acts as a recurring antagonist and love rival for [Kyoutarou Ichikawa](https://anilist.co/character/174191/Kyoutarou-Ichikawa).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153152,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu",
+            "english": "The Dangers in My Heart",
+            "native": "僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297347,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Honoka Hara",
+        "native": "原穂乃香"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b297347-m4n9BwniuLry.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b297347-m4n9BwniuLry.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153152,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu",
+            "english": "The Dangers in My Heart",
+            "native": "僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306758,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ichikawa Haha",
+        "native": "市川母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306758-dFbkLtS8Lafh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306758-dFbkLtS8Lafh.png"
+      },
+      "descripcion": "She is the mother of [Kana](https://anilist.co/character/193218/Kana-Ichikawa) and [Kyoutarou Ichikawa](https://anilist.co/character/174191/Kyoutarou-Ichikawa). She appears to be a fairly normal housewife, and does cooking and cleaning around their home, though she has some kind of part-time job.",
+      "genero": "Female",
+      "edad": "46",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153152,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu",
+            "english": "The Dangers in My Heart",
+            "native": "僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 170221,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu: Twi-Yaba",
+            "english": "The Dangers in My Heart Special",
+            "native": "僕の心のヤバイやつ ツイヤバ"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306767,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ichikawa no Chichi",
+        "native": "市川の父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306767-zpbM7Nb58ALS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306767-zpbM7Nb58ALS.png"
+      },
+      "descripcion": "He is the father of [Kana](https://anilist.co/character/193218/Kana-Ichikawa) and [Kyoutarou Ichikawa](https://anilist.co/character/174191/Kyoutarou-Ichikawa). A college instructor.",
+      "genero": "Male",
+      "edad": "59",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 193218,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kana Ichikawa",
+        "native": "市川香菜"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b193218-3mexVYcc0PoC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b193218-3mexVYcc0PoC.jpg"
+      },
+      "descripcion": "[Kyoutarou](https://anilist.co/character/174191/)'s older sister.",
+      "genero": "Female",
+      "edad": "21",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 153152,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu",
+            "english": "The Dangers in My Heart",
+            "native": "僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 170221,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu: Twi-Yaba",
+            "english": "The Dangers in My Heart Special",
+            "native": "僕の心のヤバイやつ ツイヤバ"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306774,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kanna Andou",
+        "native": "安堂カンナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306774-USOM1phOJArx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306774-USOM1phOJArx.png"
+      },
+      "descripcion": "Kanna is notable for her obsession with other peoples' relationships. She becomes [Ichikawa](https://anilist.co/character/174191/Kyoutarou-Ichikawa) and [Yamada](https://anilist.co/character/174190/Anna-Yamada)'s classmate in their third year, in Class 3-1.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297345,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kenta Kanzaki",
+        "native": "神崎健太"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b297345-jqx12kbZeAnc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b297345-jqx12kbZeAnc.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153152,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu",
+            "english": "The Dangers in My Heart",
+            "native": "僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 170221,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu: Twi-Yaba",
+            "english": "The Dangers in My Heart Special",
+            "native": "僕の心のヤバイやつ ツイヤバ"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306772,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lucifer Nigorikawa",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306772-6CcMAQGLsPFy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306772-6CcMAQGLsPFy.png"
+      },
+      "descripcion": "Lucifer Nigorikawa is a figment of [Ichikawa](https://anilist.co/character/174191/Kyoutarou-Ichikawa)'s imagination in Boku no Kokoro no Yabai Yatsu.\n\nNot quite a real \"character\" per se, Nigorikawa is an imaginary figure that Ichikawa conjures up to help himself deal with his emotional shortcomings. He is largely based off of Nigorikawa-kun, the male lead of [Yamada](https://anilist.co/character/174190/Anna-Yamada)'s favorite shoujo manga, Your Color's Octave. The \"Lucifer\" moniker and the associated black wings he sometimes sprouts are additions from Ichikawa's chuunibyou delusions.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153152,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu",
+            "english": "The Dangers in My Heart",
+            "native": "僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327538,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Maeda-sensei",
+        "native": "前田先生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327538-rDXxhz24dXt1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327538-rDXxhz24dXt1.png"
+      },
+      "descripcion": "The teacher of Class 2-3, a large, muscular man who seems to take an interest in bettering [Ichikawa](https://anilist.co/character/174191/Kyoutarou-Ichikawa) after he notices his interactions with [Yamada](https://anilist.co/character/174190/Anna-Yamada) begin to bring him out of his shell. He convinces him to do the end-of-year speech for his class.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306755,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mamiya",
+        "native": "間宮"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306755-EE48htaYlqeA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306755-EE48htaYlqeA.png"
+      },
+      "descripcion": "Childhood friend of Nanjou. Wants to advance their relationship, but never seems able to catch his eye.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153152,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu",
+            "english": "The Dangers in My Heart",
+            "native": "僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 207168,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Moeko Sekine",
+        "native": "関根萌子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207168-5yke9SeJWTCw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b207168-5yke9SeJWTCw.jpg"
+      },
+      "descripcion": "Another of Anna's close friends. The loudest and most energetic of Anna's circle.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 153152,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu",
+            "english": "The Dangers in My Heart",
+            "native": "僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 170221,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu: Twi-Yaba",
+            "english": "The Dangers in My Heart Special",
+            "native": "僕の心のヤバイやつ ツイヤバ"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306756,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Moriya-sensei",
+        "native": "守屋先生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306756-gW1g1MeM1V8J.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306756-gW1g1MeM1V8J.png"
+      },
+      "descripcion": "The teacher of Class 3-1. An energetic and high-spirited teacher that likes to move around a lot.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 331161,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nao Kugenuma",
+        "native": "鵠沼直"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331161-7Hyz8k9BWNT7.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331161-7Hyz8k9BWNT7.png"
+      },
+      "descripcion": "A strong classmate of Ichikawa and Yamada.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306775,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nico Kouda",
+        "native": "香田ニコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306775-iAOV5fzymDbS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306775-iAOV5fzymDbS.png"
+      },
+      "descripcion": "~!__Twitter:__ https://twitter.com/pig_man1209!~\n\nShe is a fellow model in [Anna Yamada](https://anilist.co/character/174190/Anna-Yamada)'s agency.\n~!She has an obsession with Yamada, bordering on stalking.!~",
+      "genero": "Female",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306771,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rin Kanaoya",
+        "native": "金生谷倫"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306771-PoYfabeTiS4o.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306771-PoYfabeTiS4o.png"
+      },
+      "descripcion": "The girl that accidentally hit [Yamada](https://anilist.co/character/174190/Anna-Yamada) in the face with a basketball.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153152,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu",
+            "english": "The Dangers in My Heart",
+            "native": "僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306752,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sanae Yamada",
+        "native": "山田さなえ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306752-A10fEacTXiPl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306752-A10fEacTXiPl.png"
+      },
+      "descripcion": "Sanae Yamada is a secondary character in Boku no Kokoro no Yabai Yatsu. She is the wife of [Yuki Yamada](https://anilist.co/character/306773/Yamada-Yuuki) and the mother of [Anna Yamada](https://anilist.co/character/174190/Anna-Yamada).",
+      "genero": "Female",
+      "edad": "41",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153152,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu",
+            "english": "The Dangers in My Heart",
+            "native": "僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 244631,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Serina Yoshida",
+        "native": "吉田芹那"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b244631-brX66jFaOcex.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b244631-brX66jFaOcex.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 153152,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu",
+            "english": "The Dangers in My Heart",
+            "native": "僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 170221,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu: Twi-Yaba",
+            "english": "The Dangers in My Heart Special",
+            "native": "僕の心のヤバイやつ ツイヤバ"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297344,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shou Adachi",
+        "native": "足立翔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b297344-O1WzfeRh5o8O.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b297344-O1WzfeRh5o8O.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153152,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu",
+            "english": "The Dangers in My Heart",
+            "native": "僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 170221,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu: Twi-Yaba",
+            "english": "The Dangers in My Heart Special",
+            "native": "僕の心のヤバイやつ ツイヤバ"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306748,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Wantarou",
+        "native": "わん太郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306748-jeSzP8VzM0nF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306748-jeSzP8VzM0nF.png"
+      },
+      "descripcion": "Wantaro is [Anna Yamada](https://anilist.co/character/174190/Anna-Yamada)'s pet Welsh Corgi.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153152,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu",
+            "english": "The Dangers in My Heart",
+            "native": "僕の心のヤバイやつ"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306761,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yurine Hanzawa",
+        "native": "半沢ユリネ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306761-GBxGGDZwIHx4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306761-GBxGGDZwIHx4.png"
+      },
+      "descripcion": "Yurine is a laid-back and quiet young woman. She becomes [Ichikawa](https://anilist.co/character/174191/Kyoutarou-Ichikawa) and [Yamada](https://anilist.co/character/174190/Anna-Yamada)'s classmate in their third year, in Class 3-1.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        },
+        {
+          "id": 182317,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+            "english": "The Dangers in My Heart: The Movie",
+            "native": "劇場版 僕の心のヤバイやつ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306770,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuuki Suwa",
+        "native": "諏訪 祐希"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306770-HN395EAbfe1z.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306770-HN395EAbfe1z.png"
+      },
+      "descripcion": "Suwa is [Yamada](https://anilist.co/character/174190/Anna-Yamada)'s modeling manager.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306773,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuuki Yamada",
+        "native": "山田優希"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306773-7UCTL4Ct9mzc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306773-7UCTL4Ct9mzc.png"
+      },
+      "descripcion": "Yuki Yamada is a secondary character in Boku no Kokoro no Yabai Yatsu. He is the husband of [Sanae Yamada](https://anilist.co/character/306752) and the father of secondary protagonist [Anna Yamada](https://anilist.co/character/174190/Anna-Yamada) who is a quiet but somewhat doting father that enjoys cooking and video games.",
+      "genero": "Male",
+      "edad": "39",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166216,
+          "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 27,
+  "actualizado": 1788566689
+}

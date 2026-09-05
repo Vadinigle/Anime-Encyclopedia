@@ -1,0 +1,4557 @@
+{
+  "clave": "mob-psycho-100",
+  "nombre": "Mob Psycho 100",
+  "descripcion": "Poderes psíquicos y crecimiento personal",
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Sobrenatural"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
+  "medios": [
+    {
+      "id": 21507,
+      "title": {
+        "romaji": "Mob Psycho 100",
+        "english": "Mob Psycho 100",
+        "native": "モブサイコ100"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21507-6YUSbh2m0N1p.jpg"
+      }
+    },
+    {
+      "id": 101338,
+      "title": {
+        "romaji": "Mob Psycho 100 II",
+        "english": "Mob Psycho 100 II",
+        "native": "モブサイコ100 II"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101338-rokVscjRYzdP.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101338-rokVscjRYzdP.jpg"
+      }
+    },
+    {
+      "id": 140439,
+      "title": {
+        "romaji": "Mob Psycho 100 III",
+        "english": "Mob Psycho 100 III",
+        "native": "モブサイコ100 Ⅲ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140439-bPKmhe1wNxc9.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140439-bPKmhe1wNxc9.jpg"
+      }
+    },
+    {
+      "id": 109819,
+      "title": {
+        "romaji": "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
+        "english": "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
+        "native": "モブサイコ100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅~"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109819-71ZeBjJuU3da.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109819-71ZeBjJuU3da.png"
+      }
+    },
+    {
+      "id": 100353,
+      "title": {
+        "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+        "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+        "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100353-6dM62JCho2Yg.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100353-6dM62JCho2Yg.png"
+      }
+    },
+    {
+      "id": 214031,
+      "title": {
+        "romaji": "Mob Psycho 100: 10 Shuunen Kinen Tokubetsu Eizou",
+        "english": "Mob Psycho 100 10th Anniversary Special Movie",
+        "native": "モブサイコ100 10周年記念特別映像"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214031-VjZ9YM1NsmJd.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214031-VjZ9YM1NsmJd.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 89334,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Arataka Reigen",
+        "native": "霊幻新隆"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89334-OPj1hCzvrt7X.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89334-OPj1hCzvrt7X.png"
+      },
+      "descripcion": "__Height:__ 179 cm (5'10.5\")\n\n[Mob's](https://anilist.co/character/89616) mentor and boss in the Mob Psycho 100 series. He owns a business exorcising ghosts and is a self-proclaimed psychic. \n\nHe is Mob's moral compass. He was the first person to ever consider Mob as normal and his teachings have never failed Mob.\n",
+      "genero": "Male",
+      "edad": "28-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 109819,
+          "title": {
+            "romaji": "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
+            "english": "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
+            "native": "モブサイコ100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅~"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        },
+        {
+          "id": 214031,
+          "title": {
+            "romaji": "Mob Psycho 100: 10 Shuunen Kinen Tokubetsu Eizou",
+            "english": "Mob Psycho 100 10th Anniversary Special Movie",
+            "native": "モブサイコ100 10周年記念特別映像"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89617,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ekubo",
+        "native": "エクボ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89617-HHZ1kziYxc0q.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89617-HHZ1kziYxc0q.png"
+      },
+      "descripcion": "Ekubo is a self-proclaimed upper-class evil spirit who has aligned himself with [Mob](https://anilist.co/character/89616) after being defeated by him.\n\nEkubo wants to be a god. Specifically, he wants to be worshipped by all humanity. \n~!Despite having that kind of ego, he didn't hesitate to put himself at Mob's mercy in the hopes of using the boy to his advantage. At first, he wanted to steal Mob's body and use it to become a god, but he eventually decided to try to make Mob a god instead.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 109819,
+          "title": {
+            "romaji": "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
+            "english": "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
+            "native": "モブサイコ100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅~"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        },
+        {
+          "id": 214031,
+          "title": {
+            "romaji": "Mob Psycho 100: 10 Shuunen Kinen Tokubetsu Eizou",
+            "english": "Mob Psycho 100 10th Anniversary Special Movie",
+            "native": "モブサイコ100 10周年記念特別映像"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89618,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ritsu Kageyama",
+        "native": "影山律"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89618-iSTUyCdu1yZ8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89618-iSTUyCdu1yZ8.png"
+      },
+      "descripcion": "__Height:__ 159.4 cm\n\nRitsu is very clever and apparently serious, he also serves on the student council and excels in academics and everything else he tries. None of that matters to him as much as psychic power, however, his brother is more important to him than anyone or anything else.\n\n~!Before he awoke his own psychic powers, he longed for the esper abilities his brother has always had and was frustrated by his own inability to do things like bend spoons. He may have a habit of carrying spoons around with him, for bending purposes. He is a perfectionist with a not-so-hidden dark side. Unlike [Mob](https://anilist.co/character/89616/Kageyama-Shigeo), he finds it okay to use psychic violence against people when necessary.!~",
+      "genero": "Male",
+      "edad": "13",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 109819,
+          "title": {
+            "romaji": "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
+            "english": "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
+            "native": "モブサイコ100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅~"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89616,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Shigeo Kageyama",
+        "native": "影山茂夫"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89616-dXmdOc7L6SDi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89616-dXmdOc7L6SDi.png"
+      },
+      "descripcion": "**Height:** 157 cm\n\nHe is the assistant and disciple of [Arataka Reigen](https://anilist.co/character/89334/Reigen-Arataka). He is also the newest member of the Body Improvement Club.\n\nShigeo is a quiet and polite individual who tries to live a normal life despite having strong telepathic power, he wants to be seen as a good human among the people in his social life. This often makes him naive and gullible when those with malicious intent want to use him for a laugh or to cause trouble but Shigeo has very strong beliefs to never use his powers to hurt another person because of an altercation he faced once as a child.",
+      "genero": "Male",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 109819,
+          "title": {
+            "romaji": "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
+            "english": "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
+            "native": "モブサイコ100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅~"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        },
+        {
+          "id": 214031,
+          "title": {
+            "romaji": "Mob Psycho 100: 10 Shuunen Kinen Tokubetsu Eizou",
+            "english": "Mob Psycho 100 10th Anniversary Special Movie",
+            "native": "モブサイコ100 10周年記念特別映像"
+          }
+        }
+      ]
+    },
+    {
+      "id": 215411,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akagi",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b215411-I36P8JKz0uRx.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b215411-I36P8JKz0uRx.jpg"
+      },
+      "descripcion": "Akagi is the gang leader of the Pasta Soup Middle School.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 134014,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akai reinkouto otoko",
+        "native": "赤いレインコート男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n134014-KhIw6jxOafWm.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n134014-KhIw6jxOafWm.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 216567,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bandai",
+        "native": "磐梯"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b216567-eez39YobM4Sn.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b216567-eez39YobM4Sn.jpg"
+      },
+      "descripcion": "Bandai is the gang leader of the Soy Sauce Middle School.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133386,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Banshoumaru Shinra",
+        "native": "森羅万象丸"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133386-Z0xRTf8cePDV.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133386-Z0xRTf8cePDV.jpg"
+      },
+      "descripcion": "He is the self-proclaimed \"greatest psychic of the century\" and a member of the Sun Psychic Union led by Kirin Shoudou.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133193,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chihiro",
+        "native": "チヒロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133193-yngyD2rroEMl.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133193-yngyD2rroEMl.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133206,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Daichi Shiratori",
+        "native": "白鳥大地"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133206-tFIjRO4fkPwF.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133206-tFIjRO4fkPwF.jpg"
+      },
+      "descripcion": "Daichi is an esper, the twin brother of [Kaito Shiratori](https://anilist.co/character/133205/Shiratori-Kaito), and one of the children who was invited to the Awakening Lab.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 135296,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Daigakusei A",
+        "native": "大学生A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135296-eBnPCSUzW1eE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135296-eBnPCSUzW1eE.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 135295,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Daigakusei B",
+        "native": "大学生B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135295-vMZ7CgqNbhh0.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135295-vMZ7CgqNbhh0.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 135298,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Daigakusei C",
+        "native": "大学生 C"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135298-MGfAVzPF1MQ0.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135298-MGfAVzPF1MQ0.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137027,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ebiwara",
+        "native": "蛯原"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137027-cohmbH3Quzkr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137027-cohmbH3Quzkr.png"
+      },
+      "descripcion": "He is an esper and former leader of actually disbanded terrorist organization Claw's 3rd Division.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133394,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Emi",
+        "native": "エミ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133394-dvetqtfFKqyd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b133394-dvetqtfFKqyd.png"
+      },
+      "descripcion": "She is a student at Salt Middle School.\n\nEmi first appears as a questionably nice girl who shows an interest in Mob. She has an interest in books and writing novels. ​However, she seems to be easily influenced by her friends and quickly interprets things others say about her negatively, even if they weren't meant that way. She was grateful to Mob for retrieving and restoring her writings after they were torn up.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 216563,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fuji",
+        "native": "富士"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b216563-OlOEDIXs8JpK.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b216563-OlOEDIXs8JpK.jpg"
+      },
+      "descripcion": "Fuji is the gang leader of the Miso Middle School.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137028,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fukuda",
+        "native": "福田"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137028-0KUvnL0jhXl8.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137028-0KUvnL0jhXl8.jpg"
+      },
+      "descripcion": "He is an esper and one of Sho Suzuki's subordinates.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137019,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Furutachi",
+        "native": "古舘"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137019-DjP3zhcHQDDN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137019-DjP3zhcHQDDN.png"
+      },
+      "descripcion": "He is an esper and former leader of 2nd Division of Claw.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 216565,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gen",
+        "native": "ゲン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b216565-BFGxWNrE2bhZ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b216565-BFGxWNrE2bhZ.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133190,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gou Asahi",
+        "native": "朝日豪"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133190-11HTeYLaDWAF.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133190-11HTeYLaDWAF.jpg"
+      },
+      "descripcion": "Gou is an esper and one of the children who was invited to the Awakening Lab.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 216566,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gozu",
+        "native": "五頭"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b216566-IroemEwc3mRJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b216566-IroemEwc3mRJ.jpg"
+      },
+      "descripcion": "Gozu is the gang leader of the Mayo Middle School.\nHe attempts to fight Koyama, but is defeated.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133390,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hanako",
+        "native": "花子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133390-94iJ0oyz1kqi.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133390-94iJ0oyz1kqi.jpg"
+      },
+      "descripcion": "She is Reigen's first client to appear in the series. \n\n~!Hanako had engaged in a sort of test of courage before coming to see Reigen; consequently, a ghost has been haunting her in her dreams. She had asked many psychics to help her and get rid of the ghost and eventually, accompanied by her boyfriend Taro, she asks for help from Arataka Reigen. She guides Reigen and Taro to the building with the ghost in question, after much scepticism about Reigen coming from her boyfriend. She recounts a tale of a man who struck his head on the ceiling of the building after seeing a cockroach, frightening Reigen. The ghost, Ceiling Crasher, haunting her appears, leading Reigen to attempt to exorcise it (unsuccessfully). Reigen calls in Mob, who exorcizes​ the ghost in front of her.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137014,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Haruaki  Amakusa",
+        "native": "天草晴明"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137014-DU1Z2YmLnVaf.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137014-DU1Z2YmLnVaf.jpg"
+      },
+      "descripcion": "He is a self-proclaimed youkai hunter.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133395,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Haruto  Kijibayashi",
+        "native": "稚子林春人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133395-lPVdisYhxMnp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133395-lPVdisYhxMnp.png"
+      },
+      "descripcion": "He is a third-year middle school student and a member of the Telepathy Club.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133385,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hideki  Yamamura",
+        "native": "山村秀樹"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133385-XLzFPShjaw9g.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133385-XLzFPShjaw9g.png"
+      },
+      "descripcion": "He is a student of Salt Middle School and a member of the Body Improvement Club.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137032,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Higashio",
+        "native": "東尾"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137032-IL1HVAYTJzGG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137032-IL1HVAYTJzGG.png"
+      },
+      "descripcion": "He is an esper and one of Sho Suzuki's subordinates.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133382,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hikaru Tokugawa",
+        "native": "徳川光"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133382-zCaMx9Zzcotv.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133382-zCaMx9Zzcotv.jpg"
+      },
+      "descripcion": "He is the vice-president of the school council of Salt Mid.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 134010,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hipparu",
+        "native": "引っ張る"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n134010-gylyGPR0dsv3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n134010-gylyGPR0dsv3.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133384,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hiroshi Kumagawa",
+        "native": "隈川弘"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133384-X8IqIvRj4kZB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133384-X8IqIvRj4kZB.png"
+      },
+      "descripcion": "He is part of the Body Improvement Club and a student of Salt Middle School.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137040,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hiroshi Shibata",
+        "native": "柴田宏"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137040-JkR6gMzbiyW7.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137040-JkR6gMzbiyW7.jpg"
+      },
+      "descripcion": "He is a (formerly powerful) esper and a former member of the terrorist organization​ Claw as a part of the Ultimate 5.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137038,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hiroshi Yabe",
+        "native": "矢部博司"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137038-p5Y27kYQKRfR.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137038-p5Y27kYQKRfR.jpg"
+      },
+      "descripcion": "He is a Prime Minister abducted by Shimazaki.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137026,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hitoshi",
+        "native": "人氏"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137026-Cz00CDYc8BSN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137026-Cz00CDYc8BSN.jpg"
+      },
+      "descripcion": "He was a client of Arataka Reigen, he wanted to speak with his deceased father about a password to a safe.\n\n~!He attempted to stab Reigen to get the combo but was knocked out by Reigen.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89622,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ichi Mezato",
+        "native": "米里イチ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/89622-2sQwqZ1Qkhmx.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/89622-2sQwqZ1Qkhmx.jpg"
+      },
+      "descripcion": "Ichi Mezato is a  school girl who goes to Salt Middle School and is part of the News Club.  She is in class 2-1.",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137021,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Igarashi",
+        "native": "五十嵐"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137021-VvQ7KQ21Ec4i.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137021-VvQ7KQ21Ec4i.png"
+      },
+      "descripcion": "He is an esper and former leader of actually disbanded terrorist organization Claw's 6th Division.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133196,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ishiguro",
+        "native": "遺志黒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133196-QHDPeiSL5t9d.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b133196-QHDPeiSL5t9d.png"
+      },
+      "descripcion": "The chief of the seventh branch of Tsume.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137041,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ishihara",
+        "native": "石原"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137041-XRAqkQvvJUCZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137041-XRAqkQvvJUCZ.png"
+      },
+      "descripcion": "He is an esper and former member of actually disbanded terrorist organization Claw's 4th Division",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137037,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Joseph",
+        "native": "ヨシフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137037-mMfo4fOzLyRl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137037-mMfo4fOzLyRl.png"
+      },
+      "descripcion": "He is an esper mercenary and assassin hired by the government.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 216573,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Joutenin",
+        "native": "女店員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b216573-42gMgNvGNXf5.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b216573-42gMgNvGNXf5.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133389,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jun Sagawa",
+        "native": "佐川純"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133389-a1LgX0kK4HmI.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133389-a1LgX0kK4HmI.jpg"
+      },
+      "descripcion": "He is a student of Salt Middle School and the president of the Body Improvement Club.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133205,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaito Shiratori",
+        "native": "白鳥海斗"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133205-pQBycuj1HaTb.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133205-pQBycuj1HaTb.jpg"
+      },
+      "descripcion": "Kaito is an esper, the twin brother of [Daichi Shiratori](https://anilist.co/character/133206/Shiratori-Daichi), and one of the children who was invited to the Awakening Lab.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133871,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kamen no on'na",
+        "native": "仮面の女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133871-f8MmheCFvW3W.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133871-f8MmheCFvW3W.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133399,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Katsuya Serizawa",
+        "native": "芹沢克也"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133399-saG7XStPZy71.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b133399-saG7XStPZy71.png"
+      },
+      "descripcion": "He is an extremely powerful Esper who was formerly a part of the Super 5 of Claw. He now works at the agency alongside Reigen and Mob.",
+      "genero": "Male",
+      "edad": "30",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 109819,
+          "title": {
+            "romaji": "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
+            "english": "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
+            "native": "モブサイコ100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅~"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133397,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Keiji Mogami",
+        "native": "最上啓示"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133397-kfbGTGEWUArV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b133397-kfbGTGEWUArV.png"
+      },
+      "descripcion": "Keiji Mogami is \"This Century's Greatest Psychic\" and a former Psychic who turned into an evil spirit upon death.\n\nKeiji Mogami is a very bitter man, sick of the greed and selfishness of humanity. Because of the private dealings he did while alive, he has lost his moral compass and has become a twisted variant of his former self. After becoming an evil spirit, he vowed to use his power for his own intentions and fix the world by possessing people who appear to gather grudges around them. To that end, Mogami is willing to destroy a girl's body and brutally impale her father to achieve his whims.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133380,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kenji  Mitsuura",
+        "native": "密裏賢治"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133380-2Ua2VK6awOSX.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133380-2Ua2VK6awOSX.jpg"
+      },
+      "descripcion": "He is the founder of the Awakening Lab.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133393,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kirin Shodou",
+        "native": "浄堂麒麟"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133393-AmiNTzqS4AcZ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b133393-AmiNTzqS4AcZ.jpg"
+      },
+      "descripcion": "He is a haughty psychic and the President of the Sun Psychic Union. \n\n~!Like many other self-proclaimed psychics, Shodo possesses no special abilities. However, he was able to produce a noticeable aura in his ultimately fruitless attempt to exorcize​ Keiji Mogami from Minori Asagiri's body.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137033,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Koga",
+        "native": "古賀"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137033-aVpos13SbQjq.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137033-aVpos13SbQjq.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 135300,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kokyaku",
+        "native": "顧客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135300-c45FV74caIZJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135300-c45FV74caIZJ.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 134012,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kunekune",
+        "native": "くねくね"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n134012-TsP7UWm5n3SS.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n134012-TsP7UWm5n3SS.jpg"
+      },
+      "descripcion": "was an upper-class evil spirit who made his home ruining the crops of a farmer.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137031,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kyohei  Morishige",
+        "native": "森重挙兵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137031-Dcsk1jXiO3Dx.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137031-Dcsk1jXiO3Dx.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 291774,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Makihara",
+        "native": "牧原"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b291774-seUezWpxB8DN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b291774-seUezWpxB8DN.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 134013,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mameta  Inukawa",
+        "native": "犬川豆太"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n134013-fL3rFeCOOIRJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n134013-fL3rFeCOOIRJ.jpg"
+      },
+      "descripcion": "He is a second-year middle school student and a member of the Telepathy Club.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137017,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mari",
+        "native": "まり"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137017-lZgZCWErdgG2.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137017-lZgZCWErdgG2.jpg"
+      },
+      "descripcion": "She is a student of the Highso Private Girls' Academy and was a client of Arataka Reigen.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133396,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mariko",
+        "native": "マリコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133396-kgjGGvd4xWbl.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133396-kgjGGvd4xWbl.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 135299,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Masashi Asagiri",
+        "native": "浅桐真史"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135299-PBCcnA9aUq2u.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135299-PBCcnA9aUq2u.jpg"
+      },
+      "descripcion": "He is a businessman​ and the client who hired psychics to get rid of the spirit possessing his daughter Minori Asagiri.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133194,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Matsuo",
+        "native": "魔津尾"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133194-Kv4pWTObtsms.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133194-Kv4pWTObtsms.png"
+      },
+      "descripcion": "Matsuo is an esper and a former member of Claw. He was part of the upper echelon called \"Scar\".",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133201,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Megumu Koyama",
+        "native": "誇山恵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133201-ykoshhrlY1sr.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133201-ykoshhrlY1sr.jpg"
+      },
+      "descripcion": "Megumu is an esper and a former member of Claw. He was part of the upper echelon called \"Scar\".",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137030,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Miguel",
+        "native": "ミゲル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137030-celhVEbjfJHQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137030-celhVEbjfJHQ.png"
+      },
+      "descripcion": "He is an esper and mercenary.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133387,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Minori Asagiri",
+        "native": "浅桐みのり"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133387-5x6M3DDBqJVN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b133387-5x6M3DDBqJVN.jpg"
+      },
+      "descripcion": "Minori Asagiri is a middle-school girl and the daughter of a wealthy businessman.\n\nAsagiri is very spoiled and very cruel. The first we see of her, she throws a tantrum due to dissatisfaction over lavish birthday presents. This is her true personality, according to her father, that existed before she was possessed by Mogami. Within the world Mogami created and trapped Mob in, she acts very similarly. She bullies, isolates and abuses Mob. Apparently, she does this because she wants to prove herself superior, and by preying on those who are weaker and can't stand up for themselves, she establishes her position. However, after being saved by Mob, she is brought to tears and resolves to become a better person because of him.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133197,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Miyagawa",
+        "native": "宮蛾輪"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133197-5x6HeGoT4MPq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133197-5x6HeGoT4MPq.png"
+      },
+      "descripcion": "Miyagawa is an esper and a former member of Claw. He was part of the upper echelon called \"Scar\".",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133210,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mob no Chichi",
+        "native": "モブの父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133210-Q5R7HEABrcYO.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133210-Q5R7HEABrcYO.jpg"
+      },
+      "descripcion": "Mob's Father.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133209,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mob no Haha",
+        "native": "モブの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133209-X4HAdCajIGsr.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133209-X4HAdCajIGsr.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133388,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Momozou  Takenaka",
+        "native": "竹中桃蔵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133388-bLMvH7JlJNl0.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b133388-bLMvH7JlJNl0.jpg"
+      },
+      "descripcion": "Takenaka is originally introduced as an image-conscientious character pushed into the Telepathy Club similarly to Mob. However, once it is revealed that he is a Telepath, he is shown to be standoffish despite his humor and tendency to tease others. He feels lonely given his telepathy and is overwhelmed by the consciousness of society.\n\n~!Takenaka had previously filled a gap in the Telepathy Club to maintain the minimum number of members needed for the club. He had no interest in the club or in telepathy. He worried about how people looked at him because of his club membership, so he decided to leave the club. As a result of him leaving the club, Tome Kurata had to find a new member to keep the club open. He is later revealed to have joined the tennis club.\n\nIn chapter 98 he is revealed to be a telepath. He returned to their former club room investigate the telepathic ringing generated by Mob and Shiratori brothers. He is subsequently recruited to help contact extraterrestrial life, although he only joins out of obligation.\n\nLater, he is revealed to have actually memorized the summoning formation and incantation despite knowing it to be a hoax, as he didn't want to ruin their memory. He proceeds to spend his New Years' with the others after successfully coming into contact with alien lifeforms.!~",
+      "genero": "Male",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137029,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Morizo  Ebihara",
+        "native": "蛯原モリゾ "
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137029-KnTrhLrBVPKT.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137029-KnTrhLrBVPKT.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133203,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mukai",
+        "native": "無飼"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133203-3HFMYp5gKL0H.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133203-3HFMYp5gKL0H.jpg"
+      },
+      "descripcion": "Mukai is an esper and a former member of Claw. She was the youngest member of the upper echelon called \"Scar\".",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133200,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Muraki",
+        "native": "邑機"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133200-ygH3yWRR7Vjo.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133200-ygH3yWRR7Vjo.jpg"
+      },
+      "descripcion": "Muraki is an esper and a former member of Claw. He was part of the upper echelon called \"Scar\"",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        }
+      ]
+    },
+    {
+      "id": 132972,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Musashi Gouda",
+        "native": "ムサシ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n132972-OMoDKqJSfLjs.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n132972-OMoDKqJSfLjs.jpg"
+      },
+      "descripcion": "Musashi Goda is a student of Salt Middle School and the Body Improvement Club's President. Musashi has a strong sense of justice but strongly disagrees with senseless violence",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133199,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Muto",
+        "native": "霧藤"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133199-4OdUFnhyNi37.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133199-4OdUFnhyNi37.jpg"
+      },
+      "descripcion": "Muto is an esper and a former member of Claw. He was part of the upper echelon called \"Scar\".",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36309,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Narrator",
+        "native": "ナレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+      },
+      "descripcion": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 6,
+          "title": {
+            "romaji": "TRIGUN",
+            "english": "Trigun",
+            "native": "TRIGUN"
+          }
+        },
+        {
+          "id": 21,
+          "title": {
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
+          }
+        },
+        {
+          "id": 25,
+          "title": {
+            "romaji": "Sunabouzu",
+            "english": "Desert Punk",
+            "native": "砂ぼうず"
+          }
+        },
+        {
+          "id": 28,
+          "title": {
+            "romaji": "Yakitate!! Japan",
+            "english": null,
+            "native": "焼きたて!! ジャぱん"
+          }
+        },
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 33,
+          "title": {
+            "romaji": "Kenpuu Denki Berserk",
+            "english": "Berserk",
+            "native": "剣風伝奇ベルセルク"
+          }
+        },
+        {
+          "id": 60,
+          "title": {
+            "romaji": "Chrno Crusade",
+            "english": "Chrono Crusade",
+            "native": "クロノクルセイド"
+          }
+        },
+        {
+          "id": 67,
+          "title": {
+            "romaji": "Basilisk: Kouga Ninpouchou",
+            "english": "Basilisk",
+            "native": "バジリスク 甲賀忍法帖"
+          }
+        },
+        {
+          "id": 80,
+          "title": {
+            "romaji": "Kidou Senshi Gundam",
+            "english": "Mobile Suit Gundam",
+            "native": "機動戦士ガンダム"
+          }
+        },
+        {
+          "id": 90,
+          "title": {
+            "romaji": "Shin Kidou Senki Gundam Wing",
+            "english": "Mobile Suit Gundam Wing",
+            "native": "新機動戦記ガンダムW"
+          }
+        }
+      ]
+    },
+    {
+      "id": 291772,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Niido",
+        "native": "仁井戸"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b291772-TNjAjDmgRTW4.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b291772-TNjAjDmgRTW4.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133392,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nioikagi",
+        "native": "匂い嗅ぎ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133392-IIslFIHFvWAX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133392-IIslFIHFvWAX.png"
+      },
+      "descripcion": "He was a spirit who appeared and made his home terrorizing the students at a private girls' high school.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137012,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nozomu Hatori",
+        "native": "羽鳥希"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137012-mPPl4Aj5jA4U.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137012-mPPl4Aj5jA4U.jpg"
+      },
+      "descripcion": "He is a powerful Esper and a former member of the terrorist organization​ Claw as part of the Ultimate 5.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 216574,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Otoko Tenin",
+        "native": "男店員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b216574-M7JuMZQTDipx.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b216574-M7JuMZQTDipx.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137035,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Otsuki",
+        "native": "大月"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137035-9Ccu2vS2YflL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137035-9Ccu2vS2YflL.png"
+      },
+      "descripcion": "He is an esper and one of Sho Suzuki's subordinates.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133191,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rei Kurosaki",
+        "native": "黒崎麗"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133191-3BaRPuG2X7Wo.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133191-3BaRPuG2X7Wo.jpg"
+      },
+      "descripcion": "Rei is an esper and one of the children who was invited to the Awakening Lab",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 135301,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rinjin",
+        "native": "隣人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135301-XVGeSH7lDdzF.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135301-XVGeSH7lDdzF.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 135297,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryohei Shimura",
+        "native": "志村遼平"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135297-uveHB0flYv9B.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135297-uveHB0flYv9B.png"
+      },
+      "descripcion": "He is a student of Salt Middle School and a member of the Body Improvement Club.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 228646,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryokan no Okami",
+        "native": "旅館の女将"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b228646-hS3VCwRoXlNA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b228646-hS3VCwRoXlNA.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 109819,
+          "title": {
+            "romaji": "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
+            "english": "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
+            "native": "モブサイコ100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅~"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137015,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryou Shimazaki",
+        "native": "島崎亮"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137015-l7xlZzKdo6R2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137015-l7xlZzKdo6R2.png"
+      },
+      "descripcion": "He is a powerful esper, member of the now defunct terrorist organization​ Claw and a former part of the Ultimate 5.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137016,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sakakibara",
+        "native": "榊原"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137016-DNNcAqWt4Csx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137016-DNNcAqWt4Csx.png"
+      },
+      "descripcion": "He is an esper and former leader of actually disbanded terrorist organization Claw's 5th Division.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 291773,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sakure",
+        "native": "佐暮"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b291773-TQjKEflIbMvM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b291773-TQjKEflIbMvM.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137024,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Satake",
+        "native": "佐竹"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137024-LunXDDRYSRDw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137024-LunXDDRYSRDw.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133381,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shinji Kamuro",
+        "native": "神室真司"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133381-RV0pRdJ00pfM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133381-RV0pRdJ00pfM.jpg"
+      },
+      "descripcion": "He is the president of the student council at Salt Middle School.",
+      "genero": "Male",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 135302,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shinkou-chuu no Sobo",
+        "native": "進行中の祖母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135302-HpmwnkcRo64H.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135302-HpmwnkcRo64H.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133398,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shirihiko Saruta",
+        "native": "猿田尻彦"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133398-mEXR6X175mm2.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133398-mEXR6X175mm2.jpg"
+      },
+      "descripcion": "He is a first-year middle school student and a member of the Telepathy Club.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130683,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shou Suzuki",
+        "native": "鈴木将"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130683-TxUJVPKmUxrf.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130683-TxUJVPKmUxrf.jpg"
+      },
+      "descripcion": "~!Sho Suzuki is the son of the leader of Claw. He led a direct resistance against his father's world domination plan.!~",
+      "genero": "Male",
+      "edad": "13",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133207,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Souchou",
+        "native": "総長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133207-An2buFutsKXN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133207-An2buFutsKXN.png"
+      },
+      "descripcion": "Shouchou was a spirit who appeared early on in the anime adaptation.\nHe was the leader of a biker gang. They all died while riding through Honeido Tunnel when the rider at the front slipped on a banana peel and caused an explosive pile-up",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137039,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sugimoto",
+        "native": "杉本"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137039-TcZbtJ8p9i8v.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137039-TcZbtJ8p9i8v.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 138286,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Suzuki no Tsuma",
+        "native": "鈴木の妻"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138286-OEdKLZJ9PlGM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138286-OEdKLZJ9PlGM.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137022,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Suzuo Fukuda",
+        "native": "福田鈴生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137022-orL7cLFRpVPS.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137022-orL7cLFRpVPS.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133192,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Takeshi Hoshino",
+        "native": "星野武史"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133192-wsBXGCFw8oFg.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133192-wsBXGCFw8oFg.jpg"
+      },
+      "descripcion": "Takeshi is an esper and one of the children who was invited to the Awakening Lab",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133198,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Takeuchi",
+        "native": "獄内"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133198-OGE0eFBmoz4I.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133198-OGE0eFBmoz4I.jpg"
+      },
+      "descripcion": "Takeuchi is an esper and a former member of Claw. He was part of the upper echelon called \"Scar\".",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137025,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tamaki",
+        "native": "玉木"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137025-zYWODTmj1dH6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137025-zYWODTmj1dH6.png"
+      },
+      "descripcion": "He is an esper and former leader of 1st Division of Claw.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133391,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tarou",
+        "native": "太郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133391-D18of2V5pfzY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133391-D18of2V5pfzY.png"
+      },
+      "descripcion": "Tarou is Hanako's lover and a character that appears early on in the series. He is an aggressive skeptic of the supernatural and of psychics. He seems protective or relatively concerned about his lover.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137020,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tatsuya  Mogi",
+        "native": "茂木達也"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137020-INKriioVlvml.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137020-INKriioVlvml.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89619,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tenga Onigawara",
+        "native": "鬼瓦天牙"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89619-gX9t6L2puNte.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89619-gX9t6L2puNte.png"
+      },
+      "descripcion": "Tenga Onigawara is the leader of Salt Middle School and an unofficial member of the Body Improvement Club.",
+      "genero": "Male",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133383,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tenjouyaburi",
+        "native": "天井破り"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133383-xNIrhjb7orKD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133383-xNIrhjb7orKD.png"
+      },
+      "descripcion": "He was a spirit who appeared early on in the series. He was the first ghost to appear and be exorcized.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133208,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Terada",
+        "native": "寺蛇"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133208-EvsNSbyX958v.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133208-EvsNSbyX958v.png"
+      },
+      "descripcion": "Terada is an esper and a former member of Claw. He was part of the upper echelon called \"Scar\".",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89621,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Teruki Hanazawa",
+        "native": "花沢輝気"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89621-3uLnmhFOGYFv.png"
+      },
+      "descripcion": "__Height:__ 161.4 cm\n\nHanazawa Teruki is an esper who was first introduced as an antagonist, but later became [Mob](https://anilist.co/character/89616/Kageyama-Shigeo)'s friend after being defeated by him. He was the shadow leader (urabanchou) of Black Vinegar Middle School, using his psychic powers to rule over the delinquents at his own school, as well as to defeat those from other schools.\n\nTeruki is a talented, quick-thinking, and hardworking esper. In terms of raw power, he is nowhere near Mob's level, but he compensates for this by putting in effort and training diligently. He is able to analyze other espers' techniques and their weaknesses in a short amount of time, and often incorporates said techniques in his own fights. He is constantly training to improve himself, and is remarked by various espers as possessing a keen and powerful set of skills.",
+      "genero": "Male",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 109819,
+          "title": {
+            "romaji": "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
+            "english": "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
+            "native": "モブサイコ100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅~"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133204,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Toichirou Suzuki",
+        "native": "鈴木統一郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133204-KKsIZxLqX7vF.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b133204-KKsIZxLqX7vF.jpg"
+      },
+      "descripcion": "Toichiro is an extremely powerful esper and the founder and leader of Claw.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89620,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tome Kurata",
+        "native": "暗田トメ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89620-C1z1mMLIlO17.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89620-C1z1mMLIlO17.png"
+      },
+      "descripcion": "__School:__ Salt Middle School\n__School club:__ Telepathy Club (President)\n\nTome seems to be a slacker but is passionate about the possibility of using telepathy to contact extraterrestrials. However, when the Telepathy Club's research into the matter bears no results, she quickly gives up. When she learns that [Mob](https://anilist.co/character/89616/Kageyama-Shigeo) is an Esper, her passion is revitalized.",
+      "genero": "Female",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        },
+        {
+          "id": 214031,
+          "title": {
+            "romaji": "Mob Psycho 100: 10 Shuunen Kinen Tokubetsu Eizou",
+            "english": "Mob Psycho 100 10th Anniversary Special Movie",
+            "native": "モブサイコ100 10周年記念特別映像"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137013,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Toshiki Minegishi",
+        "native": "峯岸棯樹"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137013-NeuxqAZiAa99.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137013-NeuxqAZiAa99.jpg"
+      },
+      "descripcion": "He is a powerful esper, a former member of the terrorist organization​ Claw and once part of the Ultimate 5.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89623,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tsubomi Takane",
+        "native": "高嶺ツボミ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/89623-9JhzOrRvzaII.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/89623-9JhzOrRvzaII.jpg"
+      },
+      "descripcion": "She is a middle schooler at Salt Middle School. Mob harbors a large crush on her.\n\n~!Most of what we know about Tsubomi's personality in the manga is from what Mob and other characters say about her. However, in the anime adaptation, there are extra scenes of Tsubomi that add to her character and personality and make her a more compassionate individual.!~",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133202,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tsuchiya",
+        "native": "槌屋"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133202-u21avBxVl3OR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133202-u21avBxVl3OR.png"
+      },
+      "descripcion": "Tsuchiya is an esper and a former member of Claw. She was part of the upper echelon called \"Scar\".",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133189,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tsuyoshi Edano",
+        "native": "枝野剛"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133189-LuFCRjjCCHYP.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133189-LuFCRjjCCHYP.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137023,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Udo",
+        "native": "ウド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137023-GZtX0T3uzDfu.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137023-GZtX0T3uzDfu.jpg"
+      },
+      "descripcion": "He is a mercenary and an Esper.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133872,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yamazaki",
+        "native": "山崎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133872-cj6XIQ3FTR2V.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133872-cj6XIQ3FTR2V.jpg"
+      },
+      "descripcion": "Yamazaki is a student of the Salt Middle School and a member of Tenga Onigawara's gang.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137036,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yanagawa",
+        "native": "柳川"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137036-bs1xpufvnHjn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137036-bs1xpufvnHjn.png"
+      },
+      "descripcion": "He is an esper and former leader of actually disbanded terrorist organization Claw's 4th Division.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        }
+      ]
+    },
+    {
+      "id": 291775,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Youkai Daiou",
+        "native": "妖怪大王"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b291775-7wrW4fq2dNJH.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b291775-7wrW4fq2dNJH.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133195,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yusuke  Sakurai",
+        "native": "桜威遊介"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133195-fF7tNKmv6Ejy.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133195-fF7tNKmv6Ejy.jpg"
+      },
+      "descripcion": "The partner of Koyama who is also one of the executives of the Tsume group.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 100353,
+          "title": {
+            "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+          }
+        },
+        {
+          "id": 101338,
+          "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+          }
+        },
+        {
+          "id": 102449,
+          "title": {
+            "romaji": "Mob Psycho mini",
+            "english": null,
+            "native": "モブサイコmini"
+          }
+        },
+        {
+          "id": 140439,
+          "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 86029,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Puri-Puri Prisoner",
+        "native": "ぷりぷりプリズナー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n86029-iomUtQtGfJOU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n86029-iomUtQtGfJOU.png"
+      },
+      "descripcion": "__Occupation:__ Superhero \n__Level:__ S-Class; Rank 17\n\nPuri-Puri Prisoner is a flamboyant, openly homosexual superhero. He takes an interest in other, up-and-coming heroes and criminals; an interest which led to his titular jail sentence, as he kept attacking them. Criminals that he apprehends are then added to his harem.",
+      "genero": "Male",
+      "edad": "33",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21087,
+          "title": {
+            "romaji": "One Punch Man",
+            "english": "One-Punch Man",
+            "native": "ワンパンマン"
+          }
+        },
+        {
+          "id": 21416,
+          "title": {
+            "romaji": "One Punch Man OVA",
+            "english": "One-Punch Man OVA",
+            "native": "ワンパンマン OVA"
+          }
+        },
+        {
+          "id": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "モブサイコ100"
+          }
+        },
+        {
+          "id": 97668,
+          "title": {
+            "romaji": "One Punch Man 2",
+            "english": "One-Punch Man Season 2",
+            "native": "ワンパンマン 2"
+          }
+        },
+        {
+          "id": 108945,
+          "title": {
+            "romaji": "One Punch Man 2 OVA",
+            "english": "One-Punch Man Season 2 OVA",
+            "native": "ワンパンマン 2 OVA"
+          }
+        },
+        {
+          "id": 139586,
+          "title": {
+            "romaji": "Go! Saitama",
+            "english": null,
+            "native": "Go! Saitama"
+          }
+        },
+        {
+          "id": 153800,
+          "title": {
+            "romaji": "One Punch Man 3",
+            "english": "One-Punch Man Season 3",
+            "native": "ワンパンマン３"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 110,
+  "actualizado": 1788565671
+}

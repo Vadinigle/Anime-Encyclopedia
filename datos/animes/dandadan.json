@@ -1,0 +1,3232 @@
+{
+  "clave": "dandadan",
+  "nombre": "Dandadan",
+  "descripcion": "Aliens, espíritus y fenómenos paranormales",
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Romance",
+    "Sobrenatural"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+  "medios": [
+    {
+      "id": 171018,
+      "title": {
+        "romaji": "Dandadan",
+        "english": "DAN DA DAN",
+        "native": "ダンダダン"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171018-60q1B6GK2Ghb.jpg"
+      }
+    },
+    {
+      "id": 185660,
+      "title": {
+        "romaji": "Dandadan 2nd Season",
+        "english": "DAN DA DAN Season 2",
+        "native": "ダンダダン 第2期"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185660-uB8RUMBGovGr.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185660-uB8RUMBGovGr.jpg"
+      }
+    },
+    {
+      "id": 198966,
+      "title": {
+        "romaji": "Dandadan 3rd Season",
+        "english": null,
+        "native": "ダンダダン 第3期"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198966-9Ji1GwIyRiiu.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198966-9Ji1GwIyRiiu.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 245466,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Aira Shiratori",
+        "native": "白鳥愛羅"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245466-rd5I5mchZ3bv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b245466-rd5I5mchZ3bv.png"
+      },
+      "descripcion": "__Relatives:__ [Father](https://anilist.co/character/349655/Aira-no-Chichi)\n\nAfter becoming aware of the existence of the supernatural after collecting a mysterious golden ball, Aira proclaims herself as the \"chosen one\" that is on a mission to protect the world from evil and directs her attention towards [Momo Ayase](https://anilist.co/character/222594/Momo-Ayase), believing that she is a demon that has to be stopped after seeing her use her psychic powers. Aira revels in her social status as the popular girl at Kami High and strives to maintain her reputation. Outwardly, she appears sweet, innocent, and somewhat air headed. However, internally, she is far more vain and prideful, a side she only shows to people she becomes close with. Whilst antagonistic towards Momo, she harbors feelings towards her close friend [Okarun](https://anilist.co/character/222593/Ken-Takakura).\n\n~!She later gains the powers of a powerful spirit named [Acrobatic Silky](https://anilist.co/character/245467/Acrobatic-Sarasara) and becomes allies / friends with Momo and Okarun, learning to be more mindful of her actions and being more open with her true self.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        },
+        {
+          "id": 198966,
+          "title": {
+            "romaji": "Dandadan 3rd Season",
+            "english": null,
+            "native": "ダンダダン 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 258506,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Jin Enjouji",
+        "native": "円城寺 仁"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b258506-mMMInKyQq7ib.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b258506-mMMInKyQq7ib.png"
+      },
+      "descripcion": "Jin Enjouji is [Momo Ayase](https://anilist.co/character/222594/Momo-Ayase)'s childhood friend and first crush. After his parents were hospitalized as a result of his house being haunted, Enjouji moved in with Momo and [Seiko](https://anilist.co/character/234824/Seiko-Ayase) and transferred over to Momo's school. \n\nJiji comes off as being a very hyper-active young man who likes to express himself with dramatic mannerisms and expressions. He also has a habit of usually ending his sentences with strange verbal tics and is known to be very athletic and enjoy sports, primarily soccer. Past his initial over-the-top presentation, Jiji is a good-natured guy who deeply values his friendships and is committed to protecting those close to him, striving to improve himself and act as a reliable ally in moments of danger. Despite his immaturity, Jiji demonstrates a strong sense of accountability and empathy. \n\n~!He later gets possessed by a mountain yokai called [the Evil Eye](https://anilist.co/character/309809/Jashi). Thus, whenever he touches cold water, Evil Eye comes out, and when he touches hot water, he is himself.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        },
+        {
+          "id": 198966,
+          "title": {
+            "romaji": "Dandadan 3rd Season",
+            "english": null,
+            "native": "ダンダダン 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 222593,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ken Takakura",
+        "native": "高倉健"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b222593-qBqUvpodooAI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b222593-qBqUvpodooAI.png"
+      },
+      "descripcion": "He is a young male student with a firm belief that UFOs and aliens exist. Upon meeting [Momo Ayase](https://anilist.co/character/222594/Ayase-Momo) and taking up on her challenge to see if ghosts were real, Okarun became cursed by a yokai known as the [Turbo-Granny](https://anilist.co/character/239956/Turbo-Babaa) and seeks to return to normal.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        },
+        {
+          "id": 198966,
+          "title": {
+            "romaji": "Dandadan 3rd Season",
+            "english": null,
+            "native": "ダンダダン 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 222594,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Momo Ayase",
+        "native": "綾瀬桃"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b222594-24Jn7qlI5spH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b222594-24Jn7qlI5spH.png"
+      },
+      "descripcion": "After making friends with [Ken Takakura](https://anilist.co/character/222593), who she calls \"Okarun\" (due to refusing to call him by the same name as the actor she idolizes), Momo wishes to help restore his body back to normal after being cursed by a yokai and must overcome other paranormal activities that are involved.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        },
+        {
+          "id": 198966,
+          "title": {
+            "romaji": "Dandadan 3rd Season",
+            "english": null,
+            "native": "ダンダダン 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289256,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Vamola",
+        "native": "バモラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289256-HEnb2zsSwsrF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289256-HEnb2zsSwsrF.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        },
+        {
+          "id": 198966,
+          "title": {
+            "romaji": "Dandadan 3rd Season",
+            "english": null,
+            "native": "ダンダダン 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 245467,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Acrobatic Sarasara",
+        "native": "アクロバティックさらさら"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245467-xnhV5etjTvHZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b245467-xnhV5etjTvHZ.png"
+      },
+      "descripcion": "Acrobatic Silky took on the form of a tall woman with long silky black hair. She had a narrow face with hollowed eyes, wrinkles on the upper half of her face, and a permanent lipstick smile that exposes her teeth. She walked around barefooted while wearing a red wide brimmed hat and a red dress.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348517,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Anzu",
+        "native": "あんず"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348517-DEdul5jqUXWx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b348517-DEdul5jqUXWx.png"
+      },
+      "descripcion": "Aira's former closest friend at high school.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 270706,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chiquitita",
+        "native": "チキチータ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b270706-v0I38q6JgI81.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b270706-v0I38q6JgI81.jpg"
+      },
+      "descripcion": "The son of the [Dover Demon](https://anilist.co/character/270705/Penny-Chinkosu), also known as the Mantisian. He needed to ingest new blood every day, but his life was saved thanks to [Seiko](https://anilist.co/character/234824/Seiko-Ayase) and crew giving them a cow. Currently lives on Earth with his father.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309828,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Flatwoods Monster",
+        "native": "フラットウッズ・モンスター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309828-xNkH8S75eErR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309828-xNkH8S75eErR.png"
+      },
+      "descripcion": "Furattouzzu Monsutaa was an alien that was first sighted in the American town of Flatwoods.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 270703,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hana",
+        "native": "花"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b270703-XOuIjhNfWAC4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b270703-XOuIjhNfWAC4.png"
+      },
+      "descripcion": "Hana is an anthropomorphized anatomical model that resides with Ayase and Seiko.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372042,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hideji",
+        "native": "ヒデジ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b372042-9M9OHH4WQV7m.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b372042-9M9OHH4WQV7m.png"
+      },
+      "descripcion": "Guitarist for the band *HAYASii*.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309809,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jashi",
+        "native": "邪視"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309809-HHGduVD6KgVk.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309809-HHGduVD6KgVk.jpg"
+      },
+      "descripcion": "Jashi is a yokai who has spent years bound to the [Tsuchinoko](https://anilist.co/character/309811/Tsuchinoko) sacrificial house and is known for cursing humans to commit suicide with his gaze.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309807,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jibakurei Kani",
+        "native": "地縛霊蟹"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309807-XA8eaAsRavV6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309807-XA8eaAsRavV6.png"
+      },
+      "descripcion": "Jibakurei Kani is an earthbound spirit that was previously bound to a tunnel in Shono City.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 352095,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Joshi B",
+        "native": "女子B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 352093,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jugemu Kitou",
+        "native": "鬼頭呪限無"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b352093-1oRMb7Zn5gGM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b352093-1oRMb7Zn5gGM.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 352090,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Juhiko Kitou",
+        "native": "鬼頭呪彦"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b352090-Lpbl5MQWldR4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b352090-Lpbl5MQWldR4.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 352091,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Juichi Kitou",
+        "native": "鬼頭呪一"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b352091-FvVX4kT9KxDn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b352091-FvVX4kT9KxDn.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 352089,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jumanuel Kitou",
+        "native": "鬼頭ジュマニエル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b352089-hxAoCoQYSkGY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b352089-hxAoCoQYSkGY.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 352092,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Juria Kitou",
+        "native": "鬼頭呪里杏"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b352092-YQLnRfvDeEIS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b352092-YQLnRfvDeEIS.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289257,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kinta Sakata",
+        "native": "坂田金太"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289257-4p0AjmUUT0lg.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289257-4p0AjmUUT0lg.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309818,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ludris",
+        "native": "ルドリス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309818-HZ2ap9h1MitB.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309818-HZ2ap9h1MitB.jpg"
+      },
+      "descripcion": "Rudorisu is an Alien Construction Specialist and friend of Mr. Mantis Shrimp.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289255,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Manjirou",
+        "native": "万次郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289255-wXLSXkq7JVud.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289255-wXLSXkq7JVud.jpg"
+      },
+      "descripcion": "Manjirou is a spirit medium, and the priest of a shrine that worships a \"Tsuchinoko.\" What is actually enshrined there, however, is the skin left behind by the Great Serpent, which was traditionally worshipped in the area. He has a secret desire to become a BooTuber.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335283,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Miiko",
+        "native": "ミーコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b335283-me8m6iQ9lCuh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b335283-me8m6iQ9lCuh.png"
+      },
+      "descripcion": "Miiko is the best friend and classmate of Momo Ayase and Kei in high school.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335284,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Muuko",
+        "native": "ムーコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b335284-AVWUUtwyoV11.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b335284-AVWUUtwyoV11.png"
+      },
+      "descripcion": "Best friend and classmate of Momo Ayase and Miko in high school.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 270700,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Naki Kitou",
+        "native": "鬼頭ナキ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b270700-j44U9thDeoXZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b270700-j44U9thDeoXZ.png"
+      },
+      "descripcion": "Naki Kitou, the ringleader of the Kitou Family who for generations have been sacrificing people to the \"tsuchinoko\".\n~!She is a subterranean.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309826,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nessie",
+        "native": "ネッシー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309826-l7BanOxJneFJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309826-l7BanOxJneFJ.jpg"
+      },
+      "descripcion": "Nessie, also called Kamissie by Okarun since the creature had previously arrived in Kamikoshi City, was a cryptid and a disgruntled subordinate of the Serpod.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372044,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Patterson",
+        "native": "パターソン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b372044-oO7DuKqS7MnM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b372044-oO7DuKqS7MnM.png"
+      },
+      "descripcion": "Bassist for the band *HAYASiii*.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 270705,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Penny Chinkosu",
+        "native": "ぺニーチンコス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b270705-IDJ3yjRmTcPg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b270705-IDJ3yjRmTcPg.png"
+      },
+      "descripcion": "Peeny-Weeny, also known as the Dover Demon, is a Dover Demon's Race, he works for the Serpo in order to earn money for [his son's](https://anilist.co/character/270706/) blood transfusion.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 334676,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rin Sawaki",
+        "native": "佐脇凛"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b334676-kZTQOzSxBMsI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b334676-kZTQOzSxBMsI.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 234824,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Seiko Ayase",
+        "native": "綾瀬星子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b234824-i3s64ueaBqGq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b234824-i3s64ueaBqGq.png"
+      },
+      "descripcion": "[Momo Ayase](https://anilist.co/character/222594/Ayase-Momo)'s grandmother. Despite being a grandmother, Seiko possesses a youthful appearance that does not match her age and is recognized as being quite beautiful.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309827,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Serpo Seijin",
+        "native": "セルポ星人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309827-Vt2rOVTzwglz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309827-Vt2rOVTzwglz.png"
+      },
+      "descripcion": "Serupo Seijin are an entirely male alien race who come from Planet Serpo.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 270704,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tarou",
+        "native": "太郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b270704-FvYlWMLwLa0C.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b270704-FvYlWMLwLa0C.png"
+      },
+      "descripcion": "Taro is an anthropomorphized anatomical model that resides at Ayase's and Takakura's school.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372041,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Toshirou",
+        "native": "トシロウ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b372041-KjQEtZiHEbtt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b372041-KjQEtZiHEbtt.png"
+      },
+      "descripcion": "Vocalist for the band *HAYASii*.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309812,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tsubame",
+        "native": "つばめ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309812-cg7RUp03s2eG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309812-cg7RUp03s2eG.png"
+      },
+      "descripcion": "Aira's former closest friend at high school.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309811,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tsuchinoko",
+        "native": "ツチノコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309811-NBTzFL6IonMf.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309811-NBTzFL6IonMf.jpg"
+      },
+      "descripcion": "Tsuchinoko was the name of a kuragari, or Mongolian Death Worm, that had been revered by the people of Jiji's village, especially the Kito Family, as the Great Snake, believed to be the cryptid tsuchinoko.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368491,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tsuru-chan Junsa",
+        "native": "つるちゃん巡査"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b368491-Qp3jBALib4YM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b368491-Qp3jBALib4YM.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 239956,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Turbo Babaa",
+        "native": "ターボババア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b239956-Fok0Pl3rNOEL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b239956-Fok0Pl3rNOEL.png"
+      },
+      "descripcion": "The yokai took on the form of a very elderly woman with long white shaggy hair and eyes that were stuck looking to the sides. When possessing her targets, she has her victims transform into a mirror image of herself, albeit with a large mouth with teeth that is capable of biting off body parts.\n\n~!After having her consciousness extracted from [Okarun](https://anilist.co/character/222593/Takakura-Ken), the Turbo-Granny is forced to inhabit a maneki-neko doll.!~\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        },
+        {
+          "id": 185586,
+          "title": {
+            "romaji": "TAIDADA",
+            "english": "TAIDADA",
+            "native": "TAIDADA"
+          }
+        },
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        },
+        {
+          "id": 198966,
+          "title": {
+            "romaji": "Dandadan 3rd Season",
+            "english": null,
+            "native": "ダンダダン 第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372579,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Vanben",
+        "native": "バンべン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b372579-Mbb3gIfU2mYS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b372579-Mbb3gIfU2mYS.png"
+      },
+      "descripcion": "Vanben is short-tempered. He dislikes crude sounds being played in the music room that causes him and the other Music Room Portraits to appear and is driven to eliminate whoever is responsible.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372043,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yoshikishi",
+        "native": "ヨシキチ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b372043-90qMj8OxqEAc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b372043-90qMj8OxqEAc.png"
+      },
+      "descripcion": "Drummer for the band *HAYASii*.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372586,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "70-Nendai no Kodomo",
+        "native": "70年代の子供"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b372586-TzVonxP85jU0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b372586-TzVonxP85jU0.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 349655,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Aira no Chichi",
+        "native": "アイラの父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b349655-sen9dwHqTEPF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b349655-sen9dwHqTEPF.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 349653,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Akusara no Musume",
+        "native": "アクさらの娘"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b349653-c3RNCk1WxufX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b349653-c3RNCk1WxufX.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 347659,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Assistant Producer",
+        "native": "アシスタントプロデューサー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372589,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Bousai Musen",
+        "native": "防災無線"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 351156,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Classmate A",
+        "native": "クラスメイトA"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 351154,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Classmate B",
+        "native": "クラスメイトB"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 351153,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Classmate C",
+        "native": "クラスメイトC"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 351152,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Classmate D",
+        "native": "クラスメイトD"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 351158,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Classmate E",
+        "native": "クラスメイトE"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 351155,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Classmate F",
+        "native": "クラスメイトF"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 351157,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Classmate G",
+        "native": "クラスメイトG"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348250,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Couple Onna",
+        "native": "カップル女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348248,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Couple Otoko",
+        "native": "カップル男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348249,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Dansei Kyaku",
+        "native": "男性客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309814,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Dansei Kyoushi",
+        "native": "男性教師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309814-7jMZROkmZemD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309814-7jMZROkmZemD.png"
+      },
+      "descripcion": "A staff member at the high school setting of Dandadan.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 352096,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi A",
+        "native": "男子A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 352097,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi B",
+        "native": "男子B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 349120,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi Seito 1",
+        "native": "男子生徒1"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 349122,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi Seito 2",
+        "native": "男子生徒2"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348516,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi Seito A",
+        "native": "男子生徒A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348522,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi Seito B",
+        "native": "男子生徒B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348520,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi Seito C",
+        "native": "男子生徒C"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348521,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi Seito D",
+        "native": "男子生徒D"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 346707,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Dansi Seito A",
+        "native": "男子生徒A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 346710,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Dansi Seito B",
+        "native": "男子生徒B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348518,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Doukyuusei",
+        "native": "同級生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 349121,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Doukyuusei",
+        "native": "同級生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 351472,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Eigo Kyoushi",
+        "native": "英語教師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351472-KWUWnPL7mJbZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b351472-KWUWnPL7mJbZ.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372590,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jiji no Chichi",
+        "native": "ジジの父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b372590-dhgPh4dt3WkL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b372590-dhgPh4dt3WkL.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372581,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jiji no Haha",
+        "native": "ジジの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b372581-CK1q99s2cNiw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b372581-CK1q99s2cNiw.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309822,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joou Sensei",
+        "native": "女王先生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309822-pQv5mC0y7rrw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309822-pQv5mC0y7rrw.png"
+      },
+      "descripcion": "Joou is the school nurse of Momo Ayase and Okarun's high school.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 352094,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi A",
+        "native": "女子A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 351470,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi Seito A",
+        "native": "女子生徒A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 351469,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi Seito B",
+        "native": "女子生徒B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372585,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Junsa",
+        "native": "巡査"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b372585-8VnjqVTZDB8T.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b372585-8VnjqVTZDB8T.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372584,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kitou-ka Senzo no Onna",
+        "native": "鬼頭家先祖の女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372582,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kitou-ka Senzo no Otoko",
+        "native": "鬼頭家先祖の男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 347665,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Koshimoto",
+        "native": "腰元"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 350311,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kyoushi",
+        "native": "教師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372591,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maid Leader",
+        "native": "メイドリーダー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b372591-EjPYBkeiTRAV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b372591-EjPYBkeiTRAV.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309821,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Momo no Motokare",
+        "native": "モモの元彼"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309821-PqbiIP2WUvZ0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309821-PqbiIP2WUvZ0.png"
+      },
+      "descripcion": "Momo's first and former boyfriend.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348515,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Momo no Yuujin A",
+        "native": "桃の友人A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348519,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Momo no Yuujin B",
+        "native": "桃の友人B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 349654,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Otoko",
+        "native": "男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 350775,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito A",
+        "native": "生徒A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 350774,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito B",
+        "native": "生徒B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 350776,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito C",
+        "native": "生徒C"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309817,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Serpod Dover Demon Nessie",
+        "native": "セルポドーバーデーモンネッシー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309817-AyYC4Fyp3Hzo.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309817-AyYC4Fyp3Hzo.jpg"
+      },
+      "descripcion": "Serupo Doubaadeemon Nesshii was the result of a Serupo fusing with the Dover Demon and Nessie as a last resort to eliminate Momo, Okarun and Aira.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 372583,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shouboushi",
+        "native": "消防士"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 346709,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shougakusei Danshi A",
+        "native": "小学生男子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 346708,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shougakusei Danshi B",
+        "native": "小学生男子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368493,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shoukoukai no Otoko A",
+        "native": "商工会の男A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 368492,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shoukoukai no Otoko B",
+        "native": "商工会の男B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 185660,
+          "title": {
+            "romaji": "Dandadan 2nd Season",
+            "english": "DAN DA DAN Season 2",
+            "native": "ダンダダン 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 309820,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shouma",
+        "native": "翔馬"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309820-3yCom3Q8LNhw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309820-3yCom3Q8LNhw.png"
+      },
+      "descripcion": "Shouma is a young man who valued having a good reputation as an idol.",
+      "genero": "Male",
+      "edad": "27",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 351471,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tannin Dansei",
+        "native": "担任男性"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351471-MPOQxUEHpYk8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b351471-MPOQxUEHpYk8.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 347662,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Taxi Untenshu",
+        "native": "タクシー運転手"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b347662-ilCcNHtDIwLD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b347662-ilCcNHtDIwLD.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 347663,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "TV Announcer",
+        "native": "TVアナウンサー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 347660,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "TV-kyoku Producer",
+        "native": "TV局プロデューサー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348251,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Uketsuke-jou",
+        "native": "受付嬢"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171018,
+          "title": {
+            "romaji": "Dandadan",
+            "english": "DAN DA DAN",
+            "native": "ダンダダン"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 99,
+  "actualizado": 1788565953
+}

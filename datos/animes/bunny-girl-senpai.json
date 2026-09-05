@@ -1,0 +1,999 @@
+{
+  "clave": "bunny-girl-senpai",
+  "nombre": "Rascal Does Not Dream of Bunny Girl Senpai",
+  "descripcion": "Seishun Buta Yarou",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Sobrenatural"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101291-wfEdgPqtfU0l.jpg",
+  "medios": [
+    {
+      "id": 101291,
+      "title": {
+        "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+        "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101291-wfEdgPqtfU0l.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101291-wfEdgPqtfU0l.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 127613,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kaede Azusagawa",
+        "native": "梓川かえで"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127613-LBtFkMJfUWpg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b127613-LBtFkMJfUWpg.png"
+      },
+      "descripcion": "__Height:__ 5'4\" (162 cm)\n\nShe is the younger sister of Sakuta Azusagawa. \n\n~!Suffered amnesia and gained a different personality after her ordeal with Adolescence Syndrome stemming from online bullying. Since then, she has lived with Sakuta and has not attended school.!~",
+      "genero": "Female",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        },
+        {
+          "id": 104157,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dreaming Girl",
+            "native": "青春ブタ野郎はゆめみる少女の夢を見ない"
+          }
+        },
+        {
+          "id": 154967,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Sister Venturing Out",
+            "native": "青春ブタ野郎はおでかけシスターの夢を見ない"
+          }
+        },
+        {
+          "id": 161474,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Knapsack Kid",
+            "native": "青春ブタ野郎はランドセルガールの夢を見ない"
+          }
+        },
+        {
+          "id": 171046,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Santa Claus",
+            "native": "青春ブタ野郎はサンタクロースの夢を見ない"
+          }
+        },
+        {
+          "id": 199340,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dear Friend",
+            "native": "青春ブタ野郎はディアフレンドの夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127222,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Mai Sakurajima",
+        "native": "桜島麻衣"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127222-Jh5hhP7vZ7s1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b127222-Jh5hhP7vZ7s1.png"
+      },
+      "descripcion": "__Height:__ 162 cm (5'4\")\n\nA 3rd-year student at Minegahara High School. She is serious and polite, but has a strong will.\n\nWell known, famous actress, who is currently on hiatus. Because her life had always revolved around her work in entertainment, she remains isolated at school.\n\n(Source: Aniplex USA)",
+      "genero": "Female",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        },
+        {
+          "id": 104157,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dreaming Girl",
+            "native": "青春ブタ野郎はゆめみる少女の夢を見ない"
+          }
+        },
+        {
+          "id": 154967,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Sister Venturing Out",
+            "native": "青春ブタ野郎はおでかけシスターの夢を見ない"
+          }
+        },
+        {
+          "id": 161474,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Knapsack Kid",
+            "native": "青春ブタ野郎はランドセルガールの夢を見ない"
+          }
+        },
+        {
+          "id": 171046,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Santa Claus",
+            "native": "青春ブタ野郎はサンタクロースの夢を見ない"
+          }
+        },
+        {
+          "id": 199340,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dear Friend",
+            "native": "青春ブタ野郎はディアフレンドの夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127841,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Nodoka Toyohama",
+        "native": "豊浜のどか"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127841-UY9wQq6dW9SY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b127841-UY9wQq6dW9SY.png"
+      },
+      "descripcion": "__Height:__ 158cm (5'2\")\n__Talent:__ Changing clothes quickly\n\nMai's half-sister, related through her father. A member of the idol group \"Sweet Bullet\" and designated as the most fashionable within the group. Despite her flashy looks, she attends an elite all girls' high school. She is confident and can be competitive.\n\n(Source: Aniplex USA)",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        },
+        {
+          "id": 104157,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dreaming Girl",
+            "native": "青春ブタ野郎はゆめみる少女の夢を見ない"
+          }
+        },
+        {
+          "id": 154967,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Sister Venturing Out",
+            "native": "青春ブタ野郎はおでかけシスターの夢を見ない"
+          }
+        },
+        {
+          "id": 161474,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Knapsack Kid",
+            "native": "青春ブタ野郎はランドセルガールの夢を見ない"
+          }
+        },
+        {
+          "id": 171046,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Santa Claus",
+            "native": "青春ブタ野郎はサンタクロースの夢を見ない"
+          }
+        },
+        {
+          "id": 199340,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dear Friend",
+            "native": "青春ブタ野郎はディアフレンドの夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127633,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Rio Futaba",
+        "native": "双葉理央"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127633-FcCwWK5sQRhK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b127633-FcCwWK5sQRhK.png"
+      },
+      "descripcion": "__Height:__ 155 cm (5'1\")\n__Talent:__ Explaining any strange phenomenon with science\n\nShe is [Sakuta](https://anilist.co/character/127221/Azusagawa-Sakuta)'s classmate, who is always cool and calm, always willing to give various advice on puberty syndrome. She is also the sole member of the Science Club, and known as an eccentric person at the school. \n\n(Source: Aniplex USA)",
+      "genero": "Female",
+      "edad": "16-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        },
+        {
+          "id": 104157,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dreaming Girl",
+            "native": "青春ブタ野郎はゆめみる少女の夢を見ない"
+          }
+        },
+        {
+          "id": 154967,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Sister Venturing Out",
+            "native": "青春ブタ野郎はおでかけシスターの夢を見ない"
+          }
+        },
+        {
+          "id": 161474,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Knapsack Kid",
+            "native": "青春ブタ野郎はランドセルガールの夢を見ない"
+          }
+        },
+        {
+          "id": 171046,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Santa Claus",
+            "native": "青春ブタ野郎はサンタクロースの夢を見ない"
+          }
+        },
+        {
+          "id": 199340,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dear Friend",
+            "native": "青春ブタ野郎はディアフレンドの夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127221,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Sakuta Azusagawa",
+        "native": "梓川咲太"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n127221-Wxg4xFtW4kaJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n127221-Wxg4xFtW4kaJ.png"
+      },
+      "descripcion": "__Height:__  172 cm (5'7\")\n\nA strange 2nd year student in high school, who doesn't have a cellphone in this day and age. He is currently an outcast at school due to rumors of a violent past... but doesn't seem to care.\n~!Sakuta eventually starts dating [Mai Sakurajima](https://anilist.co/character/127222)!~\n(Source: Aniplex USA)",
+      "genero": "Male",
+      "edad": "16-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        },
+        {
+          "id": 104157,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dreaming Girl",
+            "native": "青春ブタ野郎はゆめみる少女の夢を見ない"
+          }
+        },
+        {
+          "id": 154967,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Sister Venturing Out",
+            "native": "青春ブタ野郎はおでかけシスターの夢を見ない"
+          }
+        },
+        {
+          "id": 161474,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Knapsack Kid",
+            "native": "青春ブタ野郎はランドセルガールの夢を見ない"
+          }
+        },
+        {
+          "id": 171046,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Santa Claus",
+            "native": "青春ブタ野郎はサンタクロースの夢を見ない"
+          }
+        },
+        {
+          "id": 199340,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dear Friend",
+            "native": "青春ブタ野郎はディアフレンドの夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127840,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Tomoe Koga",
+        "native": "古賀朋絵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b127840-z2LUox2R2Ivg.jpg"
+      },
+      "descripcion": "__Height:__ 150 cm (4'11\")\n\nA typical 1st year high-school student at Minegahara High School who can take hints, but is slightly scatterbrained. Being overly concerned about how people look at her, she hides her Hakata accent, which comes out when she panics or is relaxed.\n\n(Source: Aniplex USA, edited)",
+      "genero": "Female",
+      "edad": "15-16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        },
+        {
+          "id": 104157,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dreaming Girl",
+            "native": "青春ブタ野郎はゆめみる少女の夢を見ない"
+          }
+        },
+        {
+          "id": 154967,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Sister Venturing Out",
+            "native": "青春ブタ野郎はおでかけシスターの夢を見ない"
+          }
+        },
+        {
+          "id": 161474,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Knapsack Kid",
+            "native": "青春ブタ野郎はランドセルガールの夢を見ない"
+          }
+        },
+        {
+          "id": 171046,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Santa Claus",
+            "native": "青春ブタ野郎はサンタクロースの夢を見ない"
+          }
+        },
+        {
+          "id": 199340,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dear Friend",
+            "native": "青春ブタ野郎はディアフレンドの夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 320165,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Azusagawa no Chichi",
+        "native": "梓川の父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b320165-NkQFxXq1VU3T.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b320165-NkQFxXq1VU3T.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        },
+        {
+          "id": 154967,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Sister Venturing Out",
+            "native": "青春ブタ野郎はおでかけシスターの夢を見ない"
+          }
+        },
+        {
+          "id": 161474,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Knapsack Kid",
+            "native": "青春ブタ野郎はランドセルガールの夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130304,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Saki Kamisato",
+        "native": "上里沙希"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130304-5VhLSgq1zYIQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130304-5VhLSgq1zYIQ.png"
+      },
+      "descripcion": "[Yuuma](https://anilist.co/character/130307/Yuuma-Kunimi)'s girlfriend. Popular within the school and can be a standoffish person, but she shows great affection towards Yuuma. She is quite protective of him and often clashes with [Sakuta](https://anilist.co/character/127221/Sakuta-Azusagawa) as a result.\n\n~!It is revealed that Saki has an older sister whom her parents often compare her to, causing her to develop low self-esteem. Sakuta believes this to be the reason why she is so protective of Yuuma's image and her own, as in her eyes she already has a fragile self-image.!~\n\n\n~!After graduating she attends the same college as Sakuta and goes into health studies, in the hopes of becoming a nurse in order to help Yuuma whenever she can due to his decision to partake in firefighter training.!~",
+      "genero": "Female",
+      "edad": "16-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        },
+        {
+          "id": 104157,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dreaming Girl",
+            "native": "青春ブタ野郎はゆめみる少女の夢を見ない"
+          }
+        },
+        {
+          "id": 171046,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Santa Claus",
+            "native": "青春ブタ野郎はサンタクロースの夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127843,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shouko Makinohara",
+        "native": "牧之原翔子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n127843-nz8GbQ9rhB8R.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n127843-nz8GbQ9rhB8R.jpg"
+      },
+      "descripcion": "__Height:__ 150 cm (4'11\")\n__Talent:__ Early to bed, early to rise\n\nA girl who has the same first and last name as [Sakuta](https://anilist.co/character/127221/Azusagawa-Sakuta)'s first crush. She is a shy middle school girl, but reliable and kind.\n\nShe bumps into Sakuta, while holding an umbrella over an abandoned cat in the rain.\n\n~!It is later revealed that the older Shouko that Sakuta encounters is from the future, and is able to return to the past due to her puberty syndrome.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        },
+        {
+          "id": 104157,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dreaming Girl",
+            "native": "青春ブタ野郎はゆめみる少女の夢を見ない"
+          }
+        },
+        {
+          "id": 161474,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Knapsack Kid",
+            "native": "青春ブタ野郎はランドセルガールの夢を見ない"
+          }
+        },
+        {
+          "id": 171046,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Santa Claus",
+            "native": "青春ブタ野郎はサンタクロースの夢を見ない"
+          }
+        },
+        {
+          "id": 199340,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dear Friend",
+            "native": "青春ブタ野郎はディアフレンドの夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 144797,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Uzuki Hirokawa",
+        "native": "広川卯月"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144797-4Wbf9gYygNNC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b144797-4Wbf9gYygNNC.png"
+      },
+      "descripcion": "The lead singer of idol group Sweet Bullet. Her nickname is Zukky.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        },
+        {
+          "id": 154967,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Sister Venturing Out",
+            "native": "青春ブタ野郎はおでかけシスターの夢を見ない"
+          }
+        },
+        {
+          "id": 171046,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Santa Claus",
+            "native": "青春ブタ野郎はサンタクロースの夢を見ない"
+          }
+        },
+        {
+          "id": 199340,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dear Friend",
+            "native": "青春ブタ野郎はディアフレンドの夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130307,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuuma Kunimi",
+        "native": "国見佑真"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130307-QbUIGjAiQbP9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130307-QbUIGjAiQbP9.png"
+      },
+      "descripcion": "A good friend of [Sakuta Azusagawa](https://anilist.co/character/127221/Sakuta-Azusagawa) and [Rio Futaba](https://anilist.co/character/127633/Rio-Futaba), as well as the boyfriend of [Saki Kamisato](https://anilist.co/character/130304). He is a member of Minegahara High's basketball team, being quite athletic and popular within the school.",
+      "genero": "Male",
+      "edad": "16-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 19
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        },
+        {
+          "id": 104157,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dreaming Girl",
+            "native": "青春ブタ野郎はゆめみる少女の夢を見ない"
+          }
+        },
+        {
+          "id": 154967,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Sister Venturing Out",
+            "native": "青春ブタ野郎はおでかけシスターの夢を見ない"
+          }
+        },
+        {
+          "id": 161474,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Knapsack Kid",
+            "native": "青春ブタ野郎はランドセルガールの夢を見ない"
+          }
+        },
+        {
+          "id": 171046,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Santa Claus",
+            "native": "青春ブタ野郎はサンタクロースの夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 144795,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Fumika Nanjou",
+        "native": "南条文香"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144795-1a7VVmegZr4F.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b144795-1a7VVmegZr4F.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        },
+        {
+          "id": 171046,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Santa Claus",
+            "native": "青春ブタ野郎はサンタクロースの夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 144798,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kotomi Kano",
+        "native": "鹿野琴美"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144798-3WKZB4Z0KLy1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b144798-3WKZB4Z0KLy1.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        },
+        {
+          "id": 154967,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Sister Venturing Out",
+            "native": "青春ブタ野郎はおでかけシスターの夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130306,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mai no Haha",
+        "native": "麻衣の母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130306-BbD2k4HNPG5Z.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130306-BbD2k4HNPG5Z.png"
+      },
+      "descripcion": "She is the mother of Mai Sakurajima.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        },
+        {
+          "id": 104157,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dreaming Girl",
+            "native": "青春ブタ野郎はゆめみる少女の夢を見ない"
+          }
+        },
+        {
+          "id": 161474,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Knapsack Kid",
+            "native": "青春ブタ野郎はランドセルガールの夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 328162,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Nana Yoneyama",
+        "native": "米山奈々"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b328162-ATDVkd07n0ep.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b328162-ATDVkd07n0ep.png"
+      },
+      "descripcion": "She is a classmate of Tomoe Koga.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 328163,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Nodoka no Haha",
+        "native": "のどかの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b328163-lgyJ4F0NCQ7b.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b328163-lgyJ4F0NCQ7b.png"
+      },
+      "descripcion": "She is the mother of Nodoka Toyohama.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 144796,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Rena Kashiba",
+        "native": "香芝玲奈"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144796-AXRDxCoMQN9B.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b144796-AXRDxCoMQN9B.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 203396,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tenchou",
+        "native": "店長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b203396-qVpDn5DZCH9h.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b203396-qVpDn5DZCH9h.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130305,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yousuke Maesawa",
+        "native": "前沢陽介"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130305-73pXalS4f3j8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130305-73pXalS4f3j8.png"
+      },
+      "descripcion": "A member of the school basketball team. He has an attractive and charming demeanor, but he is ultimately not above slandering other students. Maezawa has bad-mouthed all of his past girlfriends.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 101291,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+          }
+        },
+        {
+          "id": 104157,
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dreaming Girl",
+            "native": "青春ブタ野郎はゆめみる少女の夢を見ない"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 19,
+  "actualizado": 1788566659
+}

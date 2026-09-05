@@ -1,0 +1,4252 @@
+{
+  "clave": "spy-family",
+  "nombre": "SPY×FAMILY",
+  "descripcion": "La familia Forger",
+  "generos": [
+    "Comedia",
+    "Acción"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg",
+  "medios": [
+    {
+      "id": 140960,
+      "title": {
+        "romaji": "SPY×FAMILY",
+        "english": "SPY x FAMILY",
+        "native": "SPY×FAMILY"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140960-Kb6R5nYQfjmP.jpg"
+      }
+    },
+    {
+      "id": 142838,
+      "title": {
+        "romaji": "SPY×FAMILY Part 2",
+        "english": "SPY x FAMILY Cour 2",
+        "native": "SPY×FAMILY 第2クール"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142838-26JrqcFU1ljB.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142838-26JrqcFU1ljB.jpg"
+      }
+    },
+    {
+      "id": 158927,
+      "title": {
+        "romaji": "SPY×FAMILY Season 2",
+        "english": "SPY x FAMILY Season 2",
+        "native": "SPY×FAMILY Season 2"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b158927-lfO85WVguYgc.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b158927-lfO85WVguYgc.png"
+      }
+    },
+    {
+      "id": 177937,
+      "title": {
+        "romaji": "SPY×FAMILY Season 3",
+        "english": "SPY x FAMILY Season 3",
+        "native": "SPY×FAMILY Season 3"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177937-Tzgg6rAdhCoH.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177937-Tzgg6rAdhCoH.jpg"
+      }
+    },
+    {
+      "id": 158928,
+      "title": {
+        "romaji": "SPY×FAMILY CODE: White",
+        "english": "SPY x FAMILY CODE: White",
+        "native": "SPY×FAMILY CODE: White"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158928-xqE0euKlQMnY.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158928-xqE0euKlQMnY.jpg"
+      }
+    },
+    {
+      "id": 177098,
+      "title": {
+        "romaji": "Street Fighter 6 × SPY×FAMILY CODE: White",
+        "english": "Street Fighter 6 VS SPY×FAMILY CODE: White",
+        "native": "ストリートファイター6 × SPY×FAMILY CODE: White"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177098-PD8wTppylqog.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177098-PD8wTppylqog.png"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 138100,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Anya Forger",
+        "native": "アーニャ・フォージャー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138100-4Li0tWRCa5bQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138100-4Li0tWRCa5bQ.png"
+      },
+      "descripcion": "__Height:__ 99.5 cm (3'2\")\n__Occupation:__ First-Grade Student, Test Subject (Formerly)\n__Affiliation:__ Eden Academy, Unknown Organization (Formerly)\n__Relatives:__ <a href=\"https://anilist.co/character/138101/Loid-Forger\">Loid Forger</a> (Adoptive Father), <a href=\"https://anilist.co/character/138102/Yor-Forger\">Yor Forger</a> (Adoptive Mother)\n\nAnya Forger is the deuteragonist of the SPY x FAMILY series. She is a young girl who <a href=\"https://anilist.co/character/138101/Loid-Forger\">Twilight</a> finds at an orphanage. Believing her to be a smart child, he decides to adopt her for his mission. What he doesn't know is that Anya is an esper who escaped from the Lab that gave her the power to read minds. Starving for excitement in her life after spending most of it so far in a lab, Anya actively sought to be the one adopted by Loid and then make sure <a href=\"https://anilist.co/character/138101/Loid-Forger\">Loid</a> and <a href=\"https://anilist.co/character/138102/Yor-Forger\">Yor</a> got together, so she could have a spy and assassin for parents. Anya is the only Forger aware of just about everyone's Secret Identities, but keeps it to herself out of fear that if her psychic powers are exposed she'll be put in a lab again.",
+      "genero": "Female",
+      "edad": "6 (self asserted)",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169679,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Bond",
+        "native": "ボンド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169679-EFPubVtZFYom.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169679-EFPubVtZFYom.jpg"
+      },
+      "descripcion": "Bond is the recently adopted pet of the Forger Family. Formally known as Subject 8, Bond has been used for experiments that resulted in the dog gaining precognition abilities.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5165,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Chun-Li",
+        "native": "チュンリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5165-g0Vo7XosHh4I.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5165-g0Vo7XosHh4I.png"
+      },
+      "descripcion": "Chun-Li is a video game character created by Capcom. She is part of the Street Fighter series, and is the first female playable character to appear in a mainstream fighting game. Introduced in Street Fighter II, Chun-Li was the only female character in the game, and while not as physically powerful as the other characters, she was by far the quickest. Her most famous attack is the Hyakuretsukyaku (Hundred Rending Leg, commonly known as the Lightning Kick), where she repeatedly kicks her opponent from a tilted standing position with incredible speed.     (Source: Wikipedia)",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 876,
+          "title": {
+            "romaji": "Street Fighter II V",
+            "english": null,
+            "native": "ストリートファイターII V"
+          }
+        },
+        {
+          "id": 979,
+          "title": {
+            "romaji": "Street Fighter ZERO: THE ANIMATION",
+            "english": "Street Fighter Alpha",
+            "native": "ストリートファイターZERO - THE ANIMATION -"
+          }
+        },
+        {
+          "id": 1362,
+          "title": {
+            "romaji": "Street Fighter II: The Movie",
+            "english": "Street Fighter II: The Animated Movie",
+            "native": "ストリートファイターII"
+          }
+        },
+        {
+          "id": 5369,
+          "title": {
+            "romaji": "Street Fighter IV: Aratanaru Kizuna",
+            "english": "Street Fighter IV: The Ties That Bind",
+            "native": "ストリートファイターIV 新たなる絆"
+          }
+        },
+        {
+          "id": 8026,
+          "title": {
+            "romaji": "Super Street Fighter IV",
+            "english": null,
+            "native": "スーパーストリートファイターIV"
+          }
+        },
+        {
+          "id": 17379,
+          "title": {
+            "romaji": "Street Fighter II: Yomigaeru Fujiwara-kyou - Toki wo Kaketa Fighter-tachi",
+            "english": null,
+            "native": "ストリートファイターII よみがえる藤原京 時を駆けたファイターたち"
+          }
+        },
+        {
+          "id": 20574,
+          "title": {
+            "romaji": "Hi Score Girl",
+            "english": "Hi Score Girl",
+            "native": "ハイスコアガール"
+          }
+        },
+        {
+          "id": 108581,
+          "title": {
+            "romaji": "Hi Score Girl II",
+            "english": "Hi Score Girl II",
+            "native": "ハイスコアガール II"
+          }
+        },
+        {
+          "id": 116267,
+          "title": {
+            "romaji": "Tonikaku Kawaii",
+            "english": "TONIKAWA: Over The Moon For You",
+            "native": "トニカクカワイイ"
+          }
+        },
+        {
+          "id": 177098,
+          "title": {
+            "romaji": "Street Fighter 6 × SPY×FAMILY CODE: White",
+            "english": "Street Fighter 6 VS SPY×FAMILY CODE: White",
+            "native": "ストリートファイター6 × SPY×FAMILY CODE: White"
+          }
+        }
+      ]
+    },
+    {
+      "id": 138101,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Loid Forger",
+        "native": "ロイド・フォージャー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138101-7NCB0Md8zA6G.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138101-7NCB0Md8zA6G.png"
+      },
+      "descripcion": "__Height:__ 187 cm\n__Occupation:__ Psychiatrist, Spy (Covertly)\n__Affiliation:__ Berlint General Hospital, WISE (Covertly)\n__Relatives:__ <a href=\"https://anilist.co/character/138102/Yor-Forger\">Yor Forger</a> (Wife), <a href=\"https://anilist.co/character/138100/Anya-Forger\">Anya Forger</a> (Adoptive Daughter)\n\nLoid Forger is the main protagonist of the SPY x FAMILY series. He is the top spy of the Westalian Intelligence Bureau, who is only known by his code name Twilight. In order to investigate the activities of a highly ranked politician, <a href=\"https://anilist.co/character/180192/Donovan-Desmond\">Donovan Desmond</a>, Twilight has assumed the identity of a psychiatrist named Loid Forger. Further, to appear like a normal family man and get close to his target, Loid then adopted a young orphan girl, <a href=\"https://anilist.co/character/138100/Anya-Forger\">Anya</a>, and entered a Marriage of Convenience with an Ostanian woman named <a href=\"https://anilist.co/character/138102/Yor-Forger\">Yor Briar</a>... who unknown to Twilight are themselves a Telepath and Professional Killer respectively.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 138102,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Yor Forger",
+        "native": "ヨル・フォージャー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138102-ZOAu9jI2d5ke.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138102-ZOAu9jI2d5ke.png"
+      },
+      "descripcion": "__Height:__ 170 cm\n__Occupation:__ City Hall Clerk, Assassin (Covertly)\n__Affiliation:__ Berlint City Hall, Garden (Covertly)\n__Relatives:__ [Loid Forger](https://anilist.co/character/138101/Loid-Forger) (Husband), [Anya Forger](https://anilist.co/character/138100/Anya-Forger) (Adoptive Daughter), [Yuuri Briar](https://anilist.co/character/150425/Yuuri-Briar) (Younger Brother)\n\nYor Forger is the tritagonist of the SPY x FAMILY series. She is a clerical employee at the Berlint City Hall. She is soft-spoken and mild-mannered, but has a strong sense of humor. She has a bad drinking habit and falls into a coma when she drinks. At home, she struggles to be a good wife and a kind mother. Although her cooking skills are not very good, she likes to keep clean and is good at cleaning.\nWhile she works in the capital of Ostania's city hall... or at least that's her civilian cover. In truth, she is an infamous Professional Killer known as \"Thorn Princess\". After becoming overly fixated on the idea her cover might be blown after a coworker ribs her about not being married or even having a boyfriend, Yor suggests to Loid a Marriage of Convenience, which he accepts, as he needs a mother for Anya for his own mission.\n\n~!As of Mission (Chapter) 44, it is revealed that Yor is part of Garden, a powerful paramilitary assassin organization operating within Ostania.!~",
+      "genero": "Female",
+      "edad": "27",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177098,
+          "title": {
+            "romaji": "Street Fighter 6 × SPY×FAMILY CODE: White",
+            "english": "Street Fighter 6 VS SPY×FAMILY CODE: White",
+            "native": "ストリートファイター6 × SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 150423,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Becky Blackbell",
+        "native": "ベッキー・ブラックベル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b150423-RxXwrHzeLCss.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b150423-RxXwrHzeLCss.jpg"
+      },
+      "descripcion": "__Affiliation:__ Blackbell Family, Blackbell Heavy Industries, Eden Academy, Cecile Hall\n__Occupation:__ Student\n\nThe daughter of the CEO of Blackbell, a major military manufacturer. Attends Eden Academy as part of Cecil House, Group 3. Best friends with [Anya Forger](https://anilist.co/character/138100/Forger-Anya).\n\nBecky is a very kind child but with her being the daughter of a major military manufacturer, she is shown to be somewhat prideful and tries to be mature, attempting to take Anya under her wing as an act of benevolence when she views Anya as a brat. She does not attempt to get close to [Damian Desmond](https://anilist.co/character/150424/Desmond-Damian) despite his social position, even looking down on their classmates who try to befriend Damian and Anya who is initially bullied by Damian's group. Anya's confident smile later wins over Becky's admiration.",
+      "genero": "Female",
+      "edad": "6",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294503,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Becky no Chichi",
+        "native": "ベッキーの 父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b294503-esqhsK5loh9e.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b294503-esqhsK5loh9e.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 277083,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Benedict Goodfellow",
+        "native": "ベネディクト・アイヴァン・グッドフェラー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b277083-neZF7lClvA4e.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b277083-neZF7lClvA4e.jpg"
+      },
+      "descripcion": "Current headmaster of Eden Academy. During the entrance ceremony for the new Eden Academy students, he gives a speech welcoming them. According to some facility members, he does not accept \"donations\" from parents and cannot be bought.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        }
+      ]
+    },
+    {
+      "id": 278821,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bill Watkins",
+        "native": "ビル・ワトキンス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b278821-yK2ulLgK3KEM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b278821-yK2ulLgK3KEM.jpg"
+      },
+      "descripcion": "The 6-year-old son of a major in the National Army who attends Eden Academy as part of Wald Hall. He was given the nickname \"Bazooka Bill\" by his peers for his mental and physical domination in sports since nursery school.",
+      "genero": "Male",
+      "edad": "6",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 381151,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Billy Squire",
+        "native": "ビリー・スクワイア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381151-leeqWof3X83A.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b381151-leeqWof3X83A.png"
+      },
+      "descripcion": "Billy Squire is the leader of the Red Circus and the main antagonist of the Bus Hijacking Arc.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 290003,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Brantz Daijin",
+        "native": "ブランツ大臣"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290003-kSUPS1ewDKUQ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b290003-kSUPS1ewDKUQ.jpg"
+      },
+      "descripcion": "A foreign minister from Westalis. He is the target of [Keith Kepler](https://anilist.co/character/280308/Keith-Kepler)'s assassination plan.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 278137,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Burns",
+        "native": "バーンズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b278137-viNMSOVmQulG.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b278137-viNMSOVmQulG.jpg"
+      },
+      "descripcion": "Section chief of Berlint City Hall, overseeing the work of [Yor Forger](https://anilist.co/character/138102/Yor-Forger), [Camilla](https://anilist.co/character/180191/Camilla), [Millie](https://anilist.co/character/270958/Millie), and [Sharon](https://anilist.co/character/270959/Sharon).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 180191,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Camilla",
+        "native": "カミラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180191-peLZOpA3jmBO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180191-peLZOpA3jmBO.png"
+      },
+      "descripcion": "One of Yor Forger's three co-workers at Berlint City Hall.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293394,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Carrol Campbell",
+        "native": "キャロル・キャンベル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293394-qpWc7ObaEuGl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293394-qpWc7ObaEuGl.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318218,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Casey",
+        "native": "ケイシー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b318218-9Gbte4peVZ1v.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b318218-9Gbte4peVZ1v.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293395,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cavi Campbell",
+        "native": "キャビー・キャンベル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293395-WV8hfeXhtnfx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293395-WV8hfeXhtnfx.png"
+      },
+      "descripcion": "After obtaining a fortune in the energy sector, he became known as one of the world's foremost collectors of classical art. He is one of the organizers of Campbelldon, an underground tennis competition.",
+      "genero": "Male",
+      "edad": "56",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 380451,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chloe",
+        "native": "クロエ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b380451-OGvYu8nqbtX8.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b380451-OGvYu8nqbtX8.jpg"
+      },
+      "descripcion": "Chloe is an officer in Ostania's State Security Service and Yuri Briar's junior officer.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317780,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Conrad",
+        "native": "コンラッド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317780-12Uo1565dPEq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b317780-12Uo1565dPEq.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 150424,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Damian Desmond",
+        "native": "ダミアン・デズモンド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b150424-4B4psF6I4dgO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b150424-4B4psF6I4dgO.png"
+      },
+      "descripcion": "__Height:__ 110 cm (3′7″)\n__Affiliation:__ Desmond Family, Eden Academy, Cecile Hall\n__Occupation:__ Student\n\nThe second son of [Donovan Desmond](https://anilist.co/character/180192/Desmond-Donovan) and attends Eden Academy as part of Cecile House, Group 3.  \n\nA young child with an arrogant and rude personality, caused by him being the second son of Donovan Desmond, the leader of the National Unity Party, a group important and powerful enough to threaten the peace between the East and the West. This has caused Damian to gain a highly respected status among his peers and making him incredibly arrogant, assuming [Anya](https://anilist.co/character/138100/Forger-Anya) gained a crush on him when she stared at him. He is shown to prefer being called Lord Damian when spoken to. He gets angry when he is looked down upon by Anya's smile, quickly resorting to insulting her with his limited vocabulary and harassing Anya.",
+      "genero": "Male",
+      "edad": "6",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 314219,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dmitri",
+        "native": "ドミトリ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b314219-K8RMXjiaxTol.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b314219-K8RMXjiaxTol.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        }
+      ]
+    },
+    {
+      "id": 270960,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dominic",
+        "native": "ドミニク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b270960-ZeCmPnuQp11T.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b270960-ZeCmPnuQp11T.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 180192,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Donovan Desmond",
+        "native": "ドノバン・デズモンド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180192-nOvkTcotZyu0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180192-nOvkTcotZyu0.png"
+      },
+      "descripcion": "Donovan Desmond is the President of the Nation Unity Party and Twilight's current target.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 274082,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Edgar",
+        "native": "エドガー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b274082-9GV1yIXv2N70.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b274082-9GV1yIXv2N70.png"
+      },
+      "descripcion": "The father of Karen and the boss of an unknown organization in Ostania. He expresses strong hostility towards Westalis and their people. He antagonizes Twilight by kidnapping Anya Forger in an attempt to blackmail Twilight into working for him.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        }
+      ]
+    },
+    {
+      "id": 213882,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Emile Elman",
+        "native": "エミールぅ・エルマン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b213882-BoEgxd5783eU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b213882-BoEgxd5783eU.png"
+      },
+      "descripcion": "Best Friend of <a href=\"https://anilist.co/character/150424/Damian-Desmond\">Damian </a> and Student at Eden Academy.",
+      "genero": "Male",
+      "edad": "6",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293859,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Erik Zacharis",
+        "native": "エリック・ザカリス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293859-fvETD1y4t8UH.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293859-fvETD1y4t8UH.jpg"
+      },
+      "descripcion": "Colonel Zacharis was in the East's Military Intelligence Division during the war and played a major role in ending the war. He previously owned the Lady In The Sun painting that holds a clue to the location of the Zacharis Dossier, rumored to contain information that could \"reignite the war.\"",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 213881,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ewen Egeburg",
+        "native": "ユーイン・エッジバーグ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b213881-NrUwR51qHdkV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b213881-NrUwR51qHdkV.png"
+      },
+      "descripcion": "Best Friend of <a href=\"https://anilist.co/character/150424/Damian-Desmond\">Damian </a> and Student at Eden Academy. He is a loyal person, devotedly following Damian, almost always holding his bag when they walk to class. He also genuinely cares for Damian as a friend, getting concerned for Damian when he is hurt or pushing himself too hard.",
+      "genero": "Male",
+      "edad": "6",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184936,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fiona Frost",
+        "native": "フィオナ・フロスト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184936-kVn06kjZly6H.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184936-kVn06kjZly6H.png"
+      },
+      "descripcion": "__Height:__ 172 cm\n__Occupation:__ Hospital Assistant (secretly a spy)\n\nA spy who works undercover as an assistant to [Loid Forger](https://anilist.co/character/138101/Loid-Forger) at Berlint General Hospital to provide him with mission details. Fiona is deeply in love with Loid, even telling Loid to replace [Yor](https://anilist.co/character/138102/Forger-Yor) and let her take over the role of the Forger wife.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317782,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Franklin Perkin no Chichi",
+        "native": "フランクリン・パーキンの父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317782-hcFKwVk4k1nN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b317782-hcFKwVk4k1nN.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157888,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Franky Franklin",
+        "native": "フランキー・フランクリン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157888-zkSfIT5Z8y2S.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157888-zkSfIT5Z8y2S.png"
+      },
+      "descripcion": "__Height:__ 166 cm (5′5\")\n__Affiliation:__ Ostania\n__Occupation:__ Tobacco Store Clerk (False Front), Informant, Soldier (formerly)\n\nFranky is an informant who seemingly works at a tobacco store and presumably works for Loid Forger's agency. He gets information regarding Eden Academy's exam and Anya Forger's past records for Loid Forger.\n\nFranky is a kind person willing to help Loid out when he's in a pinch even though the danger is high. He frequently warns Loid Forger not to get too close to other people in their line of work.\n\nHe frequently falls in love with other women but his love life typically fails due to lack of mutual interest or they are already with someone else.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317779,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Franlin Perkin",
+        "native": "フランクリン・パーキン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317779-tJWHF2oFcEgj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b317779-tJWHF2oFcEgj.png"
+      },
+      "descripcion": "Author responsible for writing several books and articles released in Westalis that slandered Ostania for the purpose of earning money for him and his elderly father. In the past, he was a newspaper journalist during the previous administration and was arrested for aiding anti-government extremists.",
+      "genero": "Male",
+      "edad": "39",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 270961,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Garden Tenchou",
+        "native": "〈ガーデン〉店長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b270961-npwGDaryVj6Q.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b270961-npwGDaryVj6Q.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 383163,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gascoigne",
+        "native": "ガスコイン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b383163-SgsXDXbxjvyR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b383163-SgsXDXbxjvyR.png"
+      },
+      "descripcion": "Gascoigne is a State Security Service captain. He and other agents were tasked with securing Winston Wheeler and the files he stole from WISE upon reaching Ostania.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 291621,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "George Glooman",
+        "native": "ジョージ・グルーマン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b291621-A88lxV8BEuxM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b291621-A88lxV8BEuxM.jpg"
+      },
+      "descripcion": "A student at Eden Academy and a member of Cecile Hall. He is the son of the CEO of Glooman Pharmaceuticals, a company later bought by the Desmond Group.",
+      "genero": "Male",
+      "edad": "6",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 291622,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "George no chichi",
+        "native": "ジョージの父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b291622-qcGXfniqDvFQ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b291622-qcGXfniqDvFQ.jpg"
+      },
+      "descripcion": "Father of George Glooman. He was the CEO of Glooman Pharmaceuticals until the company was bought by The Desmond Group.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 379535,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gerald Gorey",
+        "native": "ジェラルド・ゴーリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b379535-ZbJCHOo9Nu1b.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b379535-ZbJCHOo9Nu1b.png"
+      },
+      "descripcion": "Gerald Gorey is the the Chief Medical Director of the Berlint General Hospital where Twilight works at, as Loid Forger. He possesses an immense jealousy towards Loid due to his popularity as a therapist within the hospital and his proximity with Fiona Frost, who Gorey has a crush on.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318640,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gram Gretcher",
+        "native": "グラム・グレッチャー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b318640-uEIqshavu8KY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b318640-uEIqshavu8KY.png"
+      },
+      "descripcion": "Only son of Olka Gretcher and one of the two remaining members of the Gretcher family.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317159,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Green",
+        "native": "グリーン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317159-AQN1zvCdkNXS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b317159-AQN1zvCdkNXS.png"
+      },
+      "descripcion": "Custos of Eden Academy.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 180190,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Henry Henderson",
+        "native": "ヘンリー・ヘンダーソン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180190-iQqPtTS182Et.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180190-iQqPtTS182Et.jpg"
+      },
+      "descripcion": "__Affiliation:__ Eden Academy\n__Occupation:__ History Teacher, Housemaster of Cecile Hall\n\nHenry is a mature and noble person, who places a high importance on \"elegance\". To him, elegance seems to be the way a person conducts themselves, and is not afraid to correct inelegant behavior in others.",
+      "genero": "Male",
+      "edad": "66",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318641,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Heymann",
+        "native": "エイマン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b318641-BMhJyKcLZj4q.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b318641-BMhJyKcLZj4q.png"
+      },
+      "descripcion": "Employee at Berlint City Hall as part of the Business Development Team.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 278136,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jim Hayward",
+        "native": "ジム・ヘイワード"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b278136-LsqqszqgIXkR.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b278136-LsqqszqgIXkR.jpg"
+      },
+      "descripcion": "He was an informant for WISE working at Berlint City Hall in the financial department. He was caught selling documents to WISE agents in photographs by [Yuuri Briar](https://anilist.co/character/150425/Yuuri-Briar).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        }
+      ]
+    },
+    {
+      "id": 274083,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Karen",
+        "native": "カレン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b274083-RoIvenciVoSd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b274083-RoIvenciVoSd.png"
+      },
+      "descripcion": "The daughter of Edgar. Twilight formerly dated her as \"Robert\" with the intention of investigating her father. Karen is known to have participated in a fair amount of criminal activity, enough to get her in trouble if Loid so wishes.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        }
+      ]
+    },
+    {
+      "id": 280308,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Keith Kepler",
+        "native": "キース・ケプラー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b280308-LUyVNQje71td.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b280308-LUyVNQje71td.jpg"
+      },
+      "descripcion": "The leader of a terrorist group consisting of isolationist college students from Berlint University, intending on assassinating Foreign Minister Brantz to start a war between Westalis and Ostania.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319157,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kikimimi-kun",
+        "native": "聞き耳ーくん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319157-NuBW0caJcnIe.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b319157-NuBW0caJcnIe.png"
+      },
+      "descripcion": "One of the assassins hired by Leonardo Hapoon to kill Olka Gretcher and her son.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293393,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kim Campbell",
+        "native": "キム・キャンベル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293393-QufNViZKdEO1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293393-QufNViZKdEO1.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301867,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kojiin no Shujin",
+        "native": "孤児院の主人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301867-Vc4auE6Amt5O.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301867-Vc4auE6Amt5O.jpg"
+      },
+      "descripcion": "An inebriated middle-aged man who is the owner of the orphanage where Anya Forger is adopted by Loid Forger. He is apathetic about his orphanage, as shown by the neglected state of the children and his indifference to Loid's given background. He thinks of Anya as a \"creepy little brat\", attempting to give her away to Loid upon hearing he wants a literate child.\n<br><br>\n(Source: Spy x Family Wiki)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        }
+      ]
+    },
+    {
+      "id": 279677,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kokkahoankyoku Chuui",
+        "native": "国家保安局中尉"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b279677-VeVumWIwfdFi.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b279677-VeVumWIwfdFi.jpg"
+      },
+      "descripcion": "A scarred man who is a lieutenant and a higher position than [Yuuri Briar](https://anilist.co/character/150425/Yuuri-Briar) in the SSS. He seems to be fairly close to Yuuri and is aware of his drinking habits and sister complex, advising Yuri to get over his sister and focus on his work.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 279678,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kokkahoankyoku Kyokuchou",
+        "native": "国家保安局局長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b279678-Q59PfmCFihrW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b279678-Q59PfmCFihrW.png"
+      },
+      "descripcion": "The boss of the SSS who dotes on [Yuuri](https://anilist.co/character/150425/Yuuri-Briar) because he finds him adorable like a puppy.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319160,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Koroshiya no Leader-kaku",
+        "native": "殺し屋のリーダー格"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319160-LtRkKbJJzdO6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b319160-LtRkKbJJzdO6.png"
+      },
+      "descripcion": "One of the assassins hired by Leonardo Hapoon to kill Olka Gretcher. He was made to coordinate the other hired assassins, relaying orders to them and acting as Snoops' main contact.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 288562,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kris",
+        "native": "クリス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b288562-V0mGc2mV6hbL.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b288562-V0mGc2mV6hbL.jpg"
+      },
+      "descripcion": "A student at Berlint University and a member of the Berlint Terrorist group led by [Keith Kepler](https://anilist.co/character/280308/Keith-Kepler).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 288563,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kurt",
+        "native": "カート"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b288563-qVWyl4Ui1BT2.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b288563-qVWyl4Ui1BT2.jpg"
+      },
+      "descripcion": "A  student at Berlint University and a member of the Berlint Terrorist group led by [Keith Kepler](https://anilist.co/character/280308/Keith-Kepler).",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319159,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kusarigama no Barnaby",
+        "native": "鎖鎌のバーナビー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319159-8d2KYfCnNHxU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b319159-8d2KYfCnNHxU.png"
+      },
+      "descripcion": "One of the assassins targeting Olka Gretcher. He refused to work with the other assassins and split the bounty, attempting to go after Olka on his own.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 314220,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Luka",
+        "native": "ルカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b314220-8dvD2A0zlL39.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b314220-8dvD2A0zlL39.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294502,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Martha Marriott",
+        "native": "マーサ・マリオット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b294502-LjGDcdOuXxbU.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b294502-LjGDcdOuXxbU.jpg"
+      },
+      "descripcion": "Butler of the Blackbell family and typically acts as [Becky](https://anilist.co/character/150423)'s caretaker.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318219,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Matthew McMahon",
+        "native": "マシュー・マクマホン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b318219-5sWIlS6T9a2J.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b318219-5sWIlS6T9a2J.png"
+      },
+      "descripcion": "Member of Garden and the Director of Policy at Berlint City Hall.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 283261,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Melinda Desmond",
+        "native": "メリンダ・デズモンド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b283261-9kCWtabrte3z.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b283261-9kCWtabrte3z.jpg"
+      },
+      "descripcion": "Mother to [Damian](https://anilist.co/character/150424/) and wife to [Donovan](https://anilist.co/character/180192/)",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 270958,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Millie",
+        "native": "ミリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b270958-ByT3WQWfgQ17.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b270958-ByT3WQWfgQ17.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289991,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Monica McBride",
+        "native": "モニカ・マクブライド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289991-7KvT7xZtPBO0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289991-7KvT7xZtPBO0.png"
+      },
+      "descripcion": "Works at Mokumoku Club, a cigar club on Fifth Street.",
+      "genero": "Female",
+      "edad": "25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 274084,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Murdoch Swan",
+        "native": "マードック・スワン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b274084-jbW7ZAfCK0u4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b274084-jbW7ZAfCK0u4.png"
+      },
+      "descripcion": "The Economics Teacher and the Housemaster of Dormitory 2, Cline Hall at Eden Academy. He is the only son of the former Headmaster of Eden Academy. His wife filed for divorce a month before the Eden Academy admissions interview, where she won full custody of their only daughter.",
+      "genero": "Male",
+      "edad": "47",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318638,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Olka Gretcher",
+        "native": "オルカ・グレッチャー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b318638-QagrD7N4UjPe.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b318638-QagrD7N4UjPe.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301863,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Roujo",
+        "native": "老女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301863-mzKXUuQavGJw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301863-mzKXUuQavGJw.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        }
+      ]
+    },
+    {
+      "id": 270959,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sharon",
+        "native": "シャロン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b270959-LkuT2OdUE8qL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b270959-LkuT2OdUE8qL.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 290959,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shinonome",
+        "native": "東雲"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290959-6mvRLa1exlDP.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b290959-6mvRLa1exlDP.jpg"
+      },
+      "descripcion": "An Ostanian spy who thinks of himself as a rival to [Twilight](https://anilist.co/character/138101/Loid-Forger). He is shown to be a highly untalented, yet lucky, spy.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316686,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shitateya no Tenin",
+        "native": "仕立て屋の店員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316686-W5z27mhVDD2i.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316686-W5z27mhVDD2i.png"
+      },
+      "descripcion": "An elderly lady who works as a clerk at Mona & Monacca.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316687,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shitateya no Tenshu",
+        "native": "仕立て屋の店主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316687-tfXjCsfbp0N7.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316687-tfXjCsfbp0N7.png"
+      },
+      "descripcion": "The owner of Mona & Monacca, a tailor shop in Berlint. She was one of [Loid](https://anilist.co/character/138101/Forger-Loid)'s candidates as an unmarried woman, but was rejected due to having been arrested for political activities in the past and her somewhat older age. When the Forgers come to her shop to purchase Eden Academy's uniforms for [Anya](https://anilist.co/character/138100/Forger-Anya), she warns them about the bullying and kidnappings in Eden Academy. She also appears to be familiar with [Yor](https://anilist.co/character/138102/Forger-Yor) as she is suggested to be a regular at the shop.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315135,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sneijder",
+        "native": "スナイデル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315135-SMWOd6iuLCUH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315135-SMWOd6iuLCUH.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157887,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sylvia Sherwood",
+        "native": "シルヴィア・シャーウッド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157887-P66pD0ilpmtZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157887-P66pD0ilpmtZ.png"
+      },
+      "descripcion": "__Height:__ 173 cm\n\nShe is [Twilight](https://anilist.co/character/138101/Forger-Loid)'s main contact at WISE.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315133,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Type F",
+        "native": "タイプF"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315133-8qGUopI9sYgK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315133-8qGUopI9sYgK.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333828,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Unko no Kami",
+        "native": "うんこの神"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b333828-zEVUE1ThbTTa.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b333828-zEVUE1ThbTTa.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        }
+      ]
+    },
+    {
+      "id": 381153,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Vadim",
+        "native": "バヅム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381153-lwcXtjH2aUzo.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b381153-lwcXtjH2aUzo.png"
+      },
+      "descripcion": "Vadim is a member of the Red Circus. Together with Billy Squire, the group hijacked two Eden Academy school buses while on a field trip and took the students inside hostage.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318642,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Vides",
+        "native": "ビーデス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b318642-uXdytfnELnUY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b318642-uXdytfnELnUY.png"
+      },
+      "descripcion": "Employee at Berlint City Hall as part of the Business Development Team.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 274085,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Walter Evans",
+        "native": "ウォルター・エバンス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b274085-76olW4lNxegM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b274085-76olW4lNxegM.png"
+      },
+      "descripcion": "The English Teacher and the Housemaster of Dormitory 5, Malcom Hall at Eden Academy. He is regarded as gentle, reliable, conservative and well-liked by his students.",
+      "genero": "Male",
+      "edad": "59",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        }
+      ]
+    },
+    {
+      "id": 383162,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Winston Wheeler",
+        "native": "ウィンストン・ウィーラー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b383162-vf1lW8i8WBku.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b383162-vf1lW8i8WBku.png"
+      },
+      "descripcion": "Winston Wheeler is an Ostanian communications agent affiliated with the State Security Service and the titular main antagonist of the Wheeler Arc.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293860,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "WISE Kikanin",
+        "native": "<WISE> 機関員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293860-2TdtCUGpuQY2.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293860-2TdtCUGpuQY2.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301868,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "WISE Kikanin A",
+        "native": "WISE機関員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301868-felhZ37s3zzW.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301868-felhZ37s3zzW.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        }
+      ]
+    },
+    {
+      "id": 272642,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "WISE Kyokuchou",
+        "native": "〈WISE〉局長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b272642-S4V3jLcHwzFx.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b272642-S4V3jLcHwzFx.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        }
+      ]
+    },
+    {
+      "id": 150425,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuuri Briar",
+        "native": "ユーリ・ブライア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b150425-mP852peLh9eS.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b150425-mP852peLh9eS.jpg"
+      },
+      "descripcion": "__Height:__ 179 cm (5′10\")\n__Affiliation:__ Ostania, Ministry for Foreign Affairs (Cover), State Security Service\n__Occupation:__ Diplomat (Formerly, Cover), Counterintelligence Agent\n\nYor Briar's younger brother who works in the State Security Service (SSS). He keeps his job at the SSS a secret from Yor, while pretending to be a normal civil servant at the foreign ministry.\n\nYuri has a sister-complex, and even at an early age, he would be doing everything he could to get Yor to praise him with affection. Though this could be due to his mother dying at a very early stage in his life causing him to get very attached to Yor as a mother figure.",
+      "genero": "Male",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        },
+        {
+          "id": 158928,
+          "title": {
+            "romaji": "SPY×FAMILY CODE: White",
+            "english": "SPY x FAMILY CODE: White",
+            "native": "SPY×FAMILY CODE: White"
+          }
+        },
+        {
+          "id": 177937,
+          "title": {
+            "romaji": "SPY×FAMILY Season 3",
+            "english": "SPY x FAMILY Season 3",
+            "native": "SPY×FAMILY Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318639,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zeb",
+        "native": "ゼブ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b318639-xXjRpMZnyMZC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b318639-xXjRpMZnyMZC.png"
+      },
+      "descripcion": "Friend of Olka Gretcher and a loyal follower of the Gretcher family. He pretended to be the husband of Olka (who was using the name Shaty Grey) under the alias Furseal Grey.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317783,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Agent M",
+        "native": "エージェント M"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316499,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Akai Circus Zantou",
+        "native": "〈赤いサーカス〉残党"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316499-P6yg5hFtWP58.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316499-P6yg5hFtWP58.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 274081,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Bondman",
+        "native": "ボンドマーン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b274081-OQdVAPCoTuBI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b274081-OQdVAPCoTuBI.png"
+      },
+      "descripcion": "The protagonist of Spy Wars and the number one spy in the show. He frequently has to take down enemies from the League of Evil in order to save Princess Honey.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301871,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Bondman no Shirei-kan",
+        "native": "ボンドマンの司令官"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301871-jueSaqakaWFH.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301871-jueSaqakaWFH.jpg"
+      },
+      "descripcion": "He is the headman of Bondman's organization.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 318643,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Chuusen Kaijou no Tenin",
+        "native": "抽選会場の店員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b318643-bHbl7TGPde1H.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b318643-bHbl7TGPde1H.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294960,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Demetrius Desmond",
+        "native": "デミトリアス・デズモンド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b294960-zuworBFPDUqY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b294960-zuworBFPDUqY.png"
+      },
+      "descripcion": "First son of the Desmond family and the older brother of [Damian Desmond](https://anilist.co/character/150424/). He is an Imperial Scholar and is noted by [Loid Forger](https://anilist.co/character/138101/) to be an exceptional student, barely getting a single question wrong on the midterm exams.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 320059,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Dokumu Tsukai",
+        "native": "毒霧使い"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b320059-ht6GO4Ezhftu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b320059-ht6GO4Ezhftu.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317161,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Eden-kou Ryoubo",
+        "native": "イーデン校寮母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317161-bcdQCrHKtVm2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b317161-bcdQCrHKtVm2.png"
+      },
+      "descripcion": "An elderly woman who supervises Cecile Hall's dormitory where Damian, Ewen and Emile stay.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316497,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Eiga Onsei",
+        "native": "映画音声"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319436,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gram Gretcher Sr.",
+        "native": "グラマ・グレッチャー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": "Former head of the Gretcher crime family, and the father of Olka Gretcher and grandfather of Gram Gretcher. He and his sons were killed in an internal dispute, and the man who took over the family organization, Leonardo Hapoon, put a bounty on Olka and her son's heads.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 320093,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hoan Kyokuin A",
+        "native": "保安局員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 320095,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hoan Kyokuin B",
+        "native": "保安局員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 320094,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hoan Kyokuin C",
+        "native": "保安局員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 277084,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Honey-hime",
+        "native": "ハニー姫"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b277084-gzuXbmilBj3I.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b277084-gzuXbmilBj3I.png"
+      },
+      "descripcion": "Princess of the kingdom where Spy Wars takes place. She is frequently saved by Bondman which has caused her to develop feelings for him.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 140960,
+          "title": {
+            "romaji": "SPY×FAMILY",
+            "english": "SPY x FAMILY",
+            "native": "SPY×FAMILY"
+          }
+        },
+        {
+          "id": 142838,
+          "title": {
+            "romaji": "SPY×FAMILY Part 2",
+            "english": "SPY x FAMILY Cour 2",
+            "native": "SPY×FAMILY 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317781,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joseph",
+        "native": "ジョセフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317781-9mzFLTlFNSj0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b317781-9mzFLTlFNSj0.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319161,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joukyaku A",
+        "native": "乗客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319438,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jouyaku B",
+        "native": "乗客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 320062,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kagidzume Tsukai",
+        "native": "鉤爪使い"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b320062-yuU6hBJrajnz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b320062-yuU6hBJrajnz.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 320061,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kannai Announcer",
+        "native": "艦内アナウンス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 320057,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Katana Tsukai",
+        "native": "刀使い"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b320057-x2HBTYGanZO5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b320057-x2HBTYGanZO5.png"
+      },
+      "descripcion": "A highly skilled swordsman who is one of the assassins targeting Olka Gretcher. Capable of taking out Matthew McMahon in one move and fighting Yor Forger nearly to a standstill.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317785,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kodomo",
+        "native": "子ども"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319164,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Koroshiya A",
+        "native": "殺し屋"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319162,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Koroshiya B",
+        "native": "殺し屋"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319163,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Koroshiya C",
+        "native": "殺し屋"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319439,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kyakushitsu-gakari",
+        "native": "客室係"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36309,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Narrator",
+        "native": "ナレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+      },
+      "descripcion": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 6,
+          "title": {
+            "romaji": "TRIGUN",
+            "english": "Trigun",
+            "native": "TRIGUN"
+          }
+        },
+        {
+          "id": 21,
+          "title": {
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
+          }
+        },
+        {
+          "id": 25,
+          "title": {
+            "romaji": "Sunabouzu",
+            "english": "Desert Punk",
+            "native": "砂ぼうず"
+          }
+        },
+        {
+          "id": 28,
+          "title": {
+            "romaji": "Yakitate!! Japan",
+            "english": null,
+            "native": "焼きたて!! ジャぱん"
+          }
+        },
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 33,
+          "title": {
+            "romaji": "Kenpuu Denki Berserk",
+            "english": "Berserk",
+            "native": "剣風伝奇ベルセルク"
+          }
+        },
+        {
+          "id": 60,
+          "title": {
+            "romaji": "Chrno Crusade",
+            "english": "Chrono Crusade",
+            "native": "クロノクルセイド"
+          }
+        },
+        {
+          "id": 67,
+          "title": {
+            "romaji": "Basilisk: Kouga Ninpouchou",
+            "english": "Basilisk",
+            "native": "バジリスク 甲賀忍法帖"
+          }
+        },
+        {
+          "id": 80,
+          "title": {
+            "romaji": "Kidou Senshi Gundam",
+            "english": "Mobile Suit Gundam",
+            "native": "機動戦士ガンダム"
+          }
+        },
+        {
+          "id": 90,
+          "title": {
+            "romaji": "Shin Kidou Senki Gundam Wing",
+            "english": "Mobile Suit Gundam Wing",
+            "native": "新機動戦記ガンダムW"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317784,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Perkin Taku no Ooya",
+        "native": "パーキン宅の大家"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317784-kJIT9WVzdQze.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b317784-kJIT9WVzdQze.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316500,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Restaurant Tenin",
+        "native": "レストラン店員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316500-egiJuRBQymIN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316500-egiJuRBQymIN.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 320060,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sniper",
+        "native": "スナイパー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b320060-GdywjMhZalZ6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b320060-GdywjMhZalZ6.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 321043,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sonia",
+        "native": "ソニア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321043-6sSCfItjRlJN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b321043-6sSCfItjRlJN.png"
+      },
+      "descripcion": "Female lead of Becky Blackbell's favorite TV show",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 320058,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Stun Gun Tsukai",
+        "native": "スタンガン使い"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b320058-K1SObpOFdYN0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b320058-K1SObpOFdYN0.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319437,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tenin",
+        "native": "店員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 321044,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Vincent",
+        "native": "ヴィンセント"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321044-s4NNCwwivRXO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b321044-s4NNCwwivRXO.png"
+      },
+      "descripcion": "Male lead of Becky Blackbell's favorite TV show *Berlint in Love.*",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 158927,
+          "title": {
+            "romaji": "SPY×FAMILY Season 2",
+            "english": "SPY x FAMILY Season 2",
+            "native": "SPY×FAMILY Season 2"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 110,
+  "actualizado": 1788565264
+}

@@ -1,0 +1,503 @@
+{
+  "clave": "your-lie-in-april",
+  "nombre": "Your Lie in April",
+  "descripcion": "Shigatsu wa Kimi no Uso",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Música"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20665-TLgkL8T8IRFd.png",
+  "medios": [
+    {
+      "id": 20665,
+      "title": {
+        "romaji": "Shigatsu wa Kimi no Uso",
+        "english": "Your lie in April",
+        "native": "四月は君の嘘"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20665-TLgkL8T8IRFd.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20665-TLgkL8T8IRFd.png"
+      }
+    },
+    {
+      "id": 21039,
+      "title": {
+        "romaji": "Shigatsu wa Kimi no Uso: MOMENTS",
+        "english": "Your lie in April: Moments",
+        "native": "四月は君の嘘 MOMENTS"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21039-X68Dgfa7VG2v.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21039-X68Dgfa7VG2v.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 85841,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Emi Igawa",
+        "native": "井川絵見"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b85841-728eVWAvzifr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b85841-728eVWAvzifr.png"
+      },
+      "descripcion": "Emi is a pianist of the same year as Kousei, who decided to become a pianist after listening to Kousei play at the age of 5. Emi is very emotional and her piano performance often depends on her mood on that day.",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20665,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso",
+            "english": "Your lie in April",
+            "native": "四月は君の嘘"
+          }
+        },
+        {
+          "id": 21039,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso: MOMENTS",
+            "english": "Your lie in April: Moments",
+            "native": "四月は君の嘘 MOMENTS"
+          }
+        }
+      ]
+    },
+    {
+      "id": 69411,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kaori Miyazono",
+        "native": "宮園かをり"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69411-lxM0FRvWHqlv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b69411-lxM0FRvWHqlv.png"
+      },
+      "descripcion": "**Height:** 157 cm\n\nKaori is [Tsubaki's](https://anilist.co/character/69409) classmate, a free-spirited violinist who had drawn many criticisms from the judge panel due to her unwillingness to follow the score, but is highly favored by her audience. Kaori met [Kousei](https://anilist.co/character/69407) when she requested Tsubaki to set her up with [Watari](https://anilist.co/character/69405).",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 20665,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso",
+            "english": "Your lie in April",
+            "native": "四月は君の嘘"
+          }
+        },
+        {
+          "id": 21039,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso: MOMENTS",
+            "english": "Your lie in April: Moments",
+            "native": "四月は君の嘘 MOMENTS"
+          }
+        }
+      ]
+    },
+    {
+      "id": 69407,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kousei Arima",
+        "native": "有馬公生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b69407-eyIvpsFPeARS.png"
+      },
+      "descripcion": "Kousei is formerly a child prodigy in playing piano, often dubbed as the \"Human Metronome\". He was able to play the piano with extreme precision and discipline and thus had won many competitions across Japan.",
+      "genero": "Male",
+      "edad": "14-15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 20665,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso",
+            "english": "Your lie in April",
+            "native": "四月は君の嘘"
+          }
+        },
+        {
+          "id": 21039,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso: MOMENTS",
+            "english": "Your lie in April: Moments",
+            "native": "四月は君の嘘 MOMENTS"
+          }
+        }
+      ]
+    },
+    {
+      "id": 69405,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ryouta Watari",
+        "native": "渡里遼"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/69405-IpsjziJkHrHj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/69405-IpsjziJkHrHj.png"
+      },
+      "descripcion": "Ryouta is Kousei and Tsubaki's childhood friend who is also the captain of the school's soccer team. He is extremely popular with girls, often adopting a frivolous attitude. However, he does once in a while come up with good insight.",
+      "genero": "Male",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 20665,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso",
+            "english": "Your lie in April",
+            "native": "四月は君の嘘"
+          }
+        },
+        {
+          "id": 21039,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso: MOMENTS",
+            "english": "Your lie in April: Moments",
+            "native": "四月は君の嘘 MOMENTS"
+          }
+        }
+      ]
+    },
+    {
+      "id": 85839,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Takeshi Aiza",
+        "native": "相座武士"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/85839-lYYIkvS9I7wS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/85839-lYYIkvS9I7wS.png"
+      },
+      "descripcion": "Takeshi is a pianist of the same year as Kousei, who aimed to surpass him since watching him play at a young age. For that, Takeshi would even abandon a competition in Europe in order to compete with Kousei. \n\n(Source: Wikipedia)",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20665,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso",
+            "english": "Your lie in April",
+            "native": "四月は君の嘘"
+          }
+        },
+        {
+          "id": 21039,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso: MOMENTS",
+            "english": "Your lie in April: Moments",
+            "native": "四月は君の嘘 MOMENTS"
+          }
+        }
+      ]
+    },
+    {
+      "id": 69409,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Tsubaki Sawabe",
+        "native": "澤部椿"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/69409-lq7MFPFTwmBu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/69409-lq7MFPFTwmBu.png"
+      },
+      "descripcion": "Tsubaki is Kousei's childhood friend and next-door neighbor, who treats him like a little brother. She is athletic and part of the softball club in school. Often dismayed at Kousei's inability to move on after his mother's death, she attempts to get him to play the piano again in order to make a clear decision about his future.",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 19
+      },
+      "media": [
+        {
+          "id": 20665,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso",
+            "english": "Your lie in April",
+            "native": "四月は君の嘘"
+          }
+        },
+        {
+          "id": 21039,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso: MOMENTS",
+            "english": "Your lie in April: Moments",
+            "native": "四月は君の嘘 MOMENTS"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88786,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hiroko Seto",
+        "native": "瀬戸紘子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/88786-toDBw77jbCTx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88786-toDBw77jbCTx.png"
+      },
+      "descripcion": "\nHiroko is a nationally famous pianist and Saki's friend during college days. She was the one who discovered Kousei's talents in piano and suggested Saki to make him a pianist.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20665,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso",
+            "english": "Your lie in April",
+            "native": "四月は君の嘘"
+          }
+        },
+        {
+          "id": 21039,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso: MOMENTS",
+            "english": "Your lie in April: Moments",
+            "native": "四月は君の嘘 MOMENTS"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157244,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nagi Aiza",
+        "native": "相座凪"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157244-Hlp5gH8ia6GN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157244-Hlp5gH8ia6GN.jpg"
+      },
+      "descripcion": "Nagi is Takeshi's little sister who pretended to ask for tutelage from Hiroko in order to scout her brother's rival, Kousei.",
+      "genero": "Female",
+      "edad": "13",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20665,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso",
+            "english": "Your lie in April",
+            "native": "四月は君の嘘"
+          }
+        },
+        {
+          "id": 21039,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso: MOMENTS",
+            "english": "Your lie in April: Moments",
+            "native": "四月は君の嘘 MOMENTS"
+          }
+        }
+      ]
+    },
+    {
+      "id": 81725,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nao Kashiwagi",
+        "native": "柏木奈緒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/81725-c42gacJ6ftGR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/81725-c42gacJ6ftGR.png"
+      },
+      "descripcion": "Kashiwagi is a good friend of Tsubaki's who often gives her advice.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20665,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso",
+            "english": "Your lie in April",
+            "native": "四月は君の嘘"
+          }
+        }
+      ]
+    },
+    {
+      "id": 81723,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Saitou",
+        "native": "斉藤"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/81723-sLxyCgxUGxiD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/81723-sLxyCgxUGxiD.png"
+      },
+      "descripcion": "Saitou is Tsubaki's baseball-playing senior and her target of admiration.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20665,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso",
+            "english": "Your lie in April",
+            "native": "四月は君の嘘"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88785,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Saki Arima",
+        "native": "有馬早希"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/88785-ddUKFQv4ZkND.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88785-ddUKFQv4ZkND.png"
+      },
+      "descripcion": "Saki is Kousei's strict mother who demands Kousei play the piano to perfection, often beating him up for small mistakes. While she did not plan to make Kousei a pianist at first, her realization of Kousei's talents and her own illness made her decide to give Kousei a strict foundation in piano in order to be able to find his own style, and a living, afterwards.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20665,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso",
+            "english": "Your lie in April",
+            "native": "四月は君の嘘"
+          }
+        },
+        {
+          "id": 21039,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso: MOMENTS",
+            "english": "Your lie in April: Moments",
+            "native": "四月は君の嘘 MOMENTS"
+          }
+        }
+      ]
+    },
+    {
+      "id": 138444,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Koharu Seto",
+        "native": "瀬戸小春"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138444-et8SxJj9ZgXB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138444-et8SxJj9ZgXB.png"
+      },
+      "descripcion": "Daughter of Hiroko Seto, Koharu is generally a happy and cheerful child who adores her mother. Koharu has been shown to be quite shy and hesitant around others when she first meets them, but eventually warms up to them and begins to consider them as her family, as seen when she drew a picture of Nagi Aiza playing the piano with Kousei Arima.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20665,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso",
+            "english": "Your lie in April",
+            "native": "四月は君の嘘"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333899,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Otokonoko",
+        "native": "男の子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20665,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso",
+            "english": "Your lie in April",
+            "native": "四月は君の嘘"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 13,
+  "actualizado": 1788566694
+}

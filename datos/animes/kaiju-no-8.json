@@ -1,0 +1,3388 @@
+{
+  "clave": "kaiju-no-8",
+  "nombre": "Kaiju No. 8",
+  "descripcion": "Kafka Hibino contra los kaiju",
+  "generos": [
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-25FBfFJzEQ5O.jpg",
+  "medios": [
+    {
+      "id": 153288,
+      "title": {
+        "romaji": "Kaijuu 8-gou",
+        "english": "Kaiju No. 8",
+        "native": "怪獣８号"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-25FBfFJzEQ5O.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153288-25FBfFJzEQ5O.jpg"
+      }
+    },
+    {
+      "id": 178754,
+      "title": {
+        "romaji": "Kaijuu 8-gou 2nd Season",
+        "english": "Kaiju No. 8 Season 2",
+        "native": "怪獣８号 第２期"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178754-Dgrub8xgC03M.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178754-Dgrub8xgC03M.jpg"
+      }
+    },
+    {
+      "id": 179998,
+      "title": {
+        "romaji": "Kaijuu 8-gou Movie",
+        "english": "Kaiju No. 8: Mission Recon",
+        "native": "怪獣8号 第1期総集編"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179998-2QNb7f6oXGUI.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179998-2QNb7f6oXGUI.jpg"
+      }
+    },
+    {
+      "id": 179999,
+      "title": {
+        "romaji": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+        "english": "Kaiju No.8: Hoshina's Day Off",
+        "native": "怪獣8号 保科の休日"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179999-8FuSR5TlOCD1.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179999-8FuSR5TlOCD1.jpg"
+      }
+    },
+    {
+      "id": 204362,
+      "title": {
+        "romaji": "Kaijuu 8-gou: Kanketsu-hen",
+        "english": null,
+        "native": "怪獣８号 完結編"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204362-H89tolgEPFxh.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204362-H89tolgEPFxh.jpg"
+      }
+    },
+    {
+      "id": 204431,
+      "title": {
+        "romaji": "Kaijuu 8-gou: Narumi no Heijitsu",
+        "english": "Narumi's Week at Work",
+        "native": "怪獣８号 鳴海の平日"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204431-5JC0YY6i6ECJ.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204431-5JC0YY6i6ECJ.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 241577,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Gen Narumi",
+        "native": "鳴海弦"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241577-Sx4ZUByR8tE2.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241577-Sx4ZUByR8tE2.jpg"
+      },
+      "descripcion": "Gen Narumi is the Captain of the First Division of the Defense Force. He is known to be Japan's strongest anti-kaiju combatant, hence his position.\n\nGen has a rather lazy and child-like personality, obsessing over followers on social media and video games as well as his action figures. He appears informal and rude when confronting other people. Despite this, he is serious about his work, valuing skills above all else, and demanding results from all those serving in his division.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        },
+        {
+          "id": 179999,
+          "title": {
+            "romaji": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+            "english": "Kaiju No.8: Hoshina's Day Off",
+            "native": "怪獣8号 保科の休日"
+          }
+        },
+        {
+          "id": 204431,
+          "title": {
+            "romaji": "Kaijuu 8-gou: Narumi no Heijitsu",
+            "english": "Narumi's Week at Work",
+            "native": "怪獣８号 鳴海の平日"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308020,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Iharu Furuhashi",
+        "native": "古橋伊春"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308020-IeQN9Kr4qV2j.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308020-IeQN9Kr4qV2j.png"
+      },
+      "descripcion": "__Height:__ 177 cm\n\nIharu Furuhashi is a young officer of the Third Division of the Defense Force.\n\n~!After the destruction of Tachikawa Base, he was transferred to the Fourth Division.!~\n\n~!Back when Iharu was still in middle school, he was saved from a kaiju by [Mina Ashiro](https://anilist.co/character/180693/Mina-Ashiro). This event would later inspire him to become a Defense Force member.!~",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        },
+        {
+          "id": 179999,
+          "title": {
+            "romaji": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+            "english": "Kaiju No.8: Hoshina's Day Off",
+            "native": "怪獣8号 保科の休日"
+          }
+        },
+        {
+          "id": 186300,
+          "title": {
+            "romaji": "minute! kaiju no. 8",
+            "english": "minute! Kaiju No. 8",
+            "native": "ミニっと！かいじゅう８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 180692,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kafka Hibino",
+        "native": "日比野カフカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180692-rPGXuxhcKw5N.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180692-rPGXuxhcKw5N.png"
+      },
+      "descripcion": "__Height:__ 181 cm\n\nKafka Hibino, also known as Monster #8, is a Defense Force member and a former worker for the Professional Kaiju Cleaning Company \"Monster Sweeper Inc.\". Kafka's personality is a bit childish and funny, as well as a very determined and dedicated person who loves his comrades dearly.\n\nAfter a kaijuu managed to enter his body, he obtained the ability to turn himself into a humanoid kaijuu.\n",
+      "genero": "Male",
+      "edad": "32",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        },
+        {
+          "id": 179999,
+          "title": {
+            "romaji": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+            "english": "Kaiju No.8: Hoshina's Day Off",
+            "native": "怪獣8号 保科の休日"
+          }
+        },
+        {
+          "id": 186300,
+          "title": {
+            "romaji": "minute! kaiju no. 8",
+            "english": "minute! Kaiju No. 8",
+            "native": "ミニっと！かいじゅう８号"
+          }
+        },
+        {
+          "id": 204362,
+          "title": {
+            "romaji": "Kaijuu 8-gou: Kanketsu-hen",
+            "english": null,
+            "native": "怪獣８号 完結編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 183889,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kikoru Shinomiya",
+        "native": "四ノ宮キコル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183889-2Ar6AHPx2mre.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b183889-2Ar6AHPx2mre.png"
+      },
+      "descripcion": "__Height:__ 157 cm\n\nShe is the young daughter of Defense Force Director General [Isao Shinomiya](https://anilist.co/character/257340) and a member of the Third Division. After Tachikawa Base was destroyed, Kikoru was transferred to the First Division.",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        },
+        {
+          "id": 179999,
+          "title": {
+            "romaji": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+            "english": "Kaiju No.8: Hoshina's Day Off",
+            "native": "怪獣8号 保科の休日"
+          }
+        },
+        {
+          "id": 186300,
+          "title": {
+            "romaji": "minute! kaiju no. 8",
+            "english": "minute! Kaiju No. 8",
+            "native": "ミニっと！かいじゅう８号"
+          }
+        },
+        {
+          "id": 204362,
+          "title": {
+            "romaji": "Kaijuu 8-gou: Kanketsu-hen",
+            "english": null,
+            "native": "怪獣８号 完結編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 180694,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Reno Ichikawa",
+        "native": "市川レノ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180694-Q0Ocr4aqBu4k.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180694-Q0Ocr4aqBu4k.png"
+      },
+      "descripcion": "He briefly worked at Monster Sweeper Inc, where he met and befriended [Kafka Hibino](https://anilist.co/character/180692/Hibino-Kafka). After witnessing Kafka's transformation, Reno helped him enter the Defense Force and joined with him. ~!He was a member of the Third Division and after destruction of Tachikawa Base he was transferred to the Fourth Division.!~",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        },
+        {
+          "id": 179999,
+          "title": {
+            "romaji": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+            "english": "Kaiju No.8: Hoshina's Day Off",
+            "native": "怪獣8号 保科の休日"
+          }
+        },
+        {
+          "id": 186300,
+          "title": {
+            "romaji": "minute! kaiju no. 8",
+            "english": "minute! Kaiju No. 8",
+            "native": "ミニっと！かいじゅう８号"
+          }
+        },
+        {
+          "id": 204362,
+          "title": {
+            "romaji": "Kaijuu 8-gou: Kanketsu-hen",
+            "english": null,
+            "native": "怪獣８号 完結編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205579,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Soushirou Hoshina",
+        "native": "保科宗四郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205579-FRvVyrOIG8Yz.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205579-FRvVyrOIG8Yz.jpg"
+      },
+      "descripcion": "__Height:__ 171 cm\n\nSoushirou is a Vice-Commander of the Defense Force's Third Division. Despite his laid back nature, he is shown to be very powerful, specializing with bladed weapons.\n\nSoushirou comes from a family of Kaijuu slayers dating back to the Muromachi Period.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        },
+        {
+          "id": 179999,
+          "title": {
+            "romaji": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+            "english": "Kaiju No.8: Hoshina's Day Off",
+            "native": "怪獣8号 保科の休日"
+          }
+        },
+        {
+          "id": 186300,
+          "title": {
+            "romaji": "minute! kaiju no. 8",
+            "english": "minute! Kaiju No. 8",
+            "native": "ミニっと！かいじゅう８号"
+          }
+        },
+        {
+          "id": 204362,
+          "title": {
+            "romaji": "Kaijuu 8-gou: Kanketsu-hen",
+            "english": null,
+            "native": "怪獣８号 完結編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311279,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akari Minase",
+        "native": "水無瀬あかり"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311279-z2X40KkXkqUY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b311279-z2X40KkXkqUY.png"
+      },
+      "descripcion": "__Height:__ 153 cm\n\nAkari Minase is a Defense Force officer of the Third Division.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        },
+        {
+          "id": 179999,
+          "title": {
+            "romaji": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+            "english": "Kaiju No.8: Hoshina's Day Off",
+            "native": "怪獣8号 保科の休日"
+          }
+        }
+      ]
+    },
+    {
+      "id": 340313,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akira Kurusu",
+        "native": "来栖アキラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b340313-C1HCzerUxCfp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b340313-C1HCzerUxCfp.png"
+      },
+      "descripcion": "__Height:__ 168 cm\n\nOperations Leader of the First Division in the Defense Force. He used to be Director Isao Shinomiya's personal aid in battle.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308014,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aoi Kaguragi",
+        "native": "神楽木葵"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308014-KPQRHExrChy5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308014-KPQRHExrChy5.png"
+      },
+      "descripcion": "__Height:__ 183 cm\n\nAoi Kaguragi is a young member of the Third Division of the Defense Force.\n\n~!After the destruction of Tachikawa Base, he was transferred to the Second Division.!~\n\n~!Aoi was a rising star on Japan Ground Self-Defense Force, but turned down his future in the JGSDF to apply to the Defense Force.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        },
+        {
+          "id": 179999,
+          "title": {
+            "romaji": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+            "english": "Kaiju No.8: Hoshina's Day Off",
+            "native": "怪獣8号 保科の休日"
+          }
+        },
+        {
+          "id": 186300,
+          "title": {
+            "romaji": "minute! kaiju no. 8",
+            "english": "minute! Kaiju No. 8",
+            "native": "ミニっと！かいじゅう８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305768,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bakko",
+        "native": "伐虎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305768-3JzmAKRPnsaq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305768-3JzmAKRPnsaq.png"
+      },
+      "descripcion": "Bakko is a tiger owned by [Mina Ashiro](https://anilist.co/character/180693/Mina-Ashiro)\n\nBakko seems to be rather calm and totally obedient to his owner Mina.\n\nAlways present at Mina's side, even in battle, Bakko is inferred to be strong enough to take on and possibly eliminate kaiju.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 340314,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Doujima Itaosa",
+        "native": "堂島板長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b340314-rHpMzTTffcGr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b340314-rHpMzTTffcGr.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308024,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ebina",
+        "native": "海老名"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308024-jUf4T865OyGw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308024-jUf4T865OyGw.png"
+      },
+      "descripcion": "__Occupation:__ Third Division Platoon Leader\n\nAs a Platoon Leader, Ebina is inferred to be a top-notch Officer of the Defense Force, able to take multiple kaiju and guide his men in battle with determination.\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305764,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eiji Hasegawa",
+        "native": "長谷川エイジ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305764-fHFQmQZC3lQI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305764-fHFQmQZC3lQI.png"
+      },
+      "descripcion": "__Height:__ 210 cm\n__Occupation:__ First Division Vice-Captain\n\nEiji is a professional and formal man who takes his job very seriously, for this reason he often clashes with Captain [Gen Narumi](https://anilist.co/character/241577/Gen-Narumi)'s childish behavior. For his inflexible demeanor on duty and for his usual leadership role in the First Divsion, Eiji is highly respected by anyone both in his own division and in others.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 24
+      },
+      "media": [
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311264,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hakua Igarashi",
+        "native": "五十嵐 ハクア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311264-uQBs9uPGDvab.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b311264-uQBs9uPGDvab.jpg"
+      },
+      "descripcion": "Hakua Igarashi is a Defense Force officer in the Third Division.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        },
+        {
+          "id": 179999,
+          "title": {
+            "romaji": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+            "english": "Kaiju No.8: Hoshina's Day Off",
+            "native": "怪獣8号 保科の休日"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308023,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Haruichi Izumo",
+        "native": "出雲ハルイチ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308023-QGhxAVn5vlXY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308023-QGhxAVn5vlXY.png"
+      },
+      "descripcion": "__Height:__ 178 cm\n\nHaruichi Izumo is a wealthy young man and a prominent member of the Third Division of the Defense Force. Haruichi is also the scion of Izumo Tech.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        },
+        {
+          "id": 179999,
+          "title": {
+            "romaji": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+            "english": "Kaiju No.8: Hoshina's Day Off",
+            "native": "怪獣8号 保科の休日"
+          }
+        },
+        {
+          "id": 186300,
+          "title": {
+            "romaji": "minute! kaiju no. 8",
+            "english": "minute! Kaiju No. 8",
+            "native": "ミニっと！かいじゅう８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305720,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hikari Shinomiya",
+        "native": "四ノ宮ヒカリ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305720-FtspYX1iYXyn.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305720-FtspYX1iYXyn.jpg"
+      },
+      "descripcion": "__Height:__ 168 cm\n\nHikari Shinomiya was a former Captain of the Second Division of the Defense Force and Vice-Captain of the First Division. She was also the wife of [Isao Shinomiya](https://anilist.co/character/257340/Isao-Shinomiya) and mother of [Kikoru Shinomiya](https://anilist.co/character/183889/Kikoru-Shinomiya).\n\nHikari used to be very strong yet understanding and caring individual, as well as being more jovial and lively than her husband Isao.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311259,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hiroto Mori",
+        "native": "森ヒロト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311259-kuWUa9W2KUOx.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b311259-kuWUa9W2KUOx.jpg"
+      },
+      "descripcion": "Hiroto Mori is a man working at Professional Kaiju Cleanup Company Monster Sweeper Inc.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311256,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ichitaka Miike",
+        "native": "三池イチタカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311256-G19sUIkCM7Z7.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b311256-G19sUIkCM7Z7.png"
+      },
+      "descripcion": "Employee at the professional Kaiju cleanup company Monster Sweeper Inc.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 257340,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Isao Shinomiya",
+        "native": "四ノ宮功"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b257340-jUgXEvKOSVfW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b257340-jUgXEvKOSVfW.png"
+      },
+      "descripcion": "__Height:__ 190 cm\n\nIsao Shinomiya is the Director General of the Defense Force and Kikoru Shinomiya's father.\n\nIsao is a very authoritative and serious man, being also very demanding towards both his subordinates and his daughter. As the Director General of the Defense Force and serving many years in its ranks, Isao is a far-sighted man who gives his orders firmly in sight of future threats. Isao is not above using living kaiju as weapons to empower the Defense Force.\n\nDespite is apparent cold and serious behavior, Isao shows a more human side when he remembered Kikoru's words about Kafka Hibino and when he personally informed the latter about his decision towards him, going against his high-ranked colleagues to give Kafka a chance to prove himself to them.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308029,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Itakura",
+        "native": "板倉"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308029-R2S91CbMwZfT.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308029-R2S91CbMwZfT.png"
+      },
+      "descripcion": "__Occupation:__ Third Division Platoon Leader\n\nDuring the Raid on Tachikawa Base, his platoon arrived to aid the rest of the Third Division against the wyvern-type kaiju, securing the storehouse area.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305767,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Juzo Nogizaka",
+        "native": "乃木坂十藏"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305767-UBGJjX7UjoN0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305767-UBGJjX7UjoN0.png"
+      },
+      "descripcion": "Nogizaka is a high-ranking member of the Defense Force.\n\nNogizaka is very rational when making decisions, making him clash with [Isao Shinomiya](https://anilist.co/character/257340/Isao-Shinomiya)'s new ideals for the next generation. In spite of that, he still trusts and respects the Director. He seems to get annoyed when denied a chance to fight.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308033,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaijuu 10-gou",
+        "native": "怪獣10号"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308033-tORB6LC1JvNf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308033-tORB6LC1JvNf.png"
+      },
+      "descripcion": "Kaiju Juu-gou is an Identified Kaiju who attacked Tachikawa Base. It is created by [Kaijuu Kyuu-gou](https://anilist.co/character/259598/Kaijuu-Kyuugou) and is considered a \"prototype\". ~!It was then weaponized into Numbers Weapon 10, currently used by [Soushirou Hoshina](https://anilist.co/character/205579/Soushirou-Hoshina).!~ \n\n~!Its fight with Soushirou Hoshina managed to excite it so much that, even after being defeated, it still felt linked to Soushirou and wished to be turned into a weapon for him, to fight with him once more. Kaiju Juu-gou seems to be a rather independent individual, easily betraying its progenitor Kaijuu Kyuu-gou just to get closer to Soushirou.!~ \n\nKaiju Juu-gou is a extremely powerful Identified Kaiju, with a fortitude level of 8.3 when it first appeared, ~!and 9.0 after growing larger in size.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311278,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaijuu Juugo-gou",
+        "native": "怪獣15号"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311278-plyPZhr67ZKM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b311278-plyPZhr67ZKM.png"
+      },
+      "descripcion": "Kaijuu Juugo-gou was one of the many Identified Kaiju created by [Kaijuu Kyuu-gou](https://anilist.co/character/259598/Kaijuu-Kyuugou). It was created to defeat [Kikoru Shinomiya](https://anilist.co/character/183889/Kikoru-Shinomiya).",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311281,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaijuu Juuni-gou",
+        "native": "怪獣12号"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311281-CbkRGirS9tw5.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b311281-CbkRGirS9tw5.jpg"
+      },
+      "descripcion": "Kaijuu Juuni-gou is one of the many Identified Kaiju created by [Kaijuu Kyuu-gou](https://anilist.co/character/259598/Kaijuu-Kyuugou).",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 259598,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaijuu Kyuu-gou",
+        "native": "怪獣9号"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b259598-UBuXfyAD1M2I.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b259598-UBuXfyAD1M2I.jpg"
+      },
+      "descripcion": "The main antagonist in the manga Kaiju No. 8. Kaiju No. 9 is a humanoid numbered Daikaiju who goes around reviving the kaiju killed by the Defense Force. He previously infiltrated Professional Kaiju Cleaning Company Monster Sweeper.\n\n~! In his fused form with an Ant-type kaiju, No. 9 has the lower part of his body replaced by an Ant kaiju which he controls and uses to move around. In this form, No. 9 lacks forearms and hands. !~ ~! After fusing with Kaiju No. 2, No. 9 is now much larger than before, keeping his darker skin tone, with a long tail, three sets of eyes, and only protuberance on his head instead of two. !~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311262,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kanji Nagamine",
+        "native": "長嶺カンジ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311262-Nh0w9js3jqfJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b311262-Nh0w9js3jqfJ.png"
+      },
+      "descripcion": "Kanji Nagamine was one of the victims of [Kaijuu Kyuu-gou](https://anilist.co/character/259598/Kaijuu-Kyuugou) and its second disguise.",
+      "genero": "Male",
+      "edad": "34",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305719,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Keiji Itami",
+        "native": "伊丹啓司"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305719-ythWnbn0pTMs.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305719-ythWnbn0pTMs.png"
+      },
+      "descripcion": "__Height__: 178cm\n\nDeputy Director of the Japan Anti-Kaiju Defense Force even though he dislikes being in a position of power over others. He likes quiet places, taiga (historical) dramas and tangerines.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333527,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kingusa",
+        "native": "衣笠"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b333527-YVAfEEuSvbbp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b333527-YVAfEEuSvbbp.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308027,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Konomi Okonogi",
+        "native": "小此木このみ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308027-CxQbW0wlmzLo.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308027-CxQbW0wlmzLo.png"
+      },
+      "descripcion": "__Height:__ 149 cm\n__Occupation:__ Third Division Operations Leader\n\nKonomi is a determined and professional person. She doesn't seem to approve of [Soushirou Hoshina](https://anilist.co/character/205579/Soushirou-Hoshina)'s unprofessional remarks and blurts of laughter, caring deeply for him and for everyone else when they are in danger. In return, she's held in high regard by Soushirou.\n\nWhile working, Konomi displays a professional and serious behavior, quickly getting a grasp of the current situation to offer support to her comrades. She also displayed remarkable levels of intuition and analytical skills.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        },
+        {
+          "id": 186300,
+          "title": {
+            "romaji": "minute! kaiju no. 8",
+            "english": "minute! Kaiju No. 8",
+            "native": "ミニっと！かいじゅう８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311260,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Masahide Tokuda",
+        "native": "徳田マサヒデ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311260-CqBG5LjlDCo3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b311260-CqBG5LjlDCo3.png"
+      },
+      "descripcion": "__Height:__ 188 cm\n\nMasahide Tokuda also known as Toku is a man working at Professional Kaiju Cleaning Company Monster Sweeper Inc.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 180693,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mina Ashiro",
+        "native": "亜白ミナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180693-i9RZuHTDwXov.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180693-i9RZuHTDwXov.png"
+      },
+      "descripcion": "Mina is a very talented member of the Defense Force and an extremely talented marksman. She is the captain of the Defense Force's Third Division. When she was a child, she and [Kafka](https://anilist.co/character/180692/Kafka-Hibino) met each other after a Kaiju attack, swearing that they will both join the Defense Force and fight Kaiju alongside each other.",
+      "genero": "Female",
+      "edad": "27",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 17
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        },
+        {
+          "id": 179999,
+          "title": {
+            "romaji": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+            "english": "Kaiju No.8: Hoshina's Day Off",
+            "native": "怪獣8号 保科の休日"
+          }
+        },
+        {
+          "id": 186300,
+          "title": {
+            "romaji": "minute! kaiju no. 8",
+            "english": "minute! Kaiju No. 8",
+            "native": "ミニっと！かいじゅう８号"
+          }
+        },
+        {
+          "id": 204362,
+          "title": {
+            "romaji": "Kaijuu 8-gou: Kanketsu-hen",
+            "english": null,
+            "native": "怪獣８号 完結編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333036,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mizoguchi",
+        "native": "溝口"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b333036-HUKol7v479ly.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b333036-HUKol7v479ly.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305763,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rin Shinonome",
+        "native": "菓雲りん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305763-1Jn8HreYRFQS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305763-1Jn8HreYRFQS.png"
+      },
+      "descripcion": "__Height:__ 165 cm\n__Occupation:__ Platoon Leader in the First Division of the Defense Force\n\nRin is a serious woman who follows Captain [Gen Narumi](https://anilist.co/character/241577/Gen-Narumi)'s order without question, despite letting her guard down sometimes. She is a calm individual who faces things correctly, still managing to have fun while doing so. Rin also seem to take a liking in brave people. Her brave and rigid behavior, however, is sometimes a shield to hide her deep emotions of joy and excitement. She also seems to secretly cultivate her physical appareance and beauty.\n\n~!Behind her strong and menacing demeanor, Rin hides a huge admiration for Gen Narumi's strength, feeling this emotions ever since her first battle with him in the First Division. During the years, the desire to be acknowledged by him brought Rin to strive to become stronger and more beautiful, just to impress Narumi. To this day, she holds dear the memory of when Gen promoted her to Platoon Leader, and still struggles prove her worth and follow Gen's footsteps. In fact, Rin's hidden closeness and deep link to her division comrades even pushes her to fight with her life on the line to fulfill her duty.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 26
+      },
+      "media": [
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308030,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryou Ikaruga",
+        "native": "斑鳩亮"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308030-dsdiqSzhJjy2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308030-dsdiqSzhJjy2.png"
+      },
+      "descripcion": "__Height:__ 187 cm\n__Occupation:__ Third Division Platoon Leader\n\nRyou seems to have a rivarly with [Tachibana](https://anilist.co/character/305762/Tachibana)\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308017,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sebas",
+        "native": "瀬羽須"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308017-654bU7aQfcfg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308017-654bU7aQfcfg.png"
+      },
+      "descripcion": "__Occupation:__ Butler\n\nSebas is the butler of the Shinomiya Family and serves [Kikoru Shinomiya](https://anilist.co/character/183889/Kikoru-Shinomiya).\n\nSebas appears as a calm man in a subservient relationship with Kikoru. ~!He is also very protective towards her since he hit [Kafka Hibino](https://anilist.co/character/180692/Kafka-Hibino) just for touching Kikoru.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311251,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Soratobu Kaijuu",
+        "native": "空飛ぶ怪獣"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311251-22t28SMIQ7ot.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b311251-22t28SMIQ7ot.png"
+      },
+      "descripcion": "This unnamed kaiju is the one responsible for infecting [Kafka Hibino](https://anilist.co/character/180692) and turning him into Kaiju 8-gou.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305762,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tachibana",
+        "native": "立花"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305762-s6VPcDzVzLDP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305762-s6VPcDzVzLDP.png"
+      },
+      "descripcion": "__Ocuppation:__ Platoon Leader in the First Division of the Defense Force\n\nTachibana seems to be a quite serious individual, despite being oftenly surprised in the battle field. He also seems to get irritated quite easily.\n\n~!Ever since joining the First Division, Tachibana trained and witnessed her countless attempts to become stronger and more beautiful in order to impress Captain [Gen Narumi](https://anilist.co/character/241577/Gen-Narumi).\nAt some point, Tachibana was promoted to Platoon Leader.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308028,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tae Nakanoshima",
+        "native": "中之島タエ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308028-A3FRTziHHaJ0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308028-A3FRTziHHaJ0.png"
+      },
+      "descripcion": "__Height:__ 163 cm\n__Occupation:__ Third Division Platoon Leader\n\nTae seems to be some kind of \"man-eater\", praising the newbies in the platoon not only for their fighting ability but also for their looks.\n\nTae seems to have a rivalry with [Rin Shinonome](https://anilist.co/character/305763/Rin-Shinonome)\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335998,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Takamichi Hotaka",
+        "native": "穂高タカミチ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b335998-ZXZFX8v5xbcl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b335998-ZXZFX8v5xbcl.png"
+      },
+      "descripcion": "Worker at Professional Kaiju Cleaning Company Monster Sweeper Inc.\n\n~!At some point he was killed by Kaiju No. 9 who took his appearance as his first human disguise.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333526,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yoshimura",
+        "native": "吉村"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b333526-6fr7yvcykqCW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b333526-6fr7yvcykqCW.png"
+      },
+      "descripcion": "Employee at Monster Sweeper Inc",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335975,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "AI Onsei",
+        "native": "AI音声"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333910,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Announcer",
+        "native": "アナウンサー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335984,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Bouei-tai Announcer",
+        "native": "防衛隊アナウンス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333530,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Dansei Announcer",
+        "native": "男性アナウンサー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b333530-Xe0FiObvPaNG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b333530-Xe0FiObvPaNG.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333531,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Drone Taiin",
+        "native": "ドローン隊員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333535,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gaitou Announcer",
+        "native": "街頭アナウンス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b333535-JCoXzv0RRxvc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b333535-JCoXzv0RRxvc.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335987,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hahaoya",
+        "native": "母親"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333532,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Haruichi no Yuujin",
+        "native": "ハルイチの友人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 336132,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jiei Taiin A",
+        "native": "自衛隊員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 336133,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jiei Taiin B",
+        "native": "自衛隊員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333529,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Josei Announcer",
+        "native": "女性アナウンサー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333534,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi Gakusei",
+        "native": "女子学生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335980,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jukensei A",
+        "native": "受験生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335982,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jukensei B",
+        "native": "受験生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335985,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jukensei C",
+        "native": "受験生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305765,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jura Igarashi",
+        "native": "五十嵐ジュラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305765-WjaXwlheFk5k.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305765-WjaXwlheFk5k.png"
+      },
+      "descripcion": "__Occupation:__ Second Division Captain\n\nJura is a serious and short-tempered individual, getting easily disturbed and angry when her colleagues take it easy while on-duty.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311283,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kaijuu Juuichi-gou",
+        "native": "怪獣11号"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311283-1q7GdU4pqePR.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b311283-1q7GdU4pqePR.jpg"
+      },
+      "descripcion": "Kaijuu Juuichi-gou is one of the many Identified Kaiju created by [Kaijuu Kyuu-gou](https://anilist.co/character/259598/Kaijuu-Kyuugou).",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311280,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kaijuu Juuyon-gou",
+        "native": "怪獣14号"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311280-elE7xSn95WmT.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b311280-elE7xSn95WmT.jpg"
+      },
+      "descripcion": "Kaijuu Juuyon-gou is one of the many Identified Kaiju created by [Kaijuu Kyuu-gou](https://anilist.co/character/259598/Kaijuu-Kyuugou).",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311270,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kaijuu Juuzou-gou",
+        "native": "怪獣13号"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311270-B5XlYDngEnOu.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b311270-B5XlYDngEnOu.jpg"
+      },
+      "descripcion": "Kaijuu Juuzou-gou is one of the many Identified Kaiju created by [Kaijuu Kyuu-gou](https://anilist.co/character/259598/Kaijuu-Kyuugou).",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333916,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoshi",
+        "native": "看護師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b333916-DtYr8oF2fiiM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b333916-DtYr8oF2fiiM.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335976,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Keibi no Taiin A",
+        "native": "警備の隊員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335977,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Keibi no Taiin B",
+        "native": "警備の隊員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333914,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Keihou Announcer",
+        "native": "警報アナウンス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b333914-5zTbeInWhp9w.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b333914-5zTbeInWhp9w.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333533,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Onnanoko A",
+        "native": "女の子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333918,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Onnanoko B",
+        "native": "女の子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b333918-wxl3B2oxCei4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b333918-wxl3B2oxCei4.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 336134,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Onnanoko C",
+        "native": "女の子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333911,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Onnanoko no Hahaoya",
+        "native": "女の子の母親"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b333911-vlbs2wGvGXnm.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b333911-vlbs2wGvGXnm.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335983,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Operator A",
+        "native": "オペレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b335983-kRaddDSmICgf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b335983-kRaddDSmICgf.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335978,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Operator B",
+        "native": "オペレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335981,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Operator C",
+        "native": "オペレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335986,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Radio Announcer",
+        "native": "ラジオのアナウンサー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335989,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Risa",
+        "native": "リサ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b335989-TyI7imCYKTAU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b335989-TyI7imCYKTAU.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335988,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Risa no Chichioya",
+        "native": "リサの父親"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333917,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Roujin",
+        "native": "老人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b333917-vLcgQxPBvzpx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b333917-vLcgQxPBvzpx.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        },
+        {
+          "id": 179998,
+          "title": {
+            "romaji": "Kaijuu 8-gou Movie",
+            "english": "Kaiju No. 8: Mission Recon",
+            "native": "怪獣8号 第1期総集編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 336138,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Senpai Taiin A",
+        "native": "先輩隊員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 336137,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Senpai Taiin B",
+        "native": "先輩隊員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333528,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shikisho Taiin",
+        "native": "指揮所隊員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 336135,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shimin A",
+        "native": "市民"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 336136,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shimin B",
+        "native": "市民"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311258,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Souichirou Hoshina",
+        "native": "保科宗一郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311258-Hyd6VtR6nhKc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b311258-Hyd6VtR6nhKc.png"
+      },
+      "descripcion": "__Height__: 176cm\n\nSouichirou Hoshina is the Captain of the Sixth Division of the Defense Force. Soushirou Hoshina is his brother. He likes okonomiyaki, Mont Blanc, naps, and victory.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 178754,
+          "title": {
+            "romaji": "Kaijuu 8-gou 2nd Season",
+            "english": "Kaiju No. 8 Season 2",
+            "native": "怪獣８号 第２期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335979,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "SP",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335993,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Taiin A",
+        "native": "隊員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335992,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Taiin B",
+        "native": "隊員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335995,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Taiin C",
+        "native": "隊員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335991,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Taiin D",
+        "native": "隊員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335994,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Taiin E",
+        "native": "隊員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 335990,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Taiin F",
+        "native": "隊員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333915,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tsuma",
+        "native": "妻"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b333915-JfVShPMANmDH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b333915-JfVShPMANmDH.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333912,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Wakamono",
+        "native": "若者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": 333913,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Wakamono no Hahaoya",
+        "native": "若者の母親"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 153288,
+          "title": {
+            "romaji": "Kaijuu 8-gou",
+            "english": "Kaiju No. 8",
+            "native": "怪獣８号"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 90,
+  "actualizado": 1788565910
+}

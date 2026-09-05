@@ -1,0 +1,4911 @@
+{
+  "clave": "fire-force",
+  "nombre": "Fire Force",
+  "descripcion": "Enen no Shouboutai",
+  "generos": [
+    "Acción",
+    "Sobrenatural",
+    "Ciencia ficción"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105310-2PKUvoaA6fTn.jpg",
+  "medios": [
+    {
+      "id": 105310,
+      "title": {
+        "romaji": "Enen no Shouboutai",
+        "english": "Fire Force",
+        "native": "炎炎ノ消防隊"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105310-2PKUvoaA6fTn.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105310-2PKUvoaA6fTn.jpg"
+      }
+    },
+    {
+      "id": 114236,
+      "title": {
+        "romaji": "Enen no Shouboutai: Ni no Shou",
+        "english": "Fire Force Season 2",
+        "native": "炎炎ノ消防隊 弐ノ章"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114236-wfQOWF0Ii3h2.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114236-wfQOWF0Ii3h2.png"
+      }
+    },
+    {
+      "id": 149118,
+      "title": {
+        "romaji": "Enen no Shouboutai: San no Shou",
+        "english": "Fire Force Season 3",
+        "native": "炎炎ノ消防隊 参ノ章"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149118-AOQb0xuTssGl.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149118-AOQb0xuTssGl.jpg"
+      }
+    },
+    {
+      "id": 179062,
+      "title": {
+        "romaji": "Enen no Shouboutai: San no Shou Part 2",
+        "english": "Fire Force Season 3 Part 2",
+        "native": "炎炎ノ消防隊 参ノ章 第2クール"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179062-pbzYE1miZq61.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179062-pbzYE1miZq61.png"
+      }
+    },
+    {
+      "id": 128390,
+      "title": {
+        "romaji": "Enen no Shouboutai Mini Anime",
+        "english": null,
+        "native": "炎炎ノ消防隊ミニアニメ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128390-mAZM9djmgPEi.png"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 130712,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Akitaru Oubi",
+        "native": "秋樽桜備"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130712-N38fiCh2y0CX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130712-N38fiCh2y0CX.png"
+      },
+      "descripcion": "__Height:__ 189 cm (6'2\")\n__Affiliation:__ Special Fire Force Company 8\n__Rank:__ Captain\n\nThe popular and charismatic leader of the newly established Company 8. His goal is to investigate the other companies and uncover the truth about spontaneous human combustion. He has no powers, but uses his finely-honed muscles as a weapon in a battle style that's on even par with [Benimaru](https://anilist.co/character/130848)'s. Loves bodybuilding to an almost creepy extent.\n\nDespite not being a Pyrokinetic like most other known Battalion Commanders, Akitaru has a very fit physique, which allows him to face Infernals. In battle, he is seen using different weapons, suitable for the situation, like the Core Annihilating Pile Bunker or a fire fighting axe, which he can veil in white steam and thrust at the opponent. His weapons appear to be designed in order to impale an Infernal's core with low difficulty. He is able to carry up to 30kg of equipment each time he is on a mission to fight an Infernal. As a fire fighter, Akitaru was recognized enough to be decorated twice, though both were revoked due to actions prioritising saving citizens lives at the expense of defying orders.",
+      "genero": "Male",
+      "edad": "31",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 27
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 128390,
+          "title": {
+            "romaji": "Enen no Shouboutai Mini Anime",
+            "english": null,
+            "native": "炎炎ノ消防隊ミニアニメ"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130715,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Arthur Boyle",
+        "native": "アーサー・ボイル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130715-IYNBAHBQa14y.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130715-IYNBAHBQa14y.png"
+      },
+      "descripcion": "**Height:** 174 cm\n\nHe trained at the academy with [Shinra](https://anilist.co/character/120462/Kusakabe-Shinra). Although he follows his own personal code of chivalry as the self-proclaimed Knight King, he is incredibly stupid. But girls love him. \n\nBeing a Third Generation Pyrokinetic, Arthur has been identified by individuals as having a strong will of fire. By raising the temperature of the flames he creates, he can fabricate and control plasma, which either elevates or diminishes in relation to Arthur's disarrangement from reality. The more delusional he is, the stronger Arthur becomes.\n\nBeing able to use his Ignition Ability on hilt-like objects, Arthur can weld, cut through metal, and generate electricity. He mainly uses his ability on his blade-less sword Excalibur, which is most effective using his right hand and cannot be easily extinguished by an experienced Second Generation. Using it, he can deflect and fend off against flames.",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 128390,
+          "title": {
+            "romaji": "Enen no Shouboutai Mini Anime",
+            "english": null,
+            "native": "炎炎ノ消防隊ミニアニメ"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130848,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Benimaru Shinmon",
+        "native": "紅丸新門"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130848-AuuIm6GR8ody.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130848-AuuIm6GR8ody.jpg"
+      },
+      "descripcion": "Benimaru Shinmon is a hybrid Second and Third Generation, as well as the Captain of Special Fire Force Company 7. Benimaru is regarded as the strongest Fire Officer in the Special Fire Force. He is known as \"Asakusa's King of Destruction\" because of the devastating power that he is capable of unleashing. He is also an extremely skilled hand-to-hand combatant, as shown when he easily outmaneuvered and overpowered the combined might of [Maki Oze](https://anilist.co/character/130713), [Shinra Kusakabe](https://anilist.co/character/120462), [Tamaki Kotatsu](https://anilist.co/character/130751), [Arthur Boyle](https://anilist.co/character/130715), and [Takehisa Hinawa](https://anilist.co/character/130714). He possesses the rare trait of being a Second and Third Generation, which ultimately allows him to ignite his own flames willingly, and also control flames from an external source. He can use his brigade's matoi as a pole to fly to long-distance areas, and by using his Second Generation ability, can control the flames of other ignited matoi and direct them to a certain place. He can control the direction and speed of bullets in the same fashion as Takehisa. He is also capable of unleashing an immensely powerful blast that resembles a crimson-coloured moon, which is strong enough to kill a Demon Infernal.\n\nBenimaru is a practitioner of the iaido martial arts. Instead of using a sword, he can create a sharp blade of flames, a technique branching from his unique Iai Hand-Sword: First Form fighting style.\n",
+      "genero": "Male",
+      "edad": "22",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 128390,
+          "title": {
+            "romaji": "Enen no Shouboutai Mini Anime",
+            "english": null,
+            "native": "炎炎ノ消防隊ミニアニメ"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130716,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Iris",
+        "native": "アイリス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130716-5564jUgQxK9a.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130716-5564jUgQxK9a.png"
+      },
+      "descripcion": "__Height:__ 154 cm (5'0)\n__Affiliation:__ Special Fire Force Company 8\n__Rank:__ Nun\n\nA sister of the Holy Sol Temple, her prayers are an indispensable part of extinguishing Infernals. Personality-wise she is no less than an angel.",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 128390,
+          "title": {
+            "romaji": "Enen no Shouboutai Mini Anime",
+            "english": null,
+            "native": "炎炎ノ消防隊ミニアニメ"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 135385,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Joker",
+        "native": "ジョーカー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135385-gfcFoxReUVzq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135385-gfcFoxReUVzq.png"
+      },
+      "descripcion": "Joker is a former pyrokinetic and a self-proclaimed anti-hero that serves as the Fourth Pillar's guardian.",
+      "genero": "Male",
+      "edad": "28",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 128390,
+          "title": {
+            "romaji": "Enen no Shouboutai Mini Anime",
+            "english": null,
+            "native": "炎炎ノ消防隊ミニアニメ"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130713,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Maki Oze",
+        "native": "尾瀬茉希"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130713-TgLx8rgtGpXV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130713-TgLx8rgtGpXV.png"
+      },
+      "descripcion": "__Height:__ 167 cm (5'6\")\n__Affiliation:__ Special Fire Force Company 8\n__Rank:__ First Class Fire Soldier\n\nA former member of the military, she is an excellent fighter who controls fire. She's a cool lady but is mad about love stories, and her beauty is overshadowed by her \"head full of flowers and wedding bells\". She's friendly but goes berserk when anyone comments on her muscles. Apparently,​ she used to be slender.\n\nMaki possesses Second Generation abilities, having adapted to Spontaneous Human Combustion by becoming able to control flames from a long distance. In doing so, she can handle herself against two Third Generations simultaneously, being able to extinguish and absorb their generated flames into a giant fireball. Maki's abilities provide defense for her entire team, as she can reflect incoming fire attacks and use an opponent's flames against them. While she is unable to deflect or redirect a fire with too much driving force, she is still able to alter its shape in order to reduce its impact.",
+      "genero": "Female",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 16
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 128390,
+          "title": {
+            "romaji": "Enen no Shouboutai Mini Anime",
+            "english": null,
+            "native": "炎炎ノ消防隊ミニアニメ"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130783,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Princess Hibana",
+        "native": "プリンセス火華"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130783-10kVdsVrwpuO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130783-10kVdsVrwpuO.png"
+      },
+      "descripcion": "Hibana is a Third Generation pyrokinetic and Captain of the Special Fire Force Company 5.",
+      "genero": "Female",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 128390,
+          "title": {
+            "romaji": "Enen no Shouboutai Mini Anime",
+            "english": null,
+            "native": "炎炎ノ消防隊ミニアニメ"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 120462,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Shinra Kusakabe",
+        "native": "日下部森羅"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n120462-oSWdz2MhkbDE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n120462-oSWdz2MhkbDE.png"
+      },
+      "descripcion": "__Height:__ 173 cm (5'8\")\n__Affiliation:__ Special Fire Force Company 8\n__Rank:__ Second Class Soldier\n\nSince being accused of using his powers to cause the fire that took his family, his face's habit of tensing up into a bizarre smile when he gets nervous has earned him the derisive nickname of \"devil\". He joined the Fire Force to achieve his dream of becoming a hero and saving people from the fear of the flames, as well as uncover the truth behind his family's death twelve years ago.\n\nThough a newcomer in the Special Fire Force, Shinra has posed a challenge to experienced members of the force and has even defeated a Captain. Being a Fire Soldier, Shinra is experienced in rescuing people and is strong enough to carry four people out of a building. While he mostly relies on his Ignition Ability in combat, he has exhibited skill in ordinary fighting as well, being able to pin an opponent to the ground and break their guard with a sturdy kick, as well as being capable of defending himself from ground-breaking attacks.",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 128390,
+          "title": {
+            "romaji": "Enen no Shouboutai Mini Anime",
+            "english": null,
+            "native": "炎炎ノ消防隊ミニアニメ"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130714,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Takehisa Hinawa",
+        "native": "武久火縄"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130714-pLzE3rXtP1C4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130714-pLzE3rXtP1C4.png"
+      },
+      "descripcion": "__Height:__ 180 cm (5'11\")\n__Affiliation:__ Special Fire Force Company 8\n__Rank:__ Lieutenant\n\nA dry, unemotional ex-military man, whose stern disciplina is feared among the new recruits. He helped Obi to found Company 8. He never allows the soldiers to play with fire. The gun he uses is a cherished memento from his friend who became an Infernal.\n\nTakehisa is a Second Generation, who has awakened the ability to manipulate flames through the use of firearms, such as a machine gun or a pistol, which he wields on the battlefield. Takehisa's ability allows him to control the gunpowder inside bullets, making the impact they make stronger or weaker, depending on the situation. He can use this ability to make his bullets non-lethal.",
+      "genero": "Male",
+      "edad": "28",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 128390,
+          "title": {
+            "romaji": "Enen no Shouboutai Mini Anime",
+            "english": null,
+            "native": "炎炎ノ消防隊ミニアニメ"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130751,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Tamaki Kotatsu",
+        "native": "環古達"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130751-J8rhd4d3TxF4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130751-J8rhd4d3TxF4.png"
+      },
+      "descripcion": "__Height:__ 156 cm (5'1\")\n__Affiliation:__ Special Fire Force Company 8\n__Rank:__ Second Class Soldier\n\n~!Originally a rookie member of Company 1, she was caught up in the treasonous plot of her superior officer Hoshimiya, and is currently being disciplined under Company 8's watch.!~ A tough girl with an unfortunate \"lucky lecher lure\" condition, she nevertheless has a pure heart.\n\nBeing a Third Generation, she is immune to being burnt by flames and can use her Ignition Ability to gird herself in pink flames, which grant her various cat-like traits, including cat ears, two forked tails and nails on her fingertips, an ability she dubbed \"Nekomata\". With her Ignition Ability active, Tamaki's agility and mobility is substantially increased, allowing her to run on all fours. She can use her forked-tails to generate a blast of fire, which is strong enough to break through building walls, restrain her targets in a circle of fire by lengthening them, or using them as a distress signal by the same process.",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 22
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 128390,
+          "title": {
+            "romaji": "Enen no Shouboutai Mini Anime",
+            "english": null,
+            "native": "炎炎ノ消防隊ミニアニメ"
+          }
+        },
+        {
+          "id": 143391,
+          "title": {
+            "romaji": "Chiyuki no Fashion Check",
+            "english": null,
+            "native": "千雪のファッションチェック！"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130862,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Viktor Licht",
+        "native": "ヴィクトル・リヒト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130862-jScLEFMkfo27.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130862-jScLEFMkfo27.png"
+      },
+      "descripcion": "__Height:__ 187cm (6'1\")\n__Affiliation:__ Special Fire Force Company 8\n__Rank:__ Science Team (First Class Fire Soldier Head of Research(Haijima)\n\nViktor Licht is company 8's Science Officer. Viktor attended the Imperial University of Tokyo, where he wrote a thesis about Spontaneous Human Combustion. After graduating at the top of his class in record time, he joined Haijima Industries. Having locked himself away while doing research, he was eventually appointed head of incendiary research and published a thesis about Spontaneous Human Combustion. Joker eventually made contact with Viktor, and told him he wanted to uncover the truth behind what is happening in the world.\n\n(Source: Fire Force Wiki)",
+      "genero": "Male",
+      "edad": "23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 128390,
+          "title": {
+            "romaji": "Enen no Shouboutai Mini Anime",
+            "english": null,
+            "native": "炎炎ノ消防隊ミニアニメ"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 143289,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Vulcan Joseph",
+        "native": "ヴァルカンジョゼフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b143289-WgHxKJbuheic.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b143289-WgHxKJbuheic.png"
+      },
+      "descripcion": "Vulcan is a very skilled engineer with a love for animals which often bulids his machines to an animal theme. His goal in life is to build something like his family's Amaterasu to supply enough energy to the world in order to save the world's endangered animals. Despite his grand ideals he desires to remain independent. \n~!This is rooted in his total hated for Haijima Industeries as he blames them from the death of his family. This also means that he has a total distrust of the Special Fire Force's requests for him to join their organisations.!~\nVulcan is very passionate about his occupation and loves creating new inventions.\n\n~!Vulcan becomes the Engineer for Special Fire Force Company 8.!~",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 128390,
+          "title": {
+            "romaji": "Enen no Shouboutai Mini Anime",
+            "english": null,
+            "native": "炎炎ノ消防隊ミニアニメ"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 361639,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "5th Angels Three",
+        "native": "5thエンジェルス3"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b361639-LikaoOmyKJ00.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b361639-LikaoOmyKJ00.png"
+      },
+      "descripcion": "Group of identically dressed female fire soldiers of Special Fire Force Company 5. Despite initial appearances and name, there are at least 15 members of this group. At least one of the women possesses an Ignition Ability, making her a Third Generation.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 192562,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Amaterasu",
+        "native": "アマテラス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b192562-fUngMeHXtvXB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b192562-fUngMeHXtvXB.png"
+      },
+      "descripcion": "She tends to be very manipulative.\n\n~!Amaterasu is a survivor of the Great Cataclysm. Possessing an Adolla Burst, she powers Tokyo and is referred to as the First Pillar.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 195427,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Amon Hajiki",
+        "native": "亜門弾木"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b195427-Mg9riJYyGXBP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b195427-Mg9riJYyGXBP.png"
+      },
+      "descripcion": "The first platoon chief Fire Soldier of Special Fire Force Company 2. ~!He is later killed by [Orochi](https://anilist.co/character/195425/); his head is bisected.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 154079,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Arrow",
+        "native": "アロー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b154079-GpsGmipLzbB2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b154079-GpsGmipLzbB2.png"
+      },
+      "descripcion": "Arrow is the Primary Vice-Commander of the Knights of the Ashen Flame and serves as the Third Pillar's bodyguard.",
+      "genero": "Female",
+      "edad": "24",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 266151,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Arthur no Chichi",
+        "native": "アーサーの父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b266151-2C3il8IFWmVt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b266151-2C3il8IFWmVt.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 366100,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Arthur no Haha",
+        "native": "アーサーの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b366100-sZVHXRLaYsSt.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b366100-sZVHXRLaYsSt.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 171895,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Asako Hague",
+        "native": "アサコ・アーグ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171895-IuNBuJIm2enN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171895-IuNBuJIm2enN.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 161515,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Assault",
+        "native": "アサルト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b161515-TrcGb7DuXhpM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b161515-TrcGb7DuXhpM.png"
+      },
+      "descripcion": "Assault has dark skin and light spiky hair, three piercing in each of his ears, and two piercings in-place of his absent eyebrows. Being a White Hood, he wears a variation of his organisation's uniform, which consists of white clothing and the cross of the Sol God symbol across his chest.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 171898,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Charon",
+        "native": "カロン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171898-sOFT5nvhIsET.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171898-sOFT5nvhIsET.jpg"
+      },
+      "descripcion": "__Type:__ Second Generation \n\nCharon is a member of the White-Clad, that serves as the Second Pillar's guardian. He appears to be a devoted member of the White-Clad with a strong loyalty to the Evangalist. He takes his role as a guardian very seriously with protecting pillars at even risking the cost of his life. Charon has taken care of [Haumea](https://anilist.co/character/160044/Haumea) since she was young although she doesn’t seem to appreciate his efforts. He is very durable and is a expert in hand to hand combat with being very confidence and cunning in his battles.",
+      "genero": "Male",
+      "edad": "28",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 22
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130853,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Conehead",
+        "native": "コーンヘッド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130853-F8JyxF46RimU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130853-F8JyxF46RimU.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 194522,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Danrou Oze",
+        "native": "尾瀬暖郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b194522-NGyAY7g0A6lt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b194522-NGyAY7g0A6lt.png"
+      },
+      "descripcion": "General of the Tokyo Imperial Armed Forces, Integrated Security Operations Division.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327307,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dendou-sha",
+        "native": "伝道者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327307-9UpfnCW1GSOT.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327307-9UpfnCW1GSOT.png"
+      },
+      "descripcion": "The Evangelist is the leader of the White-Clad.\n~!The Evangelist is the collective unconscious of all humanity personified. It is not a person nor is it conscious, it represents despair itself.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 150692,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dr. Giovanni",
+        "native": "Dr.ジョヴァンニ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b150692-XKOWyAHPVmjw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b150692-XKOWyAHPVmjw.jpg"
+      },
+      "descripcion": "An insect enthusiast. Generally talks calmly, slowly, and drawn out. Has an interesting tendency to repeat words passionately many times, on occasion.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 198950,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dragon ",
+        "native": "ドラゴン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b198950-AIv6MZSZ87OW.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b198950-AIv6MZSZ87OW.jpg"
+      },
+      "descripcion": "Dragon is a member of the White-Clad's Destroyers.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 13046,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Excalibur",
+        "native": "エクスカリバー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13046-tUKfeqS9MNIf.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b13046-tUKfeqS9MNIf.jpg"
+      },
+      "descripcion": "The legendary sword used by heroes and kings. It has a great power that is unmatched by any other weapon. It turns out that anyone can use Excalibur. However, no one can put up with its personality (it has a bigger ego than Black Star). The only reason that those who use it are called heroes is that they can put up with its annoying habits, such as a list of one-thousand things he demands to be completed, such as daily five-hour reading sessions. Excalibur was first introduced when Kid and Black Star found a book about him and thus sought him out, only to discover that the book had in fact been written by Excalibur himself. They quickly ditched him due to his personality. His other form is completely the opposite given his elegant weapon form, looking like a cartoon-ish gentlemen with an outrageous mustache and no pants. On the other hand, his legendary powers have been proven by a fellow Shibusen student who found completing the appointed tasks easy. Excalibur can grant great power, light speed and teleportation, and the wielder can easily defeat three of Shibusen's strongest combined. In the end, Excalibur was put back again because the student could not put up with his annoying sneeze. His existence throughout the story is purely comical, with the exception of the fact of how he informed Kid, the Thompsons, Buttataki, and Blair about the story of Eibon, backed by Shinigami.   (From Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 336463,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Faerie",
+        "native": "フェアリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b336463-qnQ36e0ytgNN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b336463-qnQ36e0ytgNN.png"
+      },
+      "descripcion": "Faerie is the leader of the White Clad's Great Cataclysm Execution Specialists.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 171897,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Flail",
+        "native": "フレイル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171897-9RVoy4SRhTKh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171897-9RVoy4SRhTKh.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 358891,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fracture",
+        "native": "フラクチュ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358891-WaiZVMdeVQIg.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b358891-WaiZVMdeVQIg.jpg"
+      },
+      "descripcion": "A member of the white clad's destroyers.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 336462,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gold",
+        "native": "ゴルド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b336462-nwHdp9zAMYln.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b336462-nwHdp9zAMYln.png"
+      },
+      "descripcion": "Gold is a third generation member of the White Clad's destroyers.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 190110,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gureo Haijima",
+        "native": "灰島グレオ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b190110-najH1Mai3Gl3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b190110-najH1Mai3Gl3.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        }
+      ]
+    },
+    {
+      "id": 171893,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gustav Honda",
+        "native": "グスタフ本田"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171893-8pnS14My6LAB.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171893-8pnS14My6LAB.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 251814,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Haran",
+        "native": "ハラン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b251814-TdYqls1vAUxl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b251814-TdYqls1vAUxl.png"
+      },
+      "descripcion": "Haran was a member of the White-Clad, who turned himself into a Demon.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160044,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Haumea",
+        "native": "ハウメア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160044-Vef7Nz9J4OX9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160044-Vef7Nz9J4OX9.png"
+      },
+      "descripcion": "Haumea is a Third Generation pyrokinetic and a member of the White-Clad. She possesses the Adolla Burst and is known as the Second Pillar.",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 381082,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hibachi Shinmon",
+        "native": "新門火鉢"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381082-ifz6T6nkJPcv.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b381082-ifz6T6nkJPcv.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130849,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hikage",
+        "native": "ヒカゲ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130849-fXykXoZxDTZE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130849-fXykXoZxDTZE.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": "10",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 22
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130851,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hinata",
+        "native": "ヒナタ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130851-qvvfvw5UWYbE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130851-qvvfvw5UWYbE.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": "10",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 22
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130788,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Huo Yan Li",
+        "native": "フォイエン・リィ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130788-ir0uhF0pyicd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130788-ir0uhF0pyicd.png"
+      },
+      "descripcion": "__Height:__ 184 cm (6' 0½\")\n__Affiliation:__ Special Fire Force Company 1\n\nHuo Yan Li is a Third Generation pyrokinetic and member of the Special Fire Force Company 1.\n\nIn contrast to his long-time friends and team-mates Karim Flam and Rekka Hoshimiya, Huo Yan is a rather laid-back and responsible individual, who doesn't like to get worked-up and waste time with meaningless fighting. He abides to the etiquette of the 1st Special Fire Brigade strongly, going as far as to point out formalities, such as a dress code. Despite the revelation of the Church's wrongdoing, Yan still abides by the institution because it gives people hope during tragedies and worships the Sun and Sun God and the good it brings to the world and humanity instead of the malicious ideals of the White Clad and the Evangelist.",
+      "genero": "Male",
+      "edad": "30",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 171891,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Inca Kasugatani",
+        "native": "春日谷因果"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171891-mCzjOeY9726p.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171891-mCzjOeY9726p.png"
+      },
+      "descripcion": "__Height:__ 160 cm (5'3'')\n\nInca Kasugatani is a citizen of Tokyo, whose famously reputed as a fire thief across the country for her acts of saving people from fires in exchange for their valuables.\n\n(Source: Fire Force Wiki)",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 193746,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Iron",
+        "native": "アイロン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b193746-pb0XZl2Gdghj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b193746-pb0XZl2Gdghj.png"
+      },
+      "descripcion": "Iron is a Third Generation member of the Knights of the Purple Haze.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327313,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kantarou",
+        "native": "勘太郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327313-ULngv6hkn1UF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327313-ULngv6hkn1UF.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130790,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Karim Flam",
+        "native": "カリム・フラム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130790-98TypEQSKtHj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130790-98TypEQSKtHj.png"
+      },
+      "descripcion": "Karim is a second generation pyrotechnic, a Lieutenant of Special Fire Force Company 1, and priest of the Holy Sol Temple. He is a serious and cautious young man. He shows a high disrespect towards strangers, which can result in him insulting people.",
+      "genero": "Male",
+      "edad": "22",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 171896,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kayoko Huang",
+        "native": "火代子黄"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171896-ruQCUMUMfxTw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171896-ruQCUMUMfxTw.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": "47",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130852,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Konro Sagamiya",
+        "native": "相模屋紺炉"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130852-aT7x3aoIkmOv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130852-aT7x3aoIkmOv.png"
+      },
+      "descripcion": "Is a Third Generation pyrokinetic and is the Lieutenant of Special Fire Force Company 7. He is a very loyal subordinate of Benimaru Shinmon, willing to sacrifice his health and life to protect his friend if needed.",
+      "genero": "Male",
+      "edad": "38",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 391772,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Konyango",
+        "native": "コニャンゴ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b391772-YsF55gkTFwjJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b391772-YsF55gkTFwjJ.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 193748,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kuro no Onna",
+        "native": "黒の女性"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b193748-TvXWXrAh0YmE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b193748-TvXWXrAh0YmE.png"
+      },
+      "descripcion": "One of the original Pillars used for the Great Cataclysm, who was used as a sacrifice for the Tabernacle, henceforth giving abundance to a part of the Chinese Peninsula and creating the Oasis.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130785,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Leonard Burns",
+        "native": "レオナルド・バーンズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130785-zvGvLqecFUYX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130785-zvGvLqecFUYX.png"
+      },
+      "descripcion": "He is a Third Generation pyrokinetic, and the Captain of Special Fire Force Company 1.",
+      "genero": "Male",
+      "edad": "50",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 150322,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lisa Isaribi",
+        "native": "リサ漁辺"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b150322-c5usQsoIu6bs.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b150322-c5usQsoIu6bs.png"
+      },
+      "descripcion": "Lisa Isaribi, formerly known as Feeler during her service in the Knights of the Ashen Flame, is a former Third Generation Pyrokinetic. She is a member of Special Fire Force Company 8.",
+      "genero": "Female",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 194521,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Madoka Oze",
+        "native": "尾瀬まどか"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b194521-DiCtFsDP3MZ6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b194521-DiCtFsDP3MZ6.png"
+      },
+      "descripcion": "Wife of General Danrou. Mother of Maki and Takigi.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295094,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mamoru-kun",
+        "native": "まもる君"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295094-ccyEHj5TyeyE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295094-ccyEHj5TyeyE.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174550,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mari Kusakabe",
+        "native": "日下部万里"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174550-h3Gy7yJ921iH.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174550-h3Gy7yJ921iH.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 339137,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mera Mera",
+        "native": "メラメラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b339137-UGIwerw7YmDq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b339137-UGIwerw7YmDq.png"
+      },
+      "descripcion": "Mera Mera is one of [Maki Oze's](https://anilist.co/character/130713/Maki-Oze) sentient fireballs she creates with her second generation ability.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327311,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mikako",
+        "native": "ミカコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327311-WK421VmZxmrT.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327311-WK421VmZxmrT.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 171899,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mirage",
+        "native": "ミラージユ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171899-0aTksBNwR43R.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171899-0aTksBNwR43R.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 190921,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nataku Son",
+        "native": "ナタク孫"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b190921-lGbolm0h0SLC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b190921-lGbolm0h0SLC.png"
+      },
+      "descripcion": "A young boy who gained Third Generation pyrokinetic abilities after being bitten by an Infernal Bug.",
+      "genero": "Male",
+      "edad": "11",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 191537,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ningyoutsukai",
+        "native": "人形使い"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191537-RdNocDIDhHta.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191537-RdNocDIDhHta.png"
+      },
+      "descripcion": "An employee of Haijima Industries who controls a legion of fire-powered puppets called Dominions.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327308,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nise Hikage",
+        "native": "偽ヒカゲ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327308-ayimy8oRgfCx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327308-ayimy8oRgfCx.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 180505,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ogun Montgomery",
+        "native": "オグン・モンゴメリ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180505-a78izQlOQ40r.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180505-a78izQlOQ40r.jpg"
+      },
+      "descripcion": "Ogun is a Third Generation and member of Special Fire Force Company 4.",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 171892,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Onyango",
+        "native": "オニャンゴ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171892-3mvcgGC4t8Mr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171892-3mvcgGC4t8Mr.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 366925,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ooguro",
+        "native": "大黒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b366925-748FEYV9pgBC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b366925-748FEYV9pgBC.png"
+      },
+      "descripcion": "High-ranking employee of Haijima Industries, renowned for his rapid rise through the company's ranks.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 195425,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Orochi ",
+        "native": "オロチ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b195425-Gfo2cxluWVRy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b195425-Gfo2cxluWVRy.png"
+      },
+      "descripcion": "A third generation Pyrokinetic within the Knights of the Purple Haze.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174745,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pan Ko Paat",
+        "native": "パート・コ・パーン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174745-PTUzyduLMLAs.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174745-PTUzyduLMLAs.png"
+      },
+      "descripcion": "Pan is the captain of Special Fire Force Company 4 and an instructor at the Special Fire Force Training Academy.\n\n(Source: Fire Force Wiki)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 389753,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Panda",
+        "native": "パンダ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b389753-VgwhopIXMbqA.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b389753-VgwhopIXMbqA.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 339136,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pusu Pusu",
+        "native": "プスプス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b339136-1un5Bf1098Ff.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b339136-1un5Bf1098Ff.png"
+      },
+      "descripcion": "Pusu Pusu is one of [Maki Oze's](https://anilist.co/character/130713/Maki-Oze) sentient fireballs she creates with her second generation ability.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 390263,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Raffles I",
+        "native": "ラフルス一世"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b390263-8J7gen7kLPuS.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b390263-8J7gen7kLPuS.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174549,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Raffles III",
+        "native": "ラフルス三世"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174549-QgravqZOC3z3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174549-QgravqZOC3z3.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130789,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rekka Hoshimiya",
+        "native": "烈火星宮"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130789-LWUWKnST7XP2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130789-LWUWKnST7XP2.png"
+      },
+      "descripcion": "A Third Generation pyrotechnic, Lieutenant of Special Fire Force Company 1, and priest of the Holy Sol Temple. He is an eccentric and enthusiastic man. Always confident and expressive in his speech.\n\n~!He is one of several people using “insects” to turn people into infernals.!~",
+      "genero": "Male",
+      "edad": "23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 390262,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Risu Shinpu",
+        "native": "リース神父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b390262-mcADvtdBz8xA.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b390262-mcADvtdBz8xA.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 191538,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ritsu",
+        "native": "リツ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191538-6vCCXa3DzrH3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191538-6vCCXa3DzrH3.png"
+      },
+      "descripcion": "A White-Clad protector maid.",
+      "genero": "Female",
+      "edad": "22",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 22
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 389754,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sancho",
+        "native": "サンチョ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b389754-yyR08D8rum3B.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b389754-yyR08D8rum3B.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327981,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sasaki Karin",
+        "native": "火鱗佐々木"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327981-3DVvKRDd3t7I.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327981-3DVvKRDd3t7I.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 195426,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sasori ",
+        "native": "さそり"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b195426-E1A9FmFlG3Zs.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b195426-E1A9FmFlG3Zs.png"
+      },
+      "descripcion": "A Third Generation member of the Knights of the Purple Haze.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        }
+      ]
+    },
+    {
+      "id": 193747,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Scop",
+        "native": "スコップ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b193747-kxtciFxrVhLG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b193747-kxtciFxrVhLG.png"
+      },
+      "descripcion": "A talking fire mole from the Oasis.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 389752,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Seiyou no Kage Taichou",
+        "native": "聖陽の影隊長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b389752-DJowA4558WJz.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b389752-DJowA4558WJz.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327309,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Setsuo Miyamoto",
+        "native": "節男宮本"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327309-zX6MEn6k2OxM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327309-zX6MEn6k2OxM.png"
+      },
+      "descripcion": "Setsuo was a former firefighter, who turned into a Flame Human. Through the process of the Human Body Ignition Phenomenon, he was able to keep his consciousness, making him a sentient Flame Human.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8457,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shinigami",
+        "native": "死神様"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/8457.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/8457.jpg"
+      },
+      "descripcion": "The grim reaper himself. He is by far the most powerful character in the series. He is a bit of a joker but when the time comes, he's all business. His number is 42-42-564 (shini-shini-koroshi), which literally means die-die-kill in Japanese. He has a special move called a “Direct Noggin Shinigami Chop” (which is normally shown when the Shinigami shows his hand, which is a large, flat, four-fingered hand appearing from his robe). This is both a joke and a real move. He constantly has to put up with Death Scythe’s antics when it comes to Maka or her progress. He seems to take on a more playful attitude when talking with his son, Death the Kid (he says he likes his son's three white stripes). Shinigami's soul wavelength is so large that it entirely covers Death city.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 388905,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shinra no Sobo",
+        "native": "森羅の祖母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b388905-h9vP5TSuHXr3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b388905-h9vP5TSuHXr3.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 150194,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shou Kusakabe",
+        "native": "象日下部"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b150194-2OLsrSRrq9cS.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b150194-2OLsrSRrq9cS.jpg"
+      },
+      "descripcion": "A Third Generation pyrokinetic, the Commander of the Knights of the Ashen Flame, and the younger brother of [Shinra Kusakabe](https://anilist.co/character/120462/Kusakabe-Shinra).",
+      "genero": "Male",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 389751,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shoubouchou Choukan",
+        "native": "消防庁長官"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b389751-p1K0shIkMBVt.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b389751-p1K0shIkMBVt.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        }
+      ]
+    },
+    {
+      "id": 376111,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sister Sakura",
+        "native": "シスター桜"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376111-v0tgNqFBQPNi.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b376111-v0tgNqFBQPNi.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 171894,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Souichirou Hague",
+        "native": "蒼一郎・アーグ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171894-9PwCxAGwDECK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171894-9PwCxAGwDECK.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 358890,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Stream",
+        "native": "ストリーム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358890-4zDSWu7gGLMx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b358890-4zDSWu7gGLMx.png"
+      },
+      "descripcion": "A third generation member of the White Clad's destroyers.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 193751,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sumire ",
+        "native": "スミレ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b193751-YoVjfOMqhCQG.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b193751-YoVjfOMqhCQG.jpg"
+      },
+      "descripcion": "Sumire is a servant of the Evangelist and the Seventh Pillar. She is responsible for creating Pillars for 200 years since the failure of the Great Cataclysm, as well as the burning of St. Raffles Convent and the sisters residing in it.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 138308,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Takeru Noto",
+        "native": "武能登"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138308-hx34AQ3p8JHP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138308-hx34AQ3p8JHP.png"
+      },
+      "descripcion": "Takeru is a Third Generation Second Class Fire Officer of the 2nd Special Fire Brigade. Takeru received the nickname \"Juggernaut\", due to his family's business as potato farmers.\n\n(Source: Enen no Shouboutai Wikia)",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 194520,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Takigi Oze",
+        "native": "尾瀬滝義"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b194520-ZIp3UsngeLdh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b194520-ZIp3UsngeLdh.png"
+      },
+      "descripcion": "1st Lieutenant of the Tokyo Imperial Armed Forces, Criminal Investigation Division.",
+      "genero": "Male",
+      "edad": "23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327983,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tenpe",
+        "native": "テンペ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327983-txBtjHfbLDPo.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327983-txBtjHfbLDPo.png"
+      },
+      "descripcion": "Tempeh was a sentient Demon Infernal from the Chinese Peninsula.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130850,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tooru Kishiri",
+        "native": "トオル岸里"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130850-thF6qsqrw9Kr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130850-thF6qsqrw9Kr.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327310,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Toujou",
+        "native": "灯城"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327310-HPcOcHoIKPKN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327310-HPcOcHoIKPKN.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 193745,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yaata",
+        "native": "ヤータ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b193745-NJtYA3H8pKmU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b193745-NJtYA3H8pKmU.png"
+      },
+      "descripcion": "A crow from the Chinese Peninsula that possesses the ability to talk.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160042,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yona",
+        "native": "ヨナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160042-8Dahoi8tVy5H.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160042-8Dahoi8tVy5H.png"
+      },
+      "descripcion": "Yona is a member of the Knights of the Ashen Flame's Commando Unit.\n\nHe is a Third Generation, giving him the ability to ignite and manipulate flames from his palms and fingers. He can use his Ignition Ability to change the appearance of people's faces. He executes this process by using heat to control the blood flow in people's faces, and makes the capillaries and lymph nodes expand, and then uses localized edema to change the shape of people's faces, something he commonly calls art. He is also able to change his own appearance with ease. Using this same process, he can increase the temperature of someone's blood until they explode. Due to his age, it is speculated Yona is a non-human entity like the Preacher who does not age.\n\n(Source: Fire Force Wiki)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 150321,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuu",
+        "native": "ユウ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b150321-VYRI5Ls9dPgX.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b150321-VYRI5Ls9dPgX.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 180506,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuuichirou Kurono",
+        "native": "優一郎黒野"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180506-rrRt6Mku3IFx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180506-rrRt6Mku3IFx.png"
+      },
+      "descripcion": "Kurono is a Third Generation and a combatant of the Skills Development Laboratory at Haijima Industries.",
+      "genero": "Male",
+      "edad": "29",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8464,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Black☆Star",
+        "native": "ブラック☆スター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8464-oKu98OyJ3eZt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8464-oKu98OyJ3eZt.png"
+      },
+      "descripcion": "A shadow weapon meister and the last survivor of the infamous Star Clan, taken into the DWMA and raised by [Sid Barrett](https://anilist.co/character/16582/Sid-Barrett). His weapon partner is [Tsubaki Nakatsukasa](https://anilist.co/character/8443/Tsubaki-Nakatsukasa). He is known as one of the toughest students in the academy, being quite self-centered with a desire to always be in the spotlight.\n",
+      "genero": "Male",
+      "edad": "13",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8458,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Blair",
+        "native": "ブレア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8458-dnVRYCwLLHRn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8458-dnVRYCwLLHRn.png"
+      },
+      "descripcion": "A playful cat with powerful magic that Soul and Maka initially confused for a regular witch. Her life seems to largely revolve around doing whatever she deems fun at any given time, ranging from working as a hostess at Chupa♡Cabra's to aiding the DWMA's plans - however, she's also very sensitive to others' feelings, often comforting those in need out of kindness. \nShe's also shown to enjoy long baths and exhibitionism, being very proud of her human form's body and often looking for opportunities to make others feel embarrassed. \n\nHer magic abilities are themed around pumpkins, and she also keeps a hat monster named Zwan (ズワン) as her familiar. Due to being a cat, she has nine lives, which is how she managed to survive her initial defeat at the hands of Soul and Maka. Additionally, her charms seem to transcend gender-altering magic, with her male form being able to seduce a succubus within the Book of Eibon.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 387913,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Caster",
+        "native": "キャスター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b387913-QZHPESYFFQ6B.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b387913-QZHPESYFFQ6B.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8455,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Death the Kid",
+        "native": "デス・ザ・キッド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8455-0Ztel4ew5bNd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8455-0Ztel4ew5bNd.png"
+      },
+      "descripcion": "The son of [Death](https://anilist.co/character/8457/Shinigami) himself and the Meister of the Demon Twin Guns, [Liz Thompson](https://anilist.co/character/8445/Elizabeth-Thompson) and [Patty Thompson](https://anilist.co/character/8444/Patricia-Thompson). Created from a piece of Death's soul, Death the Kid is known to be one of the top 3 students in the DWMA, albeit with a confounding obsession when it comes to symmetry.\n",
+      "genero": "Male",
+      "edad": "13-15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8439,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maka Albarn",
+        "native": "マカ・アルバーン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8439-5TIyWlfClnMs.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8439-5TIyWlfClnMs.png"
+      },
+      "descripcion": "[Soul](https://anilist.co/character/8456/Soul-Eater-Evans)'s partner and the female protagonist of the series.\n\nKnown to be cheerful, direct, confident, smart and hardworking, in stark contrast to Soul who is much more laid-back in comparison. Despite this, Maka has been noted by her partner to be stubborn and sometimes prone to making decisions without regarding others' feelings if she feels justified enough. Due to their differences, Maka often bickers with him and they tend to argue with one another, but despite all this they remain loyal partners and close friends.",
+      "genero": "Female",
+      "edad": "13",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 17812,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maka no Haha",
+        "native": "マカの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17812-UPdHTY3Rdoy6.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17812-UPdHTY3Rdoy6.jpg"
+      },
+      "descripcion": "Maka's mother and Spirit's ex-wife. She has not been shown, but has been mentioned and in the anime she sends postcards to Maka while traveling the world. She is Spirit's second meister, replacing Stein. She is no longer a student in the school, and did not become a teacher like Spirit and Stein. In the anime, she is mentioned as having invented the move 'Demon Hunter', the most powerful scythe technique. Only she, Maka and Shinigami know how to perform this move.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36309,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Narrator",
+        "native": "ナレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+      },
+      "descripcion": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 6,
+          "title": {
+            "romaji": "TRIGUN",
+            "english": "Trigun",
+            "native": "TRIGUN"
+          }
+        },
+        {
+          "id": 21,
+          "title": {
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
+          }
+        },
+        {
+          "id": 25,
+          "title": {
+            "romaji": "Sunabouzu",
+            "english": "Desert Punk",
+            "native": "砂ぼうず"
+          }
+        },
+        {
+          "id": 28,
+          "title": {
+            "romaji": "Yakitate!! Japan",
+            "english": null,
+            "native": "焼きたて!! ジャぱん"
+          }
+        },
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 33,
+          "title": {
+            "romaji": "Kenpuu Denki Berserk",
+            "english": "Berserk",
+            "native": "剣風伝奇ベルセルク"
+          }
+        },
+        {
+          "id": 60,
+          "title": {
+            "romaji": "Chrno Crusade",
+            "english": "Chrono Crusade",
+            "native": "クロノクルセイド"
+          }
+        },
+        {
+          "id": 67,
+          "title": {
+            "romaji": "Basilisk: Kouga Ninpouchou",
+            "english": "Basilisk",
+            "native": "バジリスク 甲賀忍法帖"
+          }
+        },
+        {
+          "id": 80,
+          "title": {
+            "romaji": "Kidou Senshi Gundam",
+            "english": "Mobile Suit Gundam",
+            "native": "機動戦士ガンダム"
+          }
+        },
+        {
+          "id": 90,
+          "title": {
+            "romaji": "Shin Kidou Senki Gundam Wing",
+            "english": "Mobile Suit Gundam Wing",
+            "native": "新機動戦記ガンダムW"
+          }
+        }
+      ]
+    },
+    {
+      "id": 363463,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shiroshouzoku",
+        "native": "白装束"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b363463-3KnsMbgFkjAT.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b363463-3KnsMbgFkjAT.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 105310,
+          "title": {
+            "romaji": "Enen no Shouboutai",
+            "english": "Fire Force",
+            "native": "炎炎ノ消防隊"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 149118,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou",
+            "english": "Fire Force Season 3",
+            "native": "炎炎ノ消防隊 参ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8456,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Soul Eater Evans",
+        "native": "ソウル・イーター・エヴァンス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8456-GtNbISpXhkvd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8456-GtNbISpXhkvd.png"
+      },
+      "descripcion": "[Maka](https://anilist.co/character/8439/Maka-Albarn)'s partner and the male protagonist of the series. Soul is a demon weapon who was born into a family of famous musicians. After discovering his weapon abilities as a Demon Weapon Soul joined the DWMA, where he partnered up with Maka. They often bicker and don't always see eye-to-eye, but in the end they remain partners and close friends.\n",
+      "genero": "Male",
+      "edad": "13-15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8462,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Spirit Albarn",
+        "native": "スピリット=アルバーン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/8462.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/8462.jpg"
+      },
+      "descripcion": "He is the Shinigami’s current weapon and Maka’s father. He is very protective of Maka and is ready to jump to her aid any time she’s in trouble (he is always stopped by the Shinigami). His wife is Maka’s mother but they are divorced now due to his constant flirting with other women. Even though he visits clubs, he is still insanely loyal to his ex-wife and daughter. He usually runs yelling about much he loves Maka and her mother (he calls Maka’s mother Mama). He is extremely sad that his daughter hates him but he still tries to be a good father by looking out for her in his own silly way. He used to be Dr. Franken’s partner before partnering up with \"Mama\" who later became his wife (which obviously lead to the divorce); he still suffers nightmares about Dr. Franken trying to dissect him and still has memories from college when he and Stein were roommates. His old name was Spirit.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 103,
+  "actualizado": 1788565892
+}

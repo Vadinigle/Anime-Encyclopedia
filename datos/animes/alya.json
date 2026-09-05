@@ -1,0 +1,470 @@
+{
+  "clave": "alya",
+  "nombre": "Alya Sometimes Hides Her Feelings in Russian",
+  "descripcion": "Roshidere",
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162804-TBeptcAfvqTd.jpg",
+  "medios": [
+    {
+      "id": 162804,
+      "title": {
+        "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+        "english": "Alya Sometimes Hides Her Feelings in Russian",
+        "native": "時々ボソッとロシア語でデレる隣のアーリャさん"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162804-TBeptcAfvqTd.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162804-TBeptcAfvqTd.jpg"
+      }
+    },
+    {
+      "id": 181641,
+      "title": {
+        "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san Season 2",
+        "english": null,
+        "native": "時々ボソッとロシア語でデレる隣のアーリャさん Season 2"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181641-4BnzXGnA7CJL.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181641-4BnzXGnA7CJL.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 217334,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Alisa Kujou",
+        "native": "アリサ・ミハイロヴナ・九条"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217334-buImnwO26SgS.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b217334-buImnwO26SgS.jpg"
+      },
+      "descripcion": "__Height:__ 170 cm\n\nAlisa Mikhailovna Kujou is a model student who boasts the highest grades in her school year and the student council accountant. Her nickname is Alya and she is the younger biological sister of [Maria Mikhailovna Kujou](https://anilist.co/character/291294/Kujou-Mariya). She is one of the two most beautiful girls in her school year, and is called the \"Solitary Princess\" because she is perceived as very cold and distant.\n\nAlya is very hardworking to the point she loathes people who don't put in effort. When she was younger, she was disappointed with the lack of motivation from her classmates and this made her realize how ignorant they were, which created an unconscious condescension within her. Once she realized that, she drew a line in order to avoid any conflict with those around her, making her feel distant and reserved to others. For better or worse she doesn't rely on anyone.",
+      "genero": "Female",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 162804,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+            "english": "Alya Sometimes Hides Her Feelings in Russian",
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん"
+          }
+        },
+        {
+          "id": 181641,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san Season 2",
+            "english": null,
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 217335,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Masachika Kuze",
+        "native": "久世政近"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217335-PXJgLsemVaQZ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b217335-PXJgLsemVaQZ.jpg"
+      },
+      "descripcion": "Masachika Kuze is an unmotivated underachiever who routinely stays up late indulging in his nerdy hobbies. The girl who sits next to him in class, Alisa, constantly gets after him. While his grade may be on the lower end, he actually understands Russian because of his paternal grandfather, who was a big lover of Russian Culture.",
+      "genero": "Male",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 162804,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+            "english": "Alya Sometimes Hides Her Feelings in Russian",
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん"
+          }
+        },
+        {
+          "id": 181641,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san Season 2",
+            "english": null,
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 344028,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Andou",
+        "native": "安藤"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b344028-1t0K1PAOmC8e.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b344028-1t0K1PAOmC8e.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 162804,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+            "english": "Alya Sometimes Hides Her Feelings in Russian",
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297094,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ayano Kimishima",
+        "native": "君嶋綾乃"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b297094-n4EyxcJUAEYJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b297094-n4EyxcJUAEYJ.jpg"
+      },
+      "descripcion": "Ayano is an expressionless maid of the Suou household. She's the sort of devoted servant who has boundless love for her master, and she's dedicated herself to serving [Yuki](https://anilist.co/character/243404). She often has no presence and vanishes into thin air.\n\n~!Ayano used to originally serve Masachika. She still has boundless love for him and treats him as her master too.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 162804,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+            "english": "Alya Sometimes Hides Her Feelings in Russian",
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん"
+          }
+        },
+        {
+          "id": 181641,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san Season 2",
+            "english": null,
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 325840,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chisaki Sarashina",
+        "native": "更科茅咲"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b325840-G1PTJ81tPLy8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b325840-G1PTJ81tPLy8.png"
+      },
+      "descripcion": "Chisaki Sarashina is a second year student and the vice president of the student council of her high school.",
+      "genero": "Female",
+      "edad": "16-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 162804,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+            "english": "Alya Sometimes Hides Her Feelings in Russian",
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん"
+          }
+        }
+      ]
+    },
+    {
+      "id": 325845,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hikaru Kiyomiya",
+        "native": "清宮光瑠"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b325845-Z0Vi2ArBfAQq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b325845-Z0Vi2ArBfAQq.png"
+      },
+      "descripcion": "He is a friend of Masachika since middle school.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 162804,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+            "english": "Alya Sometimes Hides Her Feelings in Russian",
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん"
+          }
+        }
+      ]
+    },
+    {
+      "id": 291294,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mariya Kujou",
+        "native": "マリヤ・ミハイロヴナ・九条"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b291294-dlnliQB6b8YS.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b291294-dlnliQB6b8YS.jpg"
+      },
+      "descripcion": "Mariya Mikhailovna Kujou is a second-year student and the student council secretary. Her nickname is Masha and she is the older biological sister of [Alisa Mikhailovna Kujou](https://anilist.co/character/217334/Kujou-Mikhailovna-Alisa). She is one of the two beauties from her school year. She is popular for her looks and motherly gentle aura. She is called the \"Madonna\" of the school because of this.\n\nMasha purposefully acts like an airhead around Alya because she doesn't want to compete with her. She acts like this because she loves her sister very much. In reality she is very mature and serious deep down inside. [Masachika](https://anilist.co/character/217335/Kuze-Masachika) finds it very hard to read her because of this.\n\n~!Masha turns out to be Maa-chan, Masachika's first love. They were childhood friends and often played together until Masha had to leave for Russia. Masachika never recognised Maa-chan in high school because she had blonde hair and sapphire eyes when she was younger. She continues to love Masachika even now but takes a step back because of her younger sister's feelings for him.!~",
+      "genero": "Female",
+      "edad": "16-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 24
+      },
+      "media": [
+        {
+          "id": 162804,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+            "english": "Alya Sometimes Hides Her Feelings in Russian",
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん"
+          }
+        },
+        {
+          "id": 181641,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san Season 2",
+            "english": null,
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 325843,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nonoa Miyamae",
+        "native": "宮前乃々亜"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b325843-vBUe5BVYuXpe.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b325843-vBUe5BVYuXpe.png"
+      },
+      "descripcion": "First-year high school student. Sayaka's best friend since childhood.",
+      "genero": "Female",
+      "edad": "15-16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 162804,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+            "english": "Alya Sometimes Hides Her Feelings in Russian",
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん"
+          }
+        }
+      ]
+    },
+    {
+      "id": 325842,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sayaka Taniyama",
+        "native": "谷山沙也加"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b325842-zTKa0qrSSZbd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b325842-zTKa0qrSSZbd.png"
+      },
+      "descripcion": "She is the current public morals committee member who competed with Yuki for the position of student council president in the middle school.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 162804,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+            "english": "Alya Sometimes Hides Her Feelings in Russian",
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん"
+          }
+        }
+      ]
+    },
+    {
+      "id": 325844,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Takeshi Maruyama",
+        "native": "丸山毅"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b325844-x2IJrshGcRQs.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b325844-x2IJrshGcRQs.png"
+      },
+      "descripcion": "From Masachika’s view, he was his friend since middle school.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 16
+      },
+      "media": [
+        {
+          "id": 162804,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+            "english": "Alya Sometimes Hides Her Feelings in Russian",
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん"
+          }
+        }
+      ]
+    },
+    {
+      "id": 344862,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tomohisa Kuze",
+        "native": "久世知久"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b344862-hH79CQeUpEnX.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b344862-hH79CQeUpEnX.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 162804,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+            "english": "Alya Sometimes Hides Her Feelings in Russian",
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん"
+          }
+        }
+      ]
+    },
+    {
+      "id": 325841,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Touya Kenzaki",
+        "native": "剣崎統也"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b325841-RPFf8WQcvJyE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b325841-RPFf8WQcvJyE.png"
+      },
+      "descripcion": "He is the charismatic student council president leading the current student council of the high school section. He is currently in his second year of high school.",
+      "genero": "Male",
+      "edad": "16-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 162804,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+            "english": "Alya Sometimes Hides Her Feelings in Russian",
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん"
+          }
+        }
+      ]
+    },
+    {
+      "id": 243404,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuki Suou",
+        "native": "周防有希"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b243404-X1fmwpqHPdyb.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b243404-X1fmwpqHPdyb.jpg"
+      },
+      "descripcion": "__Height:__ 150 cm\n\nYuki Suou is a proper young lady from a family of former nobility. She is the student council publicist and former middle school student council president. She is one of the two most beautiful girls in her school year, and is called the \"Noble Princess\". She is childhood friends with [Masachika](https://anilist.co/character/217335/Kuze-Masachika).",
+      "genero": "Female",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 162804,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+            "english": "Alya Sometimes Hides Her Feelings in Russian",
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん"
+          }
+        },
+        {
+          "id": 181641,
+          "title": {
+            "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san Season 2",
+            "english": null,
+            "native": "時々ボソッとロシア語でデレる隣のアーリャさん Season 2"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 13,
+  "actualizado": 1788570812
+}

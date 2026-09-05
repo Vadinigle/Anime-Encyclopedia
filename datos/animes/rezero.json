@@ -1,0 +1,5335 @@
+{
+  "clave": "rezero",
+  "nombre": "Re:Zero",
+  "descripcion": "Starting Life in Another World",
+  "generos": [
+    "Isekai",
+    "Fantasía",
+    "Drama"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg",
+  "medios": [
+    {
+      "id": 21355,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+        "english": "Re:ZERO -Starting Life in Another World-",
+        "native": "Re:ゼロから始める異世界生活"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21355-wRVUrGxpvIQQ.jpg"
+      }
+    },
+    {
+      "id": 108632,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+        "english": "Re:ZERO -Starting Life in Another World- Season 2",
+        "native": "Re:ゼロから始める異世界生活 2nd Season"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108632-lQWnmw7XaNOK.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108632-lQWnmw7XaNOK.jpg"
+      }
+    },
+    {
+      "id": 119661,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+        "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+        "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119661-GDbUZxrZMz01.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119661-GDbUZxrZMz01.png"
+      }
+    },
+    {
+      "id": 163134,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+        "english": "Re:ZERO -Starting Life in Another World- Season 3",
+        "native": "Re:ゼロから始める異世界生活 3rd season"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-yieRFbvUOH9a.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163134-yieRFbvUOH9a.jpg"
+      }
+    },
+    {
+      "id": 189046,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+        "english": "Re:ZERO -Starting Life in Another World- Season 4",
+        "native": "Re:ゼロから始める異世界生活 4th season"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg"
+      }
+    },
+    {
+      "id": 100049,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+        "english": "Re:ZERO -Starting Life in Another World- OVAs",
+        "native": "Re:ゼロから始める異世界生活 OVAs"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100049-mgvPLctBJprp.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100049-mgvPLctBJprp.jpg"
+      }
+    },
+    {
+      "id": 21780,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)",
+        "english": "Re:ZERO ~Starting Break Time From Zero~",
+        "native": "Re:ゼロから始める休憩時間(ブレイクタイム)"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21780-xCJk0z5vpn57.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21780-xCJk0z5vpn57.jpg"
+      }
+    },
+    {
+      "id": 120700,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+        "english": null,
+        "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120700-buuy9COgsBTa.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120700-buuy9COgsBTa.jpg"
+      }
+    },
+    {
+      "id": 128306,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+        "english": null,
+        "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b128306-94Zyoqy2fA4X.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b128306-94Zyoqy2fA4X.png"
+      }
+    },
+    {
+      "id": 182417,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+        "english": null,
+        "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182417-zKlgy4KbGj1H.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182417-zKlgy4KbGj1H.jpg"
+      }
+    },
+    {
+      "id": 210687,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+        "english": null,
+        "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 4th Season"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210687-H54G1bTwCBpV.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210687-H54G1bTwCBpV.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 90178,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Aldebaran",
+        "native": "アルデバラン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90178-olaN8k9RJRxo.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90178-olaN8k9RJRxo.png"
+      },
+      "descripcion": "**Height:** 173 cm (5'8\")\n\nAldebaran, commonly known as Al, is [Priscilla Barielle](https://anilist.co/character/90186/Priscilla-Barielle)'s knight, though he claims to just be a subordinate. He has a frivolous personality and acts aloof, but shows insecurity regarding his disfigured face and wears a helmet to conceal it. Due to that, he is a man of both eccentric appearance and behavior.\n\n~!Like Subaru, he is revealed to be from Japan and was summoned roughly 18 years before Subaru. Shortly after he was summoned, he lost his left arm in an unfortunate incident in the Empire of Vollachia. !~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 182417,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90181,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Beatrice",
+        "native": "ベアトリス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90181-wRPm0OEaucmw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90181-wRPm0OEaucmw.png"
+      },
+      "descripcion": "__Height:__ 140 cm (4'7\")\n__Age:__ ~!400+ (Actual)!~\n\nThe caretaker of the library in [Roswaal](https://anilist.co/character/90182)'s mansion. \n\nShe has a distinct way of speaking, adding \"I suppose\" and \"in fact\" at the end of some of her sentences.\n\n~!Around 400 years ago, Beatrice was created by [Echidna](https://anilist.co/character/129330). She helped her with her experiments, such as the Sanctuary Barrier, though she wasn't told everything as she didn't know that [Ryuuzu Meyer](https://anilist.co/character/174072) would be sealed in a crystal. Sometime later, Echidna ordered her to stand guard over the library while she waited for \"that person,\" an order which she diligently followed.!~\n\n~!After numerous and painful attempts to convince her to leave the library [Subaru](https://anilist.co/character/88573) succeeded, and Beatrice became his contract spirit.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21780,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)",
+            "english": "Re:ZERO ~Starting Break Time From Zero~",
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム)"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World",
+            "native": "異世界かるてっと ～あなざーわーるど～"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 120700,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 129330,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Echidna",
+        "native": "エキドナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129330-ZUtYw4n7N0uH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b129330-ZUtYw4n7N0uH.png"
+      },
+      "descripcion": "Echidna is one of the Witches of Sin, being the Witch of Greed. She has a strong thirst for knowledge along with a curiosity for the unknown, which defines her behavior. Echidna is described as black hearted, being unable to empathize with others and their feelings due to a lack of understanding. She will do anything to gain knowledge, be it deceit or employed sophistry.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 24
+      },
+      "media": [
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88572,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Emilia",
+        "native": "エミリア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88572-IzTwXEHSobRs.jpg"
+      },
+      "descripcion": "**Height:** 164 cm (5'5\")\n\nShe is a silver-haired half-elf girl who is one of the candidates to become the next ruler in the royal election. [Subaru](https://anilist.co/character/88573/Natsuki-Subaru) first meets her when her insignia is stolen by [Felt](https://anilist.co/character/88574/Felt) as she needs to possess it to be eligible to participate in the election. She introduces herself as Satella when she and Subaru met during the first timeline before introducing herself by her real name when she got her insignia back.\n\nEmilia is good natured and likes to take care of others, though she herself refuses to admit it, instead thinking of it as her own selfishness. She is indifferent to her own appearance, leaving [Puck](https://anilist.co/character/90187/Puck) to take care of her clothes and hair. Because her appearance is similar to the [Witch of Envy](https://anilist.co/character/127242/Satella), she has received unfair discrimination from others. She sometimes acts like a child and is unacquainted with the world as she used to live in the woods with other Elves, though despite this she still works hard to become a ruler.",
+      "genero": "Female",
+      "edad": "14-19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21780,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)",
+            "english": "Re:ZERO ~Starting Break Time From Zero~",
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム)"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World",
+            "native": "異世界かるてっと ～あなざーわーるど～"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 120700,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88574,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Felt",
+        "native": "フェルト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88574-Hau8t0GlMvhp.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88574-Hau8t0GlMvhp.jpg"
+      },
+      "descripcion": "**Height:** 150 cm (4'11\")\n\nA thief that lives in the slums. Felt stole [Emilia's](https://anilist.co/character/88572/Emilia) insignia, hoping for quick, easy cash. Though Felt can usually handle her own, she does consider [Rom](https://anilist.co/character/124117/Rom) to be like family.\n\n~!After being chosen by the insignia, she is forced to participate in the Royal Selection and is currently a candidate to become the 42nd King of Lugunica.!~",
+      "genero": "Female",
+      "edad": "14-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21780,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)",
+            "english": "Re:ZERO ~Starting Break Time From Zero~",
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム)"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        },
+        {
+          "id": 210687,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 4th Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 143378,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Frederica Baumann",
+        "native": "フレデリカ・バウマン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b143378-1pXqjZho4dhz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b143378-1pXqjZho4dhz.png"
+      },
+      "descripcion": "Frederica Baumann is a maid working for [Roswaal L. Mathers](https://anilist.co/character/90182/Mathers-Roswaal) and a member of the Emilia Camp. She quit her job as a maid a few months before [Subaru's](https://anilist.co/character/88573/Natsuki-Subaru) appearance, but returned after [Ram](https://anilist.co/character/88576/Ram) couldn't manage the mansion ~!after [Rem](https://anilist.co/character/88575/Rem) had her name and memories eaten. !~\n\n~!She is the half-sister of [Garfiel Tinsel](https://anilist.co/character/133847/Tinsel-Garfiel).!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 120700,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 182417,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        },
+        {
+          "id": 210687,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 4th Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133847,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Garfiel Tinsel",
+        "native": "ガーフィール・ティンゼル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133847-8I2Pjoz232vS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b133847-8I2Pjoz232vS.png"
+      },
+      "descripcion": "Garfiel Tinsel is the former guardian of the Sanctuary and a member of the Emilia Camp. Introduced during Arc 4, he became one of the main supporting characters of the season. He's a half-beast human and [Frederica Baumann's](https://anilist.co/character/143378/Baumann-Frederica) half-brother. He can transform himself in a giant golden tiger that can deal powerful attacks but with a cost of losing his reason, so he uses this ability when he's pushed to the limit.\n\n~!Garfiel and Frederica lived together until she left when he was around 4 years old and he hadn't seen her since until their reunion 10 years later during the Sanctuary incident. After seeing his mother's \"death\" during the trial at a young age, he began to fear the outside world, causing him to try and protect the Sanctuary.!~",
+      "genero": "Male",
+      "edad": "13-15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World",
+            "native": "異世界かるてっと ～あなざーわーるど～"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 120700,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 182417,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        },
+        {
+          "id": 194447,
+          "title": {
+            "romaji": "Isekai Quartet 3",
+            "english": "Isekai Quartet 3",
+            "native": "異世界かるてっと 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124110,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Otto Suwen",
+        "native": "オットー・スーウェン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124110-Gfr3IYI6FwqE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124110-Gfr3IYI6FwqE.jpg"
+      },
+      "descripcion": "\nOtto Suwen is a merchant appearing in  Re:Zero. His remarkable misfortune always takes him to dangerous situations, from which he escapes thanks to his wit.\nOtto has gray hair that is mentioned to be as long as a gal game protagonist. He is said to be somewhat handsome if he has a serious expression. However, he is usually either retorting, shouting, or panicking, ruining his looks. He has a medium build, but has trained himself since he used to work as a merchant.\n",
+      "genero": "Male",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 24
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World",
+            "native": "異世界かるてっと ～あなざーわーるど～"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 120700,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 182417,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141858,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Petra Leyte",
+        "native": "ペトラ・レイテ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141858-wO0Uj6o4OpUI.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141858-wO0Uj6o4OpUI.jpg"
+      },
+      "descripcion": "Petra is a bright and kind girl from Irlam Village. She likes [Subaru](https://anilist.co/character/88573/Natsuki-Subaru) very much after he saved her from the Wolgarm incident.\n\n~!She became a maid at the Roswaal Mansion after Subaru came back from the witchcult incident. !~",
+      "genero": "Female",
+      "edad": "12-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 120700,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 182417,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        },
+        {
+          "id": 210687,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 4th Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90187,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Puck",
+        "native": "パック"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90187-xJXlD84KXl3t.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90187-xJXlD84KXl3t.jpg"
+      },
+      "descripcion": "__Height:__ 7 cm\n\nPuck is an Artificial Spirit that [Emilia](https://anilist.co/character/88572/Emilia) was formerly contracted with. He is the current Great Spirit of Fire.\n\n~!He is currently known as the Beast of The End.!~\n\n~!Around 400 years ago, Puck was created by Echidna, though he had apparently left her by the time she moved into the Sanctuary. Seven years before the start of the election, Puck unfroze Emilia and began to act as her friend and mentor, and later on started to live at Roswaal's mansion where he was reunited with Beatrice.!~\n\nPuck can be described as cute or adorable, thus his skin being pink around his cheeks. His fur is mostly grey with silver in certain spots (i.e. tip of the tail). His eyebrows are pretty small and rhombus-shaped. He also has a gold earring on his left ear. Sometimes, he carries a purple bag.\n\nPuck is generally a nice spirit. He is very happy and stays at Emilia's side to protect her, affectionately calling her \"Lia\". He occasionally goofs around and gets along especially well with [Beatrice](https://anilist.co/character/90181/Beatrice). \n\n~!However, Puck's demeanor greatly changes in loops where Emilia dies, showing a complete disregard for anyone except her, and was even willing to destroy the world because of the condition in their contract.!~",
+      "genero": null,
+      "edad": "420-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21780,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)",
+            "english": "Re:ZERO ~Starting Break Time From Zero~",
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム)"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World",
+            "native": "異世界かるてっと ～あなざーわーるど～"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88576,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ram",
+        "native": "ラム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88576-NWkotUiJ3mK3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88576-NWkotUiJ3mK3.png"
+      },
+      "descripcion": "__Height:__ 154 cm (5’1”)\n\nRam is one of the twin maids working for [Roswaal L Mathers](https://anilist.co/character/90182). She has medium length light pink hair that covers her left eye, large darkish pink eyes, and young features. She also has hair clips towards right side of her hair, flower-shaped ribbon on the same side of her hair, and a maid hairband. She looks nearly identical to her sister [Rem](https://anilist.co/character/88575/Rem) apart from her hair, eyes, and ribbon coloring. Ram is seemingly self-centered and does things at her own pace, however in actuality she maintains a distance from people to ascertain them. She believes that Roswaal is the greatest and no one else is as precious except for her sister Rem. She is slightly more outgoing in comparison to the generally taciturn Rem, who generally allows Ram to take the lead in their sisterly bond.",
+      "genero": "Female",
+      "edad": "17-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21780,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)",
+            "english": "Re:ZERO ~Starting Break Time From Zero~",
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム)"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World",
+            "native": "異世界かるてっと ～あなざーわーるど～"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 120700,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88577,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Reinhard van Astrea",
+        "native": "ラインハルト・ヴァン・アストレア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88577-oKKnibqGgSSD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88577-oKKnibqGgSSD.png"
+      },
+      "descripcion": "__Height__: 184 cm (6'0\")\n\nReinhard van Astrea is the current Sword Saint and a member of the Royal Guard, currently acting as [Felt](https://anilist.co/character/88574/Felt)'s knight. \n\nAs the Sword Saint and the Knight of the Royal Guard, Reinhard embodies chivalry and elegance, treating everyone with exceptional respect. He is fair, brave, and always acts in the name of justice, whether on duty or simply strolling through the Royal Capital.\n\nAs a knight, Reinhard only uses his sword when necessary, since, in addition to being a rule, his iron-clad rule is to not inflict pain to others if not absolutely necessary, be it a normal thug or a member of the Witch Cult.",
+      "genero": "Male",
+      "edad": "19-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21780,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)",
+            "english": "Re:ZERO ~Starting Break Time From Zero~",
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム)"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        },
+        {
+          "id": 194447,
+          "title": {
+            "romaji": "Isekai Quartet 3",
+            "english": "Isekai Quartet 3",
+            "native": "異世界かるてっと 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88575,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Rem",
+        "native": "レム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88575-Ayu8UPDA8NS6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88575-Ayu8UPDA8NS6.png"
+      },
+      "descripcion": "__Height:__ 154 cm (5'1\")\n\nRem is one of the twin maids working for [Roswaal L Mathers](https://anilist.co/character/90182/Mathers-L-Roswaal). She has medium length sky blue hair that covers her right eye, large light blue eyes, and young features. She also has hair clips towards left side of her hair, flower-shaped ribbon on the same side of her hair, and a maid hairband. She looks nearly identical to her sister [Ram](https://anilist.co/character/88576) apart from her hair, eyes, and ribbon coloring. She usually wears a maid uniform, and since her chest is slightly larger than her sister's, she secretly changes the measurements to hide it. Rem tends to speak in a superficially polite manner and sometimes acts without thinking. She holds both respect to the point of worship and guilt toward her sister for an incident in the past. Because of her respect and guilt toward her sister, she used to think of herself as inferior.",
+      "genero": "Female",
+      "edad": "17-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21780,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)",
+            "english": "Re:ZERO ~Starting Break Time From Zero~",
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム)"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World",
+            "native": "異世界かるてっと ～あなざーわーるど～"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 120700,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90182,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Roswaal Mathers",
+        "native": "ロズワール・Ｌ・メイザース"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90182-Ho0NS06tc6NL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90182-Ho0NS06tc6NL.png"
+      },
+      "descripcion": "~!__Mental age:__ 400+!~\nThe lord of the Roswaal Mansion and a descendant of the original Roswaal.\n\nHe comes across as an eccentric due to his flamboyant appearance and odd speaking style, the latter which he shares with his grandmother. However, he harbors a more calculating and reserved side with a sharp political mind and gaze that reads others quite well.\n\n~!It is later revealed that he is in fact the original Roswaal, Roswaal A. Mathers, who has been possessing his descendants' bodies to meet his teacher Echidna again at any cost, even if that means sacrificing himself or those close to him.!~",
+      "genero": "Male",
+      "edad": "29-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 16
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21780,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)",
+            "english": "Re:ZERO ~Starting Break Time From Zero~",
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム)"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88573,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Subaru Natsuki",
+        "native": "ナツキ・スバル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88573-F8yMTK9GhnTA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88573-F8yMTK9GhnTA.png"
+      },
+      "descripcion": "__Height:__ 173 cm (5'8\")\n\nOn the way home from the convenience store, he suddenly finds himself transported into another world. He has the ability that he calls \"Return by Death\" to go back in time when he dies. Despite being a hikikomori and gamer in his real world, Subaru does a bit of workout and seems to know basic hand-to-hand combat, making him not completely weak.\n\nWhile Subaru tends to not read the situation, he is loyal to those he holds dear, willing to help them, even if that means taking the thorny path. He has his resolve confirmed through the many situations and circumstances he faces in the fantasy world, originally having been one to always take the \"easy\" route. As a hikikomori, he is hopeful of the possibilities that being sucked into a new realm brings, but later realizes the realities of the predicament he is in. Ultimately, he resolves himself to be faithful and protective of the ones that he cares most about.",
+      "genero": "Male",
+      "edad": "17-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21780,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)",
+            "english": "Re:ZERO ~Starting Break Time From Zero~",
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム)"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World",
+            "native": "異世界かるてっと ～あなざーわーるど～"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 120700,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90177,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Anastasia Hoshin",
+        "native": "アナスタシア・ホーシン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90177-K1XztcZqHl3c.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90177-K1XztcZqHl3c.png"
+      },
+      "descripcion": "Anastasia Hoshin is the head of the Hoshin Trading Company and a candidate to become the 42nd King of Lugunica. Her knight is [Julius Juukulius](https://anilist.co/character/90183/Euclius-Julius).\n\nDespite her surname being \"Hoshin\", she's not directly related to Hoshin of the Wilderness. She chose the name because she was inspired by his legacy.",
+      "genero": "Female",
+      "edad": "22-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 120700,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 182417,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        },
+        {
+          "id": 210687,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 4th Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 183733,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Archi",
+        "native": "アーチ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183733-kfPnOrhiOoQF.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b183733-kfPnOrhiOoQF.jpg"
+      },
+      "descripcion": "Archi was a disciple slated to be the next guardian of Elior Forest and a villager of the Elf Village. He was also family friend to Fortuna and Emilia.\n\n~!After Pandora and Regulus attacked, Arch went to bring Emilia to safety however while doing so he was attacked by the Black Serpent, causing him to sacrifice himself so Emilia could escape!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 218202,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bordeaux Zellgef",
+        "native": "ボルドー・ツェルゲフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b218202-zCXaFinepDRV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b218202-zCXaFinepDRV.png"
+      },
+      "descripcion": "Bordeaux Zellgef is a member of the Sage Council. During the Demi-Human war, he acted as the captain of the Zellgef Squadron. Four decades ago during the Demi-Human War, Bordeaux was a tall, muscular and somewhat frightening man, usually donned in heavy iron armour and wielding a massive battle axe. He had short and spiky light blue hair, and equally blue and thick eyebrows. His eyes radiated a strong fighting spirit.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175581,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Capella Emerada Lugnica",
+        "native": "カペラ・エメラダ・ルグニカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175581-boju9L7bFkvi.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175581-boju9L7bFkvi.jpg"
+      },
+      "descripcion": "Capella Emerada Lugnica is a Sin Archbishop of the Witch Cult, representing lust.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 182417,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137523,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Carmilla",
+        "native": "カーミラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137523-yiY6On9eQ0mc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137523-yiY6On9eQ0mc.png"
+      },
+      "descripcion": "Carmilla is one of the Witches of Sin, being the Witch of Lust. She has no self confidence, being timid, and tends to have downcast eyes. Despite this, others find her similar to a scared animal, making them attracted to her.\n\n\n~!Carmilla's main ability is \"Authority of Lust\". With this Ability, Carmilla is able to captivate people, making them absorbed in her atmosphere to the point they wouldn't be able to know if someone were to hurt them. She can also make Individuals believe they are seeing and hearing what they want to see and hear, an example is when Subaru saw Rem and heard her when facing Carmilla.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 19
+      },
+      "media": [
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 204384,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chap",
+        "native": "チャップ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b204384-8xOnHIGJmhay.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b204384-8xOnHIGJmhay.png"
+      },
+      "descripcion": "Chap is a member of Ganak's underworld until he was abandoned by the organization he was a part of.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90185,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Crusch Karsten",
+        "native": "クルシュ・カルステン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90185-FR9JHyNe5038.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90185-FR9JHyNe5038.jpg"
+      },
+      "descripcion": "Crusch Karsten is the Matriarch of House Karsten and a candidate to become the 42nd King of Lugnica.\n\nWhile normally calm and serious, Crusch is honest, sincere, right, being a type of person who is destined to stand above others, though she has talent and has worked hard to reach where she is now. She is already the head of her family, finishing her work better than her father. She prefers to act herself and has the pride of a warrior. Crusch is also gentle, often believing the false knowledge jokingly told to her by [Ferris](https://anilist.co/character/90184), and sometimes displays an airheaded side. Like her mother Helena Karsten, she is shown to be ruthless and reckless.",
+      "genero": "Female",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 182417,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137527,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Daphne",
+        "native": "ダフネ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137527-CwgIs8wHrLfE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137527-CwgIs8wHrLfE.jpg"
+      },
+      "descripcion": "Daphne is one of the Witches of Sin, being the Witch of Gluttony. All she wants is to be full, it's her reason for living. Daphne enjoys giving people nicknames, such as Subarun for Subaru.\n\n~! Daphne's main ability is \"Authority of Gluttony\". With this authority, Daphne is able to cause a individual to have and feel extreme levels of hunger by just touching them or looking at them. When Subaru encountered Daphne it only look one look from her left eye for him to start eating his arm and ignores everything that was going on around him. Echidna states that a look from Daphne's left eye isn't all impressive and the true terror of Daphne comes when she uses her right eye or eats her target. !~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 393560,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dias Fatsbalm VI",
+        "native": "ディアス・レプンツォ・エレマンソ・オプレーン・ファッツバルム六世"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": "During the meeting among the western nobles that took place in Arc 5, Dias was hired to cook the food for all the nobles there. While there, she met and befriended Petra Leyte, and she assisted her in making a certain dish for Roswaal L. Mathers.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182417,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 346671,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dynas",
+        "native": "ダイナス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b346671-k0V1f1796d98.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b346671-k0V1f1796d98.png"
+      },
+      "descripcion": "Captain of the White Dragon's Scales.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90180,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Elsa Granhiert",
+        "native": "エルザ・グランヒルテ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90180-YXbXfcSlalav.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90180-YXbXfcSlalav.png"
+      },
+      "descripcion": "An assassin-for-hire from the Northernmost nation, the Holy Kingdom of Gusteko, known as \"The Bowel Hunter\". Elsa wishes to make a trade for an insignia, as her client's wishes.  \n\n~!Elsa Granhiert was an assassin working together with [Meili](https://anilist.co/character/175577) for an individual they refer to as \"Mother\" until her death.!~",
+      "genero": "Female",
+      "edad": "23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21780,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)",
+            "english": "Re:ZERO ~Starting Break Time From Zero~",
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム)"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 120700,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 313108,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eridna",
+        "native": "襟ドナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b313108-hUbgrWy8vz7J.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b313108-hUbgrWy8vz7J.png"
+      },
+      "descripcion": "Eridna is an Artificial Spirit created by the Witch of Greed, [Echidna](https://anilist.co/character/129330/Echidna), who is currently in service of [Anastasia Hoshin](https://anilist.co/character/90177/Anastasia-Hoshin). First introduced in Arc 5, she later plays a pivotal role in Arc 6.\n\nSimilarly to her creator, Eridna speaks, sounds, and acts just like the Witch herself, however she has no memories of her past aside from her name. Because of this, Subaru nicknamed her Eridna (Scarfidna). She's also shown to deeply care about Anastasia, going to extreme lengths to make sure no one would find out about their condition.",
+      "genero": "Female",
+      "edad": "400+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90184,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Felix Argyle",
+        "native": "フェリックス・アーガイル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90184-o1ZFF6osCZX7.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90184-o1ZFF6osCZX7.png"
+      },
+      "descripcion": "Felix Argyle commonly known as Ferris, is [Crusch Karsten](https://anilist.co/character/90185)'s knight. He is a beast human (demi-human).",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 16
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 182417,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 183732,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fortuna",
+        "native": "フォルトナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183732-ODeNNBil4916.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b183732-ODeNNBil4916.png"
+      },
+      "descripcion": "Fortuna was the guardian of Elior Forest and was Emilia's aunt on her father's side who took care of her instead of her mother.\n~!During her time in Eliot Forest, she developed a close bond with Geuse and they both looked after Emilia. After Pandora and Regulus attacked, she fought alongside Geuse to stop them. However, Pandora tricked Geuse into thinking Fortuna was her and Geuse accidentally killed Fortuna, causing him to go insane.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 346672,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fred Thompson",
+        "native": "フレド・トンプソン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b346672-DmfHFX01fOfc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b346672-DmfHFX01fOfc.png"
+      },
+      "descripcion": "Garek Thompson's son. He is half-siblings with Garfiel and Frederica.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348129,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Garek Thompson",
+        "native": "ギャレク・トンプソン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348129-vRaMKwJ4VlJA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b348129-vRaMKwJ4VlJA.png"
+      },
+      "descripcion": "Priestella's Metropolitan Director and the husband of Reala Thompson.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205262,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gaston",
+        "native": "ガストン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205262-4QkNpvgw0svU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205262-4QkNpvgw0svU.png"
+      },
+      "descripcion": "Gaston, commonly known as Ton, is one of the three thugs that attacked Subaru.\n\n~! He later joined the [Felt](https://anilist.co/character/88574/Felt) Camp when Felt employed him after Royal Selection began. After being employed by Felt, he started to get trained by Reinhard and has developed considerable power. !~",
+      "genero": null,
+      "edad": "26",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137525,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hector",
+        "native": "ヘクトール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137525-p4bLdgqVoQ3J.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137525-p4bLdgqVoQ3J.png"
+      },
+      "descripcion": "Hector is one of the Witches of Sin, being the Warlock of Melancholy. He has a negative personality, usually expressing his negativity in words. Hector has some form of relation with Echidna. He also wears a outfit similar to that of Roswaal's\n\n~! Hector's main ability is \"Authority of Melancholy\". With this authority, Hector is able to create a force that is able to crush living beings and magic. While on paper this ability seems simple, it was enough to easily overpower the original Roswaal and cause severe injuries to him. Roswaal who is extremely powerful and one of the strongest mages of all time. !~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205415,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Heinkel Astrea",
+        "native": "ハインケル・アストレア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205415-S1LW53VFeLMa.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205415-S1LW53VFeLMa.png"
+      },
+      "descripcion": "Heinkel Astrea is the current Patriarch of House Astrea and the Deputy Commander of the Royal Guards.\n\nOnce a gentle and kind man, after his wife fell into a coma he turned into an alcoholic, causing him to neglect his son and abuse his power as Deputy Commander. Some time prior to Arc 5, he joined the Priscilla Camp in hopes that, if their camp wins the Royal Selection, he can gain access to the Dragon's Blood and save his wife.",
+      "genero": "Male",
+      "edad": "39",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 17
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 203919,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hetaro Pearlbaton",
+        "native": "ヘータロー・パールバトン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b203919-C4m7N3cBUfCw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b203919-C4m7N3cBUfCw.png"
+      },
+      "descripcion": "Hetaro Pearlbaton  is one of Anastasia Hoshin's followers and is one of the three vice captains of the mercenary group Fang of Iron.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 226758,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hitosashiyubi",
+        "native": "人差し指"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b226758-MOQj5kr5GUIv.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b226758-MOQj5kr5GUIv.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        }
+      ]
+    },
+    {
+      "id": 207929,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Joshua Euclius",
+        "native": "ヨシュア・ユークリウス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207929-HyE6pbQehXnX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b207929-HyE6pbQehXnX.png"
+      },
+      "descripcion": "__Age__: 19 (Arc 5+)\n\nJoshua is Julius Euclius' younger brother. Joshua is extremely well mannered and elegant but, unlike Julius, he can’t keep his composure and often gets flustered. Joshua was born sickly so he’s physically very weak and has a narrow point of view towards the world yet at the same time having a lot of respect for his brother.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 210687,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 4th Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90183,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Julius Euclius",
+        "native": "ユリウス・ユークリウス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90183-LWx59kSa5Vjl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90183-LWx59kSa5Vjl.png"
+      },
+      "descripcion": "__Height:__ 179 cm (5'10\")\n\nJulius Euclius is [Anastasia Hoshin's](https://anilist.co/character/90177/Hoshin-Anastasi) knight and a member of the Royal Guard. Julius lived with his family at the Euclius House. After his father, Klein Euclius died, he started to live with his uncle Alviero and he started to take care of Julius and became his adoptive father.\n\nAs a member of Lugnica's nobility, Julius acts in a proper fashion, always having an air of nobility and conviction. He is also considerate and doesn't forget to show care toward others. He also shows a strict side, giving out accurate assessments of others whether they're good or bad, which is a result of his upbringing as an elite, and in actuality, he believes that he and others can do better than they currently are.\n\nJulius doesn't like those who forget their place, leading him to have bad relations with [Subaru](https://anilist.co/character/88573/Natsuki-Subaru) for a while. While both have apologized to each other after the battle with the Hakugei, Subaru told him he still hated him. Julius said he didn't intend to be friends. They both became very intimate very quickly during the planning and attacking the Witch Cult. In the end, Julius directly considered Subaru as his friend.\n",
+      "genero": "Male",
+      "edad": "21",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 182417,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        },
+        {
+          "id": 210687,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 4th Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124118,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kadomon Risch",
+        "native": "カドモン・リッシュ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124118-ZWc6vrpwxZAL.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124118-ZWc6vrpwxZAL.jpg"
+      },
+      "descripcion": "Kadomon is a fruit seller in the royal capital.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205261,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kan",
+        "native": "カン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205261-v1HJzOXXVEJf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205261-v1HJzOXXVEJf.png"
+      },
+      "descripcion": "__Height:__ 130 cm (4'3\")\n\nCamberley, commonly known as Kan, is one of the three thugs that attacked Subaru.\n\n~! He later joined the [Felt](https://anilist.co/character/88574/Felt) Camp when Felt employed him after Royal Selection began. After being employed by Felt, he began getting trained by Reinhard and has developed considerable power. !~",
+      "genero": "Male",
+      "edad": "23-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 182088,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kenichi Natsuki",
+        "native": "菜月賢一"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b182088-Eq34LOGzm6tL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b182088-Eq34LOGzm6tL.png"
+      },
+      "descripcion": "Subaru's father. Subaru idolized his father and wanted to be like him. However, after this proved to be impossible, he went through a downward spiral that ultimately resulted in him becoming a shut-in. \n\nKenichi is hard-working, diligent, and loved by all, which led to a huge amount of expectations being put on Subaru by his surroundings as he is \"Kenichi's Son\", which furthermore increased the burden on him. He was shown to be a very supportive dad which, although always trying to get his son to go out of the house or go back to school, never forgets to put his son's emotional state before it all through physical bonding and father-to-son talks.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 185044,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ketty Muttart",
+        "native": "ケティ・ムッタート"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b185044-9Ofs1dFdTP27.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b185044-9Ofs1dFdTP27.jpg"
+      },
+      "descripcion": "Was a merchant and a member of the Witch Cult.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289735,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kiritaka Muse",
+        "native": "キリタカ・ミューズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289735-RIoPao2T9sAQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289735-RIoPao2T9sAQ.png"
+      },
+      "descripcion": "Kiritaka Muse is a trade representative of Priestella and the successor of the Muse Trading Company. He is the last survivor of the Priestellan Council of Ten.",
+      "genero": "Male",
+      "edad": "Late 20s",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 207928,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kurgan",
+        "native": "クルガン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207928-R70qMbMjlVQo.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b207928-R70qMbMjlVQo.jpg"
+      },
+      "descripcion": "Kurgan was a hero of the Vollachia Empire, regarded as its strongest warrior at one point in time. He fought against [Wilhelm van Astrea](https://anilist.co/character/90179/Wilhelm-van-Astrea) in the years following the Demi-Human War during [Stride](https://anilist.co/character/175580/Stride-Vollachia)'s attack on the Kingdom.\n\n~!It is mentioned that he was killed by [Regulus](https://anilist.co/character/174098/Regulus-Corneas), however, he is used by the Witch Cult as a corpse soldier during their attack at the Watergate City of Priestella.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 183731,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Liliana Masquerade",
+        "native": "リリアナ・マスカレード"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183731-1zm1phZcrLjP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b183731-1zm1phZcrLjP.png"
+      },
+      "descripcion": "Liliana is a songstress who is currently accompanying Kiritaka Muse in the city of Pristella.",
+      "genero": "Female",
+      "edad": "22",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 182417,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355833,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Liliana no Chichi",
+        "native": "リリアナの父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b355833-jkgFrTp8JVkJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b355833-jkgFrTp8JVkJ.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 355832,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Liliana no Haha",
+        "native": "リリアナの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b355832-ls3p2HRslAKw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b355832-ls3p2HRslAKw.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 185043,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lucas",
+        "native": "リュカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b185043-sE8wxN5FrHHL.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b185043-sE8wxN5FrHHL.jpg"
+      },
+      "descripcion": "Citizen of Irlam Village.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        }
+      ]
+    },
+    {
+      "id": 346678,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lusbel Kallard",
+        "native": "ルスベル・カラード"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b346678-kniJ4flHrrof.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b346678-kniJ4flHrrof.png"
+      },
+      "descripcion": "Citizen of Priestella. He is taken hostage by Sirius.",
+      "genero": "Male",
+      "edad": "9",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205260,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Marcos Gildark",
+        "native": "マーコス・ギルダーク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205260-VWLQccRJmTfv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205260-VWLQccRJmTfv.png"
+      },
+      "descripcion": "Marcos Gildark is the captain of the Royal Guard and Knight Commander.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175577,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Meili Portroute",
+        "native": "メィリィ・ポートルート"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175577-lUNPAV3Gujl3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175577-lUNPAV3Gujl3.jpg"
+      },
+      "descripcion": "One of the children that lives in the village within [Roswaal](https://anilist.co/character/90182)'s region. She's timid, though is friendly, such as when she introduces a small dog to [Subaru](https://anilist.co/character/88573). \n~!Meili Portroute is a Demon Beast User.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 120700,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        },
+        {
+          "id": 210687,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 4th Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 204385,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Melakuera",
+        "native": "メラクェラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b204385-nnnWFR1WB8Kv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b204385-nnnWFR1WB8Kv.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        }
+      ]
+    },
+    {
+      "id": 354519,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Miklotov McMahon",
+        "native": "マイクロトフ・マクマホン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b354519-0RCQ84r7RIh7.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b354519-0RCQ84r7RIh7.png"
+      },
+      "descripcion": "The representative of the Council of Wise Men who are currently ruling over the Dragon Kingdom of Lugunica. Many have considered Miklotov to be the true brains of the Kingdom who, in the event that the royal family were to disappear, would be a suitable replacement ruler.",
+      "genero": "Male",
+      "edad": "74",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157961,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mimi Pearlbaton",
+        "native": "ミミ・パールバトン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157961-gvUztmBkzSMB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157961-gvUztmBkzSMB.png"
+      },
+      "descripcion": "__Height:__ 135 cm (4'5\")\n\nMimi is one of Anastasia Hoshin's followers and is one of three vice-captains of the mercenary group Fang of Steel.",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 120700,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 182417,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137521,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Minerva",
+        "native": "ミネルヴァ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137521-kq5uFiHwC15V.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137521-kq5uFiHwC15V.png"
+      },
+      "descripcion": "Minerva is one of the Witches of Sin, being the Witch of Wrath. Minerva dislikes conflict and wishes for all to be well. She also only cares about what's directly in front of her, not worrying about things she cannot see. \n\nMinerva has some history with the elves as she cares deeply for Emilia, along with the other elves.\n\n~!Minerva's main ability is \"Authority of Wrath\". Unlike other authorities this ability is only a support skill. Minerva is able to heal others by attacking any part of their body with her own. The authority also gives her increased speed and strength. The drawback is that every time the authority is used it causes a calamity to happen in another part of the world. The calamity can range from many things such as an earthquake.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 182087,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Naoko Natsuki",
+        "native": "菜月菜穂子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b182087-yKqHVDQHUdbk.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b182087-yKqHVDQHUdbk.jpg"
+      },
+      "descripcion": "[Subaru](https://anilist.co/character/88573/Natsuki-Subaru)'s mother.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137522,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pandora",
+        "native": "パンドラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137522-vVY1DGT88Lqe.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137522-vVY1DGT88Lqe.jpg"
+      },
+      "descripcion": "Pandora is one of the Witches of Sin, being the Witch of Vanity. She acts dignified and graceful, but is quick to being a maniac when things don't go her way. Pandora also has some ties with the Witch Cult.\n\n\n~! Pandora's main ability is \"Authority of Vainglory\". With this authority, Pandora is able to rewrite phenomenon to her liking as much she desires. Examples include being able to negate death, bury people into the ground instantaneously, teleporting individuals and warp and change individuals memories. The only draw back is her authority not being able to function on the demon beasts for full control, but she can still direct them to go to areas of her choosing. !~\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 181313,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Patrasche",
+        "native": "パトラッシュ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b181313-eT4mFPCZj1OZ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b181313-eT4mFPCZj1OZ.jpg"
+      },
+      "descripcion": "[Subaru](https://anilist.co/character/88573/Natsuki-Subaru)'s Earth Dragon that he officially received from [Crusch Karsten](https://anilist.co/character/90185/Karsten-Crusch) for his efforts in the Hakugei battle. Despite being of a species known for being feisty, Patrasche is extremely loyal to Subaru, as she is willing to put her life on the line for him.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 120700,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90170,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Petelgeuse Romanee-Conti",
+        "native": "ペテルギウス・ロマネコンティ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90170-sHsO9ojQDLa3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90170-sHsO9ojQDLa3.jpg"
+      },
+      "descripcion": "Sin Archbishop of the Witch Cult, representing sloth.\n\n~!He was later killed by [Natsuki Subaru](https://anilist.co/character/88573/Natsuki-Subaru) with the help of [Julius Juukulius](https://anilist.co/character/90183/Euclius-Julius).!~\n\n~!A hundred years earlier, Petelgeuse was a moderate, upright and rational man. He was close friends with [Fortuna](https://anilist.co/character/183732/Fortuna) and [Emilia](https://anilist.co/character/88572/Emilia), enough to be described as being like a family. However, when [Regulus](https://anilist.co/character/174098/Corneas-Regulus) and [Pandora](https://anilist.co/character/137522/Pandora) attacked their village, he accidentally killed Fortuna through Pandora's power, causing him to go mad.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124119,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Plum Risch",
+        "native": "プラム・リッシュ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124119-pJxrHniJERVk.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124119-pJxrHniJERVk.jpg"
+      },
+      "descripcion": "Plum is the daughter of [Kadomon Risch](https://anilist.co/character/124118)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90186,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Priscilla Barielle",
+        "native": "プリシラ・バーリエル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90186-yr2PT4gI2qa3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90186-yr2PT4gI2qa3.png"
+      },
+      "descripcion": "The matriarch of House Barielle and a candidate to become the 42nd King of Lugunica. Her knight is [Al](https://anilist.co/character/90178/Aldebaran).\n",
+      "genero": "Female",
+      "edad": "19-20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 182417,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205584,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Quark",
+        "native": "クオーク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205584-q2PkKhVgz3O0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205584-q2PkKhVgz3O0.png"
+      },
+      "descripcion": "Quark was Ram and Rem's father.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124115,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rachins Hoffman",
+        "native": "ラチンス・ホフマン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124115-AlzT5EbLBWbt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124115-AlzT5EbLBWbt.png"
+      },
+      "descripcion": "One of the three thugs that attacked Subaru at the very start of Arc 1. \n\n~! He later joined the Felt Camp when [Felt](https://anilist.co/character/88574/Felt) employed him after Royal Selection began. After being employed by Felt, he started to get trained by Reinhard and has developed considerable power. !~\n\n~! He was born as a noble from the Royal Capital of Lugunica, to [Rickert Hoffman](https://anilist.co/character/226757/Rickert-Hoffman) and an unnamed woman. However, after unknown events, he left his family and began living in the slums. He scorns his father and chose to cut ties with his family. !~",
+      "genero": "Male",
+      "edad": "23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 346673,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rafiel Thompson",
+        "native": "ラフィール・トンプソン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b346673-3mgEvkg2SM4m.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b346673-3mgEvkg2SM4m.png"
+      },
+      "descripcion": "Garek Thompson and Reala Thompson's daughter. She is half-siblings with Garfiel and Frederica.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 185045,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Raksha Risch",
+        "native": "ラクシャ・リッシュ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b185045-4Kw0YT6e7Ns6.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b185045-4Kw0YT6e7Ns6.jpg"
+      },
+      "descripcion": "Wife of Kadomon Risch.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174098,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Regulus Corneas",
+        "native": "レグルス・コルニアス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174098-8xjd9vK1KmkP.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174098-8xjd9vK1KmkP.jpg"
+      },
+      "descripcion": "Regulus is a young man of a medium height. He has gold eyes, white hair and a middle to skinny build. Regulus Is a part of the Sin Archbishops of the Witch Cult and represents greed.  Regulus is known for being very talkative and calls himself unselfish, while in fact he is very prideful and likes to act above others and reference himself as above others.\n\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 182417,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 201311,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Reid Astrea",
+        "native": "レイド・アストレア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b201311-TaOilb53XK39.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b201311-TaOilb53XK39.png"
+      },
+      "descripcion": "Reid Astrea was the first Sword Saint and a key figure in the sealing of the Witch of Envy 400 years ago.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205112,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Reshia Tinzel",
+        "native": "リーシア・ティンゼル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205112-xRtGam1Yu0Cp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205112-xRtGam1Yu0Cp.png"
+      },
+      "descripcion": "Mother of [Garfiel](https://anilist.co/character/133847) and [Frederica](https://anilist.co/character/143378).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 181314,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ricardo Welkin",
+        "native": "リカード・ウェルキン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b181314-OB2xgtbugqwZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b181314-OB2xgtbugqwZ.png"
+      },
+      "descripcion": "Ricardo Welkin is one of Anastasia Hoshin's followers and the captain of the mercenary group: Fang of Iron.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 120700,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 210687,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 4th Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 226757,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rickert Hoffman",
+        "native": "リッカートホフマン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b226757-bzteWo2C4j8J.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b226757-bzteWo2C4j8J.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124117,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rom",
+        "native": "ロム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124117-9wZEIt0h4Ioq.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124117-9wZEIt0h4Ioq.jpg"
+      },
+      "descripcion": "Rom, commonly known as Grandpa or Old Man Rom, is a member of the Felt Camp and the former owner of the Stolen Goods Warehouse.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175578,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Roy Alphard",
+        "native": "ロイ・アルファルド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175578-LVgtk9D4XfZs.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175578-LVgtk9D4XfZs.jpg"
+      },
+      "descripcion": "Roy Alphard is a Sin Archbishop of the Witch Cult, representing the bizarre eating aspect of gluttony. \nHe has long disheveled brown hair, with green eyes that are yellow are the center and teeth shaped like sharp fangs. He wears a small piece of cloth around his body as clothing.\n\n\nUnlike his brother Lye, Roy doesn’t care about what he consumes nor does he place any special emphasis on who he wants to eat like his sister Louis. As “bizarre eating” of gluttony, his approach towards his meals is much more casual, emphasizing quantity over quality. In combat unlike Lye he does not give his opponents a chance and likes to exploit their weaknesses to completely destroy them. \n\n\n~! \nLike Lye and Louis, Roy has two similar skills shared between the gluttony’s \n\nRoy has access to “Authority of Gluttony”, unlike other types of authority there are different forms and effects that come from being affected by the authority.\n\nRoy can eat a name and memories of an individual. To achieve eating a name he touches the individual with his left hand, then licks the palm of the same hand. Roy can then take things such as experience, talent, likes and dislikes of human relationships and they can serve as food for him, allowing him to take advantage of any abilities or memories his opponents had. \n\nThose that have their names eaten have their existences erased from the world. This will end any human relationships and remove any contracts with spirits\nThose who have their memories eaten become amnesic and any types of characteristics they had previous are removed.\nThose who have their name and memories eaten become an empty shell, while they are still alive they no longer require the need to eat,excrete waste or age. \n\nWhile this ability is powerful on paper it has two major drawbacks\n\nIf Roy eats a fake name or memory he will become plagued with severe nausea.\nRoy is also unable to eat the same person twice until that individual has gained enough new memories or has established a different sense of self from their old existence.  \n\n!~\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175582,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rui Arneb",
+        "native": "ルイ・アルネブ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175582-hDwS4CVocZa5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175582-hDwS4CVocZa5.png"
+      },
+      "descripcion": "Rui Arneb is a Sin Archbishop of the Witch Cult, representing the satiation aspect of gluttony. Unlike Roy and Lye, Rui doesn't care much about what she eats, putting more emphasis on who she eats with. Rui believes life is unfair and her ideology is trying to find a life that will satisfy her. Rui does not think fondly of her brothers despite them bringing her food and to some degree caring for her.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 185046,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Russell Fellow",
+        "native": "ラッセル・フェロー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b185046-chJWaKEwVlZs.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b185046-chJWaKEwVlZs.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174097,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rye Batenkaitos",
+        "native": "ライ・バテンカイトス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174097-4QaG0jvIft6S.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174097-4QaG0jvIft6S.png"
+      },
+      "descripcion": "Rye Batenkaitos is a Sin Archbishop of the Witch Cult, representing the gourmet aspect of gluttony.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 182417,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174072,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryuuzu Meyer",
+        "native": "リューズ・メイエル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174072-v8hZDRvLIlPA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174072-v8hZDRvLIlPA.png"
+      },
+      "descripcion": "Ryuuzu was a half-elf who lived in the Sanctuary during the era of the witches, 400 years ago. She was used by [Echidna](https://anilist.co/character/129330/Echidna) in order to activate the Sanctuary's barrier. During Echidna's immortality experiments, she created copies of Ryuzu and tasked them with protecting the Sanctuary.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127242,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Satella",
+        "native": "サテラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/127242-UVgHhBEnLAJn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/127242-UVgHhBEnLAJn.png"
+      },
+      "descripcion": "Satella is one of the Witches of Sin, being the Witch of Envy. ~! Contrary to popular belief, Satella and the Witch of Envy are separate personalities. Both of them love Subaru, though the Witch of Envy is aggressive about it.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205259,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Schult",
+        "native": "シュルト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205259-Pythrq9UT2h0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205259-Pythrq9UT2h0.png"
+      },
+      "descripcion": "Schult is a member of the Priscilla Camp. Though not much is known about him, he's extremely loyal to his mistress and is one of her closest attendants.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137526,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sekhmet",
+        "native": "セクメト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137526-Pa3YPDbheK0Z.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137526-Pa3YPDbheK0Z.jpg"
+      },
+      "descripcion": "Sekhmet is one of the Witches of Sin, being the Witch of Sloth. As her position suggests, she can be summed up to being extremely lazy, enough that she finds breathing to be a pain.\n\n\n~! Sekhmet's main ability is \"Authority of Sloth\". With this Ability, Sekhmet is able to use a more advanced and improved version of the unseen hand used by Petelgeuse. Unlike Petelgeuse her unseen hand is able to hit individuals and objects with an invisible force without her moving and she can use this power in any direction she chooses. She is cited from Echidna to be the strongest of the witches of sin besides Satella !~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205583,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Setanta",
+        "native": "セタンタ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205583-hzc7pOCz0RDW.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205583-hzc7pOCz0RDW.jpg"
+      },
+      "descripcion": "Setanta was the chief of the Oni Village Ram and Rem lived at when they were young.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184458,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shaula",
+        "native": "シャウラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184458-wchLacBSRg3L.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184458-wchLacBSRg3L.png"
+      },
+      "descripcion": "Shaula is the overseer of the Pleiades Watchtower created by Flugel. She is tall, has dark green eyes and long brown blackish hair. Her outfit has a similar color scheme to that of Subaru. It is noted that the design for her outfit came from Flugel and her mother. Shaula is seen as empty-headed and unconcerned, yet Shaula has been shown to show deep emotion in certain situations especially with Subaru.\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175579,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sirius Romanée-Conti",
+        "native": "シリウス・ロマネコンティ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175579-1J47sd32LEpW.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175579-1J47sd32LEpW.jpg"
+      },
+      "descripcion": "Sirius is a Sin Archbishop of the Witch Cult, representing wrath.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 182417,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348995,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sylphy",
+        "native": "シルフィ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348995-nHlOes7863nH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b348995-nHlOes7863nH.png"
+      },
+      "descripcion": "184th wife of Regulus Corneas.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205582,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Temae",
+        "native": "テマエ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205582-L17J97ryPKGT.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205582-L17J97ryPKGT.png"
+      },
+      "descripcion": "Temae was Ram and Rem's mother.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124116,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Theresia van Astrea",
+        "native": "テレシア・ヴァン・アストレア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124116-n6qYjDhHcBHS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124116-n6qYjDhHcBHS.png"
+      },
+      "descripcion": "Theresia was the former Sword Saint/Master Swordsman, [Wilhelm](https://anilist.co/character/90179/Wilhelm-van-Astrea)'s wife and [Reinhard](https://anilist.co/character/88577/Reinhard-van-Astrea)'s grandmother.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348125,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tina",
+        "native": "ティーナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348125-uzv2HujAQm4K.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b348125-uzv2HujAQm4K.png"
+      },
+      "descripcion": "Citizen of Priestella.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 187763,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tivey Pearlbaton",
+        "native": "ティビー・パールバトン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187763-R4qQ7xhZ9JTP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187763-R4qQ7xhZ9JTP.png"
+      },
+      "descripcion": "One of Anastasia Hoshin's followers and is one of the three vice captains of the mercenary group Fang of Iron.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 120700,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137524,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Typhon",
+        "native": "テュフォン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137524-6YRTpAShlNMJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137524-6YRTpAShlNMJ.jpg"
+      },
+      "descripcion": "Typhon is one of the Witches of Sin, being the Witch of Pride. She is said to judge people with the innocence and ruthlessness of a young girl. \n\n~!Typhon's main ability is \"Authority of Pride\". With this authority, Typhon is able to tear apart an individuals body if she decides they are guilty of something. The authority is extremely subjective. If the individual feels guilty, Typhon can punish the individual, even if the act may not be something they should be punished for. The ability has one draw back of not being able to work if the individual has little to no thinking capacity.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 128306,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season Part 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 189046,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 4",
+            "native": "Re:ゼロから始める異世界生活 4th season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90179,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Wilhelm van Astrea",
+        "native": "ヴィルヘルム・ヴァン・アストレア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90179-dBqDPUn2i7dM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90179-dBqDPUn2i7dM.jpg"
+      },
+      "descripcion": "__Height:__ 178 cm (5'10\")\n\nWilhelm van Astrea né Trias, is a member of the Crusch Camp and was [Theresia van Astrea](https://anilist.co/character/124116/van-Astrea-Theresia)'s husband.\n\nWilhelm is a refined man with a highly gentle and humble demeanor. However unearth that even temperament belied a fierce warrior who often is the first to help when something happens. However this wasn't always the case as in youth, Wilhelm was very opposite of who he was in his later years. Brash, afoot, short tempered, lonely and often cold with others. He was a troubled individual who devoted himself wholly to the sword and cared for little else. Even so, he knew how to analyze a situation, always finding a way out. Nonetheless, Theresia greatly influenced his personality, becoming increasingly sociable and protective, achieving more results during the Demi-human War. It was through her most of all that he would become the person he is today.",
+      "genero": "Male",
+      "edad": "62 (Arc 5+), 61 (Arc 3-4), 15-20 (Ex 2)",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        {
+          "id": 21891,
+          "title": {
+            "romaji": "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "english": "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "native": "Re:プチから始める異世界生活"
+          }
+        },
+        {
+          "id": 100049,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+            "english": "Re:ZERO -Starting Life in Another World- OVAs",
+            "native": "Re:ゼロから始める異世界生活 OVAs"
+          }
+        },
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        },
+        {
+          "id": 194447,
+          "title": {
+            "romaji": "Isekai Quartet 3",
+            "english": "Isekai Quartet 3",
+            "native": "異世界かるてっと 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348130,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Anchisukiru",
+        "native": "警備員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348130-697GUhLBDkKW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b348130-697GUhLBDkKW.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 215025,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Annerose Miload",
+        "native": "アンネローゼ・ミロード"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b215025-IuVubyBsdv9Y.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b215025-IuVubyBsdv9Y.png"
+      },
+      "descripcion": "Annerose Miload is the heir of the House Miload which is a branch of House Mathers.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205881,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Chamov",
+        "native": "チャモフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205881-N0M5seiqPYyf.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205881-N0M5seiqPYyf.jpg"
+      },
+      "descripcion": "Chamov is a puppy demihuman, with white hair, blue eyes, and an amiable puppy face. He typically likes to wear a hat.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        }
+      ]
+    },
+    {
+      "id": 219105,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Clind",
+        "native": "クリンド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b219105-J90WMckyVqOM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b219105-J90WMckyVqOM.jpg"
+      },
+      "descripcion": "Clind is a house steward serving the Miload Family. He is well-mannered, highly considerate of others, is extremely skilled as a servant, and tends to add idioms to the end of his sentences.\n\n~!Being born before the Great Calamity, Clind was acquainted with the Witches and Warlocks of that era. At some point in time, he made a contract with a young Roswaal A Mathers which entailed Clind to protect Roswaal's property by any and all means. According to Roswaal, he had compensated the contract with Clind by forming a united front and defeating Roswaal's yet-unnamed nemesis. Clind has faithfully abided to his contract ever since, due to his ability to perceive souls and sensing Roswaal A Mathers' soul in the bodies of his descendants.\n\nAt some point in the future, Clind came in contact with an unspecified Witch Factor, which granted him an Authority he possesses to this day.\n\nFollowing the end of the Demi-Human War, Clind accompanied Roswaal J Mathers (Julia Mathers) to a pub where she met with the Sword Demon, Wilhelm van Astrea, where they discussed the threat of Stride Vollachia. During their talk, however, the trio were assaulted by a group of Shinobi, who were swiftly dispatched by Roswaal, Wilhelm, and Clind. Wilhelm noted that Clind's technique was neither sword skill nor magic, but something completely different.\n\nSometime in the following decades, Clind was entrusted with protecting and training Frederica Baumann. During that period, he was also transferred to Miload Manor, where he actively continues to work as Annerose Miload's butler.!~\n",
+      "genero": "Male",
+      "edad": "400+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205555,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Framir Suewen",
+        "native": "フラミル・スーウェン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205555-KFUfYE0wfOnO.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205555-KFUfYE0wfOnO.jpg"
+      },
+      "descripcion": "Framir Suewen is the mother of Otto, Oslo and Regin Suewen.\n",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348121,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gunshuu A",
+        "native": "群衆"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348123,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gunshuu B",
+        "native": "群衆"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348124,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gunshuu C",
+        "native": "群衆"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348122,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gunshuu D",
+        "native": "群衆"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348998,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hiansho no Hitobito A",
+        "native": "避難所の人々"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348997,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hinansho no Hitobito B",
+        "native": "避難所の人々"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348999,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hinansho no Hitobito C",
+        "native": "避難所の人々"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205343,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Louanna Astrea",
+        "native": "ルアンナ・アストレア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205343-yceVSGGA9I10.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205343-yceVSGGA9I10.jpg"
+      },
+      "descripcion": "Louanna Astrea is Heinkel Astrea's wife and Reinhard van Astrea's mother.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 17
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205556,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mazeran Suewen",
+        "native": "マゼラン・スーウェン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205556-FQHGft7PKwXY.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205556-FQHGft7PKwXY.jpg"
+      },
+      "descripcion": "Mazeran Suewen is the current head of the Suewen Trading Company based in Picoutatte and is the father of Otto, Oslo and Regin Suewen.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205557,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Oslo Suewen",
+        "native": "オスロー・スーウェン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205557-GNMDdHAEr3Vn.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205557-GNMDdHAEr3Vn.jpg"
+      },
+      "descripcion": "Oslo Suewen  is the representative of the Suewen Trading Company and Otto's older brother.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205558,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Regin Suewen",
+        "native": "レギン・スーウェン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205558-3g3Ww6G9VRK4.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205558-3g3Ww6G9VRK4.jpg"
+      },
+      "descripcion": "Regin Suewen is a veterinarian operating at the Suwen Treatment Center in the town of Pappelt.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 119661,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season Part 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348996,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Regulus no Tsuma",
+        "native": "レグルスの妻"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163134,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205863,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Rigel Natsuki",
+        "native": "ナツキ・リゲル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205863-tQ5LTcgmG8ZC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205863-tQ5LTcgmG8ZC.jpg"
+      },
+      "descripcion": "Natsuki Rigel  is the non canon son of Natsuki Subaru and Rem.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 108632,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ゼロから始める異世界生活 2nd Season"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 107,
+  "actualizado": 1788564986
+}

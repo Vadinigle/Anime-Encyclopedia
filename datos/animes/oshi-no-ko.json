@@ -1,0 +1,5238 @@
+{
+  "clave": "oshi-no-ko",
+  "nombre": "Oshi no Ko",
+  "descripcion": "La industria del entretenimiento japonés",
+  "generos": [
+    "Drama",
+    "Misterio"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-WqmmwZ4nMzAy.png",
+  "medios": [
+    {
+      "id": 150672,
+      "title": {
+        "romaji": "[Oshi no Ko]",
+        "english": "OSHI NO KO",
+        "native": "【推しの子】"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-WqmmwZ4nMzAy.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150672-WqmmwZ4nMzAy.png"
+      }
+    },
+    {
+      "id": 166531,
+      "title": {
+        "romaji": "[Oshi no Ko] 2nd Season",
+        "english": "OSHI NO KO Season 2",
+        "native": "【推しの子】第2期"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166531-dAL5MsqDHUkj.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166531-dAL5MsqDHUkj.jpg"
+      }
+    },
+    {
+      "id": 182587,
+      "title": {
+        "romaji": "[Oshi no Ko] 3rd Season",
+        "english": "OSHI NO KO Season 3",
+        "native": "【推しの子】第3期"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182587-fsU8LOjmd7oj.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182587-fsU8LOjmd7oj.jpg"
+      }
+    },
+    {
+      "id": 256,
+      "title": {
+        "romaji": "Hoshi no Koe",
+        "english": "Voices of a Distant Star",
+        "native": "ほしのこえ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx256-CMHbugPOGxF6.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx256-CMHbugPOGxF6.png"
+      }
+    },
+    {
+      "id": 209827,
+      "title": {
+        "romaji": "[Oshi no Ko] Final Season",
+        "english": null,
+        "native": "【推しの子】第4期 Final Season"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209827-uHqVlWylCpTT.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209827-uHqVlWylCpTT.jpg"
+      }
+    },
+    {
+      "id": 3834,
+      "title": {
+        "romaji": "Hoshi no Ko Chobin",
+        "english": null,
+        "native": "星の子チョビン"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3834-s7Ss5q3wjiSx.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3834-s7Ss5q3wjiSx.jpg"
+      }
+    },
+    {
+      "id": 5590,
+      "title": {
+        "romaji": "Itoshi no Kotodama",
+        "english": null,
+        "native": "愛しの言霊"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5590.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5590.jpg"
+      }
+    },
+    {
+      "id": 11213,
+      "title": {
+        "romaji": "Hoshi no Ko Poron",
+        "english": null,
+        "native": "星の子ポロン"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11213.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11213.jpg"
+      }
+    },
+    {
+      "id": 169053,
+      "title": {
+        "romaji": "Hoshi no Ko Penky",
+        "english": null,
+        "native": "星の子ペンキィ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b169053-aOgZM9IeL6Ty.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b169053-aOgZM9IeL6Ty.png"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 203384,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Akane Kurokawa",
+        "native": "黒川あかね"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b203384-YuSppFDMw2wn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b203384-YuSppFDMw2wn.png"
+      },
+      "descripcion": "__Height:__ 163 cm (5'4\")\n\nAkane Kurokawa is a rising star actress from the Lalalie Theatrical Company. Although a shy and quiet person, she is very serious when it comes to creating a good performance. She does a deep examination of each role she is given, allowing her to perfectly portray the character's personality and motivations. Akane is introduced to [Aqua](https://anilist.co/character/183885) as a fellow cast member on the set of the reality dating show *The Beginning of My Love With An Idol*.",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        },
+        {
+          "id": 209827,
+          "title": {
+            "romaji": "[Oshi no Ko] Final Season",
+            "english": null,
+            "native": "【推しの子】第4期 Final Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 183885,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Aquamarine Hoshino",
+        "native": "星野アクアマリン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183885-HOmw8CqcJdv3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b183885-HOmw8CqcJdv3.jpg"
+      },
+      "descripcion": "__Height:__ 172 cm (5'7\")\n\n[Ai Hoshino's](https://anilist.co/character/172759/Ai-Hoshino) son. He is the twin big brother of [Ruby Hoshino](https://anilist.co/character/183884/Ruby-Hoshino).\n\n~!He was previously a doctor named Goro, who became a fan of Ai through his patient named Sarina.!~ \n\n~!After reincarnating as Aquamarine and witnessing Ai's murder, he is intent on plotting revenge to the person who schemed Ai's death.!~",
+      "genero": "Male",
+      "edad": "16-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 164117,
+          "title": {
+            "romaji": "Idol",
+            "english": "Idol",
+            "native": "アイドル"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        },
+        {
+          "id": 209827,
+          "title": {
+            "romaji": "[Oshi no Ko] Final Season",
+            "english": null,
+            "native": "【推しの子】第4期 Final Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 188783,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kana Arima",
+        "native": "有馬かな"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b188783-77orwP7vNuNg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b188783-77orwP7vNuNg.png"
+      },
+      "descripcion": "__Height:__ 150 cm (4'11\")\n\nAn actress who was called a prodigy child. She has a rather stubborn personality yet an empathic side to her. She easily succumbs to pressure and while she does put up a front to others, she has very self-deprecating thoughts when it comes to her abilities. She's an honest and earnest person, who is very diligent and persistent even in the roughest of times. Also, she tends to place all responsibility on herself when it comes to others as she is the one who has the most experience in the show business world. She also hates bell peppers.\n  \n~!After the events of the Sweet Today Drama adaptation, she secretly develops a crush for [Aquamarine](https://anilist.co/character/183885/Hoshino-Aquamarine).!~\n\n~!She longs for someone to look at her for who she is now and praise her efforts, someone to say that its okay for her to be here. And after the new B-Komachi's first concert, that person becomes Aquamarine after he waves her respected colored glow stick. Only reinforcing Kana's resolve to make Aquamarine fall for her.!~",
+      "genero": "Female",
+      "edad": "17-19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        },
+        {
+          "id": 209827,
+          "title": {
+            "romaji": "[Oshi no Ko] Final Season",
+            "english": null,
+            "native": "【推しの子】第4期 Final Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3532,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Mikako Nagamine",
+        "native": "長峰美加子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3532-aonFV30zlWHg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3532-aonFV30zlWHg.png"
+      },
+      "descripcion": "Mikako is a junior high school girl who is in love with Terao Noboru, but was chosen to join a space expedition. While in space, Mikako always texted Noboru, even in dangerous situations. But still, Mikako was going far, far away from Earth. So far that her text messages would only reach Noboru after 8, 9, 10 years. She missed Earth and Noboru very much.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 256,
+          "title": {
+            "romaji": "Hoshi no Koe",
+            "english": "Voices of a Distant Star",
+            "native": "ほしのこえ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3531,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Noboru Terao",
+        "native": "寺尾昇"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3531-8KiZJ6esFz7D.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3531-8KiZJ6esFz7D.png"
+      },
+      "descripcion": "Noboru is Mikako's best friend with whom she is in love. He talks to her via text messages after she leaves earth.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 256,
+          "title": {
+            "romaji": "Hoshi no Koe",
+            "english": "Voices of a Distant Star",
+            "native": "ほしのこえ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 250544,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Poron",
+        "native": "ポロン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 11213,
+          "title": {
+            "romaji": "Hoshi no Ko Poron",
+            "english": null,
+            "native": "星の子ポロン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 183884,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ruby Hoshino",
+        "native": "星野ルビー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183884-iyo3BmTuhJ0l.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b183884-iyo3BmTuhJ0l.jpg"
+      },
+      "descripcion": "__Height:__ 158 cm (5'2\")\n\n[Ai Hoshino's](https://anilist.co/character/172759/Ai-Hoshino) daughter, and the younger twin sister of [Aquamarine Hoshino](https://anilist.co/character/183885). \n\n~!She was previously a patient named Sarina under Goro's care. Due to her illness, she was wheelchair-bound. After discovering B-Komachi, she had always aspired to be an idol although her condition kept her from achieving her dream. Since being reincarnated as Ruby, she is now working towards her dream of being an idol like Ai. To do so she's currently working with Strawberry Productions to revive B-Komachi along with Arima Kana and Memcho.!~",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 164117,
+          "title": {
+            "romaji": "Idol",
+            "english": "Idol",
+            "native": "アイドル"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        },
+        {
+          "id": 209827,
+          "title": {
+            "romaji": "[Oshi no Ko] Final Season",
+            "english": null,
+            "native": "【推しの子】第4期 Final Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 237576,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Abiko Samejima",
+        "native": "鮫島アビ子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b237576-BxJO6g6mfKlE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b237576-BxJO6g6mfKlE.png"
+      },
+      "descripcion": "Author of \"Tokyo Blade\".",
+      "genero": "Female",
+      "edad": "22",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 172759,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ai Hoshino",
+        "native": "星野アイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b172759-cccVhJ2fQA92.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b172759-cccVhJ2fQA92.png"
+      },
+      "descripcion": "__Height__: 151 cm (4'11\")\n\nShe's an idol and lead of B-Komachi, an idol group affiliated with Strawberry Productions. Her life took a turn when through an undetermined amount of time, she became pregnant with twins. Not wanting to squander her reputation, she and her team decide to hide this fact; having to play the role of idol and mother.\n",
+      "genero": "Female",
+      "edad": "16-20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 164117,
+          "title": {
+            "romaji": "Idol",
+            "english": "Idol",
+            "native": "アイドル"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        },
+        {
+          "id": 209827,
+          "title": {
+            "romaji": "[Oshi no Ko] Final Season",
+            "english": null,
+            "native": "【推しの子】第4期 Final Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315932,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Airi Himekawa",
+        "native": "姫川あいり"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315932-lV506A8u7Qul.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315932-lV506A8u7Qul.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 282774,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Anemone Monemone",
+        "native": "アネモネモネモネ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b282774-DPG4qTAoct1N.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b282774-DPG4qTAoct1N.png"
+      },
+      "descripcion": "A Video Creator/Instagrammer. Her company \"Video D\" is located in Takachiho, Miyazaki, which is where ~![Goro](https://anilist.co/character/183885/) and [Sarina](https://anilist.co/character/183884/) lived.!~ She is friends with [Memcho](https://anilist.co/character/205434/) and helps her out by shooting & editing the new B-Komachi's first two music videos.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 223871,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Frill Shiranui",
+        "native": "不知火フリル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b223871-Yg32oIQlRkwH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b223871-Yg32oIQlRkwH.png"
+      },
+      "descripcion": "Frill Shiranui is a student in Ruby Hoshino's class. She is a multi-talented performer who can sing, dance, and act. At first, Ruby is in awe of her, yet they eventually become friends. \n\n ~!She is the younger sister of [Koromo Shiranui](https://anilist.co/character/212391/Koromo-Shiranui) from [Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen](https://anilist.co/manga/86635/Kaguyasama-wa-Kokurasetai-Tensaitachi-no-Renai-Zunousen/).!~",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316320,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fuyuko Niino",
+        "native": "新野冬子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316320-mqmjOBe9oovY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316320-mqmjOBe9oovY.png"
+      },
+      "descripcion": "A member and founder of the original incarnation of B-Komachi, she can be identified by the panda hairpin.~!She was later revealed to have orchestrated the murder of Ai Hoshino with [Hikaru Kamiki](https://anilist.co/character/299249/Hikaru-Kamiki).!~~!She tried to stab Ruby on the day of her appearance in the Tokyo Dome, but Ruby was actually Akane in disguise.!~\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 245516,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "GOA",
+        "native": "ゴア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245516-2cei7heTDOpN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b245516-2cei7heTDOpN.png"
+      },
+      "descripcion": "GOA is a popular scriptwriter.",
+      "genero": "Male",
+      "edad": "29",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 299249,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hikaru Kamiki",
+        "native": "神木ひかる"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299249-r7PPoRmqqN1b.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b299249-r7PPoRmqqN1b.jpg"
+      },
+      "descripcion": "~!He is the father of Aqua and Ruby.!~\n\n~!He is later revealed to also be Taiki Himekawa's biological father, having been molested by Airi Himekawa when he was a child before allegedly having her murdered as well by telling her husband about the affair.!~",
+      "genero": "Male",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302923,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hikaru Kanzaki",
+        "native": "神崎光"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302923-okLZlTZmCHHc.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302923-okLZlTZmCHHc.jpg"
+      },
+      "descripcion": "Employee at Ichigo Productions.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295842,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Himura",
+        "native": "日村"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295842-XVysMjLAQedC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295842-XVysMjLAQedC.png"
+      },
+      "descripcion": "Composer who has written over 1000 songs. 10 years ago he was one of Japan's top artists, and wrote almost all of his songs himself. [Miyako](https://anilist.co/character/223870) commissions him to write the new B-Komachi's new hit song, as he wrote many of the original B-Komachi's most popular songs.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 245521,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ichigo Saitou",
+        "native": "斉藤壱護"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245521-Kc8y3UYQ4JXs.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b245521-Kc8y3UYQ4JXs.jpg"
+      },
+      "descripcion": "Ichigo Saitou is the director of the agency Ichigo Production. He is the one who scouted [Ai](https://anilist.co/character/172759/Ai-Hoshino) and made her a star.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308806,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Karasu Shoujo",
+        "native": "カラス少女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308806-Pfx0DfT8LKS5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308806-Pfx0DfT8LKS5.png"
+      },
+      "descripcion": "She is a seemingly supernatural being apparently aware of everything that transpires within the story.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308808,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kazuhiko Itano",
+        "native": "板野一彦"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308808-l2hkEWjpdc81.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308808-l2hkEWjpdc81.jpg"
+      },
+      "descripcion": "A weekly entertainment true story writer, a rather shameless person who has no problem with writing up scandalous stories about young actors provided that they are legal adults.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 282773,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kengo Morimoto",
+        "native": "森本ケンゴ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b282773-gsQoxIAsLuf2.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b282773-gsQoxIAsLuf2.jpg"
+      },
+      "descripcion": "Third-year high schooler and professional musician signed with a record label. He writes all of the music and lyrics for his band and occasionally for others. He was a cast member of the reality dating show \"LoveNow.\"",
+      "genero": "Male",
+      "edad": "17-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308816,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kiiro Hayashibara",
+        "native": "林原キイロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308816-F7ZqJK2uSZy0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308816-F7ZqJK2uSZy0.png"
+      },
+      "descripcion": "A stage actor in the Lala Lai Theatrical Company, who acted in the Tokyo Blade stage play adaptation.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308818,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Koyuki Yoshidomi",
+        "native": "吉富こゆき"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308818-Kl3vRzP7eAPO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308818-Kl3vRzP7eAPO.png"
+      },
+      "descripcion": "A stage actress in the Lala Lai Theatrical Company, who acted in the Tokyo Blade stage play adaptation.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302911,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lala",
+        "native": "らら"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302911-Zb2uFApm3VY5.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302911-Zb2uFApm3VY5.jpg"
+      },
+      "descripcion": "An idol from a company that wants to scout [Ruby Hoshino](https://anilist.co/character/183884/Ruby-Hoshino) to become its idol.\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308811,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Luna",
+        "native": "ルナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308811-YmSR75wnr18c.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308811-YmSR75wnr18c.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 390291,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mako Azami",
+        "native": "アザミマコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b390291-XyTtNMZQS4s2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b390291-XyTtNMZQS4s2.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 245523,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mana Suzushiro",
+        "native": "鈴城まな"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245523-gp5IvZ8l3cuh.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b245523-gp5IvZ8l3cuh.jpg"
+      },
+      "descripcion": "Mana Suzushiro is an underground idol who decided to stop her show business career after seeing the new idol group B-Komachi on stage.",
+      "genero": "Female",
+      "edad": "23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306366,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Marina Tendouji",
+        "native": "天童寺まりな"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306366-lSRkNYKkpJaW.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306366-lSRkNYKkpJaW.jpg"
+      },
+      "descripcion": "Works at an advertising agency helping to promote the *15 Year Lie* film about Ai Hoshino's life. She is the mother of Sarina Tendouji.",
+      "genero": "Female",
+      "edad": "54",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295838,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Masanori Shima",
+        "native": "島政則"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295838-Kgopin5Csp6c.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295838-Kgopin5Csp6c.jpg"
+      },
+      "descripcion": "A popular film director, currently the most influential in Japan. He has an honest desire to take care of the actors in his productions, but is also known as a playboy and target of tabloid reporters looking for industry scandal.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 245518,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Masaya Kaburagi",
+        "native": "鏑木勝也"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245518-9OvLmdKE5teR.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b245518-9OvLmdKE5teR.jpg"
+      },
+      "descripcion": "Masaya Kaburagi is a TV and Web-TV producer.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308820,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mei Adashino",
+        "native": "化野めい"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308820-aoL9ORqETZo6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308820-aoL9ORqETZo6.png"
+      },
+      "descripcion": "A stage actress in the Lala Lai Theatrical Company, who acted in the Tokyo Blade stage play adaptation.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316321,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Meimei",
+        "native": "めいめい"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316321-WCv3qJVpkPC9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316321-WCv3qJVpkPC9.png"
+      },
+      "descripcion": "A member of the original incarnation of B-Komachi, she can be identified by the cat hairpin.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295843,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Meiya",
+        "native": "メイヤ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295843-FXpkXM1TQDGw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295843-FXpkXM1TQDGw.png"
+      },
+      "descripcion": "Cosplayer who uses the stage name Meiya. She was invited by Ruby for a cosplay segment on _Dig Deep! One Chance!_.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 245515,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Melt Narushima",
+        "native": "鳴嶋メルト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245515-0fmOfMnyxQiZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b245515-0fmOfMnyxQiZ.png"
+      },
+      "descripcion": "Model and actor affiliated with Sonic Stage Productions. He appeared while still an untrained, yet arrogant, actor on the TV Drama *I'll Go With Sweet Today*. Melt was then cast in the role of Kizami in the 2.5D Stage Play *Tokyo Blade*.",
+      "genero": "Male",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 205434,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "MEM-cho",
+        "native": "MEMちょ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205434-AuBcR4M05f6s.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205434-AuBcR4M05f6s.png"
+      },
+      "descripcion": "__Height:__ 155 cm (5'1\")\n\nA girl who strived to become an idol at a young age, but due to her family situation, made sacrifices that ultimately ended with her becoming too old to become one. She is a YouTuber. \n\n~!Mem-cho's real age is 25, and she is later recruited as the third member of the re-formed B-Komachi idol group.!~",
+      "genero": "Female",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        },
+        {
+          "id": 209827,
+          "title": {
+            "romaji": "[Oshi no Ko] Final Season",
+            "english": null,
+            "native": "【推しの子】第4期 Final Season"
+          }
+        }
+      ]
+    },
+    {
+      "id": 282748,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mimi Yoshizumi",
+        "native": "吉住未実"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b282748-KwAOWGdq3DOC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b282748-KwAOWGdq3DOC.jpg"
+      },
+      "descripcion": "Cosplayer and VTuber under the name Komimi Suzune. [Shun](https://anilist.co/character/280874/Shun-Yoshizumi)'s sister.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 252073,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Minami Kotobuki",
+        "native": "寿みなみ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b252073-eLFb2PHy1erO.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b252073-eLFb2PHy1erO.jpg"
+      },
+      "descripcion": "She's a classmate and friend of Ruby Hoshino. Minami is a Gravure model who uses a fake accent.\n",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308810,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mio Honda",
+        "native": "本田澪"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308810-ihQ5HYmrSFDQ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308810-ihQ5HYmrSFDQ.jpg"
+      },
+      "descripcion": "Manager of SA Entertainment.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 223870,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Miyako Saitou",
+        "native": "斉藤ミヤコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b223870-60FglagpVtHe.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b223870-60FglagpVtHe.png"
+      },
+      "descripcion": "Miyako is married to [the president](https://anilist.co/character/245521) of Ichigo Productions and is [Ai's](https://anilist.co/character/172759) manager. She is a shallow woman who appears to have only married her husband due to the prospect of working with hot guys. She is also a babysitter to the twins.\n\n~!After Ai's death, she becomes the twin's adoptive parent. As the twins blossom into adolescence, she becomes more mature, both as a caretaker and as a manager. She is also the manager of the new B-Komachi.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 245512,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nobuyuki Kumano",
+        "native": "熊野ノブユキ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245512-yCcNqULXGaKB.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b245512-yCcNqULXGaKB.jpg"
+      },
+      "descripcion": "Nobuyuki Kumano is a dancer in 2nd year of highschool.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308813,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Norio Mita",
+        "native": "みた のりお"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308813-pl6i5a3GJYsy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308813-pl6i5a3GJYsy.png"
+      },
+      "descripcion": "A stage actor in the Lala Lai Theatrical Company, who acted in the Tokyo Blade stage play adaptation.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 227579,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pieyon",
+        "native": "ぴえヨン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b227579-OKrvb5rGnQrV.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b227579-OKrvb5rGnQrV.jpg"
+      },
+      "descripcion": "A famous physical training YouTuber affiliated with Strawberry Productions, where he is the agency's top earner. On request from company president Miyako Saitou, he promotes the new B-Komachi by collaborating with Ruby Hoshino and Kana Arima in a physical training video on his channel.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308814,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryouma Funato",
+        "native": "船戸亮真"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308814-qRvc19n8ui4b.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308814-qRvc19n8ui4b.png"
+      },
+      "descripcion": "A stage actor in the Lala Lai Theatrical Company, who acted in the Tokyo Blade stage play adaptation.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302241,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryousuke Sugano",
+        "native": "菅野良介"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302241-a4CnwukQCyQP.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302241-a4CnwukQCyQP.jpg"
+      },
+      "descripcion": "A shut-in, Ryosuke is a mentally unstable person who turns towards idols to feel loved in his life. He is an obsessive fan of [Ai Hoshino](https://anilist.co/character/172759). ~!Ryousuke became enraged after learning of Ai's pregnancy and murdered Gorou Amemiya when the doctor interfered in his first attempt to kill Ai. Years later Ryousuke murdered Ai, fatally stabbing her at her home. Shortly afterwards Ryousuke commited suicide.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 245517,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sakuya Kamoshida",
+        "native": "鴨志田朔夜"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245517-GR5oLHL6TVNS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b245517-GR5oLHL6TVNS.png"
+      },
+      "descripcion": "Sakuya Kamoshida is an actor specialized in theater adaptations.",
+      "genero": "Male",
+      "edad": "22",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 280874,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shun Yoshizumi",
+        "native": "吉住シュン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b280874-1z3gZR2HpxzB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b280874-1z3gZR2HpxzB.png"
+      },
+      "descripcion": "Former Assistant Director on the online variety show \"Dig Deep! One Chance!\" Currently works as [Ruby](https://anilist.co/character/183884/Ruby-Hoshino)'s manager.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 245513,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sumiaki Raida",
+        "native": "雷田澄彰"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245513-48yZBsVDHpKh.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b245513-48yZBsVDHpKh.jpg"
+      },
+      "descripcion": "Sumiaki Raida works for the company \"Magic Flow\". He is an executive producer on the 2.5D stage play *Tokyo Blade*.\n",
+      "genero": "Male",
+      "edad": "35",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 245510,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Taiki Himekawa",
+        "native": "姫川大輝"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245510-hLvoQzAeq4tC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b245510-hLvoQzAeq4tC.png"
+      },
+      "descripcion": "Award-winning stage actor affiliated with the Lala Lai Theatrical Company.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 245519,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Taishi Gotanda",
+        "native": "五反田泰志"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245519-yrjlimcCUdrk.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b245519-yrjlimcCUdrk.jpg"
+      },
+      "descripcion": "Taishi Gotanda is a movie director, and the \"mentor\" of [Aquamarine Hoshino](https://anilist.co/character/183885/Aquamarine-Hoshino). He still lives with his [mother](https://anilist.co/character/302910).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302910,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Taishi no Haha",
+        "native": "泰志の母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302910-t4m7YfozWfmv.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302910-t4m7YfozWfmv.jpg"
+      },
+      "descripcion": "Mother of [Taishi Gotanda](https://anilist.co/character/245519).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394644,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Takamine",
+        "native": "高峯"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394644-Gpd1KchIQxmZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b394644-Gpd1KchIQxmZ.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308812,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tetsu Urushibara",
+        "native": "漆原鉄"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308812-eosV3TGRTGFQ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308812-eosV3TGRTGFQ.jpg"
+      },
+      "descripcion": "The director for the web variety show Dig Deep! One Chance.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 245514,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Toshirou Kindaichi",
+        "native": "金田一敏郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245514-k3JdzroTVwun.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b245514-k3JdzroTVwun.jpg"
+      },
+      "descripcion": "Leader of the Lala Lai Theatrical Company, and one of its founding members. He is the Director of the 2.5D Stage Play *Tokyo Blade*. \n",
+      "genero": "Male",
+      "edad": "56",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 237577,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yoriko Kichijouji",
+        "native": "吉祥寺頼子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b237577-suHCadWWmCT0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b237577-suHCadWWmCT0.png"
+      },
+      "descripcion": "A mangaka and author of <i>\"Today will be sweet\"</i>. She used to be [Abiko](https://anilist.co/character/237576/Abiko-Samejima)'s mentor.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 245524,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuki Sumi",
+        "native": "鷲見ゆき"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245524-Q4K2XHB76ikE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b245524-Q4K2XHB76ikE.jpg"
+      },
+      "descripcion": "Yuki Sumi is a model in 1st year of high school.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 299253,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yura Katayose",
+        "native": "片寄ゆら"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299253-0SqPZngSpsY6.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b299253-0SqPZngSpsY6.jpg"
+      },
+      "descripcion": "Top actress in Japan. Represented by SA Entertainment.",
+      "genero": "Female",
+      "edad": "25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 344774,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Airi Himekawa",
+        "native": "姫川愛梨"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b344774-CvUSHhO6HMqz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b344774-CvUSHhO6HMqz.png"
+      },
+      "descripcion": "Mother of [Taiki Himekawa](https://anilist.co/character/245510/) and wife of [Seijuurou Uehara](https://anilist.co/character/344775/). She was a successful actress in her day.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 342710,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Akane no Chichi",
+        "native": "あかねの父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b342710-LLzJYwW0xYaB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b342710-LLzJYwW0xYaB.png"
+      },
+      "descripcion": "Father of [Akane Kurokawa](https://anilist.co/character/203384).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305779,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Akane no Haha",
+        "native": "あかねの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305779-2P2ufnxvGW4j.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305779-2P2ufnxvGW4j.jpg"
+      },
+      "descripcion": "Mother of [Akane Kurokawa](https://anilist.co/character/203384).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304464,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Assistant A",
+        "native": "アシスタント"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b304464-cJ8yz19x0dUu.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b304464-cJ8yz19x0dUu.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304466,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Assistant B",
+        "native": "アシスタント"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394654,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "BAR no Master",
+        "native": "BARのマスター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394654-8tYZS5AePzsu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b394654-8tYZS5AePzsu.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 343778,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Bartender",
+        "native": "バーテンダー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b343778-CDc5DFmq2Fh2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b343778-CDc5DFmq2Fh2.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392088,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Caster",
+        "native": "キャスター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392089,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Commentator",
+        "native": "コメンテーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 387703,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Cosplayer",
+        "native": "コスプレイヤー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 387704,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Cosplayer",
+        "native": "コスプレイヤー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394468,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Dansei",
+        "native": "男性"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 345641,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Dansei Kyaku",
+        "native": "男性客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b345641-y2vMjHvfB1ek.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b345641-y2vMjHvfB1ek.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 390292,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Dansei Kyaku",
+        "native": "男性客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304463,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi Seito A",
+        "native": "男子生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304467,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi Seito B",
+        "native": "男子生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305347,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Director",
+        "native": "ディレクター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305347-tE5KOEu1GsTm.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305347-tE5KOEu1GsTm.jpg"
+      },
+      "descripcion": "Director of the reality dating show \"My Love with a Star Begins Now\" (also known as \"LoveNow\")",
+      "genero": "Male",
+      "edad": "35",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 303884,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Drama Kantoku",
+        "native": "ドラマ監督"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b303884-aJMWtTfE7Ur7.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b303884-aJMWtTfE7Ur7.jpg"
+      },
+      "descripcion": "The director of the drama series I'll Go With Sweet Today.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 342715,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Emiri no Haha",
+        "native": "笑美里の母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 303885,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Enshutsu Joshu A",
+        "native": "演出助手"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b303885-RpNK6SuplcBU.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b303885-RpNK6SuplcBU.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304470,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Enshutsu Joshu B",
+        "native": "演出助手"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b304470-B3dDf9CeuK7L.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b304470-B3dDf9CeuK7L.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308711,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Fan",
+        "native": "ファン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308713,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Fan",
+        "native": "ファン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308714,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Fan",
+        "native": "ファン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392095,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Food no Dansei",
+        "native": "フードの男性"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 386997,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Geinin Mizuno",
+        "native": "芸人・水野"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b386997-2cvP4BLLPXh0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b386997-2cvP4BLLPXh0.png"
+      },
+      "descripcion": "Contestant on the web variety show Dig Deep! One Chance.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 386998,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Geinin Yagi",
+        "native": "芸人・八木"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b386998-pduFq8mZ2TpP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b386998-pduFq8mZ2TpP.png"
+      },
+      "descripcion": "Contestant on the web variety show Dig Deep! One Chance.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 387702,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Genin Oosako",
+        "native": "芸人・大迫"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b387702-FUWl8ldBwUdZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b387702-FUWl8ldBwUdZ.png"
+      },
+      "descripcion": "Contestant on the web variety show Dig Deep! One Chance.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 346186,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gorou no Sobo",
+        "native": "吾郎の祖母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b346186-rfUsvsqpIkna.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b346186-rfUsvsqpIkna.png"
+      },
+      "descripcion": "Grandmother of Gorou Amamiya. She raised Gorou, whose mother died during childbirth.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392092,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Haishinsha",
+        "native": "配信者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394646,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hayashi",
+        "native": "林"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394646-EJPwGtfp0Hpz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b394646-EJPwGtfp0Hpz.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 340436,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Henshuu",
+        "native": "編集"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b340436-XfnbJAarg2w8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b340436-XfnbJAarg2w8.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 343779,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hostess",
+        "native": "ホステス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b343779-AJEiKjRif1rC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b343779-AJEiKjRif1rC.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 391205,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Idol",
+        "native": "アイドル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 391206,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Idol",
+        "native": "アイドル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 391207,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Idol",
+        "native": "アイドル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 391208,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Idol",
+        "native": "アイドル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 391209,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Idol",
+        "native": "アイドル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308274,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Idol A",
+        "native": "アイドル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308272,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Idol B",
+        "native": "アイドル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308716,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Idol C",
+        "native": "アイドル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308715,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Idol D",
+        "native": "アイドル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308712,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Idol E",
+        "native": "アイドル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 346188,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ishi",
+        "native": "医師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305782,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jimusho Shachou",
+        "native": "事務所社長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305782-6VBc3Zi4aVyk.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305782-6VBc3Zi4aVyk.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 393438,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Josei",
+        "native": "女性"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 393439,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Josei",
+        "native": "女性"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 345640,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Josei Kyaku",
+        "native": "女性客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b345640-N6KeN65Ph5mN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b345640-N6KeN65Ph5mN.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392090,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Josei Talent",
+        "native": "女性タレント"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302913,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joseito",
+        "native": "女生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302913-VsEUzvFVFF8A.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302913-VsEUzvFVFF8A.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392093,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi Kousei",
+        "native": "女子高生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392094,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi Kousei",
+        "native": "女子高生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304468,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi Seito A",
+        "native": "女子生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304465,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshi Seito B",
+        "native": "女子生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 307162,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshikousei A",
+        "native": "女子高生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 307161,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joshikousei B",
+        "native": "女子高生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308270,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kana no Haha",
+        "native": "かなの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308270-OtA4zv2pszVo.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308270-OtA4zv2pszVo.jpg"
+      },
+      "descripcion": "Mother of Arima Kana.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 346187,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoshi A",
+        "native": "看護師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 346189,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoshi B",
+        "native": "看護師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306364,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Keikan",
+        "native": "警官"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306364-xyIW4kOyTkoL.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306364-xyIW4kOyTkoL.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308271,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Koyaku Jimusho Manager",
+        "native": "子役事務所マネージャー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308271-qbK8IPzmTnlm.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308271-qbK8IPzmTnlm.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 340438,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kyakuhon-ka Manager",
+        "native": "脚本家マネージャー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b340438-uw7E4R5fqbf6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b340438-uw7E4R5fqbf6.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 391211,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Make-up / Isawaki",
+        "native": "メイク・岩崎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b391211-bFPbEb6CUbSz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b391211-bFPbEb6CUbSz.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 343252,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Makeup",
+        "native": "メイク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b343252-xdyd93kTJhiQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b343252-xdyd93kTJhiQ.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305780,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Manager",
+        "native": "マネージャー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305780-gAyhDxcqa3hF.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305780-gAyhDxcqa3hF.jpg"
+      },
+      "descripcion": "The manager of Akane Kurokawa. He tries his best to protect her.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        },
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392894,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Master",
+        "native": "マスター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 307846,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "MEM-cho no Haha",
+        "native": "MEMちょの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b307846-oOUK2fTQ8qWS.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b307846-oOUK2fTQ8qWS.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308807,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mimoji Kote",
+        "native": "小手ミモジ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308807-R1I45gRvw5lE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308807-R1I45gRvw5lE.jpg"
+      },
+      "descripcion": "Chief director for the web variety show Dig Deep! One Chance.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394653,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Okazaki",
+        "native": "岡崎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308273,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ongaku Producer",
+        "native": "音楽プロデューサー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308273-mDMGQlw8lmUe.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308273-mDMGQlw8lmUe.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308809,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Otaku Fan",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308809-JfQyBZqmCwQ8.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308809-JfQyBZqmCwQ8.jpg"
+      },
+      "descripcion": "A fan of various idol groups, including both the original and current incarnation of B-Komachi.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392091,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Reporter",
+        "native": "リポーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 340437,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Rights Manager",
+        "native": "ライツ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b340437-ZISld4RhvTmU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b340437-ZISld4RhvTmU.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394648,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sasano",
+        "native": "笹野"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394648-fmrTyg9CXOJP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b394648-fmrTyg9CXOJP.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 344775,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seijuurou Uehara",
+        "native": "上原清十郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b344775-qNYGIDmvo3AP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b344775-qNYGIDmvo3AP.png"
+      },
+      "descripcion": "Former actor and agency owner. Husband of Airi Himekawa and the legal father of Taiki Himekawa.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 389451,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shikai",
+        "native": "司会"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 386996,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shikai Sawa",
+        "native": "司会・サワ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b386996-TAKsnV8rDlIx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b386996-TAKsnV8rDlIx.png"
+      },
+      "descripcion": "Host on the web variety show Dig Deep! One Chance.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 391204,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shikaisha",
+        "native": "司会者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b391204-8W0n2BUu5uBD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b391204-8W0n2BUu5uBD.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 303886,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shinjin Haiyuu A",
+        "native": "新人俳優"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 303887,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shinjin Haiyuu B",
+        "native": "新人俳優"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305781,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "SNS no Koe",
+        "native": "SNSの声"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 388619,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "SNS no Koe",
+        "native": "SNSの声"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 388620,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "SNS no Koe",
+        "native": "SNSの声"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 388621,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "SNS no Koe",
+        "native": "SNSの声"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 388622,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "SNS no Koe",
+        "native": "SNSの声"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 388623,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "SNS no Koe",
+        "native": "SNSの声"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 388624,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "SNS no Koe",
+        "native": "SNSの声"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308710,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Staff",
+        "native": "スタッフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 150672,
+          "title": {
+            "romaji": "[Oshi no Ko]",
+            "english": "OSHI NO KO",
+            "native": "【推しの子】"
+          }
+        }
+      ]
+    },
+    {
+      "id": 342716,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Staff A",
+        "native": "スタッフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b342716-Ecx2OCdRW240.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b342716-Ecx2OCdRW240.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 343777,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Staff B",
+        "native": "スタッフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b343777-I6fScjCCuw26.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b343777-I6fScjCCuw26.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 391212,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Taishuu no Koe",
+        "native": "大衆の声"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 391213,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Taishuu no Koe",
+        "native": "大衆の声"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 391214,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Taishuu no Koe",
+        "native": "大衆の声"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 390293,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tenin",
+        "native": "店員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 345638,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tenin A",
+        "native": "店員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 345639,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tenin B",
+        "native": "店員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394650,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Terabayashi",
+        "native": "寺林"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394650-M0mftkqv2aXD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b394650-M0mftkqv2aXD.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 394652,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yamaguchi",
+        "native": "山口"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 182587,
+          "title": {
+            "romaji": "[Oshi no Ko] 3rd Season",
+            "english": "OSHI NO KO Season 3",
+            "native": "【推しの子】第3期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308817,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yamanaka",
+        "native": "山中"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308817-ZJaPitW3EjuE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308817-ZJaPitW3EjuE.png"
+      },
+      "descripcion": "A stage actor who took part in the rehearsal of the stage play \"Tokyo Blade\" as the stand-in for Taiki Himekawa.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166531,
+          "title": {
+            "romaji": "[Oshi no Ko] 2nd Season",
+            "english": "OSHI NO KO Season 2",
+            "native": "【推しの子】第2期"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 155,
+  "actualizado": 1788566600
+}

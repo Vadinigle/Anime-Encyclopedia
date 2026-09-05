@@ -1,0 +1,4176 @@
+{
+  "clave": "solo-leveling",
+  "nombre": "Solo Leveling",
+  "descripcion": "Sung Jin-Woo y el sistema",
+  "generos": [
+    "Acción",
+    "Fantasía"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
+  "medios": [
+    {
+      "id": 151807,
+      "title": {
+        "romaji": "Ore dake Level Up na Ken",
+        "english": "Solo Leveling",
+        "native": "俺だけレベルアップな件"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151807-it355ZgzquUd.png"
+      }
+    },
+    {
+      "id": 176496,
+      "title": {
+        "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+        "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+        "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-9BDMjAZGEbq4.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176496-9BDMjAZGEbq4.png"
+      }
+    },
+    {
+      "id": 184694,
+      "title": {
+        "romaji": "Ore dake Level Up na Ken: ReAwakening",
+        "english": "Solo Leveling -ReAwakening-",
+        "native": "俺だけレベルアップな件 -ReAwakening-"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184694-EmVoCuV4uAGv.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184694-EmVoCuV4uAGv.png"
+      }
+    },
+    {
+      "id": 213846,
+      "title": {
+        "romaji": "Ore dake Level Up na Ken: Beyond the System",
+        "english": "Solo Leveling: Beyond the System",
+        "native": "俺だけレベルアップな件 - Beyond the System -"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213846-M5s9a58Vng7Q.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213846-M5s9a58Vng7Q.png"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 129928,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Jin-U Seong",
+        "native": "성진우"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b129928-BCEjVaP0AQSw.png"
+      },
+      "descripcion": "__Class:__ Mage\n__Relatives:__ [Park Kyung-Hye](https://anilist.co/character/209396/KyungHye-Park) (Mother), [Seong Jin-Ah](https://anilist.co/character/138791/JinAh-Sung) (Sister), ~![Seong Il-Hwan](https://anilist.co/character/138790/IlHwan-Sung) (Father), [Cha Hae-In](https://anilist.co/character/138789/HaeIn-Cha) (Wife), [Seong Su-Ho](https://anilist.co/character/306654/Suho-Sung) (Son)!~ \n~!__Guild:__ Ahjin Guild (Guild Master)\n__Affiliation:__ Korean Hunters Association (helper), White Tiger Guild (helper), Hunters Guild (helper), Knights Guild (helper), Ahjin Guild (Guild Master)!~\n\nSeong Jin-U is known as an infamously weak E-Rank Hunter. He is a humble and benevolent individual who cares deeply for his family and has an ardent desire to become stronger. As a result, he shares a close relationship with his sister and his mother, and rarely wastes an opportunity to refine his skills and gain more power.\n\n~!He becomes an S-Rank hunter after being given a chance to become stronger by the System.!~",
+      "genero": "Male",
+      "edad": "23-24",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        },
+        {
+          "id": 213846,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Beyond the System",
+            "english": "Solo Leveling: Beyond the System",
+            "native": "俺だけレベルアップな件 - Beyond the System -"
+          }
+        }
+      ]
+    },
+    {
+      "id": 209901,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akari Shimizu",
+        "native": "시미즈 아카리"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b209901-WtVWh82YZLDK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b209901-WtVWh82YZLDK.png"
+      },
+      "descripcion": "Japanese S-Rank healer and a member of the Draw Sword Guild.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174040,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Atsushi Kumamoto",
+        "native": "쿠마모토 아츠시"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174040-uXYmiPUHnUPl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174040-uXYmiPUHnUPl.png"
+      },
+      "descripcion": "Atsushi Kumamoto is one of Japan's strongest S-Rank Hunters. He is a member of Japan's most powerful guild, the Draw Sword Guild led by Goto Ryuji.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306643,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Baran",
+        "native": "바란"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306643-8Aq0WVzFu0Yn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306643-8Aq0WVzFu0Yn.png"
+      },
+      "descripcion": "King of Demons and the Monarch of White Flames.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184954,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Baruka",
+        "native": "바루카"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184954-ITUjIeGETUf8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184954-ITUjIeGETUf8.png"
+      },
+      "descripcion": "S-Rank Ice Elf and the boss of the Red Gate Dungeon.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306673,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Beom-Shik Park",
+        "native": "박범식"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306673-eaq6may6XbTB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306673-eaq6may6XbTB.png"
+      },
+      "descripcion": "Park Gi-Sool is a Korean D-Rank Hunter and a good friend of Sangshik Kim. ~!He was tragically killed during the first Double Dungeon Incident when a statue sliced him clean in half from behind.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 159849,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Beru ",
+        "native": "베르"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b159849-p0Szb7KzD2DD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b159849-p0Szb7KzD2DD.png"
+      },
+      "descripcion": "Born from the Ant Queen on Jeju Island, The Ant King becomes the main threat during the Fourth Jeju Island Raid.\n\n~!Single-handedly responsible for the deaths of over 8 of the 16 S-Rank Hunters during the raid.!~ \n\n~!After being killed by Sung Jinwoo, the Ant King was revived as one of his shadow soldiers, and was given him the new name of Beru.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326616,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bo-Ra Lee",
+        "native": "이보라"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326616-sUKU0Wr06E7B.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326616-sUKU0Wr06E7B.png"
+      },
+      "descripcion": "A-Rank Mage from the Hunters Guild who specializes in summoning magic.⁣ She is straightforward, very meticulous, and believes that the only way to overcome difficulties is by laying out the known facts.",
+      "genero": "Female",
+      "edad": "23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 356471,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Borgon Radiru",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b356471-LwGjFuAsI93c.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b356471-LwGjFuAsI93c.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 148789,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Byeong-Gu Min",
+        "native": "민병구"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148789-HmGZf4RUzEFw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b148789-HmGZf4RUzEFw.png"
+      },
+      "descripcion": "Min Byung-Gu was a retired hunter and one of the 10 S-Rank and only S-Rank Healer of South Korea. He was a close friend with the White Tiger's Guild Master Baek Yoon-Ho. He took part in the 4th Jeju Island Reclamation Raid and was a member of the Korean Raid Team tasked with killing the boss of the Jeju Island Gate.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306675,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cheol-Jin Lee",
+        "native": "이철진"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306675-u6IC7OAsf48j.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306675-u6IC7OAsf48j.png"
+      },
+      "descripcion": "Korean C-Rank Hunter and a member of Dong-Suk Hwang's strike squad.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136073,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chi-Yul Song",
+        "native": "송치율"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136073-0hZNgsWB9ZLH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136073-0hZNgsWB9ZLH.png"
+      },
+      "descripcion": "__Magic Type:__ Fire\n\nKorean C-Rank Hunter and kumdo teacher. He is also one of Jinwoo's old friends, having known him since he was a E-Rank Hunter.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323593,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dong-Hun Jeong",
+        "native": "정동훈"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b323593-Pk1u4hIwMt8y.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b323593-Pk1u4hIwMt8y.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136075,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dong-Su Hwang",
+        "native": "황동수"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136075-M6VRrZyHpaI5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136075-M6VRrZyHpaI5.png"
+      },
+      "descripcion": "Hwang Dong-su is an​ S-class hunter who works for Scavenger's Guild in America.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306666,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dong-Suk Hwang",
+        "native": "황동숙"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306666-k7s0nluzaWod.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306666-k7s0nluzaWod.png"
+      },
+      "descripcion": "Hwang Dongsuk is a C-rank Hunter and the older brother of [Dong-Su Hwang](https://anilist.co/character/136075/DongSu-Hwang).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184555,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dong-Wook Ma",
+        "native": "마동욱"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184555-NMCZb01p2Aqp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184555-NMCZb01p2Aqp.png"
+      },
+      "descripcion": "Ma Dong-Wook (마동욱) is one of the 10 S-Rank hunters of South Korea and the guild master of Fame Guild.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 164675,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Esil Radiru",
+        "native": "에실 라디르"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b164675-ZrAxmOOwGSa6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b164675-ZrAxmOOwGSa6.png"
+      },
+      "descripcion": "Esil Radiru, or Elisa Radiru, is a daughter of the Radiru chief and an Aristocratic Demon found at the S-Rank Demon's Castle Instant Dungeon.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323043,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eun-Seok",
+        "native": "은석"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b323043-1cRLO5gO0JSY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b323043-1cRLO5gO0JSY.png"
+      },
+      "descripcion": "Former Korean S-Rank Hunter. ~!About one year before the events of the main storyline, Eunseok participated in the 3rd Jeju Island Raid alongside Baek Yoonho and Min Byung-Gyu. Unfortunately, the raid went sideways and Eunseok was killed under unknown circumstances.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 356084,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eun-Su Kim",
+        "native": "김은수"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b356084-L80ftewkpbAb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b356084-L80ftewkpbAb.png"
+      },
+      "descripcion": "Korean B-Rank Hunter serving under the Hunters Guild, assigned to Strike Squad B.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 356085,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Geon-Guk Lee",
+        "native": "이건국"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b356085-aUYFrubJSvUa.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b356085-aUYFrubJSvUa.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 138792,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Geon-Hui Go",
+        "native": "고건희"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138792-TXFrDA1wpbmo.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138792-TXFrDA1wpbmo.png"
+      },
+      "descripcion": "Go Gun-Hee (고건희) is a South Korean S-Rank Hunter and the Chairman of the Korean Hunters Association.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210098,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gina",
+        "native": "지나"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210098-Smco3qIRv0GD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210098-Smco3qIRv0GD.png"
+      },
+      "descripcion": "Gina is an A-Rank mage and was one of the Raid Members in Son Ki-Hoon's Party in an A-Ranked Gate. She has long blonde hair and deep red eyes. Her height is average and she has a very attractive body. Gina has a serious personality this can be seen when she answers Son Ki-Hoon's question about if she was responsible for killing one of the High Orcs.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 181154,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Goto Ryuji",
+        "native": "고토 류지"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b181154-cYOPK6mij2kI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b181154-cYOPK6mij2kI.png"
+      },
+      "descripcion": "Goto Ryuji is Japan's strongest S-Ranked Hunter and the Guild Master of Draw Sword Guild, one of the most powerful guilds in Asia.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 324332,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gu-Hyeon Kim",
+        "native": "김구현"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b324332-3LSmru8LAsLp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b324332-3LSmru8LAsLp.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 138789,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hae-In Cha",
+        "native": "차해인"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138789-AhE8m0LWjE7E.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138789-AhE8m0LWjE7E.png"
+      },
+      "descripcion": "__Guild:__ Hunters Guild\n__Class:__ Sword Fighter\n__Affiliations:__ Jeju Island Raid Party, [Song Chi-Yul](https://anilist.co/character/136073/ChiYul--Song)’s Dojo (Disciple)\n\nCha Hae-In is the Vice-Guild Master of the Hunters Guild. She is an S rank hunter and the 9th ranked hunter in South Korea. She possesses the unique ability of mana smell and hates the smell of hunters except for [Sung Jin-Woo](https://anilist.co/character/129928/JinWoo-Sung).\n\n",
+      "genero": "Female",
+      "edad": "23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 209397,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hanekawa",
+        "native": "하네카와"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b209397-9Q91b9sY8Dl6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b209397-9Q91b9sY8Dl6.png"
+      },
+      "descripcion": "Hanekawa is a member and official translator of Japan's most powerful Guild, Draw Sword. Despite serving primarily as a translator of Japan's best hunter, Goto Ryuji, she is also an A-Rank Hunter.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184538,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hee-Jin Park",
+        "native": "박희진"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184538-4J5sRSFKNLGQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184538-4J5sRSFKNLGQ.png"
+      },
+      "descripcion": "Park Hee-Jin (박희진) is a member of White Tiger Guild that Sung Jin-Woo helped when they got stuck inside the Red Gate.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323591,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hye-Yeong Ra",
+        "native": "라혜영"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b323591-Zygq2sylmhPw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b323591-Zygq2sylmhPw.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 145722,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Igris",
+        "native": "이그리트"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145722-qSJ71S6vpeeM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b145722-qSJ71S6vpeeM.png"
+      },
+      "descripcion": "Igris is one of the first Shadows that [Sung Jin-Woo](https://anilist.co/character/129928/Seong-Jin-U) acquired. He was initially protecting an empty throne in an Instant Dungeon where Jin-Woo was doing his Job Quest in the Job Change Quest Dungeon.\n\nAfter two failed attempts of Shadow Extraction, Sung Jin-Woo convinced him to protect him instead of protecting an Empty throne, obtaining him as a Knight Grade Shadow.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 138790,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Il-Hwan Seong",
+        "native": "성일환"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138790-i3DFMscWID9D.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138790-i3DFMscWID9D.jpg"
+      },
+      "descripcion": "Il-Hwan is a muscular middle-aged man with black eyes, shaggy black hair, and slight facial hair. When using his powers or agitated, his eyes glows bright yellow.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184552,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ippei Izawa",
+        "native": "이자와잇페이"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184552-fhBSVaYnmndC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184552-fhBSVaYnmndC.png"
+      },
+      "descripcion": "One of Japan's strongest S-Rank Hunters. He took part in the 4th Jeju Island Reclamation Raid.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184956,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Iron",
+        "native": "아이언"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184956-uy2dOVHacMsf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184956-uy2dOVHacMsf.png"
+      },
+      "descripcion": "A shadow Sung Jin-Woo gained after entering the Red Gate. ~!Before being reawakened as a Shadow he was Chul Kim (김철), an A-Rank Hunter of the White Tiger Guild.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210101,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jae-Hwan Ju",
+        "native": "주재환"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210101-UXfCh9WHvata.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210101-UXfCh9WHvata.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 353703,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "James",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b353703-m6nnyELCygwj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b353703-m6nnyELCygwj.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323589,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jeong-Ho Kang",
+        "native": "강정호"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b323589-70NC1HRi6BKa.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b323589-70NC1HRi6BKa.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 356081,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ji-U Seo",
+        "native": "서지우"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b356081-46HxHxObAVot.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b356081-46HxHxObAVot.png"
+      },
+      "descripcion": "Korean A-Rank Hunter and a fighter serving under the Hunters Guild, assigned to Strike Squad B.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 138791,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jin-A Seong",
+        "native": "성진아"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138791-IngjgBQqGMWc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138791-IngjgBQqGMWc.png"
+      },
+      "descripcion": "[Jin-U](https://anilist.co/character/129928)'s younger sister.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136819,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jin-Cheol U",
+        "native": "우진철"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136819-okbPuuFAefYX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136819-okbPuuFAefYX.png"
+      },
+      "descripcion": "An A rank hunter that works for Hunter's association of Korea.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136076,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jin-Ho Yu",
+        "native": "유진호"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136076-D7eiE3pA9U8g.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136076-D7eiE3pA9U8g.jpg"
+      },
+      "descripcion": "__Class:__ Tanker\n__Guild:__ ~!Ahjin Guild (Vice-Guild Master)!~\n\nYoo Jin-Ho is a D rank hunter and is [Jin-U Seong](https://anilist.co/character/129928/JinWoo-Sung)'s faithful assistant and combat partner.",
+      "genero": "Male",
+      "edad": "22",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326066,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jin-Seok",
+        "native": "진숙"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326066-5IyTecFZyLAx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326066-5IyTecFZyLAx.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 331026,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jin-Seong Yu",
+        "native": "유진성"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331026-4Muo1VA3Pcsr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331026-4Muo1VA3Pcsr.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 138794,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jong-In Choi",
+        "native": "최종인"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138794-dZNdO0pvZ659.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138794-dZNdO0pvZ659.png"
+      },
+      "descripcion": "Choi Jong-In is one of the 10 S-Rank Hunters of South Korea. He is also the Guild Master of the Hunters Guild.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306514,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jong-Su Park",
+        "native": "박종수"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306514-y2Rdmbbap0DE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306514-y2Rdmbbap0DE.png"
+      },
+      "descripcion": "Jongsoo Park is a Korean A-Rank Hunter and the Guild Master of the Knights Guild.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136074,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ju-Hui Lee",
+        "native": "이주희"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136074-pLyumEnxjL7P.png"
+      },
+      "descripcion": "She is a healer with rank B.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326067,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jun-Tae Gu",
+        "native": "구준태"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326067-7nQBEss2hcRp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326067-7nQBEss2hcRp.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184546,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaisel",
+        "native": "카이셀"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184546-7auQqtPuhlUO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184546-7auQqtPuhlUO.png"
+      },
+      "descripcion": "Kaisel is a shadow Sung Jin-Woo obtained in the Demon Castle. Kaisel is the shadow of Kaisellin, a Drake/Wyvern that Demon King Baran used as a mount.\n\nKaisel used to be a mount that the Demon King Baran rode in battle. After Sung Jin-Woo's fight, he looks around and found that Iron already killed Kaisellin, dragging his corpse towards Sung Jin-Woo. After he was extracted, his grade was Knight, which concludes he was at least an A-Rank.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306517,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kanae Tawata",
+        "native": "타와타 카나에"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306517-Lnn9sfyBpKni.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306517-Lnn9sfyBpKni.png"
+      },
+      "descripcion": "Kanae Tawata is a Japanese S-Rank Hunter under the Draw Sword Guild.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184547,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kei",
+        "native": "케이"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184547-PYsRYG61Bacv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184547-PYsRYG61Bacv.png"
+      },
+      "descripcion": "Kei (케이) was one of Japan's strongest S-Rank Hunters who was a member of the Draw Sword Guild, the strongest guild in japan led by Goto Ryuji.\n\nHe was a powerful mage class hunter specializing in ice magic.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306508,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kenzo Tanaka",
+        "native": "타나카 켄죠"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306508-F5PsV1MTs4bS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306508-F5PsV1MTs4bS.png"
+      },
+      "descripcion": "Kenzo Tanaka is a Japanese S-Rank Hunter who specialized in melee combat and a member of the Draw Sword Guild.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306680,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ki-Cheol Hyeon",
+        "native": "현기철"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306680-m25zds5TfDOl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306680-m25zds5TfDOl.png"
+      },
+      "descripcion": "Kichul Hyun is the deputy manager of the White Tiger Guild's 2nd Division Management Department and Sangimn Ahn's assistant.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184541,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ki-Hoon Son",
+        "native": "손기훈"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184541-tOghZsQZgBS4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184541-tOghZsQZgBS4.png"
+      },
+      "descripcion": "Son Ki-Hoon (손기훈) is the Team Leader of Attack Force B of the Hunters Guild.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306676,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ki-Joong Yoon",
+        "native": "윤기중"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306676-FALnbDDHY1WH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306676-FALnbDDHY1WH.png"
+      },
+      "descripcion": "Kijoong Yoon is a Korean C-Rank Hunter under the White Tiger Guild. ~!He is one of the five survivors of the Red Gate Incident.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306638,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kyu-Hwan Jo",
+        "native": "조규환"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306638-0s3eVP3j3gUf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306638-0s3eVP3j3gUf.png"
+      },
+      "descripcion": "Cho Kyuhwan is a C-rank Hunter and a member of Dongsuk Hwang's raid party.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 209396,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kyung-Hye Park",
+        "native": "박경혜"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b209396-ZEr0YZIQE0Z0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b209396-ZEr0YZIQE0Z0.png"
+      },
+      "descripcion": "Park Kyung-He is the mother of Jin-U and Jin-Ah. She was in the hospital because of the Eternal Sleep.\n\nHer sickness served as the primary motivation for Jin-U becoming a hunter alongside his desire to support his sister with the absence of their father.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210099,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Laura",
+        "native": "로라"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210099-Ak1Zyy8Q4qf8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210099-Ak1Zyy8Q4qf8.png"
+      },
+      "descripcion": "Laura is the secretary of Scavenger Guild, the strongest guild in the USA. She is a composed individual who rarely ever shows any emotion.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184551,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mari Ishida",
+        "native": "이시다마리"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184551-et9ZgmRWP5iu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184551-et9ZgmRWP5iu.png"
+      },
+      "descripcion": "Mari Ishida was one of Japans strongest S-Rank Hunters.\n\n~!She was effortlessly killed during the 4th Jeju Island Reclamation Raid.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 217286,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Michael Connor",
+        "native": "마이클 코너"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217286-AQbAFF2xEejg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b217286-AQbAFF2xEejg.png"
+      },
+      "descripcion": "Michael Connor is the Deputy Director of the Federal Bureau of Hunters.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184535,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Min-Sung Lee",
+        "native": "이민성"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184535-JQleIoFpQoRg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184535-JQleIoFpQoRg.png"
+      },
+      "descripcion": "Famous Korean actor, known as Asia's biggest movie star. He is also an A-Rank Hunter.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184543,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Minoru Hoshino",
+        "native": "호시노미노루"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184543-6u5chfqdaVoA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184543-6u5chfqdaVoA.png"
+      },
+      "descripcion": "Minoru Hoshino (호시노 미노루) is one of Japan's strongest S-Rank Hunters. He is a member of Japan's strongest guild, the Draw Sword Guild led by Goto Ryuji.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323588,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Myeong Jo",
+        "native": "조명"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b323588-cCYKiqwpeIxj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b323588-cCYKiqwpeIxj.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 356083,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Myung-Cheol",
+        "native": "명철"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b356083-1EnumlxULeBQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b356083-1EnumlxULeBQ.png"
+      },
+      "descripcion": "Korean Hunter serving under the Hunters Guild, assigned to Strike Squad B.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184530,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Myung-Han Yu",
+        "native": "유명한"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184530-prSQOxMJid47.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184530-prSQOxMJid47.png"
+      },
+      "descripcion": "Yu Myung-Han (유명한) is Jin-Ho's father and the CEO of Yoojin Construction.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306678,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Myung-Hwan Go",
+        "native": "고명환"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306678-S3BtMZx1jFd7.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306678-S3BtMZx1jFd7.png"
+      },
+      "descripcion": "Myung-Hwan Go is a Korean C-Rank Hunter under the White Tiger Guild.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 360010,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rakan",
+        "native": "라칸"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b360010-m54zQfD9eY6q.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b360010-m54zQfD9eY6q.png"
+      },
+      "descripcion": "King of Beasts and the Monarch of Fangs.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184549,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Reiji Sugimoto",
+        "native": "스기모토레이지"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184549-TwrBPK3ARm8x.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184549-TwrBPK3ARm8x.png"
+      },
+      "descripcion": "Reiji Sugimoto is the Vice-Master of Draw Sword Guild, the second most powerful guild in Asia.\n\nDuring the 4th Jeju Island Reclamation Raid, Reiji Sugimoto did not directly participate in the raid like his guild master Goto Ryuji. However, he was onboard the second DDH-184, one of the numerous Japanese boats surrounding the island.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306652,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sang-Min Ahn",
+        "native": "안상민"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306652-pwbDRuTHSVxb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306652-pwbDRuTHSVxb.png"
+      },
+      "descripcion": "Sangmin Ahn is the chief of the White Tiger Guild's 2nd Division Management Department.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306674,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sang-Sik Kim",
+        "native": "김상식"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306674-RaVc2MbWYjns.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306674-RaVc2MbWYjns.png"
+      },
+      "descripcion": "Sang-Sik Kim is a Korean D-Rank Hunter. ~!He was a survivor of the Double Dungeon. He was tragically killed by [Tae-Shik Kang](https://anilist.co/character/181155/TaeShik-Kang) after accidentally witnessing him kill a man during a raid.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 354512,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Se-Mi Han",
+        "native": "한세미"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b354512-lOwHsLUqgjZq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b354512-lOwHsLUqgjZq.png"
+      },
+      "descripcion": "Korean A-Rank Hunter and a healer serving under the Hunters Guild, assigned to Strike Squad B.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 356080,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Seok-Jin Sin",
+        "native": "신석진"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b356080-a434bFIaMhqL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b356080-a434bFIaMhqL.png"
+      },
+      "descripcion": "Pro Hunter working for the Hunters Guild. He is on Strike Team B.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326060,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Seok-Min",
+        "native": "석민"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326060-rIf2idVY42Y2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326060-rIf2idVY42Y2.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306660,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Seong-Chul Lee",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306660-IQNK5KHMA3mH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306660-IQNK5KHMA3mH.png"
+      },
+      "descripcion": "Lee Seong-Chul is the Director of the Ilsin Hospital, the hospital where [Kyung-Hye Park](https://anilist.co/character/209396/KyungHye-Park) stayed at while she was ill with Eternal Slumber.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323582,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Seong-Chul Yun",
+        "native": "윤성철"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b323582-7bCCR1xcTk1I.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b323582-7bCCR1xcTk1I.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306649,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shigeo Matsumoto",
+        "native": "마쓰모토 시게오"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306649-AnB7qXTLbQFf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306649-AnB7qXTLbQFf.png"
+      },
+      "descripcion": "Shigeo Matsumoto was the Chairman of the Japanese Hunters Association.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 360018,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sillad",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b360018-cSSguPJzQI69.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b360018-cSSguPJzQI69.png"
+      },
+      "descripcion": "King of Snow Folk and the Monarch of Frost.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 210102,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sin Sang",
+        "native": "신상"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210102-R479fvXo78Zn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210102-R479fvXo78Zn.png"
+      },
+      "descripcion": "Statue of God is the hidden boss of the Double Dungeon. It is first introduced during the D-Rank Dungeon Arc as Jin-Woo and other hunters entered the Cartenon Temple unaware of the dangers that were present inside.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 138793,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Song-I Han",
+        "native": "한송이"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138793-eijpaPPkcipD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138793-eijpaPPkcipD.png"
+      },
+      "descripcion": "Han Song-I is an E-Rank hunter who quit school after gaining money through the Yoo Jin-Ho and Sung Jin-Woo motley group of party. She is friends with Sung Jin-Ah. She first appeared when Jin-Ah visited Jin-Woo in the hospital but she didn't know him then.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306512,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tae-Gyu Lim",
+        "native": "임태규"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306512-A5Lr0OJQWuLG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306512-A5Lr0OJQWuLG.png"
+      },
+      "descripcion": "Tae-Gyu Lim is a Korean S-Rank hunter who specializes in archery magic and the Guild Master of the Fiend Guild.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 181155,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tae-Shik Kang",
+        "native": "강태식"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b181155-IkXnHuzG6he9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b181155-IkXnHuzG6he9.png"
+      },
+      "descripcion": "B-rank Hunter and An inspector working for South Korea's Hunter Association, Monitoring Division.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184545,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tank",
+        "native": "탱크"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184545-zoRmBPp8l7Mi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184545-zoRmBPp8l7Mi.png"
+      },
+      "descripcion": "Shadow of an ice bear that Jinwoo encountered during the Red Gate Incident.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306509,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tatsumi Fujishima",
+        "native": "후지시마 타츠미"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306509-pV4wj3vnNjCv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306509-pV4wj3vnNjCv.png"
+      },
+      "descripcion": "Tatsumi Fujishima is a Japanese S-Rank Hunter and a member of the Draw Sword Guild.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184957,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tusk",
+        "native": "어금니"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184957-b9X1TeiuteqR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184957-b9X1TeiuteqR.png"
+      },
+      "descripcion": "A shadow Sung Jin-Woo gained after entering the Hunters Guild Gate.\n\n~!Tusk is a shadow of Kargalgan, originally a High Orc Shaman defeated by Jinwoo Sung during the Hunters Guild Gate Arc. After being resurrected, Tusk becomes one of Jinwoo's most potent magic users, known for his devastating area-of-effect spells and high intelligence. Even as a Shadow, Tusk kept his powerful abilities and spells, making him just as capable and even stronger than when he was alive.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 353704,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Vulcan",
+        "native": "ヴォルカン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b353704-olJeQ6ocVZ0Z.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b353704-olJeQ6ocVZ0Z.png"
+      },
+      "descripcion": "S-Ranked magic beast. Vulcan was the second boss of the Demon Castle and the Ruler of the Lower Floors.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323592,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yu-Jeong An",
+        "native": "안유정"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b323592-n2q5zCNwBHbA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b323592-n2q5zCNwBHbA.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136077,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yun-Ho Baek",
+        "native": "백윤호"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136077-IIMqRmMK5Fgs.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136077-IIMqRmMK5Fgs.png"
+      },
+      "descripcion": "He is a S rank hunter and master of the White Tiger guild.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        },
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        },
+        {
+          "id": 184694,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: ReAwakening",
+            "english": "Solo Leveling -ReAwakening-",
+            "native": "俺だけレベルアップな件 -ReAwakening-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 354513,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yun-Seok Bae",
+        "native": "배윤석"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b354513-KkCYqbe0pDN4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b354513-KkCYqbe0pDN4.png"
+      },
+      "descripcion": "Leader of the Hunters Guild's Mining Team.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306513,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yun-Tae Jeong",
+        "native": "정윤탷"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306513-GWy8yMX9UQcy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306513-GWy8yMX9UQcy.png"
+      },
+      "descripcion": "Yoontae Jung is a Korean A-Rank Hunter under the Knights Guild.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184553,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zhigang Liu",
+        "native": "류즈캉"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184553-8dz0Dw1bvQ8G.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184553-8dz0Dw1bvQ8G.png"
+      },
+      "descripcion": "Zhigang Liu is one of the top five National Level Hunters in the world. Zhigang, who originated from China, was hired by the United States Government to aid with the first S-Rank Gate that appeared in the US.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326618,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Chousa-ka",
+        "native": "調査課"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326618-TEZdmWeSiql5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326618-TEZdmWeSiql5.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323151,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hittakuri-han",
+        "native": "ひったくり犯"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b323151-Urlsqp5gCkPF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b323151-Urlsqp5gCkPF.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 325161,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hunter A",
+        "native": "ハンター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 325163,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hunter B",
+        "native": "ハンター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 325164,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hunter C",
+        "native": "ハンター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 325160,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hunter D",
+        "native": "ハンター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 325165,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hunter E",
+        "native": "ハンター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b325165-846Fv1p3do7x.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b325165-846Fv1p3do7x.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 325162,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hunter F",
+        "native": "ハンター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 324470,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hunter Kyouikai Shokuin",
+        "native": "ハンター協会職員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 324468,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoshi",
+        "native": "看護師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 324471,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoshi",
+        "native": "看護師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326143,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoshi",
+        "native": "看護師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326145,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoshi",
+        "native": "看護師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326146,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoshi",
+        "native": "看護師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326148,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoshi",
+        "native": "看護師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326150,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoshi",
+        "native": "看護師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326147,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoshi",
+        "native": "看護師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326144,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoshi",
+        "native": "看護師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326149,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kankoshi",
+        "native": "看護師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 324472,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Koujou Genba Kantoku",
+        "native": "工場現場監督"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323138,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kyoukai-in A",
+        "native": "協会員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323137,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kyoukai-in B",
+        "native": "協会員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323139,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kyoukai-in C",
+        "native": "協会員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 328560,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mashima no Tsuma",
+        "native": "真島の妻"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b328560-aCr51jv1yaTS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b328560-aCr51jv1yaTS.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 328559,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mizuki no Haha",
+        "native": "観月の母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 328557,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Monkasei",
+        "native": "門下生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36309,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Narrator",
+        "native": "ナレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+      },
+      "descripcion": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 6,
+          "title": {
+            "romaji": "TRIGUN",
+            "english": "Trigun",
+            "native": "TRIGUN"
+          }
+        },
+        {
+          "id": 21,
+          "title": {
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
+          }
+        },
+        {
+          "id": 25,
+          "title": {
+            "romaji": "Sunabouzu",
+            "english": "Desert Punk",
+            "native": "砂ぼうず"
+          }
+        },
+        {
+          "id": 28,
+          "title": {
+            "romaji": "Yakitate!! Japan",
+            "english": null,
+            "native": "焼きたて!! ジャぱん"
+          }
+        },
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 33,
+          "title": {
+            "romaji": "Kenpuu Denki Berserk",
+            "english": "Berserk",
+            "native": "剣風伝奇ベルセルク"
+          }
+        },
+        {
+          "id": 60,
+          "title": {
+            "romaji": "Chrno Crusade",
+            "english": "Chrono Crusade",
+            "native": "クロノクルセイド"
+          }
+        },
+        {
+          "id": 67,
+          "title": {
+            "romaji": "Basilisk: Kouga Ninpouchou",
+            "english": "Basilisk",
+            "native": "バジリスク 甲賀忍法帖"
+          }
+        },
+        {
+          "id": 80,
+          "title": {
+            "romaji": "Kidou Senshi Gundam",
+            "english": "Mobile Suit Gundam",
+            "native": "機動戦士ガンダム"
+          }
+        },
+        {
+          "id": 90,
+          "title": {
+            "romaji": "Shin Kidou Senki Gundam Wing",
+            "english": "Mobile Suit Gundam Wing",
+            "native": "新機動戦記ガンダムW"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327117,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shokuin",
+        "native": "職員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327117-CXWCdKg0Byvi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327117-CXWCdKg0Byvi.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184540,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Thomas Andre",
+        "native": "트마스아드레"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184540-JNscGAnjHExA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184540-JNscGAnjHExA.png"
+      },
+      "descripcion": "Thomas Andre (트마스 아드레) is one of only 5 National Level Hunters that exist and is considered to be the strongest Tank on Earth. He is also the Guild Master of the Scavenger Guild.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 176496,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 325159,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tsuukounin",
+        "native": "通行人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b325159-rQxUGrSI7P1j.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b325159-rQxUGrSI7P1j.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 324467,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yajiuma no Otoko A",
+        "native": "野次馬の男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 324469,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yajiuma no Otoko B",
+        "native": "野次馬の男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    },
+    {
+      "id": 328558,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yuuka",
+        "native": "ユウカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b328558-IWZCIwIHuu5I.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b328558-IWZCIwIHuu5I.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 120,
+  "actualizado": 1788565927
+}

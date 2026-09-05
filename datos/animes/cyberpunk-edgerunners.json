@@ -1,0 +1,2645 @@
+{
+  "clave": "cyberpunk-edgerunners",
+  "nombre": "Cyberpunk: Edgerunners",
+  "descripcion": "Night City y los edgerunners",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Ciencia ficción"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-ayZPoxiWt4Li.jpg",
+  "medios": [
+    {
+      "id": 120377,
+      "title": {
+        "romaji": "Cyberpunk: Edgerunners",
+        "english": "Cyberpunk: Edgerunners",
+        "native": "サイバーパンク エッジランナーズ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-ayZPoxiWt4Li.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120377-ayZPoxiWt4Li.jpg"
+      }
+    },
+    {
+      "id": 195539,
+      "title": {
+        "romaji": "Cyberpunk: Edgerunners 2",
+        "english": "Cyberpunk: Edgerunners 2",
+        "native": "サイバーパンク: エッジランナーズ2"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195539-jaarfaxv6K0Z.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-jaarfaxv6K0Z.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 402555,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "D",
+        "native": "D"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b402555-eLAUsujYzeuk.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b402555-eLAUsujYzeuk.jpg"
+      },
+      "descripcion": "A Snake Nation netrunner with sharp technical skills and a sharper hunger for revenge, D hunts the killer who wiped out his clan.\n\n(Source: Cyberpunk: Edgerunners 2 Official Site)",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 195539,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners 2",
+            "english": "Cyberpunk: Edgerunners 2",
+            "native": "サイバーパンク: エッジランナーズ2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 284158,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "David Martinez",
+        "native": "デイビッド・マルティネズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284158-z1uGKC3IYVa1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b284158-z1uGKC3IYVa1.png"
+      },
+      "descripcion": "David is a street kid from Arroyo, Santo Domingo in Night City, who is enrolled into Arasaka's educational system at Arasaka Academy. He lives with his mother Gloria in an apartment of Megabuilding H4.\n\nAfter experiencing a personal tragedy, David has the powerful Sandevistan speedware installed in his body and becomes one of Night City's edgerunners. He also becomes acquainted with [Lucy](https://anilist.co/character/284157/Lucy), who leads him into the city's criminal underworld, and chooses to join the gang of edgerunners she is a part of, led by [Maine](https://anilist.co/character/284159/Maine).",
+      "genero": "Male",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": 2059,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 284157,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Lucy",
+        "native": "ルーシー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284157-cqYawN7XCNJx.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b284157-cqYawN7XCNJx.jpg"
+      },
+      "descripcion": "Lucy is a mysterious netrunner from Night City. She is quite introverted and doesn't like to talk much about her past. Although she looks innocent, she won't hesitate to kill a person in a heartbeat if they tick her off. Lucy also considers Night City a prison and dreams of one day leaving it for the moon.\n\nLucy is a part of [Maine](https://anilist.co/character/284159)'s crew of edgerunners. One of its members, a netrunner named [Kiwi](https://anilist.co/character/284161), is her mentor. She also becomes acquainted with [David](https://anilist.co/character/284158) and takes him on a tour through Night City's criminal underworld, leading the two of them to become partners in Maine's crew.\n\n~!She is Half Polish and Half Japanese!~\n",
+      "genero": "Female",
+      "edad": "~20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 402617,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Roman Carax",
+        "native": "ロマン・カラックス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b402617-yMF7AH5pKfM7.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b402617-yMF7AH5pKfM7.png"
+      },
+      "descripcion": "Roman Carax is a young cinephile chasing real stories in a city that’s abandoned film for braindance. Obsessed with documenting truth, he shadows the lives of others — only to learn that unlike his favorite reels, Night City’s stories are messy, brutal, and rarely tied up with a clean ending.\n\n(Source: Cyberpunk: Edgerunners 2 Official Site)",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 195539,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners 2",
+            "english": "Cyberpunk: Edgerunners 2",
+            "native": "サイバーパンク: エッジランナーズ2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 402683,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Talia Yang",
+        "native": "タリア・ヤン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b402683-OE7PEewCJi1v.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b402683-OE7PEewCJi1v.png"
+      },
+      "descripcion": "Raised in corpo towers but hardened in Maelstrom’s grip, Talia is fiercely independent and steeped in the gang’s hyper-violent, chrome-obsessed culture.\n\n(Source: Cyberpunk: Edgerunners 2 Official Site)",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 195539,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners 2",
+            "english": "Cyberpunk: Edgerunners 2",
+            "native": "サイバーパンク: エッジランナーズ2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 402428,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Weak Kingsley",
+        "native": "ウィーク・キングスリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b402428-MQ7jlCuzWuPq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b402428-MQ7jlCuzWuPq.png"
+      },
+      "descripcion": "Once known as “King,” a veteran edgerunner at the top of his game, Weak now lives in the shadow of his former glory.\n\n(Source: Cyberpunk: Edgerunners 2 Official Site)",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 195539,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners 2",
+            "english": "Cyberpunk: Edgerunners 2",
+            "native": "サイバーパンク: エッジランナーズ2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287490,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Adam Smasher",
+        "native": "アダム・スマッシャー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287490-Q8gZBPizCCGp.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287490-Q8gZBPizCCGp.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287451,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aldo",
+        "native": "アルド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287451-1JCZGQndKaje.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287451-1JCZGQndKaje.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 407502,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Avida Yang",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b407502-9WamyZ2wLYVb.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b407502-9WamyZ2wLYVb.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 195539,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners 2",
+            "english": "Cyberpunk: Edgerunners 2",
+            "native": "サイバーパンク: エッジランナーズ2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287452,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cyberpsycho",
+        "native": "サイバーサイコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287452-G21jwc9AVEUb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287452-G21jwc9AVEUb.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287455,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Delamain",
+        "native": "デラマン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287455-RhQOyRmoFGSb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287455-RhQOyRmoFGSb.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 284160,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dorio",
+        "native": "ドリオ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284160-pfwyNhxrsZOP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b284160-pfwyNhxrsZOP.png"
+      },
+      "descripcion": "Dorio is a veteran edgerunner and Maine's right-hand. She's jacked and strong, but despite her tough exterior, Dorio has a soft side that she only shows to the people she trusts.",
+      "genero": "Female",
+      "edad": "30s",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        },
+        {
+          "id": 154591,
+          "title": {
+            "romaji": "Let You Down",
+            "english": "Let You Down",
+            "native": "Let You Down"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287948,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Douglas",
+        "native": "ダグラス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287948-DmFtvSaOwk4U.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287948-DmFtvSaOwk4U.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287949,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Evans",
+        "native": "エバンス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287949-2SyBhEEerxBa.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287949-2SyBhEEerxBa.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287420,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Falco",
+        "native": "ファルコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287420-AzHYB6Sjt2Vj.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287420-AzHYB6Sjt2Vj.jpg"
+      },
+      "descripcion": "Falco is a Nomad wheelman, and part of Maine's edgerunner crew.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 284165,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Faraday",
+        "native": "ファラデー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284165-sQpdUhtcWquN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b284165-sQpdUhtcWquN.jpg"
+      },
+      "descripcion": "Faraday is a ruthless fixer with ties to Militech and a distinctive optic cyberware that gives him four eyes. He is based in Santo Domingo and often employs Maine to conduct jobs.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287424,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gillean Jordan",
+        "native": "ジリアン・ジョーダン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287424-d8kIR8tQHSKe.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287424-d8kIR8tQHSKe.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 284166,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gloria Martinez",
+        "native": "グロリア・マルティネズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284166-nB27pcRfIxvj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b284166-nB27pcRfIxvj.png"
+      },
+      "descripcion": "Both Gloria and her son David live in an apartment of Megabuilding H4 in Santo Domingo, Night City. She is an emergency medical technician (EMT).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287942,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Isabella Morgan",
+        "native": "イザベラ・モーガン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287942-YD7aREaeMhGr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287942-YD7aREaeMhGr.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287941,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jamie (Netrunner)",
+        "native": "ジェイミー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287941-WhpBw0FnNNy0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287941-WhpBw0FnNNy0.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287439,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jimmy Kurosaki",
+        "native": "ジミー・黒崎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287439-lMrTnG8AWzg1.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287439-lMrTnG8AWzg1.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287940,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Julio",
+        "native": "フリオ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287940-EImqVzV8sirU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287940-EImqVzV8sirU.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287947,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kate",
+        "native": "ケイト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287947-ltdXiLP8WfJj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287947-ltdXiLP8WfJj.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287410,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Katsuo Tanaka",
+        "native": "カツオ・タナカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287410-D2qGjLD3wPp0.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287410-D2qGjLD3wPp0.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 284161,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kiwi",
+        "native": "キーウィ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284161-QlVuoXKKONLM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b284161-QlVuoXKKONLM.jpg"
+      },
+      "descripcion": "A member of Maine's crew of mercenaries, Kiwi is an enigmatic and snarky netrunner with a detachable cybernetic jaw. She also acts as a mentor to Lucy.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 284159,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Maine",
+        "native": "メイン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284159-RvuKShSpDOS5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b284159-RvuKShSpDOS5.png"
+      },
+      "descripcion": "Maine used to be a military soldier before he became a mercenary. Now a veteran edgerunner in Night City, Maine dreams of \"making it big\", although he values his friendships with his crew more than his own glory.",
+      "genero": "Male",
+      "edad": "30s",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        },
+        {
+          "id": 154591,
+          "title": {
+            "romaji": "Let You Down",
+            "english": "Let You Down",
+            "native": "Let You Down"
+          }
+        }
+      ]
+    },
+    {
+      "id": 284162,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pilar",
+        "native": "ピラル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284162-KnRpkNpdbqx8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b284162-KnRpkNpdbqx8.png"
+      },
+      "descripcion": "Pilar is an edgerunner of Night City, known to be a comical and crude techie who loves to show off. He and his sister, [Rebecca](https://anilist.co/character/284163/Rebecca), often team up with [Maine](https://anilist.co/character/284159/Maine) and his crew to conduct mercenary jobs.",
+      "genero": "Male",
+      "edad": "30s",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 284163,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rebecca",
+        "native": "レベッカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284163-tt8smoAXl24x.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b284163-tt8smoAXl24x.jpg"
+      },
+      "descripcion": "Rebecca is an edgerunner of Night City, and is described as a short, spunky, trigger-happy solo who is always fighting with her brother [Pilar](https://anilist.co/character/284162/Pilar). The two siblings often team up with [Maine](https://anilist.co/character/284159/Maine) and his crew to conduct mercenary jobs.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        },
+        {
+          "id": 154591,
+          "title": {
+            "romaji": "Let You Down",
+            "english": "Let You Down",
+            "native": "Let You Down"
+          }
+        }
+      ]
+    },
+    {
+      "id": 284164,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ripperdoc",
+        "native": "リパードク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284164-U9A3c65rl1il.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b284164-U9A3c65rl1il.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287442,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tanaka",
+        "native": "タナカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287442-8kfb2pqfqIiI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287442-8kfb2pqfqIiI.png"
+      },
+      "descripcion": "Katsuo's father and a high-ranking executive on the Arasaka Academy board.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287939,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Wakako Okada",
+        "native": "ワカコ・オカダ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287939-5yh2JFEe6fUz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287939-5yh2JFEe6fUz.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287950,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yumiko",
+        "native": "ユミコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287950-dXrpc7mdHLth.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287950-dXrpc7mdHLth.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287422,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "AI Kyoushi",
+        "native": "AI教師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287422-5v6TaeuzETtV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287422-5v6TaeuzETtV.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287429,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Animals",
+        "native": "アニマルズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287430,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Animals",
+        "native": "アニマルズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287431,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Animals",
+        "native": "アニマルズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287960,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Animals",
+        "native": "アニマルズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287961,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Animals",
+        "native": "アニマルズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287962,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Animals",
+        "native": "アニマルズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287963,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Animals",
+        "native": "アニマルズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287964,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Animals",
+        "native": "アニマルズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287965,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Animals",
+        "native": "アニマルズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287448,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Boxers",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287449,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Boxers",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287426,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Classmate",
+        "native": "クラスメイト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287427,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Classmate",
+        "native": "クラスメイト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287428,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ishi",
+        "native": "医師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 331894,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ishi",
+        "native": "医師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287421,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kouchou",
+        "native": "校長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287421-oP973niJR4CQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287421-oP973niJR4CQ.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287444,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Laundry Machine AI",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287943,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maelstrom",
+        "native": "メイストローム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287943-90Mummdlkx5e.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287943-90Mummdlkx5e.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287944,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maelstrom",
+        "native": "メイストローム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287944-zoF28E5IHeuB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287944-zoF28E5IHeuB.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287945,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maelstrom",
+        "native": "メイストローム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287945-OIYjaJoSE3T7.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287945-OIYjaJoSE3T7.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287951,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Man in the Car",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287967,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Max-Tac",
+        "native": "マックス・タック"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287968,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Max-Tac",
+        "native": "マックス・タック"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287969,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Max-Tac",
+        "native": "マックス・タック"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287970,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Max-Tac",
+        "native": "マックス・タック"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287458,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Max-Tac Officer",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287445,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maxim Kuznetzov",
+        "native": "マクシム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287445-5sYdCbSyKvJm.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287445-5sYdCbSyKvJm.png"
+      },
+      "descripcion": "Maxim Kuznetsov is a Solo working as a driver for the Arasaka Corporation",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287443,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Medic",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287443-WAVDonix3vdz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287443-WAVDonix3vdz.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287971,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Militech Soldier",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287972,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Militech Soldier",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287973,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Militech Soldier",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287974,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Militech Soldier",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287453,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "NCPD Officers",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287454,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "NCPD Officers",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287456,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "NCPD Officers",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287457,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "NCPD Officers",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287440,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ooya",
+        "native": "大家"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287933,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Radio DJ",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 290013,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Rogue Amendiares",
+        "native": "ローグ・アメンディアレス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290013-vpOI5TjibXM0.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b290013-vpOI5TjibXM0.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": "80+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287433,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Trauma Team",
+        "native": "トラウマ チーム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287434,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Trauma Team",
+        "native": "トラウマ チーム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287435,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Trauma Team",
+        "native": "トラウマ チーム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287436,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Trauma Team",
+        "native": "トラウマ チーム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287936,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Trauma Team",
+        "native": "トラウマ チーム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287937,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Trauma Team",
+        "native": "トラウマ チーム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287938,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Trauma Team",
+        "native": "トラウマ チーム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287446,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tyger Claws",
+        "native": "タイガークロウズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287446-9zhFvCbqq3OZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287446-9zhFvCbqq3OZ.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287447,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tyger Claws",
+        "native": "タイガークロウズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287447-LsiZeqjtIo7Y.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287447-LsiZeqjtIo7Y.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287953,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tyger Claws",
+        "native": "タイガークロウズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287954,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tyger Claws",
+        "native": "タイガークロウズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287955,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tyger Claws",
+        "native": "タイガークロウズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287956,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tyger Claws",
+        "native": "タイガークロウズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 287935,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Weather Presenter",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 120377,
+          "title": {
+            "romaji": "Cyberpunk: Edgerunners",
+            "english": "Cyberpunk: Edgerunners",
+            "native": "サイバーパンク エッジランナーズ"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 86,
+  "actualizado": 1788566119
+}

@@ -1,0 +1,3328 @@
+{
+  "clave": "blue-lock",
+  "nombre": "Blue Lock",
+  "descripcion": "El proyecto para crear al mejor delantero",
+  "generos": [
+    "Deportes",
+    "Drama"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+  "medios": [
+    {
+      "id": 137822,
+      "title": {
+        "romaji": "Blue Lock",
+        "english": "BLUE LOCK",
+        "native": "ブルーロック"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137822-U8naszP96vzC.png"
+      }
+    },
+    {
+      "id": 163146,
+      "title": {
+        "romaji": "Blue Lock VS. U-20 JAPAN",
+        "english": "BLUE LOCK Season 2",
+        "native": "ブルーロック VS. U-20 JAPAN"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-BVZPgyzkqi82.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163146-BVZPgyzkqi82.png"
+      }
+    },
+    {
+      "id": 163147,
+      "title": {
+        "romaji": "Blue Lock: EPISODE Nagi",
+        "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+        "native": "ブルーロック -EPISODE 凪-"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163147-yyu5aEoO96Jg.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163147-yyu5aEoO96Jg.jpg"
+      }
+    },
+    {
+      "id": 199404,
+      "title": {
+        "romaji": "Blue Lock: NEO EGOIST LEAGUE",
+        "english": "BLUE LOCK NEO EGOIST LEAGUE",
+        "native": "ブルーロック ネオ・エゴイストリーグ"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199404-zpQfeRq7AftA.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199404-zpQfeRq7AftA.jpg"
+      }
+    },
+    {
+      "id": 176317,
+      "title": {
+        "romaji": "Blue Lock: EPISODE Nagi - Additional Time!",
+        "english": null,
+        "native": "ブルーロック -EPISODE 凪- あでぃしょなる・たいむ！"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176317-abBCvCWILpiv.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176317-abBCvCWILpiv.png"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 167444,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Hyouma Chigiri",
+        "native": "千切豹馬"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b167444-JTHkkJAX4E3q.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b167444-JTHkkJAX4E3q.png"
+      },
+      "descripcion": "__Height:__ 177cm (5'10\")\n\nHyoma Chigiri is a contender for the Blue Lock Project and member of Team Z. \n\nAs a young child, he was thought of as a prodigy due to his incredible speed. However, he is now psychologically scarred by a life-changing injury during his first year of high school.",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 162213,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Meguru Bachira",
+        "native": "蜂楽廻"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162213-4czykzdxmWG6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162213-4czykzdxmWG6.png"
+      },
+      "descripcion": "__Birthplace:__ Chiba\n__Height:__ 176 cm (5'9\")\n\nMeguru Bachira is a contender in the Blue Lock Project who currently plays as a center forward for Spain’s FC Barcha during the Neo Egoist League. Bachira is a whimsical forward who plays instinctively.",
+      "genero": "Male",
+      "edad": "17-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 162214,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Rensuke Kunigami",
+        "native": "國神錬介"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162214-9x9Q3A9rxpx8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162214-9x9Q3A9rxpx8.png"
+      },
+      "descripcion": "__Height:__ 188 cm\n__Team:__ Team Z\n\nRensuke Kunigami is very serious about his football career and training; he's always the first in the training room in the morning and the last to leave at night. Kunigami tends to get into arguments with [Raichi](https://anilist.co/character/169402/Raichi-Jingo), but is also the one who restrains him the most when he picks a fight with someone.\n\n~!During the second selection Kunigami is eliminated from Blue Lock project, but afterwards gets a second chance through the Wild Card training!~\n\n~!After Blue Lock vs. Japan U20 match, Kunigami gets back into Blue Lock project. His appearance changed a bit and his attitude too.!~",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169394,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Reo Mikage",
+        "native": "御影玲王"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169394-8KDqHUN1VyGC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169394-8KDqHUN1VyGC.png"
+      },
+      "descripcion": "**Height:** 185 cm\n\nReo Mikage is the heir of the Mikage Corporation. Prior to entering Blue Lock, he was a student at an elite high school, the same school as [Seishiro Nagi](https://anilist.co/character/162969/Nagi-Seishirou).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        },
+        {
+          "id": 176317,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi - Additional Time!",
+            "english": null,
+            "native": "ブルーロック -EPISODE 凪- あでぃしょなる・たいむ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169395,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Rin Itoshi",
+        "native": "糸師凛"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169395-7xUFV2mINMZu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169395-7xUFV2mINMZu.png"
+      },
+      "descripcion": "__Height:__ 186 cm (6'1\")\n\nFirst-year high school student and contender for the Blue Lock Project. He is the younger brother of Sae Itoshi, a prodigy considered one of the best youth soccer players in the world. Rin once had the aspiration of being the greatest in the world alongside his brother, but after a disagreement, he became obsessed with beating his brother in football to demonstrate he can succeed without him.\n\nRin is a player who loves to play perfectly efficient football but isn’t hesitant to be daring and take surprising risks to fully embrace the live-or-die attitude he has grown fond of and appreciates. Whether on offense or defense, Rin's play style consists of him grasping the abilities of both his teammates and his opponents and forcing out their best plays and abilities. He either manipulates them in his efforts to score goals for himself or aims to crush them at their strongest.",
+      "genero": "Male",
+      "edad": "16-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 162969,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Seishirou Nagi",
+        "native": "凪誠士郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162969-WGnGyVQrFi0X.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162969-WGnGyVQrFi0X.png"
+      },
+      "descripcion": "__Height:__ 190 cm (6'3\")\n\nContender for the Blue Lock Project. He attends Hakuho High School alongside [Reo Mikage](https://anilist.co/character/169394/Mikage-Reo). As a striker, Nagi's perfect ball control, flexible movements, and technical ability allow him to breathe life into even the most difficult or hopeless plays.\n\nNagi is a very lazy and unmotivated person with an outstanding aptitude for football. He's unnaturally talented, with amazing reflexes, good speed, and jumping skills. He has no interest in going pro or even playing at all at first. As long as he can get a decent job and keep living a lax life, he is content with doing nothing forever and often appears lethargic in his speech and body language. Introverted to a fault, he lives by himself in an apartment his parents pay for with only a pet cactus for company.\n",
+      "genero": "Male",
+      "edad": "17-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        },
+        {
+          "id": 176317,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi - Additional Time!",
+            "english": null,
+            "native": "ブルーロック -EPISODE 凪- あでぃしょなる・たいむ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 140856,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Yoichi Isagi",
+        "native": "潔世一"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b140856-wVzKSyvU7R5B.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b140856-wVzKSyvU7R5B.png"
+      },
+      "descripcion": "__Height:__ 175 cm (5'9\")\n\nSecond-year high school student at Ichinan High School in Saitama. Isagi grew up watching soccer and aspiring to be like [Noel Noa](https://anilist.co/character/268966), a forward for France's National Team. Due to this, he dreams of becoming the best striker in the world. In turn, Isagi played striker for his school soccer team, who was defeated in the Prefectural Finals by Matsukaze Kokou High. After this loss, Isagi is invited to participate in the Blue Lock Project, ranked 299th of 300 strikers, and is assigned to Team Z.\n\nIsagi is easygoing and has a generally friendly, cheery personality, but his simple and innocent habits often get on the nerves of the people around him. As time goes on, Isagi develops a more assertive presence on and off the field, becoming the foundation for Team Z and garnering the respect of some of the best players in Blue Lock.",
+      "genero": "Male",
+      "edad": "16-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        },
+        {
+          "id": 199404,
+          "title": {
+            "romaji": "Blue Lock: NEO EGOIST LEAGUE",
+            "english": "BLUE LOCK NEO EGOIST LEAGUE",
+            "native": "ブルーロック ネオ・エゴイストリーグ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169406,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Zantetsu Tsurugi",
+        "native": "剣城斬鉄"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169406-wTagOOkC7fi5.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169406-wTagOOkC7fi5.jpg"
+      },
+      "descripcion": "__Birthplace:__ Saitama Prefecture\n__Height:__ 187 cm (6'2\")\n\nZantetsu Tsurugi is a contender in the Blue Lock Project. ~!He was a member of Team V during the First Selection and remained among the selected contenders after the Second Selection. Known for his simplicity and remarkable speed, he played as a right winger for France’s Paris X Gen during the Neo Egoist League. Following the conclusion of the 5th round, he was ranked 19th overall and qualified as one of the 23 players selected for the U-20 World Cup.!~",
+      "genero": "Male",
+      "edad": "17-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        },
+        {
+          "id": 176317,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi - Additional Time!",
+            "english": null,
+            "native": "ブルーロック -EPISODE 凪- あでぃしょなる・たいむ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 269065,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Adam Blake",
+        "native": "アダム・ブレイク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b269065-Ofvc4btZNih1.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b269065-Ofvc4btZNih1.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169405,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Anri Teieri",
+        "native": "帝襟アンリ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169405-RFVC95ooQp13.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169405-RFVC95ooQp13.png"
+      },
+      "descripcion": "__Height:__ 157cm (5'2\")\n\nAnri is a new member of the Japan Football Association. Sometime after the defeat of the Japanese National Team in the 2018 World Cup, Anri proposes the Blue Lock plan to the executives of the Japan Football Union to help Japan win the World Cup.",
+      "genero": "Female",
+      "edad": "22-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 17
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169396,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aoshi Tokimitsu",
+        "native": "時光青志"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169396-H7Te5t4JXfRU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169396-H7Te5t4JXfRU.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179957,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Asahi Naruhaya",
+        "native": "成早朝日"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179957-IjUVBSDq8tWc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179957-IjUVBSDq8tWc.png"
+      },
+      "descripcion": "__Height:__ 171 cm\n__Team:__ Team Z\n\nNaruhaya is the youngest member of Team Z and is always seen stealing food from Gin.\n\n~!During the Second Selection Naruhaya teams up with Barou, but loses in a 2v2 match against Isagi and Nagi, and is eliminated from Blue Lock!~",
+      "genero": "Male",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 364513,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Atsuto Tereasa",
+        "native": "照朝熱人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b364513-z3gxreNSP3Hv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b364513-z3gxreNSP3Hv.png"
+      },
+      "descripcion": "Japanese football sportscaster. He commented on the match between Blue Lock Eleven and Japan U-20.",
+      "genero": "Male",
+      "edad": "35",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 300790,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dada Silva",
+        "native": "ダダ・シウバ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b300790-OxPfdP6WIOOp.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b300790-OxPfdP6WIOOp.jpg"
+      },
+      "descripcion": "__Jersey Number:__ 5\n__Position:__ Forward\n\nA member of Team World 5. Silva currently plays for Brazi's National Football Team.",
+      "genero": "Male",
+      "edad": "28",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        }
+      ]
+    },
+    {
+      "id": 187523,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eita Otoya",
+        "native": "乙夜影汰"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187523-84UYaB9Xtg8O.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187523-84UYaB9Xtg8O.png"
+      },
+      "descripcion": "__Birthplace:__ Aichi\n__Height:__ 177 cm (5'10\")\n\nEita Otoya is a contender in the Blue Lock Project. ~!When first introduced, he was ranked #4 during the Third Selection and later played both right wing and right-back for the Blue Lock Eleven in their match against Japan’s U-20 team. He played as a right winger for Spain’s FC Barcha during the Neo Egoist League.!~",
+      "genero": "Male",
+      "edad": "17-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348627,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gen Fukaku",
+        "native": "不角源"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348627-I2apKvinBI0n.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b348627-I2apKvinBI0n.png"
+      },
+      "descripcion": "__Height:__ 191 cm\n\nGoalkeeper for the Japan U-20 team. He currently plays for Italy's Ubers during the Neo Egoist League.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169404,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gin Gagamaru",
+        "native": "我牙丸吟"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169404-90OF8t2ukD9H.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169404-90OF8t2ukD9H.jpg"
+      },
+      "descripcion": "__Height:__ 191 cm\n\nGagamaru was a forward who aspired to be the best in the world, along with the others of Blue Lock. When first arriving at Blue Lock, he was a member of Team Z during the First Selection.",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 291176,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Girolan Dabadie",
+        "native": "ジローラン・ダバディ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b291176-uLbEKe4sBj1c.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b291176-uLbEKe4sBj1c.jpg"
+      },
+      "descripcion": "[Sae Itoshi](https://anilist.co/character/169397/Sae-Itoshi)'s manager",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169398,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gurimu Igarashi",
+        "native": "五十嵐栗夢"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169398-jGTUsTkP7z4H.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169398-jGTUsTkP7z4H.png"
+      },
+      "descripcion": "__Height:__ 175 cm",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348631,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Haru Hayate",
+        "native": "颯波留"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348631-NjrasZWaqWAd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b348631-NjrasZWaqWAd.png"
+      },
+      "descripcion": "__Height:__ 186 cm\n\nDefensive midfielder for the Japan U-20 team.",
+      "genero": "Male",
+      "edad": "18-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 364514,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Harutarou Natsuki",
+        "native": "夏木春太郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b364514-W9CDBrWZ64Hd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b364514-W9CDBrWZ64Hd.png"
+      },
+      "descripcion": "Japanese football sportscaster. He commented on the match between Blue Lock Eleven and Japan U-20.",
+      "genero": "Male",
+      "edad": "61",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289961,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hibiki Ookawa",
+        "native": "大川響鬼"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289961-0C6DkMMCP1m1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289961-0C6DkMMCP1m1.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 290639,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hirotoshi Buratsuta",
+        "native": "不乱蔦宏俊"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290639-s0Hs0fRbshWI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b290639-s0Hs0fRbshWI.png"
+      },
+      "descripcion": "The man who serves as the chairman of the Japan Football Association. He sees soccer as a business and doesn't really think about helping the Japanese national team win The World Cup. He is also skeptical of the \"Blue Lock\" project.",
+      "genero": "Male",
+      "edad": "62",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169403,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ikki Niko",
+        "native": "二子一揮"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169403-x8h2FGUA5eya.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169403-x8h2FGUA5eya.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": "15-16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293893,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Issei Isagi",
+        "native": "潔一生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293893-AtEc9JdGiyHG.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293893-AtEc9JdGiyHG.jpg"
+      },
+      "descripcion": "Father of [Yoichi Isagi](https://anilist.co/character/140856)",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348630,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Itsuki Wakatsuki",
+        "native": "若月樹"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348630-95NkUtG41Fu0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b348630-95NkUtG41Fu0.png"
+      },
+      "descripcion": "__Height:__ 178 cm\n\nDefensive midfielder for the Japan U-20 team.",
+      "genero": "Male",
+      "edad": "18-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 27
+      },
+      "media": [
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293894,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Iyo Isagi",
+        "native": "潔伊世"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293894-SVjDnQE0aIYm.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293894-SVjDnQE0aIYm.jpg"
+      },
+      "descripcion": "Mother of [Yoichi Isagi](https://anilist.co/character/140856/)",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169402,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jingo Raichi",
+        "native": "雷市陣吾"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169402-JlISsoEunCxH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169402-JlISsoEunCxH.png"
+      },
+      "descripcion": "__Height:__ 184 cm\n__Team:__ Team Z\n\nRaichi is the most hot-headed of the group and argues with just about everyone on everything, often to the point of needing to be restrained by Kunigami.",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 140857,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jinpachi Ego",
+        "native": "絵心甚八"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b140857-DOTyKBCufon9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b140857-DOTyKBCufon9.png"
+      },
+      "descripcion": "__Height:__ 189 cm (6'2\")\n\nGeneral Director/Manager of the Blue Lock Project, handpicked to lead the project by [Anri Teieri](https://anilist.co/character/169405). Ego is introduced as a man who radiates ambition and confidence. His egotistical nature is undeniable, especially given his belief that only his methods can lead to Japan's victory in the World Cup.\n\nEgo used to play football in his earlier career, with Noel Noa being his rival and former teammate.",
+      "genero": "Male",
+      "edad": "30-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 31
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 269064,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Julian Loki",
+        "native": "ジュリアン・ロキ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b269064-h21qmRQjaek6.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b269064-h21qmRQjaek6.jpg"
+      },
+      "descripcion": "__Team:__ Paris X Gen, France National Team, Team World Five (Former)\n__Position:__ Forward\n\nJulian Loki is a young French football prodigy renowned for his exceptional speed and skill. He plays as a forward for the French club Paris X Gen (PXG) and is also a member of the France National Team.\n\nFirst introduced during Third Selection, as a member of the Team World 5, he is initially at Blue Lock to analyze and rate the last string of Blue Lock players. He later returns to help train the Blue Lock players and participate in the Neo Egoist League as the master striker and coach of the France Stratum, all in order to train his protégé, [Charles Chevalier](https://anilist.co/character/334890/Charles-Chevalier), into becoming his personal passer so they may become the best in the world together. ~!He is a member of the New Generation World XI.!~",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        }
+      ]
+    },
+    {
+      "id": 284964,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Junichi Wanima",
+        "native": "鰐間淳壱"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284964-uVJVSIAr2cB3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b284964-uVJVSIAr2cB3.jpg"
+      },
+      "descripcion": "__Birthplace:__ Kagoshima Prefecture\n__Height:__ 182 cm (6'0\")\n\nJunichi Wanima is a contender in the Blue Lock Project and the older twin brother of [Keisuke Wanima](https://anilist.co/character/284965).",
+      "genero": "Male",
+      "edad": "18-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169400,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jyuubei Aryuu",
+        "native": "蟻生十兵衛"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169400-ulG1Ke7yRn7Y.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169400-ulG1Ke7yRn7Y.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 191410,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kairu  Saramadara",
+        "native": "皿斑海琉"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191410-URRqPa5aNQQh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191410-URRqPa5aNQQh.png"
+      },
+      "descripcion": "One of the players Isagi played aganist in Third Selection.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 268964,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kazuma Niou",
+        "native": "仁王和真"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b268964-8DeINIKd16FD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b268964-8DeINIKd16FD.png"
+      },
+      "descripcion": "__Height:__ 184cm\n\nCenter Back for the Japan U-20 team.",
+      "genero": "Male",
+      "edad": "19-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 284965,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Keisuke Wanima",
+        "native": "鰐間計助"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284965-93igj5yBKpDO.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b284965-93igj5yBKpDO.jpg"
+      },
+      "descripcion": "Younger twin brother of [Junichi Wanima](https://anilist.co/character/284964).",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348628,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kento Chou",
+        "native": "超健人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348628-lIKAk86PquHy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b348628-lIKAk86PquHy.png"
+      },
+      "descripcion": "__Height__: 193 cm\n\nMember of the Japan U-20.",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 19
+      },
+      "media": [
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 191409,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kenyu Yukimiya",
+        "native": "雪宮剣優"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191409-qU7sRhVmpgRQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191409-qU7sRhVmpgRQ.png"
+      },
+      "descripcion": "__Team:__ Team C; 3rd Clear Team (formerly); Blue Lock 11 (Left Wing)\n__Position:__ Forward; Winger\n\nHe is currently ranked #5 out of the original 300 forwards chosen to be apart of the Blue Lock Project ~!and is currently starting as a winger for the Blue Lock Eleven team against the Japan U-20.!~\n\nYukimiya is highly confident in his own abilities, declaring himself the strongest player in Japan, when it comes to one-on-one battles. He is also a likable and charismatic personality, appearing to make friends easily, like with Nagi. In addition to this, Yukimiya likes to make banter even with his opponents, indicating a playful element to his personality.\n\nYukimiya claims that he is a pacifist, which forms part of his ego, since he sees the easiest and most peaceful way to score would be to do so himself. He is also inquisitive, often being the first to ask questions of Ego, about his selection criteria.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 176317,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi - Additional Time!",
+            "english": null,
+            "native": "ブルーロック -EPISODE 凪- あでぃしょなる・たいむ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 363817,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Koyuki Chigiri",
+        "native": "千切虎雪"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b363817-kV3EEeVlY2Ps.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b363817-kV3EEeVlY2Ps.png"
+      },
+      "descripcion": "Older sister of Hyouma Chigiri.",
+      "genero": "Female",
+      "edad": "21",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 191408,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kyouhei Shiguma",
+        "native": "志熊恭平"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191408-mt7SCQxVICv4.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191408-mt7SCQxVICv4.jpg"
+      },
+      "descripcion": "One of the players Isagi played aganist in Third Selection.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 300811,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Leonardo Luna",
+        "native": "レオナルド・ルナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b300811-znoRRICcQKiL.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b300811-znoRRICcQKiL.jpg"
+      },
+      "descripcion": "Professional player from Spain known as 'The Scion of Real Madrid' who plays on Spain's Real Madrid and the Spain National Team. He arrives at Blue Lock as member of the Team World 5 to analyze and rate the last string of Blue Lock players.",
+      "genero": "Male",
+      "edad": "27",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 31
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297190,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mahiru Naruhaya",
+        "native": "成早真昼"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b297190-b2Zc3X782Dpt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b297190-b2Zc3X782Dpt.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        }
+      ]
+    },
+    {
+      "id": 268963,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Michael Kaiser",
+        "native": "ミヒャエル カイザー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b268963-0i8SgRcs6ibf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b268963-0i8SgRcs6ibf.png"
+      },
+      "descripcion": "__Birthplace:__ Berlin, Germany\n__Height:__ 186 cm (6'1\")\n\nMichael Kaiser is a prodigy U-20 forward from Germany who plays for Bastard München during the Neo Egoist League as the team's ace and main striker. ~!He is a member of the New Generation World XI.!~",
+      "genero": "Male",
+      "edad": "19-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 199404,
+          "title": {
+            "romaji": "Blue Lock: NEO EGOIST LEAGUE",
+            "english": "BLUE LOCK NEO EGOIST LEAGUE",
+            "native": "ブルーロック ネオ・エゴイストリーグ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348632,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Miroku Darai",
+        "native": "蛇来弥勒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348632-QcK1e53GNi2U.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b348632-QcK1e53GNi2U.png"
+      },
+      "descripcion": "__Height:__ 179 cm\n\nLeft back for the Japan U-20 team.",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 187547,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nanase  Nijirou",
+        "native": "七星虹郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187547-b8DBjehdIRry.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187547-b8DBjehdIRry.png"
+      },
+      "descripcion": "__Height:__ 178 cm (5'10\")\n\nNananse Nijirou is one of friends that Isagi made before Third Selection begins",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 363816,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Neneko Chigiri",
+        "native": "千切音猫子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b363816-biv5ghY2Io1j.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b363816-biv5ghY2Io1j.png"
+      },
+      "descripcion": "Mother of Hyouma Chigiri.",
+      "genero": "Female",
+      "edad": "49",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 26
+      },
+      "media": [
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169399,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Okuhito Iemon",
+        "native": "伊右衛門送人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169399-Y9TEpu1qhsWK.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169399-Y9TEpu1qhsWK.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 19
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 206571,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Oliver Aiku",
+        "native": "オリヴァ・愛空"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b206571-DhDhOUxff0jV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b206571-DhDhOUxff0jV.png"
+      },
+      "descripcion": "__Birthplace:__ Stockholm, Sweden\n__Height:__ 190 cm (6'2\")\n__Team:__ Japan U20 & ~!Ubers (NEL)!~\n__Position:__ Center Back\n\nOliver Aiku is the captain and center-back of the Japan U-20 team.",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 300812,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pablo Cabassos",
+        "native": "パブロ・カバソス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b300812-68JTZiSqi5Jp.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b300812-68JTZiSqi5Jp.jpg"
+      },
+      "descripcion": "Member of the Team World 5. Pablo currently plays for Argentina's National Football Team.",
+      "genero": "Male",
+      "edad": "23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        }
+      ]
+    },
+    {
+      "id": 290887,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ranze Kurona",
+        "native": "黒名蘭世"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290887-0J5y1MgB21PX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b290887-0J5y1MgB21PX.png"
+      },
+      "descripcion": "__Height:__ 168 cm (5'6\")\n__Team:__ Bastard München (NEL)\n__Position:__ Wingback, Forward\n\nRanze Kurona is a participant of the Blue Lock project and plays for Bastard München during the Neo Egoist League. He typically plays as a post-player who can be easily utilized to exchange possession in the instance [Isagi](https://anilist.co/character/140856/Yoichi-Isagi) gets pressured.",
+      "genero": "Male",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        },
+        {
+          "id": 176317,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi - Additional Time!",
+            "english": null,
+            "native": "ブルーロック -EPISODE 凪- あでぃしょなる・たいむ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293017,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Reo no Chichi",
+        "native": "玲王の父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293017-RJCTt5gWb4D9.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293017-RJCTt5gWb4D9.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293018,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Reo no Haha",
+        "native": "玲王の母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293018-g1LzHzVQWewm.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293018-g1LzHzVQWewm.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 329915,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryou Nameoka",
+        "native": "舐岡了"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b329915-Jya1souJqMbl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b329915-Jya1souJqMbl.png"
+      },
+      "descripcion": "Forward and captain of Aomori Dadada High School's football team.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 140859,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryousuke Kira",
+        "native": "吉良涼介"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b140859-NVKkWDRxfjmv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b140859-NVKkWDRxfjmv.png"
+      },
+      "descripcion": "Previously a second year football player at Matsukaze Kokuo High and now #289 in Blue Lock. He is a pretty boy with girls swooning over him. He plays as a striker and, like Yoichi, is a team-based player.\n\nRyousuke is skeptical about the whole Blue Lock program and is against the thought of an ego-driven striker. Due to this, he is trying to defeat all 299 other strikers at Blue Lock.\n~!He is kicked out of Blue Lock after being defeated by Yoichi and Meguru.!~",
+      "genero": "Male",
+      "edad": "16-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 186875,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryuusei Shidou",
+        "native": "士道龍聖"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186875-JGHisZO21JxJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b186875-JGHisZO21JxJ.png"
+      },
+      "descripcion": "__Birthplace:__ Tokyo\n__Height:__ 185 cm (6'1\")\n\nRyuusei Shidou is a contender in the Blue Lock Project. ~!He was ranked #2 during the Third Selection and was initially chosen as the wildcard for the Blue Lock Eleven in their match against Japan’s U-20 team, but was instead selected by [Itoshi Sae](https://anilist.co/character/169397/Itoshi-Sae) to play for the U-20 side. He later stood out as one of the top players in the project. During the Neo Egoist League, he played as a center forward for France’s Paris X Gen. Following the conclusion of the 5th round, he was ranked 3rd overall and qualified as one of the 23 players for the new Japan U-20 team.!~",
+      "genero": "Male",
+      "edad": "18-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169397,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sae Itoshi",
+        "native": "糸師冴"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169397-wC55onsv5u8t.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169397-wC55onsv5u8t.jpg"
+      },
+      "descripcion": "__Height:__ 180 cm (5'11\")\n\nSae Itoshi is regarded as the best player in Japan and is [Rin Itoshi](https://anilist.co/character/169395/Rin-Itoshi)'s older brother. He is a member of Re AL youth team and is regarded as one of the best youth players in the world. ~!He is a member of the New Generation World XI.!~",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 347597,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Seiji Houichi",
+        "native": "法一正次"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b347597-JvmWW0CTDqnp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b347597-JvmWW0CTDqnp.png"
+      },
+      "descripcion": "Manager of the Japan U-20 team. He was hired by Hirotoshi, the current chairman of the Japan Football Union.",
+      "genero": "Male",
+      "edad": "50",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301254,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shingen Tanaka",
+        "native": "田中信玄"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301254-8IMIBw5pXPki.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301254-8IMIBw5pXPki.png"
+      },
+      "descripcion": "A contender for the Blue Lock Project. Ranked 5th after the third selection.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169401,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shouei Barou",
+        "native": "馬狼照英"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169401-jeepvEsqW4Ns.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169401-jeepvEsqW4Ns.png"
+      },
+      "descripcion": "__Height:__ 187 cm",
+      "genero": "Male",
+      "edad": "18-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 27
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 291170,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shuusaku Nihei",
+        "native": "弐瓶集作"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b291170-kgPlxRoWbAwi.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b291170-kgPlxRoWbAwi.jpg"
+      },
+      "descripcion": "Editor-in-Chief of _SoccerDirect_",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        }
+      ]
+    },
+    {
+      "id": 338752,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shuuto Sendou",
+        "native": "閃堂 秋人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b338752-X0eBZI7VbkxY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b338752-X0eBZI7VbkxY.png"
+      },
+      "descripcion": "Member of the Japan U-20 team.",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 187524,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tabito Karasu",
+        "native": "烏旅人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187524-HlZ4yDd2eGcT.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187524-HlZ4yDd2eGcT.png"
+      },
+      "descripcion": "__Birthplace:__ Osaka\n__Height:__ 183 cm (6'0\")\n\nTabito Karasu is a contender in the Blue Lock Project. ~!He played as a central midfielder for France’s Paris X Gen during the Neo Egoist League. When first introduced, he was ranked #3 during the Third Selection and later played as a defensive midfielder for the Blue Lock Eleven in their match against Japan’s U-20 team.!~",
+      "genero": "Male",
+      "edad": "18-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        },
+        {
+          "id": 176317,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi - Additional Time!",
+            "english": null,
+            "native": "ブルーロック -EPISODE 凪- あでぃしょなる・たいむ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348634,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Teppei Neru",
+        "native": "音留徹平"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348634-THzmeNCBPskj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b348634-THzmeNCBPskj.png"
+      },
+      "descripcion": "__Height:__ 168 cm\n\nRight back for the Japan U-20 team.",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 348629,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Teru Kitsunezato",
+        "native": "狐里輝"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348629-Sjn3ViRA49r4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b348629-Sjn3ViRA49r4.png"
+      },
+      "descripcion": "__Height:__ 181 cm\n\nRight wing for the Japan U-20 team.",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169392,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Wataru Kuon",
+        "native": "久遠渡"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169392-IWGJIFHcBsLa.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169392-IWGJIFHcBsLa.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 16
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 187546,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "You Hiori",
+        "native": "氷織羊"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187546-2PxDNNaVD3OX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187546-2PxDNNaVD3OX.png"
+      },
+      "descripcion": "__Height:__ 183 cm (6'0\")\n\nHiori Yo one of friends that Isagi made before Third Selection begins\n",
+      "genero": "Male",
+      "edad": "17-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 169393,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yudai Imamura",
+        "native": "今村遊大"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169393-v2sZMcol9gtH.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169393-v2sZMcol9gtH.jpg"
+      },
+      "descripcion": "__Birthplace:__ Tokushima Prefecture\n__Height:__ 178 cm (5'10\")\n__Team:__ Team Z\n\nYudai Imamura is a contender in the Blue Lock Project.",
+      "genero": "Male",
+      "edad": "18-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163147,
+          "title": {
+            "romaji": "Blue Lock: EPISODE Nagi",
+            "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "native": "ブルーロック -EPISODE 凪-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301251,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yukio Ishikari",
+        "native": "石狩幸雄"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301251-OIpIH0kbpdwm.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301251-OIpIH0kbpdwm.jpg"
+      },
+      "descripcion": "A contender for the Blue Lock Project, known as the tallest high school soccer athlete in Japan.",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 299060,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuu Bachira",
+        "native": "蜂楽優"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299060-O5zirBDDRc6a.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b299060-O5zirBDDRc6a.jpg"
+      },
+      "descripcion": "Mother of [Meguru Bachira](https://anilist.co/character/162213). She is a painter.",
+      "genero": "Female",
+      "edad": "37",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 16
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 300807,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Aiki Himizu",
+        "native": "日不見愛基"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b300807-sMmzNdi55r25.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b300807-sMmzNdi55r25.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301257,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Akira Endoji",
+        "native": "猿堂寺暁"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301257-eAp0PdUnkhHN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301257-eAp0PdUnkhHN.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 299064,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Coach",
+        "native": "コーチ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299064-HwDSEN1GIiRe.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b299064-HwDSEN1GIiRe.jpg"
+      },
+      "descripcion": "Middle soccer coach of Meguru Bachira.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        }
+      ]
+    },
+    {
+      "id": 299063,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Cristiano Ronaldo",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299063-Ov4UtU9DtyJI.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b299063-Ov4UtU9DtyJI.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301261,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hajime Nishioka",
+        "native": "西岡初"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301261-7JLmKAfBmxpN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301261-7JLmKAfBmxpN.jpg"
+      },
+      "descripcion": "Contender for the Blue Lock Project. He makes it to the third selection, but is mentioned as being treated for an injury sustained during the World's Select Battle and is not introduced with the rest of his team.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301235,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Haruhiko Yuzu",
+        "native": "柚春彦"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301235-C7jdCleKEzRs.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301235-C7jdCleKEzRs.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301260,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jin Kiyora",
+        "native": "清羅刃"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301260-XLslixhrhjXx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301260-XLslixhrhjXx.png"
+      },
+      "descripcion": "__Height:__ 165cm\n\nContender for the Blue Lock Project. Plays for Bastard München during the Neo Egoist League",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 31
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 299061,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Lionel Messi",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299061-iT5QlEhP0OgA.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b299061-iT5QlEhP0OgA.jpg"
+      },
+      "descripcion": "Lionel Andrés Messi, also known as Leo Messi, is an Argentine professional footballer.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        }
+      ]
+    },
+    {
+      "id": 268966,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Noel Noa",
+        "native": "ノエル・ノア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b268966-obcuMQxnKJSq.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b268966-obcuMQxnKJSq.jpg"
+      },
+      "descripcion": "He is a 31-year old forward from France who plays on France's National Team and on the German club team Bastard München. Noa is known as the best striker in the world and he is Yoichi Isagi's idol.\n\nHe is initially introduced at the beginning of the series but he officially makes his debut in the Neo Egoist League when he comes to Blue Lock as the master striker/coach of the Germany Stratum.",
+      "genero": "Male",
+      "edad": "31",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301258,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Reiji Hiiragi",
+        "native": "柊零次"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301258-f61mtcGjxumf.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301258-f61mtcGjxumf.jpg"
+      },
+      "descripcion": "Contender for the Blue Lock Project.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302965,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sena Naruhaya",
+        "native": "成早夕夜"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302965-TQe90uYWITww.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302965-TQe90uYWITww.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301255,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shizuka Haiji",
+        "native": "灰地静"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301255-WaeUPaoqrXn8.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301255-WaeUPaoqrXn8.jpg"
+      },
+      "descripcion": "A contender for the Blue Lock Project.",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301256,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Taiga Tsunzaki",
+        "native": "劈大河"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301256-cOCAG8UdNppC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301256-cOCAG8UdNppC.png"
+      },
+      "descripcion": "Contender of the Blue Lock Project.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297189,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tenka Naruhaya",
+        "native": "成早天花"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b297189-ChnrOEzscLC1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b297189-ChnrOEzscLC1.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301259,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tetsu Sokura",
+        "native": "曽倉哲"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301259-CZhNENe2sYG3.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301259-CZhNENe2sYG3.jpg"
+      },
+      "descripcion": "Contender for the Blue Lock Project.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        },
+        {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2",
+            "native": "ブルーロック VS. U-20 JAPAN"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297188,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Youta Naruhaya",
+        "native": "成早陽太"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b297188-oqVDVENmt9Ya.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b297188-oqVDVENmt9Ya.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        }
+      ]
+    },
+    {
+      "id": 297191,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yuuya Naruhaya",
+        "native": "成早星奈"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b297191-WNtTBfggdfJ9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b297191-WNtTBfggdfJ9.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        }
+      ]
+    },
+    {
+      "id": 299062,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Zico",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299062-cGxfL1ke06Tz.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b299062-cGxfL1ke06Tz.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 137822,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "BLUE LOCK",
+            "native": "ブルーロック"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 86,
+  "actualizado": 1788567023
+}

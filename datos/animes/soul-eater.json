@@ -1,0 +1,2615 @@
+{
+  "clave": "soul-eater",
+  "nombre": "Soul Eater",
+  "descripcion": "La academia Shibusen",
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Fantasía"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png",
+  "medios": [
+    {
+      "id": 3588,
+      "title": {
+        "romaji": "Soul Eater",
+        "english": "Soul Eater",
+        "native": "ソウルイーター"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3588-fSMggQoFSbUI.png"
+      }
+    },
+    {
+      "id": 20547,
+      "title": {
+        "romaji": "Soul Eater Not!",
+        "english": null,
+        "native": "ソウルイータノット！"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20547-w5Gp0a2E4YCe.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20547-w5Gp0a2E4YCe.png"
+      }
+    },
+    {
+      "id": 21687,
+      "title": {
+        "romaji": "Soul Eater Late Show",
+        "english": "Soul Eater Late Show",
+        "native": "ソウルイーターレイトショー"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21687-UCt418ZNhBMu.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21687-UCt418ZNhBMu.jpg"
+      }
+    },
+    {
+      "id": 9328,
+      "title": {
+        "romaji": "Shoujo Senki Soul Eater",
+        "english": null,
+        "native": "少女戦機 ソウルイーター"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9328.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9328.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 39745,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Anya Hepburn",
+        "native": "アーニャ ・ヘプバーン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/39745.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/39745.jpg"
+      },
+      "descripcion": "A new meister who has escaped her castle home to mingle with common people. This brought her to the DWMA and her meeting with Tsugumi and Meme.",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36916,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Benio Genda",
+        "native": "円城 紅緒 （えんじょう べにお）"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/36916.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/36916.jpg"
+      },
+      "descripcion": "Seiyuu:  Nana Nogami (野神 奈々)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9328,
+          "title": {
+            "romaji": "Shoujo Senki Soul Eater",
+            "english": null,
+            "native": "少女戦機 ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8464,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Black☆Star",
+        "native": "ブラック☆スター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8464-oKu98OyJ3eZt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8464-oKu98OyJ3eZt.png"
+      },
+      "descripcion": "A shadow weapon meister and the last survivor of the infamous Star Clan, taken into the DWMA and raised by [Sid Barrett](https://anilist.co/character/16582/Sid-Barrett). His weapon partner is [Tsubaki Nakatsukasa](https://anilist.co/character/8443/Tsubaki-Nakatsukasa). He is known as one of the toughest students in the academy, being quite self-centered with a desire to always be in the spotlight.\n",
+      "genero": "Male",
+      "edad": "13",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8455,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Death the Kid",
+        "native": "デス・ザ・キッド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8455-0Ztel4ew5bNd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8455-0Ztel4ew5bNd.png"
+      },
+      "descripcion": "The son of [Death](https://anilist.co/character/8457/Shinigami) himself and the Meister of the Demon Twin Guns, [Liz Thompson](https://anilist.co/character/8445/Elizabeth-Thompson) and [Patty Thompson](https://anilist.co/character/8444/Patricia-Thompson). Created from a piece of Death's soul, Death the Kid is known to be one of the top 3 students in the DWMA, albeit with a confounding obsession when it comes to symmetry.\n",
+      "genero": "Male",
+      "edad": "13-15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8445,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Elizabeth Thompson",
+        "native": "エリザベス・トンプソン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8445-7BIqYhg3OKMn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8445-7BIqYhg3OKMn.png"
+      },
+      "descripcion": "A demon weapon and the older sister of [Patricia Thompson](https://anilist.co/character/8444/Patricia-Thompson). Formerly a thuggish ruffian alongside her sister raised in the streets of New York, both her own and sister's life turn for the better when they encountered their future meister, Death the Kid. Eventually becoming Kid's weapon partner alongside her sister, she became a student of Death Weapon Meister Academy enrolled in the E.A.T Class.\n\n",
+      "genero": "Female",
+      "edad": "16-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 13046,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Excalibur",
+        "native": "エクスカリバー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13046-tUKfeqS9MNIf.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b13046-tUKfeqS9MNIf.jpg"
+      },
+      "descripcion": "The legendary sword used by heroes and kings. It has a great power that is unmatched by any other weapon. It turns out that anyone can use Excalibur. However, no one can put up with its personality (it has a bigger ego than Black Star). The only reason that those who use it are called heroes is that they can put up with its annoying habits, such as a list of one-thousand things he demands to be completed, such as daily five-hour reading sessions. Excalibur was first introduced when Kid and Black Star found a book about him and thus sought him out, only to discover that the book had in fact been written by Excalibur himself. They quickly ditched him due to his personality. His other form is completely the opposite given his elegant weapon form, looking like a cartoon-ish gentlemen with an outrageous mustache and no pants. On the other hand, his legendary powers have been proven by a fellow Shibusen student who found completing the appointed tasks easy. Excalibur can grant great power, light speed and teleportation, and the wielder can easily defeat three of Shibusen's strongest combined. In the end, Excalibur was put back again because the student could not put up with his annoying sneeze. His existence throughout the story is purely comical, with the exception of the fact of how he informed Kid, the Thompsons, Buttataki, and Blair about the story of Eibon, backed by Shinigami.   (From Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8439,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Maka Albarn",
+        "native": "マカ・アルバーン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8439-5TIyWlfClnMs.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8439-5TIyWlfClnMs.png"
+      },
+      "descripcion": "[Soul](https://anilist.co/character/8456/Soul-Eater-Evans)'s partner and the female protagonist of the series.\n\nKnown to be cheerful, direct, confident, smart and hardworking, in stark contrast to Soul who is much more laid-back in comparison. Despite this, Maka has been noted by her partner to be stubborn and sometimes prone to making decisions without regarding others' feelings if she feels justified enough. Due to their differences, Maka often bickers with him and they tend to argue with one another, but despite all this they remain loyal partners and close friends.",
+      "genero": "Female",
+      "edad": "13",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 39746,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Meme Tatane",
+        "native": "多々音めめ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/39746.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/39746.jpg"
+      },
+      "descripcion": "A new 14-year-old meister at the DWMA. She is shy and ditzy but makes quick friends with Tsugumi.",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36915,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Mikoto Genda",
+        "native": "円城 命 （えんじょう みこと）"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/36915.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/36915.jpg"
+      },
+      "descripcion": "Seiyuu:  Mahiru Kaneda (金田 まひる)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 9328,
+          "title": {
+            "romaji": "Shoujo Senki Soul Eater",
+            "english": null,
+            "native": "少女戦機 ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8444,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Patricia Thompson",
+        "native": "パトリシア・トンプソン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8444-AbC3BxZA7gUY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8444-AbC3BxZA7gUY.png"
+      },
+      "descripcion": "A Demon Weapon and the younger sister of [Elizabeth Thompson](https://anilist.co/character/8445/Elizabeth-Thompson).\n\nKnown as one of the \"Demon Twin Guns\", both her and her sister were known as the \"Brooklyn Devils\" and were petty thugs until being found by their current Meister, [Death the Kid](https://anilist.co/character/8455). Overtime, she reformed from her thieving and ruffian ways along with Liz and became Kid's weapon, later becoming DWMA students within the E.A.T Class.\n\n",
+      "genero": "Female",
+      "edad": "13-15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8456,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Soul Eater Evans",
+        "native": "ソウル・イーター・エヴァンス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8456-GtNbISpXhkvd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8456-GtNbISpXhkvd.png"
+      },
+      "descripcion": "[Maka](https://anilist.co/character/8439/Maka-Albarn)'s partner and the male protagonist of the series. Soul is a demon weapon who was born into a family of famous musicians. After discovering his weapon abilities as a Demon Weapon Soul joined the DWMA, where he partnered up with Maka. They often bicker and don't always see eye-to-eye, but in the end they remain partners and close friends.\n",
+      "genero": "Male",
+      "edad": "13-15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8443,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Tsubaki Nakatsukasa",
+        "native": "中務椿"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8443-WtvTWl6zufoc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8443-WtvTWl6zufoc.png"
+      },
+      "descripcion": "A demon weapon partnered with [Black Star](https://anilist.co/character/8464/BlackStar) hailing from the Nakatsukasa Clan, a special weapons clan who are direct descendants of demon weapons created by the mother of magic weapons, Arachne Gorgon. Having inherited the unique Multi-Form Ability of her clan, she joined the DWMA to stop her brother from becoming a kishin, becoming fast friends with [Black Star](https://anilist.co/character/8464/BlackStar) in the process.\n\nTsubaki is known to be very patient and forgiving, with a polite and gentle personality that often leads to her helping or comforting her friends when they are in need.",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 39736,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Tsugumi Harudori",
+        "native": "春鳥つぐみ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/39736.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/39736.jpg"
+      },
+      "descripcion": "A 14-year-old Weapon from Japan, who still has to learn how to transform properly. She can transform into a halberd. She went to DWMA (Death Weapon Meister Academy) to become a hero.",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 334540,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Yousei",
+        "native": "妖精"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b334540-nfh6XlaTJZFu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b334540-nfh6XlaTJZFu.png"
+      },
+      "descripcion": "Resides in the Eternal Cave with [Excalibur](https://anilist.co/character/13046/Excalibur)",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 43378,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akane Hoshi",
+        "native": "星☆茜"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/43378.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/43378.jpg"
+      },
+      "descripcion": "A claymore-meister partnered with Clay. He has a part-time job as a waiter at the DWMA caf&eacute; shop with Clay, Tsugumi, Meme and Anya. He is revealed to be of Star clan descent.  He becomes a member of Shinbunsen&#039;s central information office&#039;s mission to the moon.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 27393,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Alcapone",
+        "native": "アルカポネ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/27393.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/27393.jpg"
+      },
+      "descripcion": "Alcapone (アルカポネ, Arukapone) was a Mafia leader who eats souls. He was to be killed by Black Star and Tsubaki, but he and all his family were killed by Mifune for trying to get his hands on the witch Angela&#039;s power.     Wikia",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 13712,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Angela Leon",
+        "native": "アンジェラ・レオン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13712-DK8KmqjLLwcu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b13712-DK8KmqjLLwcu.png"
+      },
+      "descripcion": "Although she is a witch, her magical power is weak due to her youth; consequently, she relies on Mifune to protect her as a bodyguard.\n\nShe is a chameleon witch capable of using invisibility magic, though the spell is still imperfect, leaving parts of her body visible.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 16228,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Arachne Gorgon",
+        "native": "アラクネ・ゴーゴン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16228-Eg0GJGmPjsnA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16228-Eg0GJGmPjsnA.png"
+      },
+      "descripcion": "Arachne Gorgon was the head of Arachnophobia who conspired to replace Death Weapon Meister Academy's position as a world power using madness with her in charge. She was also the eldest of the Gorgon Sisters, a former associate of both Death and Eibon of some sort, and considered the darkest blemish in the history of the Witch Order.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 27392,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Arisa",
+        "native": "アリサ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/27392.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/27392.jpg"
+      },
+      "descripcion": "Works at Chupa Kyaburasu Cabaret house.   ~! it seems that she works for arachnophobia gathering information for mosquito!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 15840,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Asura",
+        "native": "阿修羅"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15840-ueu3I4BIs3av.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15840-ueu3I4BIs3av.png"
+      },
+      "descripcion": "The first-generation Kishin and one of the Great Old Ones whose affinity to madness resides in fear. He formerly served as one of the Warlords of the Eight Reaper Legions, being its most powerful member until he betrayed the group and became a Kishin, killing innocents to gain power through their souls and even consuming his own demon weapon partner, as well as two other Great Old Ones. After his betrayal he was sealed away by [Death](https://anilist.co/character/8457/Shinigami), and remained sealed until his revival by [Medusa](https://anilist.co/character/11924)'s Faction.\n\n__Manga:__\n\n~!He is later revealed to be Death's eldest son and the older brother of [Death the Kid](https://anilist.co/character/8455/Death-the-Kid), specifically created as a fragment containing all of Death's fear in order for Death to become the God of Absolute Order.!~\n\n~!After Asura's battle with [Maka](https://anilist.co/character/8439/Maka-Albarn), [Black Star](https://anilist.co/character/8464/BlackStar) and Death the Kid, [Crona](https://anilist.co/character/11919/Crona) seals both Asura and themselves inside the moon to keep his madness locked away from the world. Asura gleefully asserts that this method will not last, and that one day he will return to terrorize the world again.!~",
+      "genero": "Male",
+      "edad": "800+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 15770,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Azusa Yumi",
+        "native": "弓梓"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/15770.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15770.jpg"
+      },
+      "descripcion": "The Death Scythe in charge of East Asia. She comes off as being bookish and analytical, she is very respectful to all, she was the one that talked Marie out of marrying a toilet using wordplay. She was the student council president when Stein and the other Death Scythes were students, she was the person that scolded Spirit for his endless flirting and Stein&#039;s urge to dissect everything, she was said to have been a small, yet talkative child. She still treats the others as little kids like a teacher would (clapping to get their attention and telling them to line up and walk in a single file line) much to the embarrassment of the others. In recent chapters it is shown that she takes the form of a crossbow, able to fire high pressure spirit shots up to 10 km accurately. She is also suggested to have a genius IQ, and is an extremely competent information gatherer and tactician, easily finding one of Arachnephobia&#039;s labs.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8458,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Blair",
+        "native": "ブレア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8458-dnVRYCwLLHRn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8458-dnVRYCwLLHRn.png"
+      },
+      "descripcion": "A playful cat with powerful magic that Soul and Maka initially confused for a regular witch. Her life seems to largely revolve around doing whatever she deems fun at any given time, ranging from working as a hostess at Chupa♡Cabra's to aiding the DWMA's plans - however, she's also very sensitive to others' feelings, often comforting those in need out of kindness. \nShe's also shown to enjoy long baths and exhibitionism, being very proud of her human form's body and often looking for opportunities to make others feel embarrassed. \n\nHer magic abilities are themed around pumpkins, and she also keeps a hat monster named Zwan (ズワン) as her familiar. Due to being a cat, she has nine lives, which is how she managed to survive her initial defeat at the hands of Soul and Maka. Additionally, her charms seem to transcend gender-altering magic, with her male form being able to seduce a succubus within the Book of Eibon.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14960,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chiisana Oni",
+        "native": "小さな鬼"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/14960.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/14960.jpg"
+      },
+      "descripcion": "Called \"Little Demon\" by Soul Eater, he is a strange demonic imp that appeared before Soul inside his heart after his first encounter with Ragnarök. He told Soul \"to be strong... follow me...\" when soul decides to follow the imp states; \"There will be insanity and ecstasy of joy.\" He may represent the power of the black blood and the insanity deep inside everyone's heart.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 43379,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Clay Sizemore",
+        "native": "サイズモアクレイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43379-K13qzgvLJOQ8.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b43379-K13qzgvLJOQ8.jpg"
+      },
+      "descripcion": "A demon claymore and Akane's weapon partner. He works at a part-time job as a waiter at the Café shop with Akane, Tsugumi, Meme and Anya. He becomes a member of Shinbunsen’s central information office to go on the mission to the moon.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11919,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Crona",
+        "native": "クロナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11919-a7TkrWsP3H1Z.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b11919-a7TkrWsP3H1Z.png"
+      },
+      "descripcion": "The demon sword [Ragnarok](https://anilist.co/character/11921/Ragnark)'s meister and the biological child of the witch [Medusa Gorgon](https://anilist.co/character/11924/Medusa-Gorgon). They're driven by their [mother](https://anilist.co/character/11924/Medusa-Gorgon)'s aim to turn them into a Kishin.",
+      "genero": "Unknown",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 70837,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eibon",
+        "native": "エイボン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/70837.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/70837.jpg"
+      },
+      "descripcion": "Eibon is an enigmatic sorcerer and former acquaintance, if not friend of Shinigami, who is revered for the creation of numerous Demon Tools, including Brew. As one of the eight Great Old Ones , his \"wisdom\" and very existence drives men to madness.  source - soul eater wikia",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 13689,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eruka Frog",
+        "native": "エルカ・フロッグ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/13689.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/13689.jpg"
+      },
+      "descripcion": "Eruka Frog is a frog-themed witch who serves under Medusa Gorgon. Like many other witches, Eruka craves destruction and enjoys the fact that she was born a Witch. However, she is extremely cowardly, preferring to flee rather than fight, and never hesitates begging for mercy when cowed. She can also be considered clingy to her partner, Free, even becoming needy and docile. Despite her malicious intent, Eruka has an earnest disposition with other Witches, including Mizune, with whom she is close friends with. She can be demeaning to those whom she considers inferior, though.         Magic:            Transform: Eruka transforms into a frog. She can still talk in this form.          Egg Bombs: Tadpole-like black balls with frog faces that can hop towards their target before detonating.          Arithmetic Magic (Magic Calculation): Used as a &#039;place maker&#039; for high level spells so they are more precise.    (wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 62249,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eternal Feather",
+        "native": "エターナルフェザー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62249-YnOl4G1cih0Y.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62249-YnOl4G1cih0Y.png"
+      },
+      "descripcion": "A senor in the DWMA and supporting character in Soul Eater NOT!",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 17817,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fisher King",
+        "native": "フィッシャーキング"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17817-YOLKId8b5jKO.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17817-YOLKId8b5jKO.jpg"
+      },
+      "descripcion": "The Fisher King is an assassin for Arachnophobia. He is sent to capture a demon tool, but is easily defeated by Kid on the Runaway Express. His cannon arm is destroyed by a Mizune witch, and is killed by Sid.\n\n(Source: Wikipedia)",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 27401,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Flying Dutchman",
+        "native": "さまよえるオランダ人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b27401-qpSJzkXbtmcv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b27401-qpSJzkXbtmcv.png"
+      },
+      "descripcion": "The Flying Dutchman (さまよえるオランダ人, Samayoeru Orandajin) was the soul of the ghost ship Nidhogg (ニーズヘッグ, Nīzuheggu) that was being used by Medusa to gather more souls for kishin. He fought with a gun, just as Kid, though the term &quot;gun&quot; might not be a good enough comparison; the gun itself resembles a miniature cannon.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8446,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Franken Stein",
+        "native": "フランケン・シュタイン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8446-uTTlVv5DRQnr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8446-uTTlVv5DRQnr.png"
+      },
+      "descripcion": "The eccentric yet incredibly talented doctor and meister who is hailed as the DWMA's strongest graduate in history. He later joins the academy as an instructor. While he is intimidating due to the greater-than-typical amount of madness within him, he is highly relied upon by [Death](https://anilist.co/character/8457/Shinigami) and is well-liked by his students. Formerly partnered with [Spirit Albarn](https://anilist.co/character/8462/Spirit-Albarn), he is now partnered with [Marie Mjolnir](https://anilist.co/character/15769/Marie-Mjolnir).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14099,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Free",
+        "native": "フリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14099-HWEELkMsejHl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14099-HWEELkMsejHl.png"
+      },
+      "descripcion": "A Werewolf and the last of the Immortal Clan, imprisoned by the Witch Order for stealing Witch Queen Maba's left eye. After being freed by Eruka Frog on Medusa Gorgon's orders, he renames himself in honor of his freedom and joins her group, acting as one of her operatives.",
+      "genero": "Male",
+      "edad": "200+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 16151,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Giriko",
+        "native": "ギリコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16151-N6IwGUDXK0f2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16151-N6IwGUDXK0f2.png"
+      },
+      "descripcion": "Giriko is an enchanter and demon weapon allied with the witch [Arachne Gorgon](https://anilist.co/character/16228/Arachne-Gorgon), and serves as one of Arachnophobia's most powerful members.\n\nManga:\n\n~!After the destruction of Arachnophobia, he allies with [Noah](https://anilist.co/character/16232/Noah) and becomes part of his group in an effort to avenge [Arachne](https://anilist.co/character/16228/Arachne-Gorgon)'s demise.!~\n\n~!Within the Book of Eibon he badly injures both [Maka](https://anilist.co/character/8439/Maka-Albarn) and [Soul](https://anilist.co/character/8456/Soul-Eater-Evans) as revenge for their killing of [Arachne](https://anilist.co/character/16228/Arachne-Gorgon), deciding to kill [Maka](https://anilist.co/character/8439/Maka-Albarn) by strangling her before his new body undergoes soul rejection, causing his soul to explode due to the vessel being unable to contain his centuries of bloodlust.!~",
+      "genero": "Male",
+      "edad": "800+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14066,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Harvar D. Éclair",
+        "native": "ハーバー・ド・エクレール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14066-p3ew58zFIKTl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14066-p3ew58zFIKTl.png"
+      },
+      "descripcion": "Harvar D. Éclair is the demon weapon partner of Ox Ford and one of the top student at Death Weapon Meister Academy. As evident during the infiltration of the Arachnophobia castle, he is fiercely loyal to Ox and prioritizes his safety above all else while maintaining an ice-cold composure in battle, even when Ox does not.\n\n~!He is later promoted to a two-star weapon and becomes a member of Spartoi after the fall of Arachnophobia.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 17032,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hiro",
+        "native": "ヒーロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/17032.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17032.jpg"
+      },
+      "descripcion": "During his one episode appearance, Hiro was a loser at Shibusen that couldn't do anything right, and was constantly picked on or used by other students. One day, Hiro learned of Excalibur, and seeked out to be his partner. During his time with Excalibur, he was able to defeat Black Star, Death the Kid, and Kilik at the same time, by simply saying the name of an attack, which was followed by an explosion. Hiro was also able to complete all 1,000 of Excalibur's tasks, but the one thing he could not stand was his incessant sneezing. He later dropped Excalibur and took up weight lifting.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14067,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jacqueline O. Lantern Dupre",
+        "native": "ジャクリーン・オー・ランタン・デュプレ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14067-AExxLHaP9IE5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14067-AExxLHaP9IE5.png"
+      },
+      "descripcion": "An honor student in the E.A.T Class and demon weapon partner of Kim Diehl.\n\n~!Originally a part of Kilik's team, she is later promoted to a two-star weapon and is enlisted in Spartoi after Arachnophobia's defeat.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 16944,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Joe Buttataki",
+        "native": "B・J（ブッ叩き・ジョー）"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/16944.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16944.jpg"
+      },
+      "descripcion": "Referred to as &quot;Mole Hunter&quot; Joe Buttataki, Joe makes his first appearance at the end of chapter thirty-seven of the manga when he is called to Shibusen to investigate the possibility of a spy. His name when literally translated is &quot;kick the shit out of,&quot; a phrase he says at the end of chapter thirty-seven in the manga. He is able to detect the snake placed in Marie's body. He is the ex-boyfriend of Marie Mjolnir. Joe had apparently kept his distance from her, fearing that his &quot;soul perception&quot; may grow so powerful that he could see through her. Joe stated to Marie that he regretted his decision and asked her out for dinner. He considers his ability unpleasant since it only allows him to work a job where he can only mistrust his allies. Joe is the first technician to be able to pierce a witch's technique to appear human and his power is growing even now.    -Wiki",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14019,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Justin Law",
+        "native": "ジャスティン＝ロウ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14019-2x7ljMevKv4V.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14019-2x7ljMevKv4V.png"
+      },
+      "descripcion": "The Death Scythe in charge of Europe. Dressed in a priestly garb and earphones, Justin is devout in his services to the Shinigami. Justin is the youngest in the DWMA's history to become a Death Scythe at the age of thirteen, all without the aid of a partner. His weapon form, the guillotine, fits his title of \"executioner\". Justin has the ability to read lips but due to his constant use of earphones and the fact that the Shinigami wears a mask, he cannot understand the Shinigami. He tends to pray and give thanks to God for everything, and also tends to speak loudly due to his constant use of headphones. He travels by means of a dune buggy with a coffin on wheels connected to it. In the manga, he is colored with blonde hair and his hairstyle is a tonsure cut, usually worn by monks from European temples.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 40466,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kana Altair",
+        "native": "カナ・アルタイル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40466-ApLBBEKBUOfL.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b40466-ApLBBEKBUOfL.jpg"
+      },
+      "descripcion": "Kana Altair is a N.O.T Class student and Meister at Death Weapon Meister Academy.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14064,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kilik Rung",
+        "native": "キリク・ルング"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14064-fTYTlT3DKcDT.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14064-fTYTlT3DKcDT.png"
+      },
+      "descripcion": "A popular EAT-Class Meister partnered with twin weapons, Fire and Thunder. He is considered one of the top three student fighters in the DWMA, and is good friends with [Ox](https://anilist.co/character/14062/Ox-Ford) and [Kim](https://anilist.co/character/14063/Kim-Diehl). Rather hot blooded and direct, with a fiery soul and enough compassion to put his own life on the line for his friends.",
+      "genero": "Male",
+      "edad": "13-14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14063,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kim Diehl",
+        "native": "キム・ディール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14063-dk1YzckUNCES.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14063-dk1YzckUNCES.png"
+      },
+      "descripcion": "The partner and meister of [Jacqueline](https://anilist.co/character/14067/Jacqueline-O-Lantern-Dupre) and one of the top students in the EAT Class. She is the object of [Ox](https://anilist.co/character/14062/Ox-Ford)'s affections but she constantly turns him down. \n\n~!She is later revealed to be a witch that fled from her homeland due to the discrimination she faced as a witch that did not fall victim to the destructive pull of magic, opting to hide her identity to become a meister at the DWMA.!~",
+      "genero": "Female",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 27390,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kirisaki Jack",
+        "native": "切り裂きジャック"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b27390-7gydxjGyUmmS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b27390-7gydxjGyUmmS.png"
+      },
+      "descripcion": "A bloodthirsty and malicious killer who seemingly enjoys attempting to end the lives of others.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 27394,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lupin",
+        "native": "ルパン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/27394.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/27394.jpg"
+      },
+      "descripcion": "Lupin (ルパン, Rupan) was a phantom thief (怪盗, kaitō) in the human world. In the anime, he is shown to have stolen a large bag of pure souls. He was to be defeated by Death the Kid, but due to Patti being a little off in a pose, he managed to escape while Kid berated her, fleeing after some difficulty into the sewer.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 27400,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mabaa",
+        "native": "魔婆"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/27400.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/27400.jpg"
+      },
+      "descripcion": "Mabaa (魔婆, Mabaa) is the current leader of all witches. She is held in high regards for being almost as powerful as Shinigami-sama. Her left eye was taken by Free which is now covered by a bandage with 1/2 written across it. Her specialty is Spatial Magic.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 15769,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Marie Mjolnir",
+        "native": "マリー・ミョルニル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15769-SPBkMY0lgmh5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15769-SPBkMY0lgmh5.png"
+      },
+      "descripcion": "The Death Scythe formerly in charge of Oceania. However, after the resurrection of [Asura](https://anilist.co/character/15840/Asura), her duties were reassigned to [Azusa](https://anilist.co/character/15770/Yumi-Azusa).\n\nShe is currently partnered with [Stein](https://anilist.co/character/8446/Franken-Stein) and is an instructor at the DWMA. Tends to feel glum about her lack of success in marriage, but is a kind and genuine woman. Stein was her old crush when they were students at the DWMA, but she still seems to hold feelings towards him in some capacity.\n\n__Anime:__\n\n~!After Stein is overwhelmed by madness and [Medusa](https://anilist.co/character/11924/Medusa-Gorgon) manipulates him into joining her side, Marie goes to save him alongside [Crona](https://anilist.co/character/11919/Crona), using her healing wavelength to bring him back to his senses.!~\n\n__Manga:__\n\n~!Marie's former betrothed, [Joe Buttataki](https://anilist.co/character/16944/Joe-Buttataki), is murdered during an internal investigation of the DWMA. Stein is framed for the murder due to his onset of madness at the time, orchestrated by Medusa, but Marie sets out with him to find the real killer, who is later revealed to be [Justin Law](https://anilist.co/character/14019/Justin-Law), a death scythe and a traitor to the DWMA.!~\n\n~!In the final chapter, it is revealed that Marie and Stein are officially in a relationship, with Marie also being pregnant with his child.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 17813,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Masamune Nakatsukasa",
+        "native": "中務マサムネ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/17813.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17813.jpg"
+      },
+      "descripcion": "The demon blade, Masamune, is an extremely dangerous weapon and Tsubaki's older brother. He wanders around, possessing others to use him as their weapon to collect any soul he wants. He speaks using ancient words and likes to write haiku. He plays on the fears of others to possess and use them until he takes over their soul. He believes only the strong survive and the weak live only to serve the strong. He developed this way of thinking when Tsubaki inherited the family's multiple weapon forms. He considers himself more worthy than her and believed that he should have gotten the multiple weapon forms. He later lets Tsubaki defeat and absorb him after he sees that she really does care about him. Which gives her his katana form and all of his abilities, simultaneously being the first soul that Tsubaki successfully absorbs. He now resides deep within Tsubaki in the form of a large deer.    Attacks: He cannot use any attacks until he has possessed someone to wield him.        * Soul Possession: Used by demon blades to overpower and control the soul of its user.      * Shadow Puppet: Used by Demon Blade Masamune to control the shadow of the person he possessed for pincer attacks (the puppet can only say shadow).      * Puppet Strike: By folding the Shadow Puppet onto the blade, Masamune can create a far reaching lunge thrust.      * Split Branches: After the Puppet Strike, large spikes come out from the shadows body to skewer the enemy at close range.      * Puppet's Rain: By using multiple Shadow Puppets to restrain his enemy, Masamune stabs his enemy.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11924,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Medusa Gorgon",
+        "native": "メデューサ・ゴーゴン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11924-wDxD5PjqMmpf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b11924-wDxD5PjqMmpf.png"
+      },
+      "descripcion": "One of the major antagonists of the series, Medusa is a powerful witch and the middle sibling among the three Gorgon Sisters.\n\nShe is the mother of Crona, who is also the crown jewel in her master plan: the destruction of the current world order to get the planet back on track. Lacking empathy for others, along with possessing a twisted sense of love for those who are like her in personality, Medusa views everyone as a potential specimen to experiment on or as a tool to suit her purpose.",
+      "genero": "Female",
+      "edad": "800+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 12982,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mifune",
+        "native": "ミフネ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12982-oqu0ldRYGmCZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b12982-oqu0ldRYGmCZ.png"
+      },
+      "descripcion": "Mifune, known by the epithet \"God of the Sword\", is an infamous samurai and bodyguard who acts as a guardian to the little witch, [Angela Leon](https://anilist.co/character/13712/Leon-Angela). He is later blackmailed into the service of Arachnophobia by its head, [Arachne Gorgon](https://anilist.co/character/16228/Gorgon-Arachne). He becomes involved in a somewhat one-sided rivalry with [Black Star](https://anilist.co/character/8464/BlackStar) after the latter encounters him on a mission.\n\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 16229,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mira Nygus",
+        "native": "ミーラ=ナイグス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/16229.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16229.jpg"
+      },
+      "descripcion": "Replaces Medusa as the school&#039;s interim doctor. She is Sid&#039;s partner, and looks like a mummy due to the fact she is covered in bandages (although she is seen without the bandages). She becomes a combat knife in weapon form. Her last name is a pun on how the word &#039;knives&#039; is pronounced.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 15977,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mizune",
+        "native": "ミズネ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/15977.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15977.jpg"
+      },
+      "descripcion": "Mizune is the surname of a large family of witches who all look alike and whose animal theme are mice. They speak by saying, &quot;chi&quot; (sound of a mouse squeak). One witch from this family is initially introduced as a friend of Eruka's. Like Eruka, she does not like the fact that Medusa has so much freedom and that she brings Chrona to the witch meetings. Mizune and Eruka try to kill her for endangering all witches while she is staying at Shibusen. Mizune is killed by Medusa when Medusa set off her snake bombs that she had implanted in Mizune's body. Five members of the family join Medusa after Eruka tells them that their family member that Medusa killed was actually killed by a Shibusen student. The five family members can merge into a single being capable of actual speech.     The form is of a good-looking young woman with short pink hair with a hat, long skirt, and a shirt showing her stomach and a good portion of her breasts; this exposed portion is most likely where the deceased Mizune covered.    (ref: [Wiki](http://en.wikipedia.org/wiki/List_of_Soul_Eater_characters#Mizune))",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 17816,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mosquito",
+        "native": "モスキート"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/17816.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17816.jpg"
+      },
+      "descripcion": "Mosquito is a bloodsucker who acted as [Arachne's](https://anilist.co/character/16228/Arachne-Gorgon) steward and Arachnophobia's top henchman. He carries himself in an aristocratic manner and is a genuine believer in Arachnophobia and his mistress. \n\nHe is capable of drinking blood in order to restore himself and can revert his body to multiple types of younger and powerful appearances.",
+      "genero": "Male",
+      "edad": "800+",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 48535,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Otama Jackson",
+        "native": "オタマ・ジャクソン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/48535.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/48535.jpg"
+      },
+      "descripcion": "Otama Jackson is a gigantic black tadpole with googly eyes, a long tail and a wide red-lipped mouth bearing a set of sharp teeth. He is a very loyal and hard-working familiar, always doing his best to serve Eruka, even if it means putting himself in harm&#039;s way.  His main function is to act as a mount for Eruka, using his large size and capability to fly to aid his master in whatever way possible. However, Otama Jackson has very low stamina, and cannot fight at all, making him easily exhausted and extremely vulnerable to attack.    Unlike other Witches with their familiars the two seem to share a close friendship with each other despite Eruka&#039;s apparent dominant role in the relationship, with even the normally docile Eruka reprimanding Free after he only slightly injures Jackson. Jackson in turn is extremely loyal to Eruka, going so far as to help pass her the needle of Black Blood that is supposed to reawaken Asura before Black Star can get at it, resulting in the tadpole getting beaten up by Black Star. Eruka laments over this, and decides to fulfill the mission solely for Jackson&#039;s sake.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14062,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ox Ford",
+        "native": "オックス・フォード"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14062-W6FhyRzKizKP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14062-W6FhyRzKizKP.png"
+      },
+      "descripcion": "A top-class elite meister at Death Weapon Meister Academy, partner of Harvar D. Éclair, and a part of Kilik's team. Considered one of the top students in terms of grades within the DWMA, second only to [Maka Albarn](https://anilist.co/character/8439/Maka-Albarn).\n\n~!Formerly one of the top one-star students, he later is promoted to a two-star status and is a member of the elite team, Spartoi.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 27396,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pharaoh",
+        "native": "ファラオ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/27396.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/27396.jpg"
+      },
+      "descripcion": "Referred to as &quot;Pharaoh&quot; (ファラオ, Farao), he was an unnamed ancient pharaoh who resided in the Pyramid of Anubis. He was resurrected by the witch Samantha. Kid could not bring himself to attack while in his symmetrical coffin but was gunned down mercilessly once Kid saw his real (and very mismatched) appearance, leaving only the button on his forehead, which was the only thing symmetrical.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 30326,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pot of Fire",
+        "native": "ポット・オブ・ファイア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/30326.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/30326.jpg"
+      },
+      "descripcion": "Commonly called Fire and Thunder are Kirikou Rung&#039;s weapon partners and take the form of &quot;Pots&quot;, although in weapon form they are actually gloves.    Fire and Thunder are young small twins, befitting their young age in comparison to other characters within the series. Both have a dark skin complexion and facial features consisting of blue eyes, rosy cheeks and mid-length blonde hair framing their faces. Their main differences are; Fire is male and wears an orange cap.    Despite being powerful weapons, they are still kids and as such, are distracted and quarrel a lot.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14068,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pot of Thunder",
+        "native": "ポット・オブ・サンダー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/14068.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/14068.jpg"
+      },
+      "descripcion": "Pot of Thunder, or simply Thunder, is one of Kilik&#039;s two weapon partners and takes the form of a pot, although in weapon form it&#039;s shape is actually that of a glove.     Fire and Thunder are young small twins, befitting their young age in comparison to other characters within the series. Both have a dark skin complexion and facial features consisting of blue eyes, rosy cheeks and mid-length blonde hair framing their faces. Their main differences are; Thunder is female and wears a yellow cap.    Despite being powerful weapons, they are still kids and as such, are distracted and quarrel a lot.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11921,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ragnarök",
+        "native": "ラグナロク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/11921.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/11921.jpg"
+      },
+      "descripcion": "Ragnarok, also known as the Demon Sword, is the weapon partner of Crona. Born a normal demon weapon, it was melted by Medusa in a vat of Black Blood while in its weapon form and mixed into Crona's blood.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 27397,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rasputin",
+        "native": "ラスプーチン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/27397.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/27397.jpg"
+      },
+      "descripcion": "Rasputin was only shown in the series for a few minutes, but from the statements that Rasputin made it was implied that his body was invulnerable against any form of bullet.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 27391,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Risa",
+        "native": "リサ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/27391.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/27391.jpg"
+      },
+      "descripcion": "Works at Chupa Kyaburasu Cabaret house.   ~! It seems that she works for arachnophobia gathering information for mosquito!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 27399,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryoku",
+        "native": "リョク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b27399-o7zYDJFsJmWS.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b27399-o7zYDJFsJmWS.jpg"
+      },
+      "descripcion": "Ryoku is a young boy from Needle Village. Ryoku is one of the most level headed people in his village appearing as calm and collected through most occurrences, except when it comes to his fear/hatred of the Star Clan. Ryoku is fearful of their power and their ways of battle, even losing self confidence in himself while comparing himself to [Black☆Star.](https://anilist.co/character/8464/BlackStar)\n\n(Source: Soul Eater Wiki)",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 27395,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Samantha",
+        "native": "サマンサ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b27395-GFFdGldmN9bP.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b27395-GFFdGldmN9bP.jpg"
+      },
+      "descripcion": "Samantha was a necromancer witch in an Egyptian pyramid, who resurrected a pharaoh but was latter consumed by the pharaoh. She was more of a generic witch, with no apparent animal theme. She also revived many mummies in the Pyramid of Anubis.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 62247,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shaula Gorgon",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/62247.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/62247.jpg"
+      },
+      "descripcion": "The youngest sister of Arachne and Medusa and the Main villain of Soul Eater NOT!",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8457,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shinigami",
+        "native": "死神様"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/8457.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/8457.jpg"
+      },
+      "descripcion": "The grim reaper himself. He is by far the most powerful character in the series. He is a bit of a joker but when the time comes, he's all business. His number is 42-42-564 (shini-shini-koroshi), which literally means die-die-kill in Japanese. He has a special move called a “Direct Noggin Shinigami Chop” (which is normally shown when the Shinigami shows his hand, which is a large, flat, four-fingered hand appearing from his robe). This is both a joke and a real move. He constantly has to put up with Death Scythe’s antics when it comes to Maka or her progress. He seems to take on a more playful attitude when talking with his son, Death the Kid (he says he likes his son's three white stripes). Shinigami's soul wavelength is so large that it entirely covers Death city.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 16582,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sid Barrett",
+        "native": "死人（シド）・バレット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16582-CKy5CMoBlVUE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16582-CKy5CMoBlVUE.png"
+      },
+      "descripcion": "A three-star meister partner to Mira Naigus, instructor of Death Weapon Meister Academy, and a high-ranking member of the DWMA Central Intelligence Agency. Though killed in action by Shaula Gorgon—youngest of the three Gorgon sisters—he is later resurrected as a zombie by Franken Stein.",
+      "genero": "Male",
+      "edad": "25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 20547,
+          "title": {
+            "romaji": "Soul Eater Not!",
+            "english": null,
+            "native": "ソウルイータノット！"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 27398,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sonson J.",
+        "native": "ソンソンJ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/27398.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/27398.jpg"
+      },
+      "descripcion": "Bloodthirsty killer of Emerald Lake Sonson J. (ソンソンJ, Sonson Jei) was an evil human soul.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8462,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Spirit Albarn",
+        "native": "スピリット=アルバーン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/8462.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/8462.jpg"
+      },
+      "descripcion": "He is the Shinigami’s current weapon and Maka’s father. He is very protective of Maka and is ready to jump to her aid any time she’s in trouble (he is always stopped by the Shinigami). His wife is Maka’s mother but they are divorced now due to his constant flirting with other women. Even though he visits clubs, he is still insanely loyal to his ex-wife and daughter. He usually runs yelling about much he loves Maka and her mother (he calls Maka’s mother Mama). He is extremely sad that his daughter hates him but he still tries to be a good father by looking out for her in his own silly way. He used to be Dr. Franken’s partner before partnering up with \"Mama\" who later became his wife (which obviously lead to the divorce); he still suffers nightmares about Dr. Franken trying to dissect him and still has memories from college when he and Stein were roommates. His old name was Spirit.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        },
+        {
+          "id": 21687,
+          "title": {
+            "romaji": "Soul Eater Late Show",
+            "english": "Soul Eater Late Show",
+            "native": "ソウルイーターレイトショー"
+          }
+        },
+        {
+          "id": 114236,
+          "title": {
+            "romaji": "Enen no Shouboutai: Ni no Shou",
+            "english": "Fire Force Season 2",
+            "native": "炎炎ノ消防隊 弐ノ章"
+          }
+        },
+        {
+          "id": 179062,
+          "title": {
+            "romaji": "Enen no Shouboutai: San no Shou Part 2",
+            "english": "Fire Force Season 3 Part 2",
+            "native": "炎炎ノ消防隊 参ノ章 第2クール"
+          }
+        }
+      ]
+    },
+    {
+      "id": 38840,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Vajra",
+        "native": "ヴァジュラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/38840.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/38840.jpg"
+      },
+      "descripcion": "Asura's weapon. It was devoured by it's own master, Asura, after becoming a Kishin.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 20297,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "White☆Star",
+        "native": "ホワイト☆スター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/20297.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/20297.jpg"
+      },
+      "descripcion": "He is the father of Black Star and the leader of the infamous Star Clan.  Much like Black Star, he was very bent towards being the best and winning every battle.  In the past, White Star was put into a very similar situation as Black Star in his battle with Mifune.  They were both asked by Mifune about which path (path of a Warrior or path of a Demon) they&#039;d rather take.  White Star did not answer, but Mifune was easily able to tell that White Star already took the path of a Demon.  Black Star simply said he&#039;d make his own path.  White Star was slain in battle by Mifune.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 3588,
+          "title": {
+            "romaji": "Soul Eater",
+            "english": "Soul Eater",
+            "native": "ソウルイーター"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36309,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Narrator",
+        "native": "ナレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+      },
+      "descripcion": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 6,
+          "title": {
+            "romaji": "TRIGUN",
+            "english": "Trigun",
+            "native": "TRIGUN"
+          }
+        },
+        {
+          "id": 21,
+          "title": {
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
+          }
+        },
+        {
+          "id": 25,
+          "title": {
+            "romaji": "Sunabouzu",
+            "english": "Desert Punk",
+            "native": "砂ぼうず"
+          }
+        },
+        {
+          "id": 28,
+          "title": {
+            "romaji": "Yakitate!! Japan",
+            "english": null,
+            "native": "焼きたて!! ジャぱん"
+          }
+        },
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 33,
+          "title": {
+            "romaji": "Kenpuu Denki Berserk",
+            "english": "Berserk",
+            "native": "剣風伝奇ベルセルク"
+          }
+        },
+        {
+          "id": 60,
+          "title": {
+            "romaji": "Chrno Crusade",
+            "english": "Chrono Crusade",
+            "native": "クロノクルセイド"
+          }
+        },
+        {
+          "id": 67,
+          "title": {
+            "romaji": "Basilisk: Kouga Ninpouchou",
+            "english": "Basilisk",
+            "native": "バジリスク 甲賀忍法帖"
+          }
+        },
+        {
+          "id": 80,
+          "title": {
+            "romaji": "Kidou Senshi Gundam",
+            "english": "Mobile Suit Gundam",
+            "native": "機動戦士ガンダム"
+          }
+        },
+        {
+          "id": 90,
+          "title": {
+            "romaji": "Shin Kidou Senki Gundam Wing",
+            "english": "Mobile Suit Gundam Wing",
+            "native": "新機動戦記ガンダムW"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 69,
+  "actualizado": 1788566038
+}

@@ -1,0 +1,1848 @@
+{
+  "clave": "evangelion",
+  "nombre": "Neon Genesis Evangelion",
+  "descripcion": "Shinji y los EVA",
+  "generos": [
+    "Drama",
+    "Ciencia ficción"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-AI1zr74Dh4ye.jpg",
+  "medios": [
+    {
+      "id": 30,
+      "title": {
+        "romaji": "Shin Seiki Evangelion",
+        "english": "Neon Genesis Evangelion",
+        "native": "新世紀エヴァンゲリオン"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-AI1zr74Dh4ye.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx30-AI1zr74Dh4ye.jpg"
+      }
+    },
+    {
+      "id": 32,
+      "title": {
+        "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+        "english": "Neon Genesis Evangelion: The End of Evangelion",
+        "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx32-5JYsv0wc122I.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx32-5JYsv0wc122I.jpg"
+      }
+    },
+    {
+      "id": 31,
+      "title": {
+        "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+        "english": "Neon Genesis Evangelion: Death & Rebirth",
+        "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx31-3zRThtzQH62E.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx31-3zRThtzQH62E.png"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 94,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Asuka Langley Souryuu",
+        "native": "惣流・アスカ・ラングレー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b94-d631a3Z2KPvd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b94-d631a3Z2KPvd.png"
+      },
+      "descripcion": "__Height:__ 155 cm (5'1\")\n\nAsuka is the Second Child ('Second Children' in the Japanese versions of NGE), who pilots Evangelion Unit 02. She is from Germany, but her nationality is American. She has an American father and a half-German, half-Japanese mother. In the Rebuild of Evangelion series of movies, her name is changed to Asuka Langley Shikinami. \n\n~!Her mother, Kyoko Zeppelin Souryuu, went insane after an Eva-related experiment and began to believe that a doll that resembled Asuka was, in fact, her daughter, to the point that she refused to acknowledge the real Asuka. Kyoko Zeppelin Souryuu committed suicide on the very day that Asuka was chosen to become an Eva pilot. On that day, Asuka promised herself that she would never cry again. This event gives her an innate hatred of dolls and all things that she perceives to be doll-like, especially Rei. Despite those feelings, Asuka shows no hesitation when required to cooperate with Rei when necessary, proving her to be committed and professional regarding her duties as an Eva pilot.!~\n\n~!Asuka's father later remarried a woman for whom Asuka feels no affection. Asuka feels the need to verbally and sometimes physically lash out at everyone around her, except to her unrequited crush, Kaji, who is Misato's ex-boyfriend and more than twice Asuka's age. On her better days, however, she can be quite cheerful and friendly.!~\n\n~!Like Shinji, Asuka also has difficulty being close to people, except unlike Shinji, who shells himself, Asuka's coping mechanism is over-aggressiveness and so she unintentionally hurts people she likes, pushing them away and thus sinking further into loneliness and self resentment. This issue is referred to as the \"hedgehog's dilemma\" and is a recurring motif in the story.!~",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": 2001,
+        "month": 12,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 32,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+            "english": "Neon Genesis Evangelion: The End of Evangelion",
+            "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3785,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Kyuu",
+            "english": "Evangelion: 3.0 You Can (Not) Redo",
+            "native": "ヱヴァンゲリヲン新劇場版:Q"
+          }
+        },
+        {
+          "id": 3786,
+          "title": {
+            "romaji": "Shin Evangelion Movie:||",
+            "english": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "native": "シン・エヴァンゲリオン劇場版:||"
+          }
+        },
+        {
+          "id": 4130,
+          "title": {
+            "romaji": "Petit Eva: Evangelion@School",
+            "english": null,
+            "native": "ぷちえゔぁ"
+          }
+        },
+        {
+          "id": 20947,
+          "title": {
+            "romaji": "Nihon Animator Mihonichi",
+            "english": "Japan Anima(tor)’s Exhibition",
+            "native": "日本アニメ（ーター）見本市"
+          }
+        },
+        {
+          "id": 100330,
+          "title": {
+            "romaji": "Beautiful World",
+            "english": null,
+            "native": "ビューティフル・ワールド"
+          }
+        },
+        {
+          "id": 100620,
+          "title": {
+            "romaji": "Shinkansen Henkei Robo Shinkalion",
+            "english": null,
+            "native": "新幹線変形ロボ シンカリオン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1259,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Misato Katsuragi",
+        "native": "葛城ミサト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1259-afTQkZ5SVMOn.png"
+      },
+      "descripcion": "__Height:__ 163 cm (5'4)\n\nMisato Katsuragi is the chief operations officer at NERV, initially holding the rank of Captain (with a later promotion to Major). She is the field commander for the Eva pilots, issuing orders and giving battle strategies. She also acts as [Shinji](https://anilist.co/character/89) and [Asuka's](https://anilist.co/character/94) guardian, letting them live in her apartment rather than have them living alone. While she is professional and diligent in her duties, she is a slob and a drunkard while off-duty. \n\n~!She is the only survivor of the Katsuragi Expedition, the scientific study led by her father which triggered the Second Impact; the cross pendant she wears was given to her by her father just before his death.  She and [Ryouji Kaji](https://anilist.co/character/1260) were lovers during college, and slowly rekindle their romance over the course of the series. She was also friends with [Ritsuko Akagi](https://anilist.co/character/1251) in college, but their relationship unravels as she learns more about the ultimate goals of NERV and SEELE.!~",
+      "genero": "Female",
+      "edad": "29",
+      "fecha_nacimiento": {
+        "year": 1986,
+        "month": 12,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 32,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+            "english": "Neon Genesis Evangelion: The End of Evangelion",
+            "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+          }
+        },
+        {
+          "id": 2759,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Jo",
+            "english": "Evangelion: 1.0 You Are (Not) Alone",
+            "native": "ヱヴァンゲリヲン新劇場版:序"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3785,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Kyuu",
+            "english": "Evangelion: 3.0 You Can (Not) Redo",
+            "native": "ヱヴァンゲリヲン新劇場版:Q"
+          }
+        },
+        {
+          "id": 3786,
+          "title": {
+            "romaji": "Shin Evangelion Movie:||",
+            "english": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "native": "シン・エヴァンゲリオン劇場版:||"
+          }
+        },
+        {
+          "id": 4130,
+          "title": {
+            "romaji": "Petit Eva: Evangelion@School",
+            "english": null,
+            "native": "ぷちえゔぁ"
+          }
+        },
+        {
+          "id": 20947,
+          "title": {
+            "romaji": "Nihon Animator Mihonichi",
+            "english": "Japan Anima(tor)’s Exhibition",
+            "native": "日本アニメ（ーター）見本市"
+          }
+        },
+        {
+          "id": 100620,
+          "title": {
+            "romaji": "Shinkansen Henkei Robo Shinkalion",
+            "english": null,
+            "native": "新幹線変形ロボ シンカリオン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Rei Ayanami",
+        "native": "綾波レイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/86-cA1zL7fyls8E.jpg"
+      },
+      "descripcion": "**Height:** 149 cm (4'11\")\n~!Source of genetic material: Yui Ikari and Lilith, the Second Angel.!~  \n\nAyanami is the First Child and the pilot of Evangelion Unit 00. She is shown to be socially withdrawn and hardly interacts with anyone. Rei's cool, silent and emotionally-stunted personality has garnered the scorn of her schoolmates; [Asuka](https://anilist.co/character/94/Souryuu-Asuka-Langley) calls her a \"doll\" or \"puppet\".\n\nAlthough she once only associated with [Gendou](https://anilist.co/character/1257/Ikari-Gendou), she and [Shinji](https://anilist.co/character/89/Ikari-Shinji) break the ice after the battle against Ramiel and grow progressively closer for a while. In the manga version, Rei grows a lot closer to Shinji than in the anime.  \n\n~!Clones of her, which lack souls, are kept hidden under the NERV building to be the supposed \"cores\" of the Dummy Plugs. !~ \n\n~!It is hinted that Rei died twice; in the series, this stems from the fact that Rei herself says \"I think I'm the third one,\" shortly after her death when Unit 00 self-destructed, an event that she could not remember. The first Rei is shown to have died as a small girl at the hands of Dr. Naoko Akagi for revealing carelessly (or perhaps in an intentional set-up by Gendo Ikari) to Naoko that Gendo called her a \"useless old hag.\" The explanation is that her soul and most of her memories are transferred to one of the clones every time she dies, which then takes the preceding Rei's place as if she had not died at all. !~",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": 2001,
+        "month": 3,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 32,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+            "english": "Neon Genesis Evangelion: The End of Evangelion",
+            "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+          }
+        },
+        {
+          "id": 2759,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Jo",
+            "english": "Evangelion: 1.0 You Are (Not) Alone",
+            "native": "ヱヴァンゲリヲン新劇場版:序"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3785,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Kyuu",
+            "english": "Evangelion: 3.0 You Can (Not) Redo",
+            "native": "ヱヴァンゲリヲン新劇場版:Q"
+          }
+        },
+        {
+          "id": 3786,
+          "title": {
+            "romaji": "Shin Evangelion Movie:||",
+            "english": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "native": "シン・エヴァンゲリオン劇場版:||"
+          }
+        },
+        {
+          "id": 4130,
+          "title": {
+            "romaji": "Petit Eva: Evangelion@School",
+            "english": null,
+            "native": "ぷちえゔぁ"
+          }
+        },
+        {
+          "id": 20947,
+          "title": {
+            "romaji": "Nihon Animator Mihonichi",
+            "english": "Japan Anima(tor)’s Exhibition",
+            "native": "日本アニメ（ーター）見本市"
+          }
+        },
+        {
+          "id": 100330,
+          "title": {
+            "romaji": "Beautiful World",
+            "english": null,
+            "native": "ビューティフル・ワールド"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Shinji Ikari",
+        "native": "碇シンジ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89-ZtZhXkh1rITn.png"
+      },
+      "descripcion": "__Height:__ 155 cm (5'1\")\n\nShinji Ikari is the Third Child ('Third Children' in Japanese), who pilots Unit 01. He is the son of [Gendo](https://anilist.co/character/1257) and the late [Yui Ikari](https://anilist.co/character/1258). Abandoned by his father, Gendo, when he was a toddler, Shinji often ran away from difficult situations. As a pilot, he panics easily and reacts very poorly to unexpected events. \n\n~!Over time and with encouragement from Misato, he learns to be less cowardly, more outspoken, and more confident, but his progress is all undone when he is forced to kill the only person who ever openly expressed love toward him. His only friends are Toji and Kensuke, but he apparently cares about Rei more than even he realizes.!~\n",
+      "genero": "Male",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": 2001,
+        "month": 6,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 32,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+            "english": "Neon Genesis Evangelion: The End of Evangelion",
+            "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+          }
+        },
+        {
+          "id": 2759,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Jo",
+            "english": "Evangelion: 1.0 You Are (Not) Alone",
+            "native": "ヱヴァンゲリヲン新劇場版:序"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3785,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Kyuu",
+            "english": "Evangelion: 3.0 You Can (Not) Redo",
+            "native": "ヱヴァンゲリヲン新劇場版:Q"
+          }
+        },
+        {
+          "id": 3786,
+          "title": {
+            "romaji": "Shin Evangelion Movie:||",
+            "english": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "native": "シン・エヴァンゲリオン劇場版:||"
+          }
+        },
+        {
+          "id": 4130,
+          "title": {
+            "romaji": "Petit Eva: Evangelion@School",
+            "english": null,
+            "native": "ぷちえゔぁ"
+          }
+        },
+        {
+          "id": 20947,
+          "title": {
+            "romaji": "Nihon Animator Mihonichi",
+            "english": "Japan Anima(tor)’s Exhibition",
+            "native": "日本アニメ（ーター）見本市"
+          }
+        },
+        {
+          "id": 100330,
+          "title": {
+            "romaji": "Beautiful World",
+            "english": null,
+            "native": "ビューティフル・ワールド"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1257,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gendou Ikari",
+        "native": "碇ゲンドウ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1257-qByikcrE8KTG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1257-qByikcrE8KTG.png"
+      },
+      "descripcion": "Gendou Ikari is the commander of NERV. He is responsible for the research done on the Evas, [Rei Ayanami](https://anilist.co/character/86), and the Human Instrumentality Project. He is the father of the Third Children, [Shinji Ikari](https://anilist.co/character/89), and the guardian of Rei. His original surname was Rokubungi, but he changed it to Ikari following his marriage to [Yui](https://anilist.co/character/1258). At the start of the series, he is the only person having an effective connection to Rei. As the series progresses, his unscrupulous past is revealed, as is the intensity with which he loved Yui.\n\n~!In the original series, his maiden name is Rokubungi.!~",
+      "genero": "Male",
+      "edad": "48",
+      "fecha_nacimiento": {
+        "year": 1967,
+        "month": 4,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 32,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+            "english": "Neon Genesis Evangelion: The End of Evangelion",
+            "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+          }
+        },
+        {
+          "id": 2759,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Jo",
+            "english": "Evangelion: 1.0 You Are (Not) Alone",
+            "native": "ヱヴァンゲリヲン新劇場版:序"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3785,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Kyuu",
+            "english": "Evangelion: 3.0 You Can (Not) Redo",
+            "native": "ヱヴァンゲリヲン新劇場版:Q"
+          }
+        },
+        {
+          "id": 3786,
+          "title": {
+            "romaji": "Shin Evangelion Movie:||",
+            "english": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "native": "シン・エヴァンゲリオン劇場版:||"
+          }
+        },
+        {
+          "id": 4130,
+          "title": {
+            "romaji": "Petit Eva: Evangelion@School",
+            "english": null,
+            "native": "ぷちえゔぁ"
+          }
+        },
+        {
+          "id": 20947,
+          "title": {
+            "romaji": "Nihon Animator Mihonichi",
+            "english": "Japan Anima(tor)’s Exhibition",
+            "native": "日本アニメ（ーター）見本市"
+          }
+        },
+        {
+          "id": 204270,
+          "title": {
+            "romaji": "Evangelion: Housou 30 Shuunen Kinen Tokubetsu Kougyou",
+            "english": "Evangelion 30th Anniversary Special Screening",
+            "native": "エヴァンゲリオン放送30周年記念特別興行"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1254,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hikari Horaki",
+        "native": "洞木ヒカリ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1254-Ps0twCqNZZH2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1254-Ps0twCqNZZH2.png"
+      },
+      "descripcion": "Hikari Horaki is the class representative of the class that Shinji and the other Eva pilots attend. Like all of her classmates, she is an unknowing Eva pilot candidate. She has a by-the-book demeanor and takes her responsibilities as \"class rep\" seriously. Although she frequently bickers with Toji, she reveals to Asuka that she has an enormous crush on Toji but is unable to openly express her feelings to him. She also appears to be Asuka's only friend. After the battle with Arael, Asuka seeks out Hikari and stays with her for an unspecified time. During a late evening she reveals her inner insecurities to Hikari, a testament to their friendship; however, Hikari appears saddened by the hateful words Asuka uses.\n\nHikari is an accomplished cook who appears to take care of her two sisters, [Nozomi](https://anilist.co/character/244735/) and [Kodama](https://anilist.co/character/244734/). Like presumably every one of Shinji's classmates, Hikari's mother is deceased.\n\nIn 3.0+1.0 of the rebuild series, ~!she resides in Village 3 and is married to [Touji Suzuhara](https://anilist.co/character/1262), with [a baby daughter](https://anilist.co/character/245144/). [Her father](https://anilist.co/character/245145/) lives with them.!~\n\n_Hikari is named after a character in the novel The Fascism of Love and Fantasies (Ai to Gensou no Fascism) by Ryu Murakami. Her name, and that of her unseen younger sister, Nozomi, and elder sister, Kodama, is also in reference to the names of the trains of the Tokaido Shinkansen line._",
+      "genero": "Female",
+      "edad": "13",
+      "fecha_nacimiento": {
+        "year": 2003,
+        "month": 2,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 2759,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Jo",
+            "english": "Evangelion: 1.0 You Are (Not) Alone",
+            "native": "ヱヴァンゲリヲン新劇場版:序"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3786,
+          "title": {
+            "romaji": "Shin Evangelion Movie:||",
+            "english": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "native": "シン・エヴァンゲリオン劇場版:||"
+          }
+        },
+        {
+          "id": 4130,
+          "title": {
+            "romaji": "Petit Eva: Evangelion@School",
+            "english": null,
+            "native": "ぷちえゔぁ"
+          }
+        },
+        {
+          "id": 100620,
+          "title": {
+            "romaji": "Shinkansen Henkei Robo Shinkalion",
+            "english": null,
+            "native": "新幹線変形ロボ シンカリオン"
+          }
+        },
+        {
+          "id": 110131,
+          "title": {
+            "romaji": "Shinkansen Henkei Robo Shinkalion: Mirai kara Kita Shinsoku no ALFA-X",
+            "english": null,
+            "native": "新幹線変形ロボ シンカリオン 未来からきた神速のＡＬＦＡ-Ｘ"
+          }
+        },
+        {
+          "id": 204270,
+          "title": {
+            "romaji": "Evangelion: Housou 30 Shuunen Kinen Tokubetsu Kougyou",
+            "english": "Evangelion 30th Anniversary Special Screening",
+            "native": "エヴァンゲリオン放送30周年記念特別興行"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1261,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaworu Nagisa",
+        "native": "渚カヲル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1261-HYRv3HpsSL92.jpg"
+      },
+      "descripcion": "__Relations:__ [Shinji Ikari](https://anilist.co/character/89/) (romantic interest)\n\n~!Kaworu Nagisa is both the 17th Angel and the Fifth Child. Although classified as an Angel, Kaworu is similar to Rei Ayanami in being a Seed of Life that inhabits a human body. Despite his human form, Kaworu does not consider himself to be human, since he refers to humans as \"the Lilin\".!~",
+      "genero": "Male",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 32,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+            "english": "Neon Genesis Evangelion: The End of Evangelion",
+            "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+          }
+        },
+        {
+          "id": 2759,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Jo",
+            "english": "Evangelion: 1.0 You Are (Not) Alone",
+            "native": "ヱヴァンゲリヲン新劇場版:序"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3785,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Kyuu",
+            "english": "Evangelion: 3.0 You Can (Not) Redo",
+            "native": "ヱヴァンゲリヲン新劇場版:Q"
+          }
+        },
+        {
+          "id": 3786,
+          "title": {
+            "romaji": "Shin Evangelion Movie:||",
+            "english": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "native": "シン・エヴァンゲリオン劇場版:||"
+          }
+        },
+        {
+          "id": 4130,
+          "title": {
+            "romaji": "Petit Eva: Evangelion@School",
+            "english": null,
+            "native": "ぷちえゔぁ"
+          }
+        },
+        {
+          "id": 20947,
+          "title": {
+            "romaji": "Nihon Animator Mihonichi",
+            "english": "Japan Anima(tor)’s Exhibition",
+            "native": "日本アニメ（ーター）見本市"
+          }
+        },
+        {
+          "id": 100330,
+          "title": {
+            "romaji": "Beautiful World",
+            "english": null,
+            "native": "ビューティフル・ワールド"
+          }
+        }
+      ]
+    },
+    {
+      "id": 17620,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Keel Lorentz",
+        "native": "キール・ローレンツ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17620-ZMMQmEnTNETz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17620-ZMMQmEnTNETz.png"
+      },
+      "descripcion": "Chairman of SEELE, it is the ambition of Keel Lorentz that drives mankind towards instrumentality. Part cyborg, Keel&#039;s eyes and spinal-cord are aided by advanced machinery.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 32,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+            "english": "Neon Genesis Evangelion: The End of Evangelion",
+            "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+          }
+        },
+        {
+          "id": 2759,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Jo",
+            "english": "Evangelion: 1.0 You Are (Not) Alone",
+            "native": "ヱヴァンゲリヲン新劇場版:序"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3785,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Kyuu",
+            "english": "Evangelion: 3.0 You Can (Not) Redo",
+            "native": "ヱヴァンゲリヲン新劇場版:Q"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1250,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kensuke Aida",
+        "native": "相田ケンスケ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1250-GU74dqhQEaUN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1250-GU74dqhQEaUN.png"
+      },
+      "descripcion": "Kensuke Aida is an otaku, a military buff, Toji&#039;s best friend, and one of the &quot;Other Children,&quot; Eva pilot candidates in the same class as Shinji, Toji, Rei, Asuka, and Hikari. His hobbies include camping in the mountains surrounding Tokyo-3 and playing at simulated war reenacting - by himself. Kensuke solidifies his friendship with Shinji after Shinji saves him and Toji during the fight against the fourth Angel, Shamshel. Kensuke dreams of becoming an Eva pilot and ceaselessly begs Shinji to pull strings in NERV so he can be selected as a pilot, despite Shinji telling him that he has no say in the matter. He also seems oblivious to the intense physical and psychological duress endured by Eva pilots. Nevertheless, Kensuke enjoys the privileges of being the friend of an Eva pilot; he and Toji accompany Shinji on the excursion to the UN combined naval fleet during the transportation of Unit 02. Like presumably every one of Shinji&#039;s classmates, Kensuke&#039;s mother is deceased. Like Toji, Kensuke has a crush on Misato Katsuragi. He is rarely seen without his camcorder at hand.\n\n_Kensuke is named after a main character in the novel The Fascism of Love and Fantasies (Ai to Gensou no Fascism) by Ryu Murakami. He is also similar in appearance to the character Jean, from Hideaki Anno&#039;s earlier anime Nadia: The Secret of Blue Water._",
+      "genero": "Male",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": 2001,
+        "month": 9,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 2759,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Jo",
+            "english": "Evangelion: 1.0 You Are (Not) Alone",
+            "native": "ヱヴァンゲリヲン新劇場版:序"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3786,
+          "title": {
+            "romaji": "Shin Evangelion Movie:||",
+            "english": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "native": "シン・エヴァンゲリオン劇場版:||"
+          }
+        },
+        {
+          "id": 4130,
+          "title": {
+            "romaji": "Petit Eva: Evangelion@School",
+            "english": null,
+            "native": "ぷちえゔぁ"
+          }
+        },
+        {
+          "id": 204270,
+          "title": {
+            "romaji": "Evangelion: Housou 30 Shuunen Kinen Tokubetsu Kougyou",
+            "english": "Evangelion 30th Anniversary Special Screening",
+            "native": "エヴァンゲリオン放送30周年記念特別興行"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1253,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kohzou Fuyutsuki",
+        "native": "冬月コウゾウ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1253-4VmJuD5jUSvJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1253-4VmJuD5jUSvJ.png"
+      },
+      "descripcion": "Kozo Fuyutsuki is second-in-command of NERV HQ and Gendo Ikari's right hand man. As Deputy Commander of NERV, Fuyutsuki frequently takes command of situations at the base whenever Gendo is away on business. Gendo also tends to unload the more mundane work, such as town council meetings, paperwork, and the like, onto Fuyutsuki.",
+      "genero": "Male",
+      "edad": "59",
+      "fecha_nacimiento": {
+        "year": 1956,
+        "month": 9,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 32,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+            "english": "Neon Genesis Evangelion: The End of Evangelion",
+            "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+          }
+        },
+        {
+          "id": 2759,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Jo",
+            "english": "Evangelion: 1.0 You Are (Not) Alone",
+            "native": "ヱヴァンゲリヲン新劇場版:序"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3785,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Kyuu",
+            "english": "Evangelion: 3.0 You Can (Not) Redo",
+            "native": "ヱヴァンゲリヲン新劇場版:Q"
+          }
+        },
+        {
+          "id": 3786,
+          "title": {
+            "romaji": "Shin Evangelion Movie:||",
+            "english": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "native": "シン・エヴァンゲリオン劇場版:||"
+          }
+        },
+        {
+          "id": 4130,
+          "title": {
+            "romaji": "Petit Eva: Evangelion@School",
+            "english": null,
+            "native": "ぷちえゔぁ"
+          }
+        },
+        {
+          "id": 204270,
+          "title": {
+            "romaji": "Evangelion: Housou 30 Shuunen Kinen Tokubetsu Kougyou",
+            "english": "Evangelion 30th Anniversary Special Screening",
+            "native": "エヴァンゲリオン放送30周年記念特別興行"
+          }
+        }
+      ]
+    },
+    {
+      "id": 40969,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kyouko Zeppelin Souryuu",
+        "native": "惣流・キョウコ・ツェッペリン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40969-CCitRm0yoQZI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b40969-CCitRm0yoQZI.png"
+      },
+      "descripcion": "Mother of Asuka Langley Soryu. She was a scientist working for NERV before an accident during the testing phases of Evangelion Unit 02 left her hospitalized and mentally unstable.     ~! After this she began to treat a doll as if it were her daughter, and eventually committed suicide by hanging herself in her hospital room.!~",
+      "genero": "Female",
+      "edad": "31",
+      "fecha_nacimiento": {
+        "year": 1974,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 32,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+            "english": "Neon Genesis Evangelion: The End of Evangelion",
+            "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+          }
+        },
+        {
+          "id": 204270,
+          "title": {
+            "romaji": "Evangelion: Housou 30 Shuunen Kinen Tokubetsu Kougyou",
+            "english": "Evangelion 30th Anniversary Special Screening",
+            "native": "エヴァンゲリオン放送30周年記念特別興行"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1255,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Makoto Hyuuga",
+        "native": "日向マコト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1255-U6CSCHcOpUpS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1255-U6CSCHcOpUpS.png"
+      },
+      "descripcion": "Makoto Hyuga is First Lieutenant at NERV and a computer technician. He is something of a nerd, reading manga while on his break time, but is a hard worker, nonetheless. He also appears to harbor a deep crush for Misato, as Lilith approaches him during his implementation in the form of Misato.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 32,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+            "english": "Neon Genesis Evangelion: The End of Evangelion",
+            "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+          }
+        },
+        {
+          "id": 2759,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Jo",
+            "english": "Evangelion: 1.0 You Are (Not) Alone",
+            "native": "ヱヴァンゲリヲン新劇場版:序"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3785,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Kyuu",
+            "english": "Evangelion: 3.0 You Can (Not) Redo",
+            "native": "ヱヴァンゲリヲン新劇場版:Q"
+          }
+        },
+        {
+          "id": 3786,
+          "title": {
+            "romaji": "Shin Evangelion Movie:||",
+            "english": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "native": "シン・エヴァンゲリオン劇場版:||"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1256,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Maya Ibuki",
+        "native": "伊吹マヤ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/1256-7NjpwB5vSlPZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/1256-7NjpwB5vSlPZ.png"
+      },
+      "descripcion": "Maya Ibuki is a First Lieutenant at NERV and a computer technician who works primarily with [Ritsuko Akagi](https://anilist.co/character/1251/Akagi-Ritsuko). Her main role during the fights with the Angels is to constantly monitor the Eva pilots’ synchronization ratios and send various emergency commands to the Evangelions as ordered by [Misato](https://anilist.co/character/1259/Katsuragi-Misato) or [Gendo](https://anilist.co/character/1257/Ikari-Gendou).\n\nIn spite of her profession, Maya despises violence of any sort, and is frequently shown becoming nauseous and averting her eyes during battles with the Angels. Notably, in The End of Evangelion, Maya is the only NERV officer who is shown refusing to fight back against the JSSDF invaders. She rejects the gun Shigeru hands her to defend herself saying \"I can't shoot this thing\", not because she is unskilled, but because she has never shot it at a human being.",
+      "genero": "Female",
+      "edad": "24",
+      "fecha_nacimiento": {
+        "year": 1991,
+        "month": 7,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 32,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+            "english": "Neon Genesis Evangelion: The End of Evangelion",
+            "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+          }
+        },
+        {
+          "id": 2759,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Jo",
+            "english": "Evangelion: 1.0 You Are (Not) Alone",
+            "native": "ヱヴァンゲリヲン新劇場版:序"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3785,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Kyuu",
+            "english": "Evangelion: 3.0 You Can (Not) Redo",
+            "native": "ヱヴァンゲリヲン新劇場版:Q"
+          }
+        },
+        {
+          "id": 3786,
+          "title": {
+            "romaji": "Shin Evangelion Movie:||",
+            "english": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "native": "シン・エヴァンゲリオン劇場版:||"
+          }
+        },
+        {
+          "id": 20947,
+          "title": {
+            "romaji": "Nihon Animator Mihonichi",
+            "english": "Japan Anima(tor)’s Exhibition",
+            "native": "日本アニメ（ーター）見本市"
+          }
+        },
+        {
+          "id": 204270,
+          "title": {
+            "romaji": "Evangelion: Housou 30 Shuunen Kinen Tokubetsu Kougyou",
+            "english": "Evangelion 30th Anniversary Special Screening",
+            "native": "エヴァンゲリオン放送30周年記念特別興行"
+          }
+        }
+      ]
+    },
+    {
+      "id": 19207,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Naoko Akagi",
+        "native": "赤木ナオコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/19207-ouxkWAjw2nyF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/19207-ouxkWAjw2nyF.png"
+      },
+      "descripcion": "Naoko Akagi was Ritsuko's mother. She was the creator of the MAGI system and the former Gehirn head technician. \n\n~!Naoko was involved in a romantic relationship with the recently-widowed Gendo Ikari while working at Gehirn.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36309,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Narrator",
+        "native": "ナレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+      },
+      "descripcion": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 6,
+          "title": {
+            "romaji": "TRIGUN",
+            "english": "Trigun",
+            "native": "TRIGUN"
+          }
+        },
+        {
+          "id": 21,
+          "title": {
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
+          }
+        },
+        {
+          "id": 25,
+          "title": {
+            "romaji": "Sunabouzu",
+            "english": "Desert Punk",
+            "native": "砂ぼうず"
+          }
+        },
+        {
+          "id": 28,
+          "title": {
+            "romaji": "Yakitate!! Japan",
+            "english": null,
+            "native": "焼きたて!! ジャぱん"
+          }
+        },
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 33,
+          "title": {
+            "romaji": "Kenpuu Denki Berserk",
+            "english": "Berserk",
+            "native": "剣風伝奇ベルセルク"
+          }
+        },
+        {
+          "id": 60,
+          "title": {
+            "romaji": "Chrno Crusade",
+            "english": "Chrono Crusade",
+            "native": "クロノクルセイド"
+          }
+        },
+        {
+          "id": 67,
+          "title": {
+            "romaji": "Basilisk: Kouga Ninpouchou",
+            "english": "Basilisk",
+            "native": "バジリスク 甲賀忍法帖"
+          }
+        },
+        {
+          "id": 80,
+          "title": {
+            "romaji": "Kidou Senshi Gundam",
+            "english": "Mobile Suit Gundam",
+            "native": "機動戦士ガンダム"
+          }
+        },
+        {
+          "id": 90,
+          "title": {
+            "romaji": "Shin Kidou Senki Gundam Wing",
+            "english": "Mobile Suit Gundam Wing",
+            "native": "新機動戦記ガンダムW"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1892,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pen Pen",
+        "native": "ペンペン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1892-sjqNrZpbddu8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1892-sjqNrZpbddu8.png"
+      },
+      "descripcion": "Pen Pen is a hot-spring penguin who lives with [Misato Katsuragi](https://anilist.co/character/1259/Katsuragi-Misato) as her pet. He lives in a refrigerator and is a source of company and comfort to Misato, who has problems of her own.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 32,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+            "english": "Neon Genesis Evangelion: The End of Evangelion",
+            "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+          }
+        },
+        {
+          "id": 2759,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Jo",
+            "english": "Evangelion: 1.0 You Are (Not) Alone",
+            "native": "ヱヴァンゲリヲン新劇場版:序"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3786,
+          "title": {
+            "romaji": "Shin Evangelion Movie:||",
+            "english": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "native": "シン・エヴァンゲリオン劇場版:||"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1251,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ritsuko Akagi",
+        "native": "赤木リツコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/1251-gLa2Arv5E8a9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/1251-gLa2Arv5E8a9.png"
+      },
+      "descripcion": "Ritsuko Akagi is NERV's head scientist and is heavily involved in the repairs and maintenance of Tokyo-3's defenses against the Angels, particularly the Evas.  She is the daughter of [Naoko Akagi](https://anilist.co/character/19207/Akagi-Naoko), the developer of the MAGI supercomputer system which controls Nerv. In many ways, Ritsuko is living in the shadow of her mother, whom she both admires and despises. Naoko was the head scientist working on the Evangelion project before her death, and Ritsuko is continuing the work her mother began with the Evas, as well as continuing the development of the Magi supercomputer system. Flashbacks to a teenaged Ritsuko reveal that she is a natural brunette, just like her mother.\n\nRitsuko is extremely intelligent, with a strong dedication to her work and a stoic, detached attitude which is frequently contrasted against [Misato Katsuragi](https://anilist.co/character/1259/Katsuragi-Misato)'s hot-headness, especially during Eva combat. Her occasional jibes at Misato are a source of comic relief in the series. She has a great affinity for cats, and Misato chides her at one point for substituting her cats for human affection. She also is a heavy smoker, as evidenced by an ashtray on her desk filled with cigarette butts stained by her lipstick.",
+      "genero": "Female",
+      "edad": "30",
+      "fecha_nacimiento": {
+        "year": 1985,
+        "month": 11,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 32,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+            "english": "Neon Genesis Evangelion: The End of Evangelion",
+            "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+          }
+        },
+        {
+          "id": 2759,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Jo",
+            "english": "Evangelion: 1.0 You Are (Not) Alone",
+            "native": "ヱヴァンゲリヲン新劇場版:序"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3785,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Kyuu",
+            "english": "Evangelion: 3.0 You Can (Not) Redo",
+            "native": "ヱヴァンゲリヲン新劇場版:Q"
+          }
+        },
+        {
+          "id": 3786,
+          "title": {
+            "romaji": "Shin Evangelion Movie:||",
+            "english": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "native": "シン・エヴァンゲリオン劇場版:||"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1260,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryouji Kaji",
+        "native": "加持リョウジ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1260-QCPCuARGDhqK.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1260-QCPCuARGDhqK.jpg"
+      },
+      "descripcion": "Kaji, while only being a special inspector, secretly works for SEELE investigating NERV's true intentions. During college, he had a serious relationship with [Misato](https://anilist.co/character/1259/Katsuragi-Misato), but after having long broken up, they see each other again on the UN fleet ferrying Unit 02 and its pilot, [Asuka Langley Soryu](https://anilist.co/character/94/Souryuu-Asuka-Langley), to Japan. \n\n~!After he returns to NERV headquarters, Kaji and Misato rekindle their romance following a period of teasing and insults, when Misato confesses that she broke up with him because she realized that Kaji reminded her of her father. He is eventually shot by an unnamed assailant, described as \"a third party working either for SEELE or for NERV's Intelligence Division\" in the episode Film-book. In the manga, it is Commander Ikari who personally kills Kaji.!~",
+      "genero": "Male",
+      "edad": "30",
+      "fecha_nacimiento": {
+        "year": 1985,
+        "month": 6,
+        "day": 17
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 32,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+            "english": "Neon Genesis Evangelion: The End of Evangelion",
+            "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3786,
+          "title": {
+            "romaji": "Shin Evangelion Movie:||",
+            "english": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "native": "シン・エヴァンゲリオン劇場版:||"
+          }
+        },
+        {
+          "id": 204270,
+          "title": {
+            "romaji": "Evangelion: Housou 30 Shuunen Kinen Tokubetsu Kougyou",
+            "english": "Evangelion 30th Anniversary Special Screening",
+            "native": "エヴァンゲリオン放送30周年記念特別興行"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1252,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shigeru Aoba",
+        "native": "青葉シゲル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/1252-gSQPK15PSOl9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/1252-gSQPK15PSOl9.png"
+      },
+      "descripcion": "Shigeru Aoba is First Lieutenant at NERV and a computer technician. At times a stereotypical metal head, he is a nihilist and plays guitar (he can also sometimes be seen strumming an air guitar).  ~!In his implementation sequence, Lilith forces her way through his AT Field by bombarding him with a wall of Reis in which he screams in fear. She supposedly takes this tactic with his implementation because there is no one he loves or trusts enough to let his guard down, suggesting a possible layer of solitude and bitterness behind his cynical persona.!~ Again, his character is not explored in depth within the series.  (Source: afufu.net)",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 32,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+            "english": "Neon Genesis Evangelion: The End of Evangelion",
+            "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+          }
+        },
+        {
+          "id": 2759,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Jo",
+            "english": "Evangelion: 1.0 You Are (Not) Alone",
+            "native": "ヱヴァンゲリヲン新劇場版:序"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3785,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Kyuu",
+            "english": "Evangelion: 3.0 You Can (Not) Redo",
+            "native": "ヱヴァンゲリヲン新劇場版:Q"
+          }
+        },
+        {
+          "id": 3786,
+          "title": {
+            "romaji": "Shin Evangelion Movie:||",
+            "english": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "native": "シン・エヴァンゲリオン劇場版:||"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3721,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shiro Tokita",
+        "native": "時田シロウ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/3721-247Ww1hFTqqS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/3721-247Ww1hFTqqS.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1262,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Touji Suzuhara",
+        "native": "鈴原トウジ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1262-srj1373Rz8dI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1262-srj1373Rz8dI.png"
+      },
+      "descripcion": "Toji is a tough boy, the stereotypical \"jock,\" and is in constant conflict with Asuka. His younger sister was injured in the battle between the third Angel, Sachiel, and Unit 01, and he beats Shinji up soon after for being indirectly responsible. However, after witnessing firsthand the suffering Shinji experiences piloting Unit 01 in the battle against Shamshel, Toji comes to respect Shinji and the two eventually become friends.\n\n~!Toji Suzuhara is the Fourth Child.!~\n\n~!Toji's Eva, Unit 03, is taken over by the thirteenth Angel, Bardiel, and is eventually destroyed by Unit 01, which was under the control of the Dummy Plug system. He is severely injured when his Entry Plug is crushed; in the manga, he is killed.!~\n\nIn 3.0+1.0 of the rebuild series, ~!he is a doctor residing in Village 3 and is married to [Hikari Horaki](https://anilist.co/character/1254/), with a daughter.!~\n\n_Toji is named after one of the main characters in the novel The Fascism of Love and Fantasy (Ai to Gensou no Fascism) by Ryu Murakami._",
+      "genero": "Male",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": 2001,
+        "month": 12,
+        "day": 26
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 2759,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Jo",
+            "english": "Evangelion: 1.0 You Are (Not) Alone",
+            "native": "ヱヴァンゲリヲン新劇場版:序"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3786,
+          "title": {
+            "romaji": "Shin Evangelion Movie:||",
+            "english": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "native": "シン・エヴァンゲリオン劇場版:||"
+          }
+        },
+        {
+          "id": 4130,
+          "title": {
+            "romaji": "Petit Eva: Evangelion@School",
+            "english": null,
+            "native": "ぷちえゔぁ"
+          }
+        },
+        {
+          "id": 204270,
+          "title": {
+            "romaji": "Evangelion: Housou 30 Shuunen Kinen Tokubetsu Kougyou",
+            "english": "Evangelion 30th Anniversary Special Screening",
+            "native": "エヴァンゲリオン放送30周年記念特別興行"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1258,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yui Ikari",
+        "native": "碇ユイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/1258-FiCAgSWsP2Xz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/1258-FiCAgSWsP2Xz.png"
+      },
+      "descripcion": "Ikari Shinji's mother and wife of Gendou Ikari.\n\n~!In the rebuild series, her maiden name is Yui Ayanami.!~ ~!While testing an early version of the Eva control system, she was absorbed into the unit. Her data is the basis of the Rei \"replicas.\"!~",
+      "genero": "Female",
+      "edad": "27",
+      "fecha_nacimiento": {
+        "year": 1977,
+        "month": 3,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 31,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+            "english": "Neon Genesis Evangelion: Death & Rebirth",
+            "native": "新世紀エヴァンゲリオン劇場版 シト新生"
+          }
+        },
+        {
+          "id": 32,
+          "title": {
+            "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+            "english": "Neon Genesis Evangelion: The End of Evangelion",
+            "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+          }
+        },
+        {
+          "id": 2759,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Jo",
+            "english": "Evangelion: 1.0 You Are (Not) Alone",
+            "native": "ヱヴァンゲリヲン新劇場版:序"
+          }
+        },
+        {
+          "id": 3784,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Ha",
+            "english": "Evangelion: 2.0 You Can (Not) Advance",
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        {
+          "id": 3785,
+          "title": {
+            "romaji": "Evangelion Shin Movie: Kyuu",
+            "english": "Evangelion: 3.0 You Can (Not) Redo",
+            "native": "ヱヴァンゲリヲン新劇場版:Q"
+          }
+        },
+        {
+          "id": 4130,
+          "title": {
+            "romaji": "Petit Eva: Evangelion@School",
+            "english": null,
+            "native": "ぷちえゔぁ"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 22,
+  "actualizado": 1788566232
+}

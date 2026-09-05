@@ -1,0 +1,2717 @@
+{
+  "clave": "mashle",
+  "nombre": "MASHLE",
+  "descripcion": "Magic and Muscles",
+  "generos": [
+    "Comedia",
+    "Acción",
+    "Fantasía"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151801-XxVf22Le6C8o.png",
+  "medios": [
+    {
+      "id": 151801,
+      "title": {
+        "romaji": "MASHLE",
+        "english": "MASHLE: MAGIC AND MUSCLES",
+        "native": "マッシュル-MASHLE-"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151801-XxVf22Le6C8o.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151801-XxVf22Le6C8o.png"
+      }
+    },
+    {
+      "id": 166610,
+      "title": {
+        "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+        "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+        "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166610-S5q7V2v5zdDK.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166610-S5q7V2v5zdDK.jpg"
+      }
+    },
+    {
+      "id": 177704,
+      "title": {
+        "romaji": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
+        "english": null,
+        "native": "マッシュル-MASHLE- 三魔対争神覚者最終試験編"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177704-y10Nw7MUXCHD.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177704-y10Nw7MUXCHD.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 174369,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Dot Barrett",
+        "native": "ドット・バレット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174369-VjKvYJbXLO5I.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174369-VjKvYJbXLO5I.jpg"
+      },
+      "descripcion": "__Affiliation:__ Easton Magic Academy\n__Occupation:__ Student\n\nDot Barrett is a first-year student at Easton Magic Academy and one of the main characters of the Mashle series.\n\nDot is hot-blooded and obnoxious, however, deep down, he's a nice guy and will apologize if he's wrong about something. He also is shown to fall in love easily.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        },
+        {
+          "id": 177704,
+          "title": {
+            "romaji": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
+            "english": null,
+            "native": "マッシュル-MASHLE- 三魔対争神覚者最終試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174368,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Finn Ames",
+        "native": "フィン・エイムズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174368-tYxOTsrCDEk9.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174368-tYxOTsrCDEk9.jpg"
+      },
+      "descripcion": "__Height:__ 170 cm\n\nFinn Ames is a first-year student at Easton Magic Academy and member of Adler dorm. He is the younger brother of [Rayne Ames](https://anilist.co/character/202422). Finn is Mash's roommate and his first and best friend.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        },
+        {
+          "id": 177704,
+          "title": {
+            "romaji": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
+            "english": null,
+            "native": "マッシュル-MASHLE- 三魔対争神覚者最終試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 172075,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Lance Crown",
+        "native": "ランス・クラウン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b172075-aOsZuM7D0bcW.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b172075-aOsZuM7D0bcW.jpg"
+      },
+      "descripcion": "__Height:__ 178 cm\n__Affiliation:__ Easton Magic Academy\n__Occupation:__ Student\n\nLance Crown is a student at Easton Magic Academy known for being ranked the first in the entrance exams and having two marks.\n\nWhen Lance was younger he is shown to be a very caring person who was willing to protect people who were being mistreated by other people even if the repercussions are him getting into fights. Lance is very protective of his sister where he vows to become a Divine Visionary so he can save his sister from being taken by the Bureau of Magic.\n\n~! After a fight with Mash, he later approaches Mash and Finn to reconcile. Now he acts as the brains of their group of misfits. !~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        },
+        {
+          "id": 177704,
+          "title": {
+            "romaji": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
+            "english": null,
+            "native": "マッシュル-MASHLE- 三魔対争神覚者最終試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 167819,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Lemon  Irvine",
+        "native": "レモン・アーヴィン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b167819-2pddKcJiApjD.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b167819-2pddKcJiApjD.jpg"
+      },
+      "descripcion": "__Height:__ 162 cm\n__Affiliation:__ Easton Magic Academy\n__Occupation:__ Student\n\nLemon Irvine is a first-year student at Easton Magic Academy. She has short, blonde hair with an orange ribbon. Her mark is under her right eye, straight with a half-moon curve. Usually wears the Easton Magic School uniform.\n\nLemon is a little kooky, but she's honest to goodness person and seems incapable of betraying others. She also gets scared very easily and tends to exaggerate in the conversations she has with other people.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        },
+        {
+          "id": 177704,
+          "title": {
+            "romaji": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
+            "english": null,
+            "native": "マッシュル-MASHLE- 三魔対争神覚者最終試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 158734,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Mash Burnedead",
+        "native": "マッシュ・バーンデッド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b158734-k8FAVIyXKdW1.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b158734-k8FAVIyXKdW1.jpg"
+      },
+      "descripcion": "__Height:__ 171 cm\n\nThe main protagonist of the series. Mash is a first-year student at Easton Magic Academy and member of Adler dorm. He has the peculiarity of not possessing any magic but also has inhuman strength which makes him a standout in the academy.\n\nMash is generally quiet and kind. However, if he sees someone hurting his family or friends, he gets incredibly angry. He is also extremely innocent and obedient, making people abuse those qualities, but thanks to his strength he can twist almost every situation. He also loves cream puffs a lot.",
+      "genero": "Male",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        },
+        {
+          "id": 177704,
+          "title": {
+            "romaji": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
+            "english": null,
+            "native": "マッシュル-MASHLE- 三魔対争神覚者最終試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 207410,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Abel Walker",
+        "native": "アベル・ウォーカー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207410-BXfkA9UGsM34.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b207410-BXfkA9UGsM34.png"
+      },
+      "descripcion": "__Height:__ 176 cm\n\nAbel Walker is a third-year student at Easton Magic Academy. He is the leader of the Magia Lupus and the prefect for Lang dorm.",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 26
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262134,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Abyss Razor",
+        "native": "アビス・レイザー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262134-tF0VrJEteYcW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262134-tF0VrJEteYcW.png"
+      },
+      "descripcion": "Second Fang of the Magia Lupus.",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319149,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Agito Tyrone",
+        "native": "アギト・タイロン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319149-hj5pSR8gBCmG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b319149-hj5pSR8gBCmG.png"
+      },
+      "descripcion": "Divine Visionary and a member of the Magical Creatures Admistration, a subdivision of the Bureau of Magic.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262135,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Anna Crown",
+        "native": "アンナ・クラウン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262135-9wLHgY4wtcYh.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262135-9wLHgY4wtcYh.jpg"
+      },
+      "descripcion": "Anna Crown is Lance Crown's younger sister.\n\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262145,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Anser Shinri",
+        "native": "アンサー・シンリ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262145-ErXRyPeChJ2p.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262145-ErXRyPeChJ2p.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262137,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aorio Morris",
+        "native": "アオリオ・モレス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262137-fcxWuuabzvBW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262137-fcxWuuabzvBW.png"
+      },
+      "descripcion": "Third-year student at Easton Magic Academy and member of Alder dorm.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323210,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bless Minister",
+        "native": "ブレス・ミニスター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b323210-hFaP6pSiJ2H8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b323210-hFaP6pSiJ2H8.png"
+      },
+      "descripcion": "Vice-Director of the Bureau of Magic.",
+      "genero": "Male",
+      "edad": "54",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301976,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Brad Coleman",
+        "native": "ブラッド・コールマン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301976-6HGcS1C3iELi.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301976-6HGcS1C3iELi.jpg"
+      },
+      "descripcion": "Magic Police Officer. ~!He gives Mash his fake mark and helps him enroll at Easton Magic Academy.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 215259,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Carpaccio Luo-Yang",
+        "native": "カルパッチョ・ローヤン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b215259-ZpVchb8qQeT3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b215259-ZpVchb8qQeT3.png"
+      },
+      "descripcion": "__Height:__ 174 cm\n\nFirst-year student at Easton Magic Academy and a member of Orca dorm. He managed to earn four gold coins, and therefore was allowed to participate in the Divine Visionary Selection Exam.",
+      "genero": "Male",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 215260,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cell War",
+        "native": "セル・ウォー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b215260-IzG0M5dNhDhp.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b215260-IzG0M5dNhDhp.jpg"
+      },
+      "descripcion": "__Height:__ 171 cm\n\nCell War is a core member of Innocent Zero.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323781,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cello Morceau",
+        "native": "チェロロ・モルソー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b323781-j7K6oPPUJyes.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b323781-j7K6oPPUJyes.png"
+      },
+      "descripcion": "Second-year student at Easton Magic Academy. He and his twin brother Tron are Margarette's secretaries. Cello uses his cello to support Margarette's magic.\n",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262138,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Claude Lucci",
+        "native": "クロード・ルッチ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262138-lwMvuQDqkCfu.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262138-lwMvuQDqkCfu.jpg"
+      },
+      "descripcion": "Claude Lucci is a Professor at Easton Magic Academy, he is tasked with guiding the next generation of mages.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 303044,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Farman Cregos",
+        "native": "ファルマン・グレゴス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b303044-aqjtjXLoXQx1.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b303044-aqjtjXLoXQx1.jpg"
+      },
+      "descripcion": "Vice Principal of Easton Magic Academy.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 305413,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Honekakuba",
+        "native": "骨角馬"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305413-QcaHQsuc8Rne.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305413-QcaHQsuc8Rne.jpg"
+      },
+      "descripcion": "The Unicorn is able to determine students' thoughts and sort them into their House.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262136,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Innocent Zero",
+        "native": "イノセント・ゼロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262136-vmc8MJHetX8h.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262136-vmc8MJHetX8h.png"
+      },
+      "descripcion": "Innocent Zero is the alias of the leader of the criminal organization of the same name and the primary antagonist of the series. He was once a pupil of Adam Jobs alongside Wahlberg.",
+      "genero": "Male",
+      "edad": "118",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308679,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jon Pierre",
+        "native": "ジョン・ピエール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308679-OHnZIk7pzmvU.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308679-OHnZIk7pzmvU.jpg"
+      },
+      "descripcion": "Serial killer, cannibal, and a member of Innocent Zero’s Criminal Canes.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323209,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaise Tsukkomi",
+        "native": "カイセ・ツッコミー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b323209-BDQEASqkR5qT.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b323209-BDQEASqkR5qT.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 216157,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaldo Gehenna",
+        "native": "カルド・ゲヘナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b216157-BV5gcRKCoJ3k.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b216157-BV5gcRKCoJ3k.jpg"
+      },
+      "descripcion": "__Height:__ 175cm\n\nKaldo Gehenna is a Divine Visionary and Head of the Magic Talent Administration, a subdivision of the Bureau of Magic.",
+      "genero": "Male",
+      "edad": "27",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308675,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Keisokumo",
+        "native": "ケイソクモ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308675-Cn6ZNxzYN0er.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308675-Cn6ZNxzYN0er.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304810,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lauren Cabasse",
+        "native": "ローレン・キャバス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b304810-zzSPVdx6a67g.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b304810-zzSPVdx6a67g.jpg"
+      },
+      "descripcion": "Student at Eason Magic Academy. A manipulative and selfish girl, Lauren has an unnamed magic that causes men to fall for her.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 324547,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Leblanc Russell",
+        "native": "ルブラン・ラッセル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b324547-Q0lLBb1hXHt2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b324547-Q0lLBb1hXHt2.png"
+      },
+      "descripcion": "__Height:__ 178 cm\n\nSecond-year student at Easton Magic Academy. He is in Lang dorm.",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 303043,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lloyd Cavill",
+        "native": "ロイド・キャベル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b303043-uH0JDBYdDs9u.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b303043-uH0JDBYdDs9u.jpg"
+      },
+      "descripcion": "First-year student at Easton Magic Academy.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262142,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Love Cute",
+        "native": "ラブ・キュート"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262142-NBHIZfNw94oM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262142-NBHIZfNw94oM.jpg"
+      },
+      "descripcion": "__Height:__ 160cm\n\nLove Cute is a second-year student at Easton Magic Academy. She is the Fifth Fang of the Magia Lupus.",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 215258,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Margarette Macaron",
+        "native": "マーガレット・マカロン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b215258-A0t3nigiFfsF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b215258-A0t3nigiFfsF.png"
+      },
+      "descripcion": "__Height:__ 198 cm\n\nThird-year student at Eason Magic Academy and the prefect for Orca Dorm. Margarette is eccentric, yet a firm believer in \"Might makes Right\". They have a strange obsession with Tartar Sauce.",
+      "genero": "Non-binary",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262140,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Max Land",
+        "native": "マックス・ランド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262140-1no2sjGUfnjL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262140-1no2sjGUfnjL.png"
+      },
+      "descripcion": "__Height:__ 168 cm\n\nThird-year student at Easton Magic Academy, and a member of Adler dorm.",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 19
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262143,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Milo Genius",
+        "native": "マイロ・ジェーニアス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262143-szUmYsMTG7YE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262143-szUmYsMTG7YE.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 324535,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Moore Tomato",
+        "native": "モア・トマト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b324535-R0yUavYY33dK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b324535-R0yUavYY33dK.png"
+      },
+      "descripcion": "__Height:__ 184 cm\n\nThird-year student at Easton Magic Academy. He is in Lang dorm.",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262144,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Olore Andrew",
+        "native": "オロル・アンドリュー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262144-N6zE42LxE98u.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262144-N6zE42LxE98u.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 264316,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Orter Mádl",
+        "native": "オーター・マドル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b264316-KBzNLTjnhkEe.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b264316-KBzNLTjnhkEe.jpg"
+      },
+      "descripcion": "Orter Mádl is a Divine Visionary and a member of the Bureau of Magic 's subdivision known as the Magical Power Administration.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 324540,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pon Torus",
+        "native": "ポン・トルス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b324540-IgbnZFoguXNu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b324540-IgbnZFoguXNu.png"
+      },
+      "descripcion": "__Height:__ 167 cm\n\nSecond-year student at Easton Magic Academy. He is in Orca dorm.",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 202422,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rain Ames",
+        "native": "レイン・エイムズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b202422-DNcyHSn8ICHp.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b202422-DNcyHSn8ICHp.jpg"
+      },
+      "descripcion": "Rayne Ames is a second-year student at Easton Magic Academy, the current Sword Cane of the Divine Visionaries, the prefect of the Adler dorm and the older brother of Finn Ames.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 202421,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Regro Burnedead",
+        "native": "レグロ・バーンデッド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b202421-LCfDWRhioGnY.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b202421-LCfDWRhioGnY.jpg"
+      },
+      "descripcion": "He is Mash's father.\n",
+      "genero": "Male",
+      "edad": "75",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262146,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Renatus Revol",
+        "native": "レナトス・リボル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262146-OFBg195UmJuj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262146-OFBg195UmJuj.png"
+      },
+      "descripcion": "__Height:__ 180cm\n\nRenatus Revol is a Divine Visionary and a member of the Magical Cemetary Administration, a subdivision of the Bureau of Magic.\n",
+      "genero": "Male",
+      "edad": "26",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306930,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rhodes Eamus",
+        "native": "ローデス・エイムス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306930-vHUoNvZTJ1yx.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306930-vHUoNvZTJ1yx.jpg"
+      },
+      "descripcion": "Student at Easton Magic Academy. He is a double-liner, and refers to himself as the \"Magma Master of Orca Dorm.\"",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301344,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryoh Grantz",
+        "native": "ライオ・グランツ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301344-VtiVh42Go1LX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301344-VtiVh42Go1LX.png"
+      },
+      "descripcion": "A Divine Visionary and the captain of the Magic Security Forces. Unlike most members of the country, Ryou has no problem with magicless people, as long as they impress him. He also has a big ego, and sees himself as a star to the point of narrating his own actions.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 306929,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shuen Getsuku",
+        "native": "シュエン・ゲツク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306929-VO24i6lnUQDV.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b306929-VO24i6lnUQDV.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304809,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Silva Iron",
+        "native": "シルバ・アイアン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b304809-QZB1NRh0HNZ5.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b304809-QZB1NRh0HNZ5.jpg"
+      },
+      "descripcion": "Second-year student at Easton Magic Academy, and a member of House Lang. During his first year at Easton he managed to acquire two Gold Coins. However, due to constantly attacking students and teachers, he was held back, much to his shock.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 26
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262133,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sophina Biblia",
+        "native": "ソフィナ・ブリビア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262133-yfzN1X3yo1RJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262133-yfzN1X3yo1RJ.png"
+      },
+      "descripcion": "__Height:__ 168 cm\n\nSophina Biblia is a Divine Visionary and a member of the Forbidden Magical Texts Administration, a subdivision of the Bureau of Magic.",
+      "genero": "Female",
+      "edad": "24",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301977,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Terry",
+        "native": "テリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301977-RfOR14jOOOFT.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301977-RfOR14jOOOFT.jpg"
+      },
+      "descripcion": "Magic Police Officer.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 262141,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tom Knowles",
+        "native": "トム・ノエルズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b262141-HzCiUz8k0njQ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b262141-HzCiUz8k0njQ.jpg"
+      },
+      "descripcion": "Tom Knowles is a second-year student at Easton Magic Academy.\n\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323780,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tron Morceau",
+        "native": "トロン・モルソー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b323780-SutdVldCKGtX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b323780-SutdVldCKGtX.png"
+      },
+      "descripcion": "Second-year student at Easton Magic Academy. He and his twin brother Cello are Margarette's secretaries.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319148,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tsurara Halestone",
+        "native": "ツララ・ヘイルストーン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319148-aOHEmeFNJAQr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b319148-aOHEmeFNJAQr.png"
+      },
+      "descripcion": "Divine Visionary and a member of the Magic Research Administration, a subdivision of the Bureau of Magic.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 202423,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Wahlberg Baigan",
+        "native": "ウォールバーグ・バイガン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b202423-qQKbIoKxqWTI.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b202423-qQKbIoKxqWTI.jpg"
+      },
+      "descripcion": "Wahlberg is the Headmaster of Easton Magic Academy.",
+      "genero": "Male",
+      "edad": "118",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 31
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 207867,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Wirth Mádl",
+        "native": "ワース・マドル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207867-Gjk55cQeYDNm.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b207867-Gjk55cQeYDNm.jpg"
+      },
+      "descripcion": "The Third Fang of the Magia Lupus. Younger brother of [Orter Mádl](https://anilist.co/character/264316).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308891,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Abel no Haha",
+        "native": "アベルの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308891-ZSzn1HqIxlkJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308891-ZSzn1HqIxlkJ.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308892,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Abyss no Chichi",
+        "native": "アビスの父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308892-0FhHCaOZkIVa.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308892-0FhHCaOZkIVa.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308893,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Abyss no Haha",
+        "native": "アビスの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308893-GVVNRhqmPLhJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308893-GVVNRhqmPLhJ.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323214,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Danshi Seito",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b323214-QyKi28kP42FP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b323214-QyKi28kP42FP.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 324539,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Dolb Marx",
+        "native": "ドルブ・マルクス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b324539-MBnHS72i9ewB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b324539-MBnHS72i9ewB.png"
+      },
+      "descripcion": "__Height:__ 172 cm\n\nThird-year student at Easton Magic Academy. He is in Lang dorm.",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308674,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Dot no Ane",
+        "native": "ドットの姉"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308674-XDF6nFM4u3kZ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308674-XDF6nFM4u3kZ.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301982,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hanzaisha",
+        "native": "犯罪者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301982-Yr2hzAjR9DLF.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301982-Yr2hzAjR9DLF.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304128,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jikkyou",
+        "native": "実況"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b304128-iggvZ6jOcJKu.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b304128-iggvZ6jOcJKu.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302357,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jokyoushi",
+        "native": "女教師"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302357-QRJPQHUKP8oS.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302357-QRJPQHUKP8oS.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302362,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jukensei",
+        "native": "受験生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302364,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jukensei",
+        "native": "受験生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302369,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jukensei",
+        "native": "受験生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302367,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jukensei",
+        "native": "受験生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302363,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jukensei",
+        "native": "受験生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302365,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jukensei",
+        "native": "受験生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302366,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jukensei",
+        "native": "受験生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302368,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jukensei",
+        "native": "受験生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301981,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Keikan",
+        "native": "警官"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301981-YZ0GUviMmvnd.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301981-YZ0GUviMmvnd.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304130,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Lance Chichi",
+        "native": "ランス父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b304130-jxDthudsyrdn.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b304130-jxDthudsyrdn.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304129,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Lance Haha",
+        "native": "ランス母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b304129-vBnTsERqT5Hy.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b304129-vBnTsERqT5Hy.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304811,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mandragora",
+        "native": "マンドラゴラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b304811-KeMSr81VNPY7.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b304811-KeMSr81VNPY7.jpg"
+      },
+      "descripcion": "A magical type of living plant that is used as a universal ingredient for making potions.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36309,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Narrator",
+        "native": "ナレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+      },
+      "descripcion": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 6,
+          "title": {
+            "romaji": "TRIGUN",
+            "english": "Trigun",
+            "native": "TRIGUN"
+          }
+        },
+        {
+          "id": 21,
+          "title": {
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
+          }
+        },
+        {
+          "id": 25,
+          "title": {
+            "romaji": "Sunabouzu",
+            "english": "Desert Punk",
+            "native": "砂ぼうず"
+          }
+        },
+        {
+          "id": 28,
+          "title": {
+            "romaji": "Yakitate!! Japan",
+            "english": null,
+            "native": "焼きたて!! ジャぱん"
+          }
+        },
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 33,
+          "title": {
+            "romaji": "Kenpuu Denki Berserk",
+            "english": "Berserk",
+            "native": "剣風伝奇ベルセルク"
+          }
+        },
+        {
+          "id": 60,
+          "title": {
+            "romaji": "Chrno Crusade",
+            "english": "Chrono Crusade",
+            "native": "クロノクルセイド"
+          }
+        },
+        {
+          "id": 67,
+          "title": {
+            "romaji": "Basilisk: Kouga Ninpouchou",
+            "english": "Basilisk",
+            "native": "バジリスク 甲賀忍法帖"
+          }
+        },
+        {
+          "id": 80,
+          "title": {
+            "romaji": "Kidou Senshi Gundam",
+            "english": "Mobile Suit Gundam",
+            "native": "機動戦士ガンダム"
+          }
+        },
+        {
+          "id": 90,
+          "title": {
+            "romaji": "Shin Kidou Senki Gundam Wing",
+            "english": "Mobile Suit Gundam Wing",
+            "native": "新機動戦記ガンダムW"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301985,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Regro Haha",
+        "native": "レグロ母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301985-LJPWMNGB0csC.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301985-LJPWMNGB0csC.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 308894,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Seito",
+        "native": "生徒"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308894-CwgkLbkhJ2VM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308894-CwgkLbkhJ2VM.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        },
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    },
+    {
+      "id": 304812,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sensei",
+        "native": "先生"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b304812-Ov6CEeb9vVuT.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b304812-Ov6CEeb9vVuT.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301979,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shinbun Kisha",
+        "native": "新聞記者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302355,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shinkenkan",
+        "native": "試験官"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302355-mzeJqOUnwUPN.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302355-mzeJqOUnwUPN.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 301978,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shuukuriimu-ya no Tenin",
+        "native": "シュークリーム屋の店員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301978-tAMN3RA99iRJ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301978-tAMN3RA99iRJ.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302356,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sphinx",
+        "native": "スフィンクス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302356-240iKDkqWhfQ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302356-240iKDkqWhfQ.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 307656,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Wirth no Chichi",
+        "native": "ワースの父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b307656-ieE5xdTh3SmE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b307656-ieE5xdTh3SmE.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 151801,
+          "title": {
+            "romaji": "MASHLE",
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "native": "マッシュル-MASHLE-"
+          }
+        }
+      ]
+    },
+    {
+      "id": 323782,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yuumeina Tsue no Mise no Tenshu",
+        "native": "有名な杖の店の店主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b323782-ilMpsmjoZxlr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b323782-ilMpsmjoZxlr.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 166610,
+          "title": {
+            "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "english": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 80,
+  "actualizado": 1788565318
+}

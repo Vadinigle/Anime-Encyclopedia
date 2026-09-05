@@ -1,0 +1,6125 @@
+{
+  "clave": "black-clover",
+  "nombre": "Black Clover",
+  "descripcion": "Asta y los Caballeros Mágicos",
+  "generos": [
+    "Acción",
+    "Fantasía",
+    "Aventura"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+  "medios": [
+    {
+      "id": 97940,
+      "title": {
+        "romaji": "Black Clover",
+        "english": "Black Clover",
+        "native": "ブラッククローバー"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97940-fyh8o7gNbha0.png"
+      }
+    },
+    {
+      "id": 131680,
+      "title": {
+        "romaji": "Black Clover: Mahou Tei no Ken",
+        "english": "Black Clover: Sword of the Wizard King",
+        "native": "ブラッククローバー 魔法帝の剣"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131680-gjs8mMQPmkOQ.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131680-gjs8mMQPmkOQ.png"
+      }
+    },
+    {
+      "id": 195604,
+      "title": {
+        "romaji": "Black Clover 2nd Season",
+        "english": "Black Clover Season 2",
+        "native": "ブラッククローバー 第2期"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-8xUI10lVVhPY.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-8xUI10lVVhPY.jpg"
+      }
+    },
+    {
+      "id": 87528,
+      "title": {
+        "romaji": "Black Clover: Jump Festa 2016 Special",
+        "english": "Black Clover: Jump Festa 2016 Special",
+        "native": "ブラッククローバー"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87528-parADBBGJOVP.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87528-parADBBGJOVP.png"
+      }
+    },
+    {
+      "id": 106223,
+      "title": {
+        "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+        "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+        "native": "ブラッククローバー オール魔法騎士感謝祭"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106223-TfmLcrFbAPK7.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106223-TfmLcrFbAPK7.jpg"
+      }
+    },
+    {
+      "id": 110318,
+      "title": {
+        "romaji": "Mugyutto! Black Clover",
+        "english": "Squishy! Black Clover",
+        "native": "むぎゅっと！ブラッククローバー"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110318-woH5gOEK638l.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110318-woH5gOEK638l.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 123285,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Asta",
+        "native": "アスタ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b123285-tKijiuQErDS0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b123285-tKijiuQErDS0.png"
+      },
+      "descripcion": "__Height:__ 155 cm (5'1\")\n\nAn orphan who was left under the care of a church in the village of Hage. He dreams of becoming ​the Wizard King but is unable to use magic, so he trains to build up his physical strength. He is the wielder of a five-leaf clover anti-magic grimoire and is a 3rd Class Junior Magic Knight of the Clover Kingdom's Black Bull and Royal Knights squads.",
+      "genero": "Male",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 87528,
+          "title": {
+            "romaji": "Black Clover: Jump Festa 2016 Special",
+            "english": "Black Clover: Jump Festa 2016 Special",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        },
+        {
+          "id": 195604,
+          "title": {
+            "romaji": "Black Clover 2nd Season",
+            "english": "Black Clover Season 2",
+            "native": "ブラッククローバー 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 288860,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Conrad Leto",
+        "native": "コンラート・レト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b288860-tg3EwWWeLQKY.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b288860-tg3EwWWeLQKY.jpg"
+      },
+      "descripcion": "The 27th Wizard King of the Clover Kingdom's Magic Knights.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        }
+      ]
+    },
+    {
+      "id": 123283,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Noelle Silva",
+        "native": "ノエル・シルヴァ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b123283-7nJHtKha0LSm.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b123283-7nJHtKha0LSm.png"
+      },
+      "descripcion": "__Height:__ 161 cm (5'3\")\n\nNoelle Silva is a member of the Black Bulls and was inducted into the squad around the same time as [Asta](https://anilist.co/character/123285). She is the second daughter of one of the Clover Kingdom's royal families, House Silva, and the younger sister of the captain of the Silver Eagles, [Nozel Silva](https://anilist.co/character/124442). She likes sweets.\n\n~!Her family disowned her due to her lack of control on her magic and having [their mother](https://anilist.co/character/124972) die while giving birth to her.!~",
+      "genero": "Female",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        },
+        {
+          "id": 195604,
+          "title": {
+            "romaji": "Black Clover 2nd Season",
+            "english": "Black Clover Season 2",
+            "native": "ブラッククローバー 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 123284,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Yuno",
+        "native": "ユノ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b123284-w6kIFYnTclMd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b123284-w6kIFYnTclMd.png"
+      },
+      "descripcion": "__Height:__ 172 cm (5'7\")\n\nYuno was left, along with Asta, in front of a church in a village called Hage when he was an infant. He grew up at the church and spends most of his day with Asta. Sometime later, a thug tries to take his necklace away from him and sell it for money. Fortunately, Asta steps in and tries to take it back. In the end, the thug decided to leave without the necklace after Asta keeps charging at him. Since then, Yuno stopped crying and decides to take Asta's dream to be the Wizard King as his own as well.\n",
+      "genero": "Male",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 87528,
+          "title": {
+            "romaji": "Black Clover: Jump Festa 2016 Special",
+            "english": "Black Clover: Jump Festa 2016 Special",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        },
+        {
+          "id": 195604,
+          "title": {
+            "romaji": "Black Clover 2nd Season",
+            "english": "Black Clover Season 2",
+            "native": "ブラッククローバー 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326892,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Abari",
+        "native": "アバリ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326892-rSn2slZKAi7C.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326892-rSn2slZKAi7C.png"
+      },
+      "descripcion": "Abari is a rogue mage and a member of the Eye of the Midnight Sun.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124972,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Acier Silva",
+        "native": "アシエ・シルヴァ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124972-UiuueASxpsRx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124972-UiuueASxpsRx.png"
+      },
+      "descripcion": "A noblewoman of the Clover Kingdom's ruling family, House Silva, and the mother of Nozel, Nebra, Solid, and Noelle. Supposedly died giving birth to Noelle.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124978,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Alecdora Sandler",
+        "native": "アレクドラ・サンドラー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124978-xg01Awpci30p.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124978-xg01Awpci30p.jpg"
+      },
+      "descripcion": "A member of Clover Kingdom's Golden Dawn squad of the Magic Knights and has attained the rank of 2nd rank upper magic knight and collected 11 stars.",
+      "genero": "Male",
+      "edad": "24",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 125036,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aruru",
+        "native": "アルル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/125036-NzIuBVU8PR3Q.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/125036-NzIuBVU8PR3Q.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 87528,
+          "title": {
+            "romaji": "Black Clover: Jump Festa 2016 Special",
+            "english": "Black Clover: Jump Festa 2016 Special",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124528,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Augustus Kira Clover XIII",
+        "native": "アウグストゥス・キーラ・クローバー13世"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124528-cyB6cHIa4Zlq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124528-cyB6cHIa4Zlq.png"
+      },
+      "descripcion": "__Height:__ 160 cm\n\nHe is the king of the Clover Kingdom.",
+      "genero": "Male",
+      "edad": "35",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 22
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126022,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Baro",
+        "native": "バロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126022-q9NZ9AAFFiUj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126022-q9NZ9AAFFiUj.png"
+      },
+      "descripcion": "A rogue mage affiliated with the Eye of the Midnight Sun.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326896,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ben Benfunk",
+        "native": "ベン・ベンファンク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326896-GxSGq0FOIYeY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326896-GxSGq0FOIYeY.png"
+      },
+      "descripcion": "Ben Benfunk is a member of Clover Kingdom's Crimson Lion squad of the Magic Knights. He is a 4th Class Senior Magic Knight.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 233390,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bou Nokude",
+        "native": "ボゥ・ノクデ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b233390-CAIhidoxP4EW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b233390-CAIhidoxP4EW.png"
+      },
+      "descripcion": "Bow Nocde is an exiled commoner of the Clover Kingdom and a member of the Devil Believers. She works as an apothecary in Tiulyu.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124997,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Broccos",
+        "native": "ブロッコス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124997-St4C3QMEk2CI.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124997-St4C3QMEk2CI.jpg"
+      },
+      "descripcion": "Broccos is a mage from the Diamond Kingdom and one of its Eight Shining Generals.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124478,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Catherine",
+        "native": "キャサリンス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124478-pRUQWCO1U1yz.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124478-pRUQWCO1U1yz.jpg"
+      },
+      "descripcion": "She is a rogue mage and a member of the White Night Eye.",
+      "genero": "Female",
+      "edad": "56",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 190586,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cesc",
+        "native": "セスク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b190586-Eydbw9TmmsnO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b190586-Eydbw9TmmsnO.png"
+      },
+      "descripcion": "Cesc is a member of Clover Kingdom's Azure Deer squad of the Magic Knights.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326897,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Charla",
+        "native": "チャルラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326897-NqbUCoKCzJgO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326897-NqbUCoKCzJgO.png"
+      },
+      "descripcion": "Charla belonged to the elf tribe 500 years prior to the present events.\n~!After the reincarnation spell takes place, Charla possesses Charlotte Roselei and fights Yami Sukehiro to briefly incapacitate him at the Royal Capital before meeting each other again at the Shadow Palace, this time to team-up against the devil Zagred.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124434,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Charlotte Roselei",
+        "native": "シャーロット・ローズレイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124434-ZmaDj2J5lSId.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124434-ZmaDj2J5lSId.png"
+      },
+      "descripcion": "__Height:__ 171 cm\n\nCharlotte is a noblewoman of House Roselei and the captain of Clover Kingdom's Blue Rose squad of the Magic Knights.\n\nShe appears as a quiet, cold, and indifferent woman who keeps her emotions controlled and well hidden. She is constantly shown to appear as a rather stern woman, despite inwardly having an inward monologue that constantly appears to say calm down, especially around [Yami Sukehiro](https://anilist.co/character/124440/Sukehiro-Yami). She often does not respond to situations that go out of hand, preferring to appear indifferent and let things play out. She does respond well to emergencies and pressing concerns, performing her duties and moving swiftly to take care of any problems that come up. However, she still is capable of losing her composure and becoming annoyed, which almost always involves Yami teasing of her. She is also a lightweight when it comes to alcohol, barely able to finish a pint before becoming drunk.\n\nCharlotte considers her duty to the kingdom to be her foremost responsibility, with little interest in the social aspects of life. Her beauty is quite noticeable when she chooses to show it, but she is more comfortable in plate mail than silk dresses and cares little for the opinions of most others. She also has a hard time being open with most people and expressing herself on occasion. That said, she often quips back at her fellow captains when they make rash decisions or do something she considers stupid, particularly Yami. However, she also has admiration for those who are competent and work hard, though she rarely ever shows it. Outwardly, she displays little interest in finding a husband and becomes angry when the subject is brought up, for which Yami repeatedly teases her and calls her \"Spiny Prickly Queen.\"",
+      "genero": "Female",
+      "edad": "27",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124447,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Charmy Pappitson",
+        "native": "チャーミー・パピットソン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124447-2J1PKMgWETNT.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124447-2J1PKMgWETNT.png"
+      },
+      "descripcion": "__Height:__ 142 cm\n\nMember of the Black Bull squad. She is an extremely big eater and tougher than she looks. When someone threatens to steal her meals, she becomes cold and merciless. In contrast, she is actually very generous and loves to share her meals with her friends, going so far as to constantly give them food after they have already expressed their satisfaction.\n\n~! Charmy is a half-dwarf. She also uses 2 attributes of magic: Cotton magic and Food magic !~",
+      "genero": "Female",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 216709,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ciel Grinberryall",
+        "native": "シエルグ・リンベリオール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b216709-iWHVFoZ8yvku.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b216709-iWHVFoZ8yvku.jpg"
+      },
+      "descripcion": "Ciel Grinberryall was the Queen of the Spade Kingdom, alongside her husband Loyce Grinberryall until the Zogratis Siblings attacked the palace and overthrew the royal family. ~!It is later revealed by Ralph Niaflem, that she is the mother of Yuno.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 186392,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cob Portaport",
+        "native": "コブ・ポルタポルト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186392-plff7jfH56P1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b186392-plff7jfH56P1.png"
+      },
+      "descripcion": "Cob is one of the advisers of the Magic Emperor and a member of the Royal Knights squad.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124981,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Curtis Warren",
+        "native": "カータス・ウォルン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124981-J1oQnFBNqCPh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124981-J1oQnFBNqCPh.png"
+      },
+      "descripcion": "is a member of Clover Kingdom's Silver Eagle squad of the Magic Knights. He is a 4th Class Senior Magic Knight.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174448,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Damnatio  Kira",
+        "native": "ダムナティオ・キーラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174448-MRvEHxvJpP5R.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174448-MRvEHxvJpP5R.jpg"
+      },
+      "descripcion": "Chairman of the Magic Parliament.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 163782,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dante Zogratis",
+        "native": "ダンテ・ゾグラティス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b163782-lbNzUCyy4lk0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b163782-lbNzUCyy4lk0.png"
+      },
+      "descripcion": "Dante is a member of the Spade Kingdom's Dark Triad and the host of the devil Lucifero.\n\nDante seems to be a calm and easy going individual. Even in the face of a surprising turn of events, he does not lose his cool.\n\nHe believes that evil is the true nature of humanity and the world is too dull because of it. Therefore, he considers being called evil a compliment, and encourages other people to embrace their malice, as it is a supreme emotion only humans have. He often looks down on who he considers weaker than him. His native magic is Flesh Magic, and his Demon's, Lucifero, is Gravity Magic.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174445,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "David Swallow",
+        "native": "ダヴィド・スワロー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174445-EkclViE0lcMv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174445-EkclViE0lcMv.png"
+      },
+      "descripcion": "Nobleman, member of the Golden Dawn. Uses Dice Magic.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 233397,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dazuu Tayaku",
+        "native": "ダズー・タヤク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b233397-smAO6P6prFZg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b233397-smAO6P6prFZg.png"
+      },
+      "descripcion": "Dazu Tayak  is an exiled commoner of the Clover Kingdom and a member of the Devil Believers.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184239,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Digit Taliss",
+        "native": "ジギト・タリス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184239-0m3UTzfE2Uai.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184239-0m3UTzfE2Uai.png"
+      },
+      "descripcion": "Member of the Clover Kingdom's Purple Orca squad of the Magic Knights.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124526,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dominante Code",
+        "native": "ドミナント・コード"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124526-mpNJFDhPbwWD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124526-mpNJFDhPbwWD.png"
+      },
+      "descripcion": "**Height:** 167 cm\n\nA witch and former magic tool craftsman from Diamond Kingdom. She is the wife of Fanzell Kruger.",
+      "genero": "Female",
+      "edad": "26",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124458,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dorothy Unsworth",
+        "native": "ドロシー・アンズワース"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124458-U6zNf813fDxG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124458-U6zNf813fDxG.png"
+      },
+      "descripcion": "Dorothy is the captain of Clover Kingdom's Coral Peacock squad of the Magic Knights. She sleeps most of the time, but when she is awake she can bring enemies into a dream world where she controls everything.",
+      "genero": "Female",
+      "edad": "27",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        }
+      ]
+    },
+    {
+      "id": 186390,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Drouot",
+        "native": "ドルオ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186390-bKhhPHgIZYcP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b186390-bKhhPHgIZYcP.png"
+      },
+      "descripcion": "Drouot is the master of the Grimoire Tower in Hage.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326901,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Drowa",
+        "native": "ドロワ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326901-za06lQqUsOqx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326901-za06lQqUsOqx.png"
+      },
+      "descripcion": "Drowa is an elf and one of the ten Apostles of Sephirah.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295846,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Edward Avalaché",
+        "native": "エドワード・アバーラシェ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295846-QLv2oppRK1Z8.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295846-QLv2oppRK1Z8.jpg"
+      },
+      "descripcion": "The 20th Wizard King of the Clover Kingdom's Magic Knights.\n\n",
+      "genero": "Male",
+      "edad": "66",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124988,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "En Ringard",
+        "native": "エン・リンガード"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124988-g053RXRy3sTy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124988-g053RXRy3sTy.png"
+      },
+      "descripcion": "En is a member of Clover Kingdom's Green Mantis squad of the Magic Knights. He is a 4th Class Senior Magic Knight.",
+      "genero": "Male",
+      "edad": "24",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124479,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fana",
+        "native": "ファナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124479-fxZzZFMOBoMt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124479-fxZzZFMOBoMt.png"
+      },
+      "descripcion": "__Height:__ 162cm\n__Species:__ Human\n\n~!A rogue mage from the Diamond Kingdom living with other fugitives in the Clover Kingdom. She is also the former host of the elf Fana, one of the Eye of the Midnight Sun's Third Eye.!~",
+      "genero": "Female",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 24
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124525,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fanzell Kruger",
+        "native": "ファンゼル・クルーガー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124525-zX1uOMR5lkKr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124525-zX1uOMR5lkKr.png"
+      },
+      "descripcion": "__Height:__ 178 cm\n\nHe is a former Commander of the Diamond Kingdom's army. After fleeing the kingdom, he now lives together with his wife Dominante Code and his students Mariella and Fana.",
+      "genero": null,
+      "edad": "28",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124976,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Finesse Calmreich",
+        "native": "フィーネス・カルムルイヒ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124976-aJx7HHae0K0s.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124976-aJx7HHae0K0s.png"
+      },
+      "descripcion": "Finesse is a noblewoman betrothed to the next head of House Vaude.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124433,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Finral Roulacase",
+        "native": "フィンラル・ルーラケイス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124433-QyoZrgIUsSpd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124433-QyoZrgIUsSpd.png"
+      },
+      "descripcion": "__Height:__ 173 cm (5'8'')\n\nHe is a nobleman of House Vaude and a member of Clover Kingdom's Black Bull squad of the Magic Knights. He is from Tota, a village within the Clover Kingdom.",
+      "genero": "Male",
+      "edad": "21-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 250485,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Floga",
+        "native": "フローガ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b250485-g7hy6usr3Rrg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b250485-g7hy6usr3Rrg.png"
+      },
+      "descripcion": "Floga is a Spirit Guardian of the Heart Kingdom.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 190587,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Forte Gris",
+        "native": "フォルティ・グリス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b190587-CYpSa6YHTPNS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b190587-CYpSa6YHTPNS.png"
+      },
+      "descripcion": "Forte is a 4th Class Intermediate Magic Knight of Clover Kingdom's Crimson Lion squad.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 248325,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Foyal Migusteau",
+        "native": "ミグストーフォヤル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b248325-8FIffiotWhQ2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b248325-8FIffiotWhQ2.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124987,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fragil Tormenta",
+        "native": "フラギル・トルメンタ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124987-ZdlOvIydMqch.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124987-ZdlOvIydMqch.png"
+      },
+      "descripcion": "Fragil is a member of Clover Kingdom's Azure Deer squad of the Magic Knights. She is a 3rd Class Intermediate Magic Knight.",
+      "genero": "Female",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 190590,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Francis",
+        "native": "フランシス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b190590-fVWxxX3YbYa2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b190590-fVWxxX3YbYa2.png"
+      },
+      "descripcion": "Francis is a member of the Clover Kingdom's Azure Deer squad of the Magic Knights.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124521,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fuegoleon Vermillion",
+        "native": "フエゴレオン・ヴァーミリオン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124521-MqX5KT2tGSa8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124521-MqX5KT2tGSa8.png"
+      },
+      "descripcion": "__Height:__ 188 cm\n\nHe is a nobleman and the first son of the Clover Kingdom's House Vermillion, one of its royal families. He is also the former captain of the Crimson Lion squad of the Magic Knights.",
+      "genero": "Male",
+      "edad": "30",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 248326,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gaderois Godroc",
+        "native": "ゴドロックガデロア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b248326-ns7deg1qA6Xi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b248326-ns7deg1qA6Xi.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174452,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gadjah",
+        "native": "ガジャ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174452-t8GszGzwxklu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174452-t8GszGzwxklu.png"
+      },
+      "descripcion": "Spirit Guardian of Heart Kingdom. Uses Lightning magic.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 250418,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Galleo",
+        "native": "ガレオ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b250418-QKT0DkaYkuN6.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b250418-QKT0DkaYkuN6.jpg"
+      },
+      "descripcion": "Galleo is the commander of the Diamond Kingdom assassination squad.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124446,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gauche Adlai",
+        "native": "ゴーシュ・アドレイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124446-4YXFoCIllCKh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124446-4YXFoCIllCKh.png"
+      },
+      "descripcion": "__Height:__ 181 cm\n\nHe is a nobleman of House Adlai and a member of Clover Kingdom's Black Bull squad. He is also the smartest and most clever member of the Black Bulls. Obsessed with his sister Marie.",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 27
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124481,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Georg",
+        "native": "ゲオルク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124481-NEIGExFxbj5j.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124481-NEIGExFxbj5j.jpg"
+      },
+      "descripcion": "is a rogue mage and a member of the White Night Eye.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124991,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gifso",
+        "native": "ジフソ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124991-YxpWywa79fbK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124991-YxpWywa79fbK.png"
+      },
+      "descripcion": "is the High Priest of the Seabed Temple.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 187431,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gimodelo",
+        "native": "ギモデロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187431-sW39miFKBYcJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187431-sW39miFKBYcJ.png"
+      },
+      "descripcion": "Gimodelo 「ギモデロ Gimodero」 is a devil who serves Nacht, the vice-captain of the Clover Kingdom's Black Bull squad of the Magic Knights.\n\n(Source: Black Clover wiki)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124992,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gio",
+        "native": "ジオ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124992-Ebe9mliVbioA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124992-Ebe9mliVbioA.png"
+      },
+      "descripcion": "is a priest of the Seabed Temple.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124448,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gordon Agrippa",
+        "native": "ゴードン・アグリッパ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124448-YHRpWxJUhNnw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124448-YHRpWxJUhNnw.png"
+      },
+      "descripcion": "__Height:__ 187 cm (6'1.6\")\n__Affinity:__ Poison Magic\n\nHe is a member of Clover Kingdom's Black Bull squad of the Magic Knights.\n\nGordon was born into the Agrippa Family, a commoner family infamous for their Curse Magic. He grew up lonely and unable to make friends due to his magic and appearance. After receiving his grimoire, Gordon abandoned his family and joined the Black Bull squad of the Magic Knights. Over the years, he comes to view them as friends.",
+      "genero": "Male",
+      "edad": "26",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124444,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Grey",
+        "native": "グレイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124444-01PmRKd8Sned.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124444-01PmRKd8Sned.jpg"
+      },
+      "descripcion": "__Species:__ Human\n__Affinity: __Transformation\n__Height:__ 159cm\n\nA 3rd Class Junior Magic Knight of Clover Kingdom's Black Bull squad.",
+      "genero": "Female",
+      "edad": "24",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 20
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124455,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Gueldre Poizot",
+        "native": "ゲルドル・ポイゾット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124455-cRPjIIy7C6b7.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124455-cRPjIIy7C6b7.png"
+      },
+      "descripcion": "__Height:__ 194 cm\n\nHe is the former captain of Clover Kingdom's Violet Orca squad of the Magic Knights.",
+      "genero": null,
+      "edad": "28",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 248333,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Halbet Chevour",
+        "native": "シュヴールハールベート"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b248333-rq8snTpZhVxr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b248333-rq8snTpZhVxr.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124980,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hamon Caseus",
+        "native": "ハモン・カーセウス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124980-33AdLdR27PD8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124980-33AdLdR27PD8.png"
+      },
+      "descripcion": "A nobleman and a member of Clover Kingdom's Golden Dawn squad of the Magic Knights. He is a 2nd Class Intermediate Magic Knight.",
+      "genero": "Male",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124461,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Heath Grice",
+        "native": "ヒース・グライス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124461-6jkQwE2fREhp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124461-6jkQwE2fREhp.png"
+      },
+      "descripcion": "__Height:__ 187 cm\n\nHeath is a rogue mage and member of the White Night Eye.",
+      "genero": null,
+      "edad": "31",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 14
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326895,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Helene Barbary",
+        "native": "エレーヌ・バーバリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326895-QRCQj3VNfY4I.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326895-QRCQj3VNfY4I.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124690,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Henry Legolant",
+        "native": "ヘンリー・レゴラント"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124690-agQVNP3afoXA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124690-agQVNP3afoXA.png"
+      },
+      "descripcion": "Member of Clover Kingdom's Black Bull squad of the Magic Knights.",
+      "genero": "Male",
+      "edad": "26",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        }
+      ]
+    },
+    {
+      "id": 248330,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hischer Ongg",
+        "native": "オングヒッシャー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b248330-r6EDgpuJyws6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b248330-r6EDgpuJyws6.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 125034,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Holo",
+        "native": "ホロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/125034-2iZZVgvyXzlE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/125034-2iZZVgvyXzlE.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124456,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jack the Ripper",
+        "native": "ジャック・ザリッパー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124456-llrSWfAXlnbb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124456-llrSWfAXlnbb.png"
+      },
+      "descripcion": "__Height:__ 197 cm\n\nJack is the captain of Clover Kingdom's Green Mantis squad of the Magic Knights.",
+      "genero": "Male",
+      "edad": "28",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        }
+      ]
+    },
+    {
+      "id": 186389,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jamo",
+        "native": "ジャーモ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186389-8fjb1FFGjLlH.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b186389-8fjb1FFGjLlH.jpg"
+      },
+      "descripcion": "Jamo is the head chef assigned to the kitchens of the Magic Knights Headquarters.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293687,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jester Galandros",
+        "native": "ジェスター・ガランドロス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293687-0gyKcDZiVylU.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293687-0gyKcDZiVylU.jpg"
+      },
+      "descripcion": "The 16th Wizard King of the Clover Kingdom's Magic Knights.\n\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326898,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jonna Agrippa",
+        "native": "ヨンナ・アグリッパ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326898-iFG9vS5roCZv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326898-iFG9vS5roCZv.png"
+      },
+      "descripcion": "Jonna Agrippa is a commoner of the Clover Kingdom and the mother of Gordon Agrippa.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124435,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Julius Novachrono",
+        "native": "ユリウス・ノヴァクロノ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124435-gXFVXWrCcieK.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124435-gXFVXWrCcieK.jpg"
+      },
+      "descripcion": "__Height:__ 180 cm\n\nThe Wizard King of Clover Kingdom's Order of the Magic Knights.\nFascinated by magic in all its forms, he eagerly seeks out and observes unusual magical abilities whenever possible. Those close to him know him for his boundless enthusiasm, excitement, and curiosity toward magic.\n\n__Chapter 333 spoiler:__\n~!It is revealed that Julius was born in a body with two souls, with the other being [Lucius Zogratis](https://anilist.co/character/319876)!~",
+      "genero": "Male",
+      "edad": "42",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326900,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kabwe Carillon",
+        "native": "カブエ・カリョン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326900-lxE9FthXG3SF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326900-lxE9FthXG3SF.png"
+      },
+      "descripcion": "Kabwe Carillon is a guard for the Clover Kingdom's Magic Parliament and a member of the Devil Banishers.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124993,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kahono",
+        "native": "カホノ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124993-ThlqIaQV2se3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124993-ThlqIaQV2se3.png"
+      },
+      "descripcion": "__Height:__ 157 cm\n\nKahono is a priestess of the Seabed Temple.",
+      "genero": "Female",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 15
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 182008,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaiser Granvorka",
+        "native": "カイゼル・グランボルカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b182008-g72QCHSTIXNj.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b182008-g72QCHSTIXNj.jpg"
+      },
+      "descripcion": "Kaiser Granvorka is the captain of the Clover Kingdom's Purple Orca squad of the Magic Knights. He uses Vortex Magic.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124994,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kiato",
+        "native": "キアト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124994-PJ7bSrZXb9k2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124994-PJ7bSrZXb9k2.png"
+      },
+      "descripcion": "“My dream is to become a dancer who captivates the entire kingdom!” - To Asta in Temple Battle Royale\n\nStatus: Alive\nSpecies: HumanAffinity: ButohConstellation: Aquarius\nHeight: 176 cm\nEyes: Blue\nHair: Dark Blue\n\nA priest of the Seabed Temple.",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124524,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kirsch Vermillion",
+        "native": "キルシュ・ヴァーミリオン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124524-FhfE2Y6drZDq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124524-FhfE2Y6drZDq.png"
+      },
+      "descripcion": "**Height:** 182 cm\n\nKirsch is a nobleman of Clover Kingdom's House Vermillion, vice-captain of the Coral Peacock squad of the Magic Knights, and a 1st Class Senior Magic Knight.",
+      "genero": "Male",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 24
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124437,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Klaus Lunettes",
+        "native": "クラウス・リュネット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124437-3C1plJbD8jSn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124437-3C1plJbD8jSn.png"
+      },
+      "descripcion": "__Height:__ 176 cm\n\nKlaus is a nobleman and a member of Clover Kingdom's Golden Dawn squad of the Magic Knights.",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 19
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126948,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kuro Nero",
+        "native": "黒ネロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126948-2yL8YEIqLLpq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126948-2yL8YEIqLLpq.png"
+      },
+      "descripcion": "__Species:__ Anti-bird\n__Height:__ 8 cm\n\nAn Anti-bird who decided to stay alongside [Asta](https://anilist.co/character/123285/Asta) after encountering him at the beginning of the Magic Knights Entrance Exam.\n\n~!It's later revealed that she is a human, her name is Secre Swallowtail. She was the servant of [Lumiere Silvamillion Clover](https://anilist.co/character/158550/Silvamillion-Clover-Lemiel), prince of the Clover Kingdom and the first Magic Emperor. She is transformed into an anti-bird named Nero after sealing Lumiere into a statue.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124995,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ladros",
+        "native": "ラドロス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124995-nGV1j21kzQRA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124995-nGV1j21kzQRA.png"
+      },
+      "descripcion": "**Height:** 180 cm\n\nHe is a mage from the Diamond Kingdom and one of its Eight Shining Generals.",
+      "genero": "Male",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124975,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Langris Vaude",
+        "native": "ランギルス・ヴォード"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124975-vRUxV3oIOle7.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124975-vRUxV3oIOle7.png"
+      },
+      "descripcion": "He is a nobleman of House Vaude and the vice-captain of Clover Kingdom's Golden Dawn squad of the Magic Knights. He is from Tota, a village within the Clover Kingdom.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184820,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ledior Vaude",
+        "native": "レデオール・ヴォー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184820-xlMJXH4AQA9i.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184820-xlMJXH4AQA9i.png"
+      },
+      "descripcion": "Nobleman and the head of House Vaude. He is the father of Finral Roulacase and Langris Vaude.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 158550,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lemiel Silvamillion Clover",
+        "native": "ルミエル・シルヴァミリオン・クローバー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b158550-m0UtbUtvW2ra.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b158550-m0UtbUtvW2ra.png"
+      },
+      "descripcion": "First Wizard King of the Clover Kingdom.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137881,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Leopold Vermillion",
+        "native": "レオポルド・ヴァーミリオン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137881-fQLQZce8CTsY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137881-fQLQZce8CTsY.png"
+      },
+      "descripcion": "__Height:__ 164 cm\n\nA nobleman and the second son of the Clover Kingdom's House Vermillion, one of its royal families. He is a member of the Crimson Lion squad of the Magic Knights.",
+      "genero": "Male",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174450,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Letoile  Becquerel",
+        "native": "レトゥア・ベクレル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174450-rlMqdEnWMq5F.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174450-rlMqdEnWMq5F.png"
+      },
+      "descripcion": "Member of the Golden Dawn.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124472,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Licht",
+        "native": "リヒト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124472-sCjDIE5232uS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124472-sCjDIE5232uS.png"
+      },
+      "descripcion": "__Species:__ Elf\n__Affinity:__ Sword Magic\n__Height:__ 173 cm\n\nLicht is the leader of the Elf Tribe and one of its ten Apostles of Sephirah. He was married to Tetia, a human woman and the sister of Lemiel Silvamillion Clover, the first Magic Emperor.",
+      "genero": "Male",
+      "edad": "25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 192588,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Licita",
+        "native": "リチタ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b192588-drQZ91vMLKlS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b192588-drQZ91vMLKlS.png"
+      },
+      "descripcion": "Licita was the foster mother of Liebe, the devil that currently recides within Asta's grimoire. She died protecting him from Lucifero.\n\n~!In chapter 270, it was confirmed that she is Asta's mother.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 16
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 192196,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Liebe",
+        "native": "リーベ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b192196-giZLzC1Xj9Hp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b192196-giZLzC1Xj9Hp.png"
+      },
+      "descripcion": "~!Liebe is the devil who resides within Licht's former grimoire, which is currently Asta's grimoire. He is the source behind Asta's Anti Magic.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 181569,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Liliane Vaude",
+        "native": "リリアンヌ・ヴォード"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b181569-AvgXPJRzGcqI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b181569-AvgXPJRzGcqI.png"
+      },
+      "descripcion": "Noblewoman of House Vaude. She is the second wife of Ledior Vaude and the mother of Langris Vaude.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124443,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lily Aquaria",
+        "native": "リリー・アクアリア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124443-T2JuU6c7Z9Tk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124443-T2JuU6c7Z9Tk.png"
+      },
+      "descripcion": "__Height:__ 160 cm\n__Affinity:__ Water\n\nA nun and caretaker at the orphanage in Hage.\n ~!In chapter 334, Lucius Zogratis transforms her to a Paladin.!~ \n",
+      "genero": "Female",
+      "edad": "26",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 2
+      },
+      "media": [
+        {
+          "id": 87528,
+          "title": {
+            "romaji": "Black Clover: Jump Festa 2016 Special",
+            "english": "Black Clover: Jump Festa 2016 Special",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174449,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lolopechka",
+        "native": "ロロペチカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174449-10WzJnmxemEm.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174449-10WzJnmxemEm.png"
+      },
+      "descripcion": "Queen of the Heart Kingdom and user of the Water Spirit Undine.",
+      "genero": "Female",
+      "edad": "21",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124520,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lotus Whomalt",
+        "native": "ロータス・フーモルト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124520-dNrBuePMtZ3k.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124520-dNrBuePMtZ3k.png"
+      },
+      "descripcion": "__Height:__ 184 cm\n\nLotus is a mage from the Diamond Kingdom. He is widely known by his nickname, the Hell Lotus.",
+      "genero": null,
+      "edad": "36",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 216708,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Loyce Grinberryall",
+        "native": "ロイス・グリンベリオール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b216708-9ybsG05cyQ3I.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b216708-9ybsG05cyQ3I.jpg"
+      },
+      "descripcion": "Loyce Grinberryall was the King of the Spade Kingdom, alongside his wife Ciel Grinberryall, untill the Zogratis Siblings attacked the palace and overthrew the royal family. ~!It is later revealed by Ralph Niaflem, that he is the father of Yuno.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 186394,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Luca Scarlet",
+        "native": "ルカ・スカーレット "
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186394-hy8wj2qmhXWA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b186394-hy8wj2qmhXWA.png"
+      },
+      "descripcion": "Rebecca sister.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 181846,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lucifero",
+        "native": "ルチフェロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b181846-xm7ss9ZCWENV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b181846-xm7ss9ZCWENV.png"
+      },
+      "descripcion": "Lucifero is a high-ranking devil who serves Dante Zogratis, a member of the Spade Kingdom's Dark Triad.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124449,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Luck Voltia",
+        "native": "ラック・ボルティア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124449-M67Ex2GcxmYM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124449-M67Ex2GcxmYM.jpg"
+      },
+      "descripcion": "__Species:__ Human\n__Affinity:__ Lightning\n__Height:__ 167 cm\n\nA 5th Class Junior Magic Knight of Clover Kingdom's Black Bull and Royal Knights squads.",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124439,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Magna Swing",
+        "native": "マグナ・スウィング"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124439-EqjbyC8GOKW0.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124439-EqjbyC8GOKW0.jpg"
+      },
+      "descripcion": "__Height:__ 169 cm\n\nA member of the Black Bulls magic knight squad. Coming from Rayaka out in the countryside, he can easily bond with [Asta](https://anilist.co/character/123285/Asta) whom he is profoundly impressed by.\n\nHis magic allows him to form fireballs which he can hurl at targets. He uses them as baseballs for the unofficial welcoming ceremonies he holds for new recruits. He can also form a magic bat for hitting his fireballs.",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124989,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Majo Ou",
+        "native": "魔女王"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124989-H3Imuf6uMspp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124989-H3Imuf6uMspp.png"
+      },
+      "descripcion": "The Witch Queen is the ruler of the Witches' Forest and the mother of all witches.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126021,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Marco Scarlet",
+        "native": "マルコ・スカーレット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/126021-h7dROv4KGKYH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/126021-h7dROv4KGKYH.png"
+      },
+      "descripcion": "The younger brother of Rebecca Scarlet. He lives in Nairn with his sister and other siblings.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124476,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Marie Adlai",
+        "native": "マリー・アドレイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124476-bC651i64k8Gr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124476-bC651i64k8Gr.png"
+      },
+      "descripcion": "__Height:__ 135 cm\n\nShe is the younger sister of Gauche Adlai and lives in Nairn under the care of Theresa Rapual.",
+      "genero": "Female",
+      "edad": "10",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124527,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mariella",
+        "native": "マリエラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124527-hPAaWqgBpTxi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124527-hPAaWqgBpTxi.png"
+      },
+      "descripcion": "__Height:__ 157 cm (5'2)\n\nA former assassin of the Diamond Kingdom tasked with bringing the deserters Fanzell Kruger and Dominante Code back to the kingdom, but after encountering Asta, she chooses a different life path.",
+      "genero": "Female",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 26
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124462,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mars",
+        "native": "マルス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124462-6yGm80Um4Gbc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124462-6yGm80Um4Gbc.png"
+      },
+      "descripcion": "__Height:__ 170 cm\n\nMars is a mage of the Diamond Kingdom and one of its Eight Shining Generals. He is the Kingdom's product of human experimentation to enhance his Magic Power, with several magic stones embedded in his body.",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 87528,
+          "title": {
+            "romaji": "Black Clover: Jump Festa 2016 Special",
+            "english": "Black Clover: Jump Festa 2016 Special",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124454,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Marx Francois",
+        "native": "マルクス・フランソワ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124454-6iHuVDLPEfrj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124454-6iHuVDLPEfrj.png"
+      },
+      "descripcion": "__Height:__ 167 cm\n__Species:__ Human\n__Affinity:__ Memory\n\nHe is one of the advisers of the Magic Emperor.",
+      "genero": "Male",
+      "edad": "25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 21
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179901,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Megicula",
+        "native": "メギキュラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179901-iF5YUuYzdtWX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b179901-iF5YUuYzdtWX.png"
+      },
+      "descripcion": "Megicula 「メギキュラ Megikyura」 is a high-ranking devil who serves Vanica, a member of the Spade Kingdom's Dark Triad.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124522,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mereoleona Vermillion",
+        "native": "メレオレオナ・ヴァーミリオン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124522-lJK4Hy6Aokie.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124522-lJK4Hy6Aokie.png"
+      },
+      "descripcion": "__Height:__ 178 cm\n\nShe is a noblewoman and the first daughter of the Clover Kingdom's House Vermillion, one of its royal families. She is also the captain of the Crimson Lion squad and the Royal Knights squad.",
+      "genero": "Female",
+      "edad": "32",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 26
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293688,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Milly Maxwell",
+        "native": "ミリー・マクスウェル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293688-9g7xQKJSGyOP.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293688-9g7xQKJSGyOP.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124438,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mimosa Vermillion",
+        "native": "ミモザ・ヴァーミリオン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124438-nTvKfJaMD4d5.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124438-nTvKfJaMD4d5.jpg"
+      },
+      "descripcion": "__Height:__ 158 cm\n\nMimosa is a noblewoman of Clover Kingdom's House Vermillion and a member of the Golden Dawn squad of the Magic Knights.",
+      "genero": "Female",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 26
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 190588,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mohawq",
+        "native": "モヒーカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b190588-p2Ck0WvjlIyU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b190588-p2Ck0WvjlIyU.png"
+      },
+      "descripcion": "Mohawq is a leader in the Diamond Kingdom army.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 248332,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Moris Libardirt",
+        "native": "リバルダートモリス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b248332-XOw93gi9Ltz6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b248332-XOw93gi9Ltz6.png"
+      },
+      "descripcion": "Moris Libardirt is a Magic Scholar who is controlling the king of the Diamond Kingdom. After being forced out by Mars, Moris begins working for the Dark Triad of the Spade Kingdom.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 187268,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nacht Faust",
+        "native": "ナハト・ファウスト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187268-vkcrcTvjNSrA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187268-vkcrcTvjNSrA.png"
+      },
+      "descripcion": "__Height:__ 180 cm\n\nNacht is a devil host and a former nobleman of House Faust. He spent several years working as a spy within the Spade Kingdom.\n\n~!He is the vice-captain of the Clover Kingdom's Black Bulls squad.!~",
+      "genero": "Male",
+      "edad": "29",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        },
+        {
+          "id": 195604,
+          "title": {
+            "romaji": "Black Clover 2nd Season",
+            "english": "Black Clover Season 2",
+            "native": "ブラッククローバー 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36309,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Narrator",
+        "native": "ナレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+      },
+      "descripcion": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 6,
+          "title": {
+            "romaji": "TRIGUN",
+            "english": "Trigun",
+            "native": "TRIGUN"
+          }
+        },
+        {
+          "id": 21,
+          "title": {
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
+          }
+        },
+        {
+          "id": 25,
+          "title": {
+            "romaji": "Sunabouzu",
+            "english": "Desert Punk",
+            "native": "砂ぼうず"
+          }
+        },
+        {
+          "id": 28,
+          "title": {
+            "romaji": "Yakitate!! Japan",
+            "english": null,
+            "native": "焼きたて!! ジャぱん"
+          }
+        },
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 33,
+          "title": {
+            "romaji": "Kenpuu Denki Berserk",
+            "english": "Berserk",
+            "native": "剣風伝奇ベルセルク"
+          }
+        },
+        {
+          "id": 60,
+          "title": {
+            "romaji": "Chrno Crusade",
+            "english": "Chrono Crusade",
+            "native": "クロノクルセイド"
+          }
+        },
+        {
+          "id": 67,
+          "title": {
+            "romaji": "Basilisk: Kouga Ninpouchou",
+            "english": "Basilisk",
+            "native": "バジリスク 甲賀忍法帖"
+          }
+        },
+        {
+          "id": 80,
+          "title": {
+            "romaji": "Kidou Senshi Gundam",
+            "english": "Mobile Suit Gundam",
+            "native": "機動戦士ガンダム"
+          }
+        },
+        {
+          "id": 90,
+          "title": {
+            "romaji": "Shin Kidou Senki Gundam Wing",
+            "english": "Mobile Suit Gundam Wing",
+            "native": "新機動戦記ガンダムW"
+          }
+        }
+      ]
+    },
+    {
+      "id": 125029,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nash",
+        "native": "ナッシュ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/125029-xdgTs48kqCNb.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/125029-xdgTs48kqCNb.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 87528,
+          "title": {
+            "romaji": "Black Clover: Jump Festa 2016 Special",
+            "english": "Black Clover: Jump Festa 2016 Special",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 185538,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nathan Agrippa",
+        "native": "ネイサン・アグリッパ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b185538-gdYfxD3WWXsM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b185538-gdYfxD3WWXsM.png"
+      },
+      "descripcion": "Nathan Agrippa is the head of the Agrippa Family.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124973,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nebra Silva",
+        "native": "ネブラ・シルヴァ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124973-HvnLqyFzheFS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124973-HvnLqyFzheFS.png"
+      },
+      "descripcion": "The first daughter of the Clover Kingdom's House Silva, one of its royal families. She is also a member of the Silver Eagle squad of the Magic Knights.",
+      "genero": "Female",
+      "edad": "24",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126023,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Neige",
+        "native": "ネージュ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126023-Vj6xYNSh0nj3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126023-Vj6xYNSh0nj3.png"
+      },
+      "descripcion": "A rogue mage.\n\n“I'm going to make the person who did this to my brother pay... But before that, I need to pay for doing as he said... and not thinking for myself!”\n— To Asta in The Man Who Cuts Death",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326893,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nilenia Agrippa",
+        "native": "ニレニア・アグリッパ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326893-RS3yfHmpuab6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326893-RS3yfHmpuab6.png"
+      },
+      "descripcion": "Nilenia Agrippa is a commoner of the Clover Kingdom and the grandmother of Gordon Agrippa.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124983,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nils Ragus",
+        "native": "ニルス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124983-mSiCMrmvvjhY.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124983-mSiCMrmvvjhY.jpg"
+      },
+      "descripcion": "A member of Clover Kingdom's Silver Eagle squad of the Magic Knights and a member of the Royal Knights squad.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 250417,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nix",
+        "native": "ニックス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b250417-zC3mURmYPGrZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b250417-zC3mURmYPGrZ.png"
+      },
+      "descripcion": "Nix is a member of Clover Kingdom's Green Mantis squad of the Magic Knights.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124442,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nozel Silva",
+        "native": "ノゼル・シルヴァ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124442-KpZhHmhjw2EG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124442-KpZhHmhjw2EG.png"
+      },
+      "descripcion": "__Height:__ 177 cm\n\nNozel is a nobleman and the oldest son of the Clover Kingdom's ruling family, House Silva. He is also the captain of the Silver Eagle squad of the Magic Knights. ~!He is also the son of Acier Silva, the older brother of Nebra Silva, Solid Silva and Noelle Silva, and the cousin of Kirsch Vermilion and Mimosa Vermilion.!~",
+      "genero": null,
+      "edad": "29",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124682,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Orsi Ofai",
+        "native": "オルジ・オーファイ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124682-MEC41WVLvsA2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124682-MEC41WVLvsA2.png"
+      },
+      "descripcion": "__Affinity:__  Fire\n__Height:__ 180 cm\n\nThe priest in Hage and the foster father of Asta and Yuno.",
+      "genero": "Male",
+      "edad": "55",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 22
+      },
+      "media": [
+        {
+          "id": 87528,
+          "title": {
+            "romaji": "Black Clover: Jump Festa 2016 Special",
+            "english": "Black Clover: Jump Festa 2016 Special",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        }
+      ]
+    },
+    {
+      "id": 186391,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Owen",
+        "native": "オーヴェン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186391-k1TRwy38JmFh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b186391-k1TRwy38JmFh.png"
+      },
+      "descripcion": "Owen is the healer who serves directly under the Magic Emperor.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174447,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Paplo Espuma",
+        "native": "パプロ・エスプーマ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174447-UQhywhwIV6Lt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174447-UQhywhwIV6Lt.png"
+      },
+      "descripcion": "Servant for House Silva.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174451,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Patry",
+        "native": "パトリ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174451-le3VXzW3q04a.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174451-le3VXzW3q04a.jpg"
+      },
+      "descripcion": "Leader of the Eye of the Midnight Sun, under the name and appearance of Licht",
+      "genero": "Male",
+      "edad": "25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 250486,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Potrof",
+        "native": "ポトロフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b250486-2eEQbOcxidif.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b250486-2eEQbOcxidif.png"
+      },
+      "descripcion": "Potrof is a Spirit Guardian of the Heart Kingdom.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295847,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Princia Funnybunny",
+        "native": "プリンシア・ファニーバニー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295847-WI6zMKGSpEU9.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295847-WI6zMKGSpEU9.jpg"
+      },
+      "descripcion": "The 11th Wizard King of the Clover Kingdom's Magic Knights.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124986,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Puli Angel",
+        "native": "プーリ・エンジェル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124986-aINHjK1qk8gC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124986-aINHjK1qk8gC.jpg"
+      },
+      "descripcion": "A member of Clover Kingdom's Blue Rose squad of the Magic Knights. She is a 4th Class Senior Magic Knight.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124477,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rades Spirito",
+        "native": "ラデス・スピーリト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124477-wKePCmpoa3e0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124477-wKePCmpoa3e0.png"
+      },
+      "descripcion": "__Height:__ 174 cm\n\nRades is a rogue mage who is a member of the White Night Eye. He was a member of Clover Kingdom's Violet Orca squad of the Magic Knights.",
+      "genero": "Male",
+      "edad": "21",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 17
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124996,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ragus",
+        "native": "ラガス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124996-zLPu98oICnck.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124996-zLPu98oICnck.jpg"
+      },
+      "descripcion": "is a mage from the Diamond Kingdom and one of its Eight Shining Generals.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 248331,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ralph Niaflem",
+        "native": "ニアフレムラルフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b248331-q8AS7nAW32fv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b248331-q8AS7nAW32fv.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 184105,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Randall Luftair",
+        "native": "ランドール・ルフトエール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184105-E9JQxwiXdvO6.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184105-E9JQxwiXdvO6.jpg"
+      },
+      "descripcion": "Vice-captain of the Clover Kingdom's Crimson Lion squad of the Magic Knights.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124471,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rebecca Scarlet",
+        "native": "レベッカ・スカーレット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124471-mqqtSJgfAHds.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124471-mqqtSJgfAHds.png"
+      },
+      "descripcion": "__Height:__ 165 cm\n__Sign:__ Aries",
+      "genero": "Female",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 125028,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Recca",
+        "native": "レッカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/125028-X6Gs1MSTrcJ9.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/125028-X6Gs1MSTrcJ9.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 87528,
+          "title": {
+            "romaji": "Black Clover: Jump Festa 2016 Special",
+            "english": "Black Clover: Jump Festa 2016 Special",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124463,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Revchi Salik",
+        "native": "レブチ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124463-AfAruHzKBsZd.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124463-AfAruHzKBsZd.jpg"
+      },
+      "descripcion": "__Height:__ 176 cm\n\nRevchi was a member of the Clover Kingdom's Violet Orca squad of the Magic Knights, where he was known as Revchi of the chain. After some years, he leaves the organization for unknown reasons and becomes a thief.",
+      "genero": "Male",
+      "edad": "32",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 16
+      },
+      "media": [
+        {
+          "id": 87528,
+          "title": {
+            "romaji": "Black Clover: Jump Festa 2016 Special",
+            "english": "Black Clover: Jump Festa 2016 Special",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124473,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rhya",
+        "native": "ライア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124473-w6gHH1KS8pV0.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124473-w6gHH1KS8pV0.jpg"
+      },
+      "descripcion": "__Affinity:__ Imitation\n__Height:__ 181 cm\n\nA rogue mage and a member of the Eye of the Midnight Sun's Third Eye. ~!He is an elf reincarnated into the body of a human.!~",
+      "genero": "Male",
+      "edad": "25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 18
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 190589,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rick Cornell",
+        "native": "リック・コーネル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b190589-vBJwsJjh6Ptd.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b190589-vBJwsJjh6Ptd.jpg"
+      },
+      "descripcion": "Rick is a 3rd Class Intermediate Magic Knight of Clover Kingdom's Coral Peacock squad.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124457,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rill Boismortier",
+        "native": "リル・ボワモルティエ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124457-d3MtJfUT6yqI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124457-d3MtJfUT6yqI.png"
+      },
+      "descripcion": "__Height:__ 165 cm\n\nRill is the captain of Clover Kingdom's Azure Deer squad of the Magic Knights and a member of the Royal Knights squad.",
+      "genero": "Male",
+      "edad": "19",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 16
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124982,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rob Vitesse",
+        "native": "ロブ・ヴィテス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124982-PSC9mNwMmwv5.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124982-PSC9mNwMmwv5.jpg"
+      },
+      "descripcion": "Rob is a member of Clover Kingdom's Silver Eagle squad of the Magic Knights. He is a 2nd Class Senior Magic Knight.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 248328,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Robero Ringert",
+        "native": "リンゲルトロベロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b248328-kryDmYAeamyk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b248328-kryDmYAeamyk.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326899,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Roxanne Agrippa",
+        "native": "ロクサーヌ・アグリッパ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326899-q9CXzC17aSMP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326899-q9CXzC17aSMP.png"
+      },
+      "descripcion": "Roxanne Agrippa is a commoner of the Clover Kingdom and the sister of Gordon Agrippa.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 180686,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ruben Chagar",
+        "native": "ルベン・シャガー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180686-BOkj583tBxlq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180686-BOkj583tBxlq.png"
+      },
+      "descripcion": "1st Class Intermediate Magic Knight of the Clover Kingdom's Crimson Lion and Royal Knights squads.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 185539,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Salamander",
+        "native": "サラマンダー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b185539-9B0g7yzuwmVn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b185539-9B0g7yzuwmVn.png"
+      },
+      "descripcion": "Salamander is the spirit of fire and serves Fana and later Fuegoleon Vermillion.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124999,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Salim Hapshass",
+        "native": "サリム・ド・ハプシャス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124999-8r1NsKVswdeE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124999-8r1NsKVswdeE.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124519,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sally",
+        "native": "サリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124519-HGSExVAbCiju.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124519-HGSExVAbCiju.png"
+      },
+      "descripcion": "__Height:__ 160 cm (5'3\")\n\nShe is a rogue mage and a member of the White Night Eye.",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 17
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 250483,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sarado",
+        "native": "サラード"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b250483-764juE36svI4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b250483-764juE36svI4.png"
+      },
+      "descripcion": "Sarado is a Spirit Guardian of the Heart Kingdom.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 125031,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Seihi",
+        "native": "セイヒ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/125031-7VLwRqOnlteC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/125031-7VLwRqOnlteC.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124460,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sekke Bronzazza",
+        "native": "セッケ・ブロンザッザ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124460-EUJVxM0PG7uV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124460-EUJVxM0PG7uV.png"
+      },
+      "descripcion": "__Height:__ 175 cm\n\nIs a member of Clover Kingdom's Green Mantis squad.\nA magic knight who fought and lost to Asta during their entrance exam. He befriended Asta in order to use him as a stepping stone to show off his powers which he believed to be superior, as Asta appeared to be an incompetent magician.\n\nAs a magic knight, he complains about how tough he has it in his squad and that he's always tasked with monotonous chores. He meets Asta's group while gambling with an elderly woman on the black market. He tries to impress the women Asta is with, but ends up getting stabbed in the foot by a paralysis inducing knife while chasing a burglar. Believing his life to be over, he tries to pass on his unfulfilled life's ambition to Asta before realizing his injury is far from fatal.",
+      "genero": "Male",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 22
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        }
+      ]
+    },
+    {
+      "id": 190585,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shidan",
+        "native": "シダーン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b190585-EqA6sGJxw1Je.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b190585-EqA6sGJxw1Je.png"
+      },
+      "descripcion": "Shidan is a rogue mage and a member of the Eye of the Midnight Sun.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124979,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Siren Tium",
+        "native": "シレン・ティウム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124979-KlGZNiwBqgLk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124979-KlGZNiwBqgLk.png"
+      },
+      "descripcion": "A nobleman and a member of Clover Kingdom's Golden Dawn squad of the Magic Knights. He is a 1st Class Intermediate Magic Knight.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 248329,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sivoir Snyle",
+        "native": "スナイルシーヴワル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b248329-qiH0DvS37f4B.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b248329-qiH0DvS37f4B.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 250484,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Smurik",
+        "native": "スムリク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b250484-MQG4HKCKc95P.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b250484-MQG4HKCKc95P.png"
+      },
+      "descripcion": "Smurik is a Spirit Guardian of the Heart Kingdom.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124985,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sol Marron",
+        "native": "ソル・マロン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124985-y8DFuDY9iDXX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124985-y8DFuDY9iDXX.png"
+      },
+      "descripcion": "She is a member of Clover Kingdom's Blue Rose squad of the Magic Knights. She is a 3rd Class Intermediate Magic Knight.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 13
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124974,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Solid Silva",
+        "native": "ソリド・シルヴァ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124974-Fidlk7tYFper.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124974-Fidlk7tYFper.png"
+      },
+      "descripcion": "A nobleman and the second son of the Clover Kingdom's House Silva, one of its royal families. He is also a member of the Silver Eagle squad of the Magic Knights.",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 26
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 248327,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Svenkin Gatard",
+        "native": "ガタードスヴェンキン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b248327-qRhNfQlrCR1c.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b248327-qRhNfQlrCR1c.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 125025,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sylph",
+        "native": "シルフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125025-sRhjEh0ZUsNh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b125025-sRhjEh0ZUsNh.png"
+      },
+      "descripcion": "Sylph is the spirit of wind and serves Yuno.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        }
+      ]
+    },
+    {
+      "id": 190584,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tetia ",
+        "native": "テティア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b190584-txhvuiSbpdxD.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b190584-txhvuiSbpdxD.jpg"
+      },
+      "descripcion": "Tetia was a human royal from the Clover Kingdom. She was also the wife of Licht, the leader of the Elf Tribe, and the younger sister of Lemiel Silvamillion Clover, the first Magic Emperor.Tetia was a cheerful person. She wished for a world where elves and humans could live together.\n\nThis goal, along with how Rhya hints the similarities she shares with Mimosa, implies that Tetia was also extremely kind and would not discriminate against others despite being royalty.\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126024,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Theresa Rapual",
+        "native": "テレジア・ラプアール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126024-7fQBAdSfEwrv.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126024-7fQBAdSfEwrv.png"
+      },
+      "descripcion": "Height: 162 cmSign: Aries\n\nA nun and a former member of the Crimson Lion squad of the Magic Knights.\n\n“Always... on every battlefield... it was the weak, the innocent children, who were the victims of war.”\n— To Asta in The Man Who Cuts Death",
+      "genero": null,
+      "edad": "65",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174446,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Undine",
+        "native": "ウンディーネ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174446-uRQDIrqSvDqp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174446-uRQDIrqSvDqp.png"
+      },
+      "descripcion": "Water Spirit that has served the Heart Kingdom for generations. Currently serving Lolopechka.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124480,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Valtos",
+        "native": "ヴァルトス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124480-fgXboXYez36E.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124480-fgXboXYez36E.png"
+      },
+      "descripcion": "__Height:__ 178 cm\n\nValtos is a rogue mage and a member of the White Night Eye.",
+      "genero": "Male",
+      "edad": "25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 27
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124436,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Vanessa Enoteca",
+        "native": "バネッサ・エノテーカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124436-dES6CtprlZNy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124436-dES6CtprlZNy.png"
+      },
+      "descripcion": "__Height:__ 170 cm\n\nOriginally from the Forest of Witches, Vanessa is a member of the Black Bull Brigade.",
+      "genero": "Female",
+      "edad": "24",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 16
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 168300,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Vanica Zogratis",
+        "native": "ヴァニカ・ゾグラティス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b168300-xpKqucVqnd7j.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b168300-xpKqucVqnd7j.png"
+      },
+      "descripcion": "Member of the Spade Kingdom's Dark Triad, and the host for the devil Megicula. She's a psychopath and she enjoys fightings against tough enemies. Her native magic is Blood Magic, whilst Megicula's magic is Curse Warding Magic.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124475,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Vetto",
+        "native": "ヴェット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/124475-khoHRpHDhIWb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124475-khoHRpHDhIWb.png"
+      },
+      "descripcion": "~!Status: Deceased!~\n~!Species: Elf!~Affinity: BeastHeight: 196 cm\nEyes: Purple\nHair: Blond\n\n~!An elf and a member of the Eye of the Midnight Sun's Third Eye.!~",
+      "genero": "Male",
+      "edad": "28",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174453,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Walter",
+        "native": "ヴァルター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174453-FFwFvz4L26OC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174453-FFwFvz4L26OC.jpg"
+      },
+      "descripcion": "Servant for Rill Boismortier.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124441,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "William Vangeance",
+        "native": "ウィリアム・ヴァンジャンス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124441-nggzgZExhb1w.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124441-nggzgZExhb1w.png"
+      },
+      "descripcion": "__Height:__ 172 cm\n\nWilliam Vangeance is the captain of Clover Kingdom's Golden Dawn squad of the Magic Knights. He is currently the closest person to becoming the next Wizard King.",
+      "genero": "Male",
+      "edad": "26",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 24
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 250416,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Willie",
+        "native": "ウィリー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b250416-Ey69yCEoXnDk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b250416-Ey69yCEoXnDk.png"
+      },
+      "descripcion": "Willie is a member of the Clover Kingdom's Green Mantis squad of the Magic Knights.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 250415,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Winston",
+        "native": "ウィンストン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b250415-BhXYlT7yYys1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b250415-BhXYlT7yYys1.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 186393,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Xerx Lugner",
+        "native": "ザクス・リューグナー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186393-KJvFfq5cMJpE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b186393-KJvFfq5cMJpE.png"
+      },
+      "descripcion": "Xerx is the vice-captain of Clover Kingdom's Purple Orca squad of the Magic Knights. Zora Ideale attacks him and steals his identity and place during the Royal Knights Selection Exam.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124998,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yagos",
+        "native": "ヤーゴス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124998-yBL8i1S9Dsdn.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124998-yBL8i1S9Dsdn.jpg"
+      },
+      "descripcion": "A mage from the Diamond Kingdom and one of its Eight Shining Generals.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124440,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yami Sukehiro",
+        "native": "ヤミ・スケヒロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124440-Lpdo6y8cljV6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124440-Lpdo6y8cljV6.png"
+      },
+      "descripcion": "__Height:__ 183 cm\n\nYami Sukehiro is a foreigner from the Land of the Sun and the first captain of the Clover Kingdom's Black Bulls squad of the Magic Knights. ~!He is also a former member of the Grey Deer squad.!~",
+      "genero": "Male",
+      "edad": "28",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 17
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 106223,
+          "title": {
+            "romaji": "Black Clover: All Mahou Kishi Kanshasai",
+            "english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+            "native": "ブラッククローバー オール魔法騎士感謝祭"
+          }
+        },
+        {
+          "id": 110318,
+          "title": {
+            "romaji": "Mugyutto! Black Clover",
+            "english": "Squishy! Black Clover",
+            "native": "むぎゅっと！ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        },
+        {
+          "id": 195604,
+          "title": {
+            "romaji": "Black Clover 2nd Season",
+            "english": "Black Clover Season 2",
+            "native": "ブラッククローバー 第2期"
+          }
+        }
+      ]
+    },
+    {
+      "id": 161333,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zagred",
+        "native": "ザグレド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b161333-PqfhwYg3AqKJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b161333-PqfhwYg3AqKJ.png"
+      },
+      "descripcion": "This devil is the mastermind behind the creation of Licht's five-leaf grimoire, the massacre of the Elf Tribe, and the reincarnation of the elves.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 155017,
+          "title": {
+            "romaji": "Petit Clover Advance",
+            "english": null,
+            "native": "プチット・クローバー アドバンス"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124529,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zara Ideale",
+        "native": "ザラ・イデアーレ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124529-ixC0pW8UHIvK.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124529-ixC0pW8UHIvK.jpg"
+      },
+      "descripcion": "was the father of Zora Ideale and a member of Clover Kingdom's Violet Orca squad of the Magic Knights.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 167952,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zenon Zogratis",
+        "native": "ゼノン・ゾグラティス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b167952-Giy7Os8XrOKM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b167952-Giy7Os8XrOKM.jpg"
+      },
+      "descripcion": "Zenon is a member of Spade Kingdom's Dark Triad\nHe is a tall man with black, messy hair. His most notable feature is a cross-shaped mark on the left side of his forehead and it extends down across his left eye. \nHis magic Attribute is Bone Magic, and his Demon's magic gives him Spatial Magic",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124459,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zora Ideale",
+        "native": "ゾラ・イデアーレ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124459-UggsjRUfNtko.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124459-UggsjRUfNtko.png"
+      },
+      "descripcion": "~!Zora is the son of Zara Ideale, the first commoner Magic Knight, and is a rogue member of Clover Kingdom's Black Bull squad. He assumes the identity of Xerx Lugner during the Royal Knights Selection Exam. Zora changes during the Selection Exam where he begins to take on a similar mindset to his father, with a strong trust in his comrades. The current Wizard King confronts Zora after the exam, speaking of how he was a friend of his fathers having met on the battlefield. The Wizard King prompts Zora to join the Magic Knight Squad he belongs in (presumably the Black Bulls), however Zora shrugs this off, ignoring the Wizard King. !~",
+      "genero": "Male",
+      "edad": "25",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 19
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        },
+        {
+          "id": 131680,
+          "title": {
+            "romaji": "Black Clover: Mahou Tei no Ken",
+            "english": "Black Clover: Sword of the Wizard King",
+            "native": "ブラッククローバー 魔法帝の剣"
+          }
+        }
+      ]
+    },
+    {
+      "id": 181927,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zuta",
+        "native": "ズータ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b181927-24HwVWsHAN0E.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b181927-24HwVWsHAN0E.png"
+      },
+      "descripcion": "Rogue mage and a member of the Eye of the Midnight Sun.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "ブラッククローバー"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 166,
+  "actualizado": 1788565857
+}

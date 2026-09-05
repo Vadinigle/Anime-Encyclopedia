@@ -1,0 +1,1015 @@
+{
+  "clave": "toradora",
+  "nombre": "Toradora!",
+  "descripcion": "Taiga y Ryuuji",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
+  "medios": [
+    {
+      "id": 4224,
+      "title": {
+        "romaji": "Toradora!",
+        "english": "Toradora!",
+        "native": "とらドラ！"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4224-PXVMBLNwy2aF.jpg"
+      }
+    },
+    {
+      "id": 11553,
+      "title": {
+        "romaji": "Toradora!: Bentou no Gokui",
+        "english": "Toradora!: Bento Battle",
+        "native": "とらドラ！ 弁当の極意"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11553-wj42fK4eFcvZ.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11553-wj42fK4eFcvZ.jpg"
+      }
+    },
+    {
+      "id": 6127,
+      "title": {
+        "romaji": "Toradora!: SOS!",
+        "english": "Toradora!: SOS! Hurray for Foodies",
+        "native": "とらドラ! SOS!"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6127-OFqTxnTmBOM2.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6127-OFqTxnTmBOM2.png"
+      }
+    },
+    {
+      "id": 206729,
+      "title": {
+        "romaji": "Toradora!: Ami no Monomane 150 Renpatsu!!",
+        "english": null,
+        "native": "とらどら！亜美モノマネ１５０連発！！"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206729-Eyos8ItNqeN1.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206729-Eyos8ItNqeN1.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 13725,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ami Kawashima",
+        "native": "川嶋亜美"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13725-Vk30kjvVT82z.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b13725-Vk30kjvVT82z.png"
+      },
+      "descripcion": "__Height:__ 165 cm\n\nAmi is [Yuusaku](https://anilist.co/character/12306)'s childhood friend who transfers into his class midway through their second year of high school. She is very beautiful and even works as a model, though after she transfers school, she temporarily stops modeling. However, she still continues to go to the gym readily and maintains a slim figure. She is always kind and generous towards others, though this is merely a deception. In truth, she is arrogant and will not hesitate to use others for her own benefit. During her first meeting with [Taiga](https://anilist.co/character/12064), Ami showed her true colors, but the tables were turned when Taiga threw a counterattack back at her. Since then, Ami and Taiga have been enemies, though Ami still sometimes envies Taiga since she can always be honest. It's hinted at, mostly through her childhood friend Yuusaku, that she's like this because she hasn't really known any other life than her modeling, which is part of the reason she moved to their hometown to attend school there.  Which is why, through her affiliations with Taiga and [Ryuuji](https://anilist.co/character/12295), Ami eventually develops more of a \"middle ground\" personality, signified with her losing her temper and taking out her frustrations on a stalker fan. While this doesn't mean that she automatically becomes friends with Taiga, the two of them also meet halfway to some extent, thus running into arguments far less frequently. She can still be somewhat manipulative and mischievous, but her \"gravure airhead\" personality is almost entirely abandoned for a more outspoken one, and she's even helped out her newfound friends, including Taiga, on occasion. At some point, she even showed some interest in Ryuuji. \n\n~!Ami is also the first one to realize that Taiga and Ryuuji have feelings for each other, and is constantly hinting Ryuuji to pursue Taiga.!~",
+      "genero": "Female",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        },
+        {
+          "id": 6127,
+          "title": {
+            "romaji": "Toradora!: SOS!",
+            "english": "Toradora!: SOS! Hurray for Foodies",
+            "native": "とらドラ! SOS!"
+          }
+        },
+        {
+          "id": 7769,
+          "title": {
+            "romaji": "Ookami-san to Shichinin no Nakama-tachi",
+            "english": "Okami-san and Her Seven Companions",
+            "native": "オオカミさんと七人の仲間たち"
+          }
+        },
+        {
+          "id": 11553,
+          "title": {
+            "romaji": "Toradora!: Bentou no Gokui",
+            "english": "Toradora!: Bento Battle",
+            "native": "とらドラ！ 弁当の極意"
+          }
+        },
+        {
+          "id": 206729,
+          "title": {
+            "romaji": "Toradora!: Ami no Monomane 150 Renpatsu!!",
+            "english": null,
+            "native": "とらどら！亜美モノマネ１５０連発！！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 12305,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Minori Kushieda",
+        "native": "櫛枝実乃梨"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12305-AdKOcp0az9mq.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b12305-AdKOcp0az9mq.jpg"
+      },
+      "descripcion": "__Height:__ 163 cm\n\nMinori is a girl in [Ryuuji](https://anilist.co/character/12295/Takasu-Ryuuji)'s class, and is a close friend to [Taiga](https://anilist.co/character/12064/Aisaka-Taiga). She is also known by the pet name \"Minorin\". In contrast to the negative Taiga, Minori is always smiling and cheerful, but is also a natural airhead, though it is suggested that her airhead ways may be a facade. She is very athletic and is the captain of the girl's softball club at school, though at the same time she holds many part-time jobs. She is a glutton when it comes to food, but is also constantly combating dieting. \n\n~!Toward the end of the anime, she reveals that she also likes Ryuuji but has given up on him in order to let Ryuuji and Taiga be together.!~\n\n",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        },
+        {
+          "id": 6127,
+          "title": {
+            "romaji": "Toradora!: SOS!",
+            "english": "Toradora!: SOS! Hurray for Foodies",
+            "native": "とらドラ! SOS!"
+          }
+        },
+        {
+          "id": 7769,
+          "title": {
+            "romaji": "Ookami-san to Shichinin no Nakama-tachi",
+            "english": "Okami-san and Her Seven Companions",
+            "native": "オオカミさんと七人の仲間たち"
+          }
+        },
+        {
+          "id": 11553,
+          "title": {
+            "romaji": "Toradora!: Bentou no Gokui",
+            "english": "Toradora!: Bento Battle",
+            "native": "とらドラ！ 弁当の極意"
+          }
+        }
+      ]
+    },
+    {
+      "id": 12295,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Ryuuji Takasu",
+        "native": "高須竜児"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12295-d45uTNeJHuus.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b12295-d45uTNeJHuus.png"
+      },
+      "descripcion": "__Height:__ 172 cm (5'7\")\n\nThe series' main protagonist, Ryuuji is a seventeen-year-old high school student in his second year, class 2-C. Due to biological inheritance, his sanpaku eyes make him look like an intimidating delinquent and causes many misunderstandings. He lives in a fatherless family with just his mother, and due to this, Ryuuji has learned to be self-sufficient. He is good at cooking and keeps everything in his house clean (to the point of obsession), and also excels at sewing. He holds a crush on [Minori Kushieda](https://anilist.co/character/12305), a girl in his class. He has a pet, parakeet named \"[Inko-chan](https://anilist.co/character/17059)\" (\"inko\" literally means \"parakeet\" in Japanese). Ryuuji often helps [Taiga](https://anilist.co/character/12064) with domestic chores which she is unable to perform. At school, he is known as \"the only person able to stop the palmtop tiger\", referring to Taiga's nickname. Due to the misunderstandings of his look, he tends to look down on himself and lacks self-confidence. Despite this, he is rather calm in most situations. He is responsible, smart and has great grades, even when compared to [Yuusaku Kitamura](https://anilist.co/character/12306), his best friend. He is dense when it comes to girls' feelings, especially about things between him, Taiga, Minori and [Ami](https://anilist.co/character/13725). His feelings and relationship to Taiga begin to change as he spends more time with her throughout the series.",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 11
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        },
+        {
+          "id": 6127,
+          "title": {
+            "romaji": "Toradora!: SOS!",
+            "english": "Toradora!: SOS! Hurray for Foodies",
+            "native": "とらドラ! SOS!"
+          }
+        },
+        {
+          "id": 11553,
+          "title": {
+            "romaji": "Toradora!: Bentou no Gokui",
+            "english": "Toradora!: Bento Battle",
+            "native": "とらドラ！ 弁当の極意"
+          }
+        },
+        {
+          "id": 206729,
+          "title": {
+            "romaji": "Toradora!: Ami no Monomane 150 Renpatsu!!",
+            "english": null,
+            "native": "とらどら！亜美モノマネ１５０連発！！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 12064,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Taiga Aisaka",
+        "native": "逢坂大河"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12064-7PDN3ylIeAZn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b12064-7PDN3ylIeAZn.png"
+      },
+      "descripcion": "__Height:__ 145 cm\n\nTaiga is a girl in [Ryuuji's](https://anilist.co/character/12295) class. She has a well-regulated and beautiful appearance though is unable to stomach company from others. Due to her often snapping at others in brutal ways and her short stature, she is given the nickname \"Palmtop Tiger\". Her under-developed body and the added nickname has given her a complex which in turn serves to give her a negative attitude and facial expression. Essentially, Taiga gets upset easily and is considerably clumsy. She is also brutally honest, typically when she is lashing out at someone. Due to her cute looks (described as a doll by Ryuuji), she often gets confessions of love by boys, but she turns down every one of them, including [Yuusaku Kitamura](https://anilist.co/character/12306) (which she later regrets).\n\nDespite coming from a well-to-do family, her life with them is very difficult because of various problems. [Her father's](https://anilist.co/character/62271) business went bankrupt and he ran away, leaving Taiga in the care of [her mother](https://anilist.co/character/80715) who was already remarried and had a new family of her own. Taiga has difficulty getting along with her step-father and half-sibling and since then, she has taken to living on her own. Since she came from a privileged household, she does not know how to do any domestic chores. When she meets Ryuuji and learns of his domestic talents, she ends up relying on Ryuuji to clean up after her. Aside from sleeping in her own house, and going to school, she spends most of her time at Ryuuji's house; so much so that she is considered a member of his family. At the beginning of the story, she is infatuated with his best friend Yuusaku Kitamura and gets nervous every time he appears around her. Due to this, Taiga and Ryuuji team up to help each other get into a relationship with each other's best friend.  \n\n~!Though she treats Ryuuji badly at first, her feelings begin to change as she spends more time with him. They later become a couple.!~",
+      "genero": "Female",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 27
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        },
+        {
+          "id": 6127,
+          "title": {
+            "romaji": "Toradora!: SOS!",
+            "english": "Toradora!: SOS! Hurray for Foodies",
+            "native": "とらドラ! SOS!"
+          }
+        },
+        {
+          "id": 7769,
+          "title": {
+            "romaji": "Ookami-san to Shichinin no Nakama-tachi",
+            "english": "Okami-san and Her Seven Companions",
+            "native": "オオカミさんと七人の仲間たち"
+          }
+        },
+        {
+          "id": 11553,
+          "title": {
+            "romaji": "Toradora!: Bentou no Gokui",
+            "english": "Toradora!: Bento Battle",
+            "native": "とらドラ！ 弁当の極意"
+          }
+        },
+        {
+          "id": 206729,
+          "title": {
+            "romaji": "Toradora!: Ami no Monomane 150 Renpatsu!!",
+            "english": null,
+            "native": "とらどら！亜美モノマネ１５０連発！！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 12306,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Yuusaku Kitamura",
+        "native": "北村祐作"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12306-Nb1orOh4UkpT.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b12306-Nb1orOh4UkpT.png"
+      },
+      "descripcion": "Yuusaku is a male student in Ryuuji's class, and is his best friend. He is the vice-president of the student council, the class representative, and captain of the boy's softball club at school. Yuusaku wears glasses, and has a diligent personality. He thinks he is poor at talking to girls, though Ryuuji observes otherwise. During his time as the vice-president of the student council, he eventually falls in love with the student council president, Sumire Kanou. A running gag is that he will appear out of nowhere behind Taiga and Ryuuji when they are discussing a \"plan of attack\" to get their crushes. Like Minori, he has an unusual personality, but oftentimes it is an expression of his friendship and appreciation.    ~!Yuusaku also had feelings for Taiga, but was rejected straight away.!~",
+      "genero": "Male",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        },
+        {
+          "id": 6127,
+          "title": {
+            "romaji": "Toradora!: SOS!",
+            "english": "Toradora!: SOS! Hurray for Foodies",
+            "native": "とらドラ! SOS!"
+          }
+        },
+        {
+          "id": 11553,
+          "title": {
+            "romaji": "Toradora!: Bentou no Gokui",
+            "english": "Toradora!: Bento Battle",
+            "native": "とらドラ！ 弁当の極意"
+          }
+        }
+      ]
+    },
+    {
+      "id": 19153,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hisamitsu Noto",
+        "native": "能登久光"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19153-A8q9ieU9kEkr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19153-A8q9ieU9kEkr.png"
+      },
+      "descripcion": "Hisamitsu is a male student in Ryuuji's class who wears glasses. He was also in Ryuuji's class the previous year and is on good terms with him. Noto begins to develop feelings for Maya Kihara which become more apparent following an argument they had during the class winter ski trip.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        },
+        {
+          "id": 11553,
+          "title": {
+            "romaji": "Toradora!: Bentou no Gokui",
+            "english": "Toradora!: Bento Battle",
+            "native": "とらドラ！ 弁当の極意"
+          }
+        }
+      ]
+    },
+    {
+      "id": 80711,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Inage",
+        "native": "稲毛"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80711-jktVmzKJZcOn.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b80711-jktVmzKJZcOn.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 17059,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Inko-chan",
+        "native": "インコちゃん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17059-fy0NnkTih1s5.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17059-fy0NnkTih1s5.jpg"
+      },
+      "descripcion": "Ryuuji Takasu's parakeet. Her name is Japanese for parakeet. Though apparently healthy, she sometimes looks sickly. Despite struggling to say her simple name (a running gag throughout the series), she has a good understanding of human speech and can interact with her owners and pronounce words much more difficult than her name. She seems to be mentally inept.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        },
+        {
+          "id": 6127,
+          "title": {
+            "romaji": "Toradora!: SOS!",
+            "english": "Toradora!: SOS! Hurray for Foodies",
+            "native": "とらドラ! SOS!"
+          }
+        },
+        {
+          "id": 11553,
+          "title": {
+            "romaji": "Toradora!: Bentou no Gokui",
+            "english": "Toradora!: Bento Battle",
+            "native": "とらドラ！ 弁当の極意"
+          }
+        }
+      ]
+    },
+    {
+      "id": 17823,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kouji Haruta",
+        "native": "春田浩次"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17823-EI5fCOcNDeX4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17823-EI5fCOcNDeX4.png"
+      },
+      "descripcion": "Kōji is a male student in Ryūji's class who has long hair and is on good terms with him. He is regarded as a class 'idiot' and that opinion is deepened by his poor school marks and overly energetic behavior. His childish pranks often target Taiga and he has been the victim of her violent outbursts.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        },
+        {
+          "id": 11553,
+          "title": {
+            "romaji": "Toradora!: Bentou no Gokui",
+            "english": "Toradora!: Bento Battle",
+            "native": "とらドラ！ 弁当の極意"
+          }
+        }
+      ]
+    },
+    {
+      "id": 80709,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kouta Tomiie",
+        "native": "富家幸太"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80709-ckqi7MJoCF5c.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b80709-ckqi7MJoCF5c.jpg"
+      },
+      "descripcion": "Kota Tomiie is a first-year student and he works as a secretary for the student council.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 41719,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kuroma",
+        "native": "黒間"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/41719.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/41719.jpg"
+      },
+      "descripcion": "Gym teacher at Takasu's school.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 17319,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Maya Kihara",
+        "native": "木原麻耶"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/17319.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17319.jpg"
+      },
+      "descripcion": "Maya is a female student in Ryūji's class who often hangs out with Nanako. She is a kogal. She has a crush on Yūsaku, and she circuitously opposes the idea of Taiga and Yūsaku being a couple, although she wants Taiga and Ryūji to be together.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        },
+        {
+          "id": 11553,
+          "title": {
+            "romaji": "Toradora!: Bentou no Gokui",
+            "english": "Toradora!: Bento Battle",
+            "native": "とらドラ！ 弁当の極意"
+          }
+        }
+      ]
+    },
+    {
+      "id": 80713,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Murase",
+        "native": "村瀬"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80713-x3JnQ3RlNpYs.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b80713-x3JnQ3RlNpYs.jpg"
+      },
+      "descripcion": "Murase is a male student in Class 2-A who also works as the secretary in the student council.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 19863,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nanako Kashii",
+        "native": "香椎奈々子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/19863.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/19863.jpg"
+      },
+      "descripcion": "Nanako is a female student in Ryūji's class who often hangs out with Maya and Ami.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        },
+        {
+          "id": 11553,
+          "title": {
+            "romaji": "Toradora!: Bentou no Gokui",
+            "english": "Toradora!: Bento Battle",
+            "native": "とらドラ！ 弁当の極意"
+          }
+        }
+      ]
+    },
+    {
+      "id": 62271,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rikurou Aisaka",
+        "native": "逢坂陸郎"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62271-MiZao9vPmJ6E.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62271-MiZao9vPmJ6E.jpg"
+      },
+      "descripcion": "Taiga's father,  shown for the first time in chapter 12. He threatens to stop giving Taiga her living expenses if she continues to ignore his calls. He tries to re-unite with his estranged daughter after a separation with his newest (and much younger) wife, admitting it was wrong to let her go.   ~!During their short stint, he tells Ryuuji's mom that they are moving away to a bigger place together. A few episodes later in the middle of the season, he promises to come to the Cultural Festival to watch Taiga perform in her class's Wrestling Show and to see her perform in the pageant. He ends up being a no-show (after an embarrassing intro where Taiga and Ami both ask him to speak up and greet the crowd), sending Ryuuji a text message to tell Taiga that he had important business and they couldn't move in together. This leaves Ryuuji and Minori to pick up the pieces as Taiga tries to act as though she would be fine on her own.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 20339,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sakura Kanou",
+        "native": "狩野さくら"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b20339-uWCbCCDItfRE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b20339-uWCbCCDItfRE.png"
+      },
+      "descripcion": "Sakura is Sumire&#039;s younger sister who attends the same high school as Sumire though her grades are horrible. She can unconsciously flirt with people, and like her sister, she hates snakes.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 80717,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Seiji Takasu",
+        "native": "高須清児"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80717-Aov5Bg3Dwy7X.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b80717-Aov5Bg3Dwy7X.jpg"
+      },
+      "descripcion": "Ryuuji's Grandfather.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 24011,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sena Hamada",
+        "native": "濱田瀬奈"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/24011.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/24011.jpg"
+      },
+      "descripcion": "A 3rd Grade junior in an art university. Lives alone in an apartment. Meets with Haruta right after breaking up with her boyfriend, Ryousuke. Without knowing anything about Ryousuke, she plans of reuniting with the help of Haruta.    First appears briefly in novel vol.9 along with Haruta when Takasu and Taiga are selling chocolates. (and in anime EP23 relatively) Her main story is told in novel Spin-off vol.2 &quot;Let&#039;s go to Gunma when it&#039;s spring! (春になったら群馬に行こう！)&quot; chapter.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 80719,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sonoko Takasu",
+        "native": "高須園子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80719-iQW5mWDmuzBP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b80719-iQW5mWDmuzBP.png"
+      },
+      "descripcion": "Ryuuji's Grandmother.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 86597,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Stalker Otoko",
+        "native": "ストーカー男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b86597-fSJgfgSkJvmS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b86597-fSJgfgSkJvmS.png"
+      },
+      "descripcion": "The stalker of Ami Kawashima.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 16833,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sumire Kanou",
+        "native": "狩野すみれ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/16833.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16833.jpg"
+      },
+      "descripcion": "Sumire is the student council president and always manages to get the top grades in school; she is in fact a scholarship student and has horrible eyesight. She has a strong-minded personality which she depends on to be a figure those will follow. Her younger sister is Sakura and her parents own a supermarket. Sumire likes Yuusaku and as a result is the object of an one-sided hostility from Taiga.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 12307,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yasuko Takasu",
+        "native": "高須泰子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12307-MfkPmovIGCm9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b12307-MfkPmovIGCm9.png"
+      },
+      "descripcion": "Yasuko is [Ryuuji](https://anilist.co/character/12295/Takasu-Ryuuji)'s thirty-three-year-old mother, though she refers to herself as eternally twenty-three.\n\nSoon after Ryuuji was born, her husband died which left her to raise her son by herself. She works at a hostess bar named Bishamonten Kuni where she goes by the name \"Mirano\" and single-handedly supports her two-member family financially. However, she has a childish personality and since she works, she entrusts the household chores to Ryuuji. She instantly takes a liking to [Taiga](https://anilist.co/character/12064/Aisaka-Taiga) and already regards her as a member of her family.\n\n~!Later in the show, Yasuko reveals that Ryuuji's father didn't die. He basically abandoned the two of them, leaving Yasuko to raise their son by herself.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        },
+        {
+          "id": 11553,
+          "title": {
+            "romaji": "Toradora!: Bentou no Gokui",
+            "english": "Toradora!: Bento Battle",
+            "native": "とらドラ！ 弁当の極意"
+          }
+        }
+      ]
+    },
+    {
+      "id": 16402,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuri Koigakubo",
+        "native": "恋ヶ窪ゆり"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16402-hNoi2ydS82X6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16402-hNoi2ydS82X6.png"
+      },
+      "descripcion": "Yuri is the twenty-nine-year-old homeroom teacher of Ryūji's class (though she turns thirty in the fifth volume of the light novels). She likes to do things at her own pace and is timid towards Taiga's way of speaking out. Since her twenties are almost over, Yuri is in a hurry to get married soon and she even tries to dress well so as to be able to get into a relationship quicker. After she becomes thirty without getting married, she develops a twisted and depressed personality, which does not help that when Taiga talks about her, she emphases her single status.  She is fairly concerned over the well-being and grades of her students and tries her best to help them. During the Winter, she banned Haruta from Christmas Activities to get him to study for exams.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        },
+        {
+          "id": 6127,
+          "title": {
+            "romaji": "Toradora!: SOS!",
+            "english": "Toradora!: SOS! Hurray for Foodies",
+            "native": "とらドラ! SOS!"
+          }
+        },
+        {
+          "id": 11553,
+          "title": {
+            "romaji": "Toradora!: Bentou no Gokui",
+            "english": "Toradora!: Bento Battle",
+            "native": "とらドラ！ 弁当の極意"
+          }
+        }
+      ]
+    },
+    {
+      "id": 80707,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuriko Mitsui",
+        "native": "光井百合子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80707-cCyeNEIvLzJi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b80707-cCyeNEIvLzJi.png"
+      },
+      "descripcion": "Mitsui Yuriko, A student from class 1-A who was a contestant of the Ohashi high school culture festival.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 80715,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuu Aisaka",
+        "native": "逢坂ゆう"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80715-bZMZqDGaujKK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b80715-bZMZqDGaujKK.png"
+      },
+      "descripcion": "Taiga Aisaka's mother.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "とらドラ！"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 25,
+  "actualizado": 1788566656
+}

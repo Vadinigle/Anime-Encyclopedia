@@ -1,0 +1,3227 @@
+{
+  "clave": "konosuba",
+  "nombre": "KonoSuba",
+  "descripcion": "Kazuma y su desastrosa party",
+  "generos": [
+    "Isekai",
+    "Comedia",
+    "Fantasía"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-mPOr80AEjUcZ.png",
+  "medios": [
+    {
+      "id": 21202,
+      "title": {
+        "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+        "english": "KONOSUBA -God's blessing on this wonderful world!",
+        "native": "この素晴らしい世界に祝福を！"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-mPOr80AEjUcZ.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21202-mPOr80AEjUcZ.png"
+      }
+    },
+    {
+      "id": 21699,
+      "title": {
+        "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+        "native": "この素晴らしい世界に祝福を！2"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21699-Fkbnkl9ZC6fW.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21699-Fkbnkl9ZC6fW.png"
+      }
+    },
+    {
+      "id": 102976,
+      "title": {
+        "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+        "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+        "native": "この素晴らしい世界に祝福を！紅伝説"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102976-2Yi5icRbjukO.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102976-2Yi5icRbjukO.png"
+      }
+    },
+    {
+      "id": 136804,
+      "title": {
+        "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+        "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+        "native": "この素晴らしい世界に祝福を！３"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136804-7FVftG67FPBc.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136804-7FVftG67FPBc.jpg"
+      }
+    },
+    {
+      "id": 21574,
+      "title": {
+        "romaji": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+        "english": "KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!",
+        "native": "この素晴らしい世界に祝福を！ この素晴らしいチョーカーに祝福を!"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21574-CTRsdAGe4mDp.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21574-CTRsdAGe4mDp.png"
+      }
+    },
+    {
+      "id": 97996,
+      "title": {
+        "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+        "english": "KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!",
+        "native": "この素晴らしい世界に祝福を！ 2 この素晴らしい芸術に祝福を!"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97996-px2KGexuEZpg.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97996-px2KGexuEZpg.jpg"
+      }
+    },
+    {
+      "id": 181244,
+      "title": {
+        "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE",
+        "english": "KONOSUBA -God's Blessing on This Wonderful World! 3 -BONUS STAGE-",
+        "native": "この素晴らしい世界に祝福を！３ーBONUS STAGEー"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181244-ICHU0FzIhEAY.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181244-ICHU0FzIhEAY.jpg"
+      }
+    },
+    {
+      "id": 187924,
+      "title": {
+        "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 4",
+        "english": null,
+        "native": "この素晴らしい世界に祝福を！4"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187924-Jcepw4CE9iI9.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187924-Jcepw4CE9iI9.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 89362,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Aqua",
+        "native": "アクア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89362-ibkc0eoECaW1.png"
+      },
+      "descripcion": "Aqua is a goddess of water. She guides humans who die young to the afterlife.\n\nDue to her cocky attitude towards [Kazuma](https://anilist.co/character/89364), she ends up being dragged to another world with him to defeat the Demon King.\n\nAqua chose the advanced job of archpriest, as being a goddess she's naturally a strong wielder of healing magic. However, she spends most of her skillpoints on party trick skills.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 8,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21574,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!",
+            "native": "この素晴らしい世界に祝福を！ この素晴らしいチョーカーに祝福を!"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 97996,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!",
+            "native": "この素晴らしい世界に祝福を！ 2 この素晴らしい芸術に祝福を!"
+          }
+        },
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World",
+            "native": "異世界かるてっと ～あなざーわーるど～"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89363,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Darkness",
+        "native": "ダクネス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89363-mm21Ll4NegUD.png"
+      },
+      "descripcion": "A crusader and a masochist.\n\nDespite being an advanced knight, she is extremely clumsy and none of her attacks ever hit their mark. However, she has great endurance and stamina and acts as the frontline of the party. She often throws herself in front of enemies to \"shield\" her party, but in reality it's just her masochism.",
+      "genero": "Female",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21574,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!",
+            "native": "この素晴らしい世界に祝福を！ この素晴らしいチョーカーに祝福を!"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 97996,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!",
+            "native": "この素晴らしい世界に祝福を！ 2 この素晴らしい芸術に祝福を!"
+          }
+        },
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World",
+            "native": "異世界かるてっと ～あなざーわーるど～"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89364,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Kazuma Satou",
+        "native": "佐藤和真"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89364-7Th8Tv1XKJtt.png"
+      },
+      "descripcion": "__Height:__ 162 cm (5'4\")\n\nA hikikomori (shut-in), otaku and NEET, Kazuma arrives in the afterlife after a traffic accident and decides to go to another world to defeat the Demon King, taking [Aqua](https://anilist.co/character/89362) with him.\n\nHe has the weakest job of 'Adventurer', but has decent intelligence and extraordinarily high luck. This is demonstrated whenever he uses his 'steal' skill.",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21574,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!",
+            "native": "この素晴らしい世界に祝福を！ この素晴らしいチョーカーに祝福を!"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 97996,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!",
+            "native": "この素晴らしい世界に祝福を！ 2 この素晴らしい芸術に祝福を!"
+          }
+        },
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World",
+            "native": "異世界かるてっと ～あなざーわーるど～"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 120657,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Luna",
+        "native": "ルナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120657-xT7lUbz4uk0k.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b120657-xT7lUbz4uk0k.png"
+      },
+      "descripcion": "Part of the Guild Staff, she is the go-to woman for adventurers visiting the guild. Luna is a very kind, caring and cheerful young woman who has a rather ''Onee-chan'' (big sister) aura about her. She has common sense which is a rarity in the Fantasy World. Luna is also a calm person, taking everything in stride.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 97996,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!",
+            "native": "この素晴らしい世界に祝福を！ 2 この素晴らしい芸術に祝福を!"
+          }
+        },
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        },
+        {
+          "id": 181244,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE",
+            "english": "KONOSUBA -God's Blessing on This Wonderful World! 3 -BONUS STAGE-",
+            "native": "この素晴らしい世界に祝福を！３ーBONUS STAGEー"
+          }
+        },
+        {
+          "id": 187924,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 4",
+            "english": null,
+            "native": "この素晴らしい世界に祝福を！4"
+          }
+        }
+      ]
+    },
+    {
+      "id": 89361,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Megumin",
+        "native": "めぐみん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89361-tq8PQQ4MmF0M.png"
+      },
+      "descripcion": "Megumin is an archmage and the self-proclaimed top genius of the Crimson Demons, an order of magicians who are born with high intelligence and magical powers.\n\nDespite being an archwizard, she can only use the high level skill 'Explosion', the strongest of all offensive magic, and only once a day as it consumes tremendous magical power. Due to this she is more often a liability than an asset.\n\nMegumin speaks and dresses as a Chuunibyou and her only desire is to unleash explosion magic in the face of her enemies.",
+      "genero": "Female",
+      "edad": "13-17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 4
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21574,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!",
+            "native": "この素晴らしい世界に祝福を！ この素晴らしいチョーカーに祝福を!"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 97996,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!",
+            "native": "この素晴らしい世界に祝福を！ 2 この素晴らしい芸術に祝福を!"
+          }
+        },
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World",
+            "native": "異世界かるてっと ～あなざーわーるど～"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 120655,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Wiz",
+        "native": "ウィズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120655-LfUD7Mb1Mncg.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b120655-LfUD7Mb1Mncg.jpg"
+      },
+      "descripcion": "Wiz is the owner of a famous Magic Item Shop in Axel that has many unsalable items with quirky defects. She used to be a renowned Arch Wizard, but has since retired. At night, she has a secret identity as a kind-hearted lich who helps lingering spirits pass on. She is also the only harmless Demon King's General and prefers to live as a human.",
+      "genero": "Female",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21574,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!",
+            "native": "この素晴らしい世界に祝福を！ この素晴らしいチョーカーに祝福を!"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        },
+        {
+          "id": 181244,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE",
+            "english": "KONOSUBA -God's Blessing on This Wonderful World! 3 -BONUS STAGE-",
+            "native": "この素晴らしい世界に祝福を！３ーBONUS STAGEー"
+          }
+        },
+        {
+          "id": 187924,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 4",
+            "english": null,
+            "native": "この素晴らしい世界に祝福を！4"
+          }
+        },
+        {
+          "id": 194447,
+          "title": {
+            "romaji": "Isekai Quartet 3",
+            "english": "Isekai Quartet 3",
+            "native": "異世界かるてっと 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 120652,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Yunyun",
+        "native": "ゆんゆん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120652-YxrBBPbmJno2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b120652-YxrBBPbmJno2.png"
+      },
+      "descripcion": "Yunyun is a member of the Crimson Magic Clan, and she and [Megumin](https://anilist.co/character/89361) are friends as well as rivals.",
+      "genero": "Female",
+      "edad": "13",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21574,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!",
+            "native": "この素晴らしい世界に祝福を！ この素晴らしいチョーカーに祝福を!"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        },
+        {
+          "id": 181244,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE",
+            "english": "KONOSUBA -God's Blessing on This Wonderful World! 3 -BONUS STAGE-",
+            "native": "この素晴らしい世界に祝福を！３ーBONUS STAGEー"
+          }
+        },
+        {
+          "id": 187924,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 4",
+            "english": null,
+            "native": "この素晴らしい世界に祝福を！4"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392023,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Acure",
+        "native": "アキュア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392023-U56R5Bn8u9dt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b392023-U56R5Bn8u9dt.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 181244,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE",
+            "english": "KONOSUBA -God's Blessing on This Wonderful World! 3 -BONUS STAGE-",
+            "native": "この素晴らしい世界に祝福を！３ーBONUS STAGEー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 177154,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Alderp Alexei Barnes",
+        "native": "アルダープ・アレクセイ・バーネス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177154-7zIwwGUcTIeC.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177154-7zIwwGUcTIeC.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        }
+      ]
+    },
+    {
+      "id": 332812,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Anraku Shoujo",
+        "native": "安楽少女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b332812-C3sNmVZ645qp.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b332812-C3sNmVZ645qp.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126854,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Arakuremono",
+        "native": "荒くれ者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/126854-AVwxFTMoGFMe.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/126854-AVwxFTMoGFMe.jpg"
+      },
+      "descripcion": "An anime-exclusive character. The first person [Kazuma](https://anilist.co/character/89364) speaks with in Axel's guildhall.\n\n(Source: Wikipedia)",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        },
+        {
+          "id": 187924,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 4",
+            "english": null,
+            "native": "この素晴らしい世界に祝福を！4"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293460,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Arue",
+        "native": "あるえ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293460-btLhUX1aPdDB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293460-btLhUX1aPdDB.png"
+      },
+      "descripcion": "Arue is one of Megumin's old classmates and the third highest scoring student in her class, only trailing behind Megumin and Yunyun respectively. She's an aspiring author and, according to herself, the most voluptuous among the Crimson Demons.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 3,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136042,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Beldia",
+        "native": "ベルディア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136042-uqU81vphQIUY.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136042-uqU81vphQIUY.jpg"
+      },
+      "descripcion": "A dullahan and one of the Devil King's generals. He becomes hostile towards [Kazuma](https://anilist.co/character/89364)'s party after [Megumin](https://anilist.co/character/89361) keeps using his castle for explosion practice.\n~!He is weak against water and is defeated by [Aqua](https://anilist.co/character/89362)'s purifying magic.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        }
+      ]
+    },
+    {
+      "id": 236515,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bishoujo Golem",
+        "native": "美少女ゴーレム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b236515-uk7Jhd8jmDnZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b236515-uk7Jhd8jmDnZ.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97996,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!",
+            "native": "この素晴らしい世界に祝福を！ 2 この素晴らしい芸術に祝福を!"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302317,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bukkorori",
+        "native": "ぶっころりー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302317-qABYbTrfaJu2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302317-qABYbTrfaJu2.png"
+      },
+      "descripcion": "Bukkororii is a member of the Crimson Demons. He is the son of a shoe-shop owner and as such is destined to become the Crimson Demons' greatest (and only) shoemaker. He is also Megumin's next-door neighbor.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326526,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cedre",
+        "native": "セドル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326526-xBzwCrMvgXxL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326526-xBzwCrMvgXxL.png"
+      },
+      "descripcion": "~!He was one of the few people killed by Beldia and resurrected by Aqua.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302320,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chakamiya",
+        "native": "ちゃかみや"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302320-IB2hFFTb7nDk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302320-IB2hFFTb7nDk.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302319,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chekera",
+        "native": "ちぇけら"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302319-ofKF7dy2NZ4H.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302319-ofKF7dy2NZ4H.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 120654,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chomusuke",
+        "native": "ちょむすけ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120654-9yWTm8QyQy0O.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b120654-9yWTm8QyQy0O.jpg"
+      },
+      "descripcion": "Chomusuke acts as [Megumin](https://anilist.co/character/89361)'s familiar. She is a black cat with a red cross-shaped marking on her forehead and bat like wings. She cannot speak human language, but she seems to be fairly intelligent and can understand human speech to some extent.  \n\n~!She is actually the other half of Lady Wolbach, who was sealed in the Crimson Demon Village.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 97996,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!",
+            "native": "この素晴らしい世界に祝福を！ 2 この素晴らしい芸術に祝福を!"
+          }
+        },
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World",
+            "native": "異世界かるてっと ～あなざーわーるど～"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315314,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Claire",
+        "native": "クレア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315314-0nWsxMQETTqc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315314-0nWsxMQETTqc.png"
+      },
+      "descripcion": "Princess Iris's guard and tutor. An aristocrat. A passionate knight devoted to Iris.\n\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        }
+      ]
+    },
+    {
+      "id": 307854,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cremea",
+        "native": "クレメア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b307854-DCNtKCNmTOIw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b307854-DCNtKCNmTOIw.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293462,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dodonko",
+        "native": "どどんこ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293462-oM7Z1ox6ygmu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293462-oM7Z1ox6ygmu.png"
+      },
+      "descripcion": "She is a member of the Crimson Demons and Megumin's former classmate alongside Funifura.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 12
+      },
+      "media": [
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136046,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dust",
+        "native": "ダスト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136046-lq9XrHBsalDn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136046-lq9XrHBsalDn.png"
+      },
+      "descripcion": "A warrior and a member of the party consisting of [Rin](https://anilist.co/character/240105/Rin), [Keith](https://anilist.co/character/136043/Keith), and [Taylor](https://anilist.co/character/242932/Taylor). He is a major supporting character in the main KonoSuba series, as well as the protagonist of the Limelight spinoff series alongside [Rin](https://anilist.co/character/240105/Rin).\n\nDust is rumored to be one of the strongest adventurers in Axel, to the point where he could become a highly accomplished individual if not for his lazy personality. However, he appears to actively hide his true abilities, handicapping himself by using a longsword rather than a spear, his preferred weapon of choice.\n\n~!In the Limelight spinoff series, Dust is revealed to be a formerly renowned knight born of lower-ranking nobility. Having been banished and stripped of his status after helping the princess [Leonor](https://anilist.co/character/340950/Leonor) avoid her wedding, he became a delinquent adventurer, joining [Taylor](https://anilist.co/character/242932/Taylor)'s party and quickly becoming close with [Rin](https://anilist.co/character/240105/Rin) due to her striking resemblance of [Leonor](https://anilist.co/character/340950/Leonor). Promising the princess to do so, he only makes use of his full abilities when those he cares about are at stake.!~",
+      "genero": "Male",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 28
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        }
+      ]
+    },
+    {
+      "id": 120658,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eris",
+        "native": "エリス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120658-SJ9YrXEluqaX.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b120658-SJ9YrXEluqaX.jpg"
+      },
+      "descripcion": "Eris is the Goddess of Fortune and [Aqua's](https://anilist.co/character/89362) junior. Eris is a very kind and gentle girl who treats others with kindness and respect. She is also very caring and she always interest her adherents. She has a very cheerful attitude but at times can act a bit childish. She is insecure about her breast size and uses breast pads to compensate. Aqua often embarrasses her with this knowledge, as Eris wants as few people as possible to notice her lack in bust. She is also kind-hearted and gentle, and therefore, her scent is very fragrant, according to her peers and Aegis.\n\n~!Eris disguises herself as Chris, a friend to [Darkness](https://anilist.co/character/89363) listed under the occupation of thief. Chris is an innocent, cheerful and energetic girl that is almost always seen with a big smile and boasting a bright personality. She also seems to have high confidence in herself. Though at times she acts quite childish and mischievous, Chris has a big, kind heart.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21574,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!",
+            "native": "この素晴らしい世界に祝福を！ この素晴らしいチョーカーに祝福を!"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        },
+        {
+          "id": 187924,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 4",
+            "english": null,
+            "native": "この素晴らしい世界に祝福を！4"
+          }
+        }
+      ]
+    },
+    {
+      "id": 307853,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fio",
+        "native": "フィオ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b307853-tMffbuM9RA0q.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b307853-tMffbuM9RA0q.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293459,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Funifura",
+        "native": "ふにふら"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293459-sV7MGjrm0xFY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293459-sV7MGjrm0xFY.png"
+      },
+      "descripcion": "She is a member of the Crimson Demons and Megumin's former classmate alongside Dodonko.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 9
+      },
+      "media": [
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326527,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Garilhe",
+        "native": "ガリル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326527-iXdRI2Qgn0ja.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326527-iXdRI2Qgn0ja.png"
+      },
+      "descripcion": "An adventurer.\n~!He was one of the few people killed by Beldia and resurrected by Aqua.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        }
+      ]
+    },
+    {
+      "id": 203544,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hakase",
+        "native": "博士"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b203544-VRqWI2UWx1SF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b203544-VRqWI2UWx1SF.png"
+      },
+      "descripcion": "\"Head Researcher\" is an unnamed person who lived and died centuries before the main story begins. He is sometimes also referred to as \"Idiot Inventor,\" \"Stupid Chief Engineer,\" \"The Scientist,\" or some other names along those lines. He was born in modern Japan and sent to the distant-past Fantasy World as a Reincarnator to fight the Demon King of that time. While we never get to meet him when he was alive, we do see glimpses of his life from his research diaries.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 97996,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!",
+            "native": "この素晴らしい世界に祝福を！ 2 この素晴らしい芸術に祝福を!"
+          }
+        },
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World",
+            "native": "異世界かるてっと ～あなざーわーるど～"
+          }
+        }
+      ]
+    },
+    {
+      "id": 177158,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hans",
+        "native": "ハンス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177158-rEuPJGEdLjqs.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177158-rEuPJGEdLjqs.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326529,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Heinz",
+        "native": "ヘインズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326529-VHlwpViPcug6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326529-VHlwpViPcug6.png"
+      },
+      "descripcion": "He often teases Darkness for not being able to hit the enemy.\n~!He was one of the few people killed by Beldia and was resurrected by Aqua.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        }
+      ]
+    },
+    {
+      "id": 150136,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hyoizaburoo",
+        "native": "ひょいざぶろー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b150136-PdYovKh4u6Ef.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b150136-PdYovKh4u6Ef.png"
+      },
+      "descripcion": "Hyoizaburoo is [Megumin](https://anilist.co/character/89361)'s father and a magic item craftsman.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 177160,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ignis  Dustiness Ford",
+        "native": "イグニス ダスティネス フォード"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177160-KiEJO4ZHnKJd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177160-KiEJO4ZHnKJd.png"
+      },
+      "descripcion": "Is the father of Darkness and the current head of the Dustiness House.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        }
+      ]
+    },
+    {
+      "id": 120659,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Iris Belzerg",
+        "native": "ベルゼルグ・スタイリッシュ・ソード・アイリス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120659-LvdqYuSv04Gi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b120659-LvdqYuSv04Gi.png"
+      },
+      "descripcion": "Iris has a little-sister type personality but also acts very kind and cheerful, almost always seen with a smile on her face. As a princess, she is very polite and treats everyone with respect. Iris always restrains herself, and acts like a model royalty, is obedient and won’t give trouble to others.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        }
+      ]
+    },
+    {
+      "id": 177159,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Keele",
+        "native": "キール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177159-IjAx5lEgFdAz.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177159-IjAx5lEgFdAz.jpg"
+      },
+      "descripcion": "Was a former Arch Wizard who later became a Lich to save his love.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136043,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Keith",
+        "native": "キース"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136043-7R5IZmkW6MqE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136043-7R5IZmkW6MqE.png"
+      },
+      "descripcion": "A frivolous archer who is part of Taylor's party.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        }
+      ]
+    },
+    {
+      "id": 120653,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Komekko",
+        "native": "こめっこ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120653-q4uPVQC2iSg8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b120653-q4uPVQC2iSg8.png"
+      },
+      "descripcion": "Komekko is [Megumin](https://anilist.co/character/89361)'s adorable younger sister. She is a young Crimson Demon and the only Crimson Magic kid around her age.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 5,
+        "day": 5
+      },
+      "media": [
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136044,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kyouya Mitsurugi",
+        "native": "御剣響夜"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136044-oWcFALodYp4n.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136044-oWcFALodYp4n.jpg"
+      },
+      "descripcion": "A Japanese citizen who was also reincarnated to the fantasy world by Aqua. He is one of Belzerg's strongest adventurers and wields the cursed sword Gram. The sword was his gift from Aqua.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 97996,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!",
+            "native": "この素晴らしい世界に祝福を！ 2 この素晴らしい芸術に祝福を!"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294249,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lolisa",
+        "native": "ロリーサ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b294249-RsTSbvKngm0z.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b294249-RsTSbvKngm0z.png"
+      },
+      "descripcion": "The youngest employee of the Succubus Cafe. She is introduced when she was captured by [Aqua](https://anilist.co/character/89362/Aqua), after having been on her way to service [Kazuma](https://anilist.co/character/89364/Satou-Kazuma). Like her coworkers, she has the magical power to put people to sleep and make them dream as requested.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 23
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392024,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Luckless",
+        "native": "ラクレス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392024-UHuKwxK9cE8l.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b392024-UHuKwxK9cE8l.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 181244,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE",
+            "english": "KONOSUBA -God's Blessing on This Wonderful World! 3 -BONUS STAGE-",
+            "native": "この素晴らしい世界に祝福を！３ーBONUS STAGEー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 339151,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Maxwell",
+        "native": "マクスウェル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b339151-EeMQ7ehXhzHZ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b339151-EeMQ7ehXhzHZ.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392022,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Megumi",
+        "native": "めぐみ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392022-EHu7on22SQ6o.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b392022-EHu7on22SQ6o.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 181244,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE",
+            "english": "KONOSUBA -God's Blessing on This Wonderful World! 3 -BONUS STAGE-",
+            "native": "この素晴らしい世界に祝福を！３ーBONUS STAGEー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 392021,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ozuma",
+        "native": "オズマ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392021-Kne2klZ30bSD.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b392021-Kne2klZ30bSD.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 181244,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE",
+            "english": "KONOSUBA -God's Blessing on This Wonderful World! 3 -BONUS STAGE-",
+            "native": "この素晴らしい世界に祝福を！３ーBONUS STAGEー"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293463,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pucchin",
+        "native": "ぷっちん"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293463-rVf8wYezKrJg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293463-rVf8wYezKrJg.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 315315,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rain",
+        "native": "レイン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315315-SrQOsTYecDdQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315315-SrQOsTYecDdQ.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 26
+      },
+      "media": [
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        }
+      ]
+    },
+    {
+      "id": 135493,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ran",
+        "native": "ラン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135493-XS518iU4Cpxf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135493-XS518iU4Cpxf.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97996,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!",
+            "native": "この素晴らしい世界に祝福を！ 2 この素晴らしい芸術に祝福を!"
+          }
+        }
+      ]
+    },
+    {
+      "id": 240105,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rin",
+        "native": "リーン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b240105-qO8xrTa3Br8s.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b240105-qO8xrTa3Br8s.png"
+      },
+      "descripcion": "An intermediate wizard and a member of [Taylor](https://anilist.co/character/242932/Taylor)'s party, alongside [Keith](https://anilist.co/character/136043/Keith) and [Dust](https://anilist.co/character/136046/Dust).\n\nRin is a highly capable magic user, although she is humble and describes herself as a rookie wizard. She is also a very direct and honest person, and although she's usually calm, she knows how to hit someone back when she is teased. Her level-headedness compared to the boys in her party often leads to her getting Dust out of trouble and scolding him for his actions.\n\nDespite her strict demeanor however she is a pleasant person, and at times shows genuine kindness and concern for Dust as well.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 6
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327410,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Saibankan",
+        "native": "裁判官"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327410-fECJUB2OEFTF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327410-fECJUB2OEFTF.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 122424,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sena",
+        "native": "セナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/122424-hRsHYqmISnmG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/122424-hRsHYqmISnmG.png"
+      },
+      "descripcion": "Royal Prosecutor for the Kingdom of Belzerg.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 302321,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shikobei",
+        "native": "しこべい"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302321-Juri4rH0chne.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302321-Juri4rH0chne.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 261791,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Soketto",
+        "native": "ソケツト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b261791-zTUrpMZlS78L.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b261791-zTUrpMZlS78L.jpg"
+      },
+      "descripcion": "Soketto is a member of the Crimson Magic Clan and a fortune teller in the Crimson Magic Village.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 144536,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sylvia",
+        "native": "シルビア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144536-rHkQQUpzzjOq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b144536-rHkQQUpzzjOq.png"
+      },
+      "descripcion": "Sylvia was a chimera and one of the eight generals of the Demon King, serving as the director of the Monster Enhancement Division. They serve as the primary antagonist of the Konosuba Movie.\n\nAt first glance, Sylvia appeared as a towering, voluptuous and beautiful woman. They were so attractive that Kazuma seriously considered defecting to the Demon King's Army to be with them. ~!As a chimera, Sylvia possessed traits typically unique to both males and females, having big breasts and the figure of a woman, but also male genitalia.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326530,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Uketsuke Succubus",
+        "native": "受付サキュバス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326530-oEah1QxT2rlk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326530-oEah1QxT2rlk.png"
+      },
+      "descripcion": "She is one of the Succubi working in the \"special\" shop.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130106,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Vanir",
+        "native": "バニル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130106-SmSbkyTcmmTl.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130106-SmSbkyTcmmTl.png"
+      },
+      "descripcion": "Demon King's army ex-general.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "Isekai Quartet",
+            "native": "異世界かるてっと"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        },
+        {
+          "id": 187924,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 4",
+            "english": null,
+            "native": "この素晴らしい世界に祝福を！4"
+          }
+        }
+      ]
+    },
+    {
+      "id": 236514,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Waitress",
+        "native": "ウェイトレス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b236514-bqJupGFEH4EF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b236514-bqJupGFEH4EF.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 97996,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!",
+            "native": "この素晴らしい世界に祝福を！ 2 この素晴らしい芸術に祝福を!"
+          }
+        }
+      ]
+    },
+    {
+      "id": 177164,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Walter Alexei Barnes",
+        "native": "バルター・アレクセイ・バーネス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177164-2mbkkO0Z3wym.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177164-2mbkkO0Z3wym.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 150138,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuiyui",
+        "native": "ゆいゆい"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b150138-BHxeClQoMTiE.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b150138-BHxeClQoMTiE.png"
+      },
+      "descripcion": "Yuiyui is the mother of [Megumin](https://anilist.co/character/89361) and [Komekko](https://anilist.co/character/120653).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 328002,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zokuchou",
+        "native": "族長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b328002-1BRwAxCDFQww.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b328002-1BRwAxCDFQww.png"
+      },
+      "descripcion": "He is the leader of the Crimson Demon Clan and Yunyun's father.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 102976,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+            "native": "この素晴らしい世界に祝福を！紅伝説"
+          }
+        }
+      ]
+    },
+    {
+      "id": 329386,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Cabbage",
+        "native": "キャベツ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b329386-lCCa66OyXQtt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b329386-lCCa66OyXQtt.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 329387,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Fudousan Gyousha",
+        "native": "不動産業者"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b329387-trbVuGAg6ZBS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b329387-trbVuGAg6ZBS.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327409,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kajiya",
+        "native": "鍛冶屋"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327409-NLyCzMl2XrmH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327409-NLyCzMl2XrmH.png"
+      },
+      "descripcion": "Blacksmith who creates Kazuma's armour and katana.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 327408,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kokuou",
+        "native": "国王"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327408-MtgHXsBUK6N5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327408-MtgHXsBUK6N5.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 329388,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Magician",
+        "native": "マジシャン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b329388-6j2TKfbfndov.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b329388-6j2TKfbfndov.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 326531,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Priest",
+        "native": "プリースト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326531-UWeNUXvUU6dx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326531-UWeNUXvUU6dx.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 242932,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Taylor",
+        "native": "テイラー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b242932-kokARlqBymcO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b242932-kokARlqBymcO.png"
+      },
+      "descripcion": "Taylor is a crusader and the leader of the party consisting of Dust, Keith, and Lean.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        },
+        {
+          "id": 136804,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 3",
+            "native": "この素晴らしい世界に祝福を！３"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137174,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tenshi",
+        "native": "天使"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137174-DqAGsWk8iTvO.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137174-DqAGsWk8iTvO.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 329389,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Uketsuke",
+        "native": "受付"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b329389-gQfeFHX8WiMG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b329389-gQfeFHX8WiMG.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21202,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!",
+            "native": "この素晴らしい世界に祝福を！"
+          }
+        }
+      ]
+    },
+    {
+      "id": 177157,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Wolbach",
+        "native": "ウォルバク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177157-NO5ssqvYj0EL.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177157-NO5ssqvYj0EL.jpg"
+      },
+      "descripcion": "Wolbach is a goddess that presides over violence and sloth. She serves as one of the eight generals of the Demon King and has many worshippers within the Demon King's army. \n\n~!She was a major antagonist, being one of the most predominately featured of the eight generals of the Demon King's army, and was the arch-nemesis of the adventurer Megumin.\n\nWolbach was split into two beings and sealed within a complex sealing stone; one of these beings represented the sloth aspect of Wolbach while the other one represented the aspect of violence and took the form of a huge black beast. Approximately 8 years prior to the main series, a young Megumin was playing with the complex sealing stone and accidentally released Wolbach and her other half, which went on a rampage. Wolbach used Explosion to defeat the beast and save Megumin, then she sapped her violence aspect of most of its energy before resealing it, deciding to come back for it when it was more calm. Wolbach then taught Megumin the spell \"Explosion\" as thanks and left the Crimson Demon Village behind. Despite being an \"evil god\" and a general of the Demon King, Wolbach was shown to be of relatively high moral standing. Although she was a Goddess, Wolbach didn't talk down to Megumin (who at the time was a young girl) and elicited concern about the young girl's future as she thought Megumin dedicating her life to Explosion would be a waste.\n\nThe aspect of violence was later unknowingly unsealed by Megumin's younger sister Komekko seven years later. Because violence was so weak after its confrontation with sloth, Komekko was able to best it and bring it home for lunch. However, Megumin, believing it was a common house cat in its weakened form, kept the aspect of violence as her pet/familiar and called it Chomusuke.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 21699,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+            "native": "この素晴らしい世界に祝福を！2"
+          }
+        },
+        {
+          "id": 150075,
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "native": "この素晴らしい世界に爆焔を！"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 67,
+  "actualizado": 1788566328
+}

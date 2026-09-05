@@ -1,0 +1,879 @@
+{
+  "rezero": {
+    "nombre": "Re:Zero",
+    "descripcion": "Starting Life in Another World",
+    "busqueda": "Re:ZERO",
+    "generos": [
+      "Isekai",
+      "Fantasía",
+      "Drama"
+    ],
+    "variantes": [
+      "re:zero",
+      "re: zero",
+      "rezero",
+      "re zero",
+      "re：ゼロ",
+      "リゼロ"
+    ]
+  },
+  "jujutsu-kaisen": {
+    "nombre": "Jujutsu Kaisen",
+    "descripcion": "Hechicería, maldiciones y combates",
+    "busqueda": "Jujutsu Kaisen",
+    "generos": [
+      "Acción",
+      "Sobrenatural"
+    ],
+    "variantes": [
+      "jujutsu kaisen",
+      "呪術廻戦"
+    ]
+  },
+  "attack-on-titan": {
+    "nombre": "Attack on Titan",
+    "descripcion": "Shingeki no Kyojin",
+    "busqueda": "Attack on Titan",
+    "generos": [
+      "Acción",
+      "Drama"
+    ],
+    "variantes": [
+      "attack on titan",
+      "shingeki no kyojin",
+      "進撃の巨人"
+    ]
+  },
+  "mushoku-tensei": {
+    "nombre": "Mushoku Tensei",
+    "descripcion": "Jobless Reincarnation",
+    "busqueda": "Mushoku Tensei",
+    "generos": [
+      "Isekai",
+      "Fantasía"
+    ],
+    "variantes": [
+      "mushoku tensei",
+      "無職転生"
+    ]
+  },
+  "gachiakuta": {
+    "nombre": "Gachiakuta",
+    "descripcion": "El mundo de Rudo y los Cleaners",
+    "busqueda": "Gachiakuta",
+    "generos": [
+      "Acción",
+      "Fantasía"
+    ],
+    "variantes": [
+      "gachiakuta",
+      "ガチアクタ"
+    ]
+  },
+  "hells-paradise": {
+    "nombre": "Hell's Paradise",
+    "descripcion": "Jigokuraku",
+    "busqueda": "Jigokuraku",
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Sobrenatural"
+    ],
+    "variantes": [
+      "jigokuraku",
+      "hell's paradise",
+      "hells paradise",
+      "地獄楽"
+    ]
+  },
+  "spy-family": {
+    "nombre": "SPY×FAMILY",
+    "descripcion": "La familia Forger",
+    "busqueda": "SPY x FAMILY",
+    "generos": [
+      "Comedia",
+      "Acción"
+    ],
+    "variantes": [
+      "spy x family",
+      "spy×family",
+      "spy family",
+      "スパイファミリー"
+    ]
+  },
+  "kimetsu": {
+    "nombre": "Kimetsu no Yaiba",
+    "descripcion": "Demon Slayer",
+    "busqueda": "Kimetsu no Yaiba",
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Sobrenatural"
+    ],
+    "variantes": [
+      "kimetsu no yaiba",
+      "demon slayer",
+      "鬼滅の刃"
+    ]
+  },
+  "mashle": {
+    "nombre": "MASHLE",
+    "descripcion": "Magic and Muscles",
+    "busqueda": "Mashle",
+    "generos": [
+      "Comedia",
+      "Acción",
+      "Fantasía"
+    ],
+    "variantes": [
+      "mashle",
+      "マッシュル"
+    ]
+  },
+  "darling-in-the-franxx": {
+    "nombre": "DARLING in the FRANXX",
+    "descripcion": "Hiro, Zero Two y los Parasites",
+    "busqueda": "DARLING in the FRANXX",
+    "generos": [
+      "Romance",
+      "Ciencia ficción",
+      "Acción",
+      "Drama"
+    ],
+    "variantes": [
+      "darling in the franxx",
+      "ダーリン・イン・ザ・フランキス"
+    ]
+  },
+  "my-dress-up-darling": {
+    "nombre": "My Dress-Up Darling",
+    "descripcion": "Sono Bisque Doll wa Koi wo Suru",
+    "busqueda": "Sono Bisque Doll wa Koi wo Suru",
+    "generos": [
+      "Romance",
+      "Comedia"
+    ],
+    "variantes": [
+      "sono bisque doll wa koi wo suru",
+      "my dress-up darling",
+      "my dress up darling",
+      "その着せ替え人形は恋をする"
+    ]
+  },
+  "frieren": {
+    "nombre": "Frieren: Beyond Journey's End",
+    "descripcion": "Sousou no Frieren",
+    "busqueda": "Sousou no Frieren",
+    "generos": [
+      "Fantasía",
+      "Drama",
+      "Aventura"
+    ],
+    "variantes": [
+      "sousou no frieren",
+      "frieren: beyond journey's end",
+      "frieren",
+      "葬送のフリーレン"
+    ]
+  },
+  "fullmetal-alchemist-brotherhood": {
+    "nombre": "Fullmetal Alchemist: Brotherhood",
+    "descripcion": "Los hermanos Elric y la alquimia",
+    "busqueda": "Fullmetal Alchemist Brotherhood",
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Drama"
+    ],
+    "variantes": [
+      "fullmetal alchemist: brotherhood",
+      "fullmetal alchemist brotherhood",
+      "鋼の錬金術師"
+    ]
+  },
+  "hunter-x-hunter": {
+    "nombre": "Hunter x Hunter",
+    "descripcion": "Gon, Killua y el mundo de los Hunters",
+    "busqueda": "Hunter x Hunter 2011",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "variantes": [
+      "hunter x hunter",
+      "hunter×hunter"
+    ]
+  },
+  "chainsaw-man": {
+    "nombre": "Chainsaw Man",
+    "descripcion": "Denji y los demonios",
+    "busqueda": "Chainsaw Man",
+    "generos": [
+      "Acción",
+      "Sobrenatural",
+      "Drama"
+    ],
+    "variantes": [
+      "chainsaw man",
+      "チェンソーマン"
+    ]
+  },
+  "one-punch-man": {
+    "nombre": "One Punch Man",
+    "descripcion": "Saitama, el héroe más poderoso",
+    "busqueda": "One Punch Man",
+    "generos": [
+      "Acción",
+      "Comedia"
+    ],
+    "variantes": [
+      "one punch man",
+      "one-punch man",
+      "ワンパンマン"
+    ]
+  },
+  "mob-psycho-100": {
+    "nombre": "Mob Psycho 100",
+    "descripcion": "Poderes psíquicos y crecimiento personal",
+    "busqueda": "Mob Psycho 100",
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Sobrenatural"
+    ],
+    "variantes": [
+      "mob psycho 100",
+      "モブサイコ100"
+    ]
+  },
+  "my-hero-academia": {
+    "nombre": "My Hero Academia",
+    "descripcion": "Boku no Hero Academia",
+    "busqueda": "Boku no Hero Academia",
+    "generos": [
+      "Acción",
+      "Comedia"
+    ],
+    "variantes": [
+      "boku no hero academia",
+      "my hero academia",
+      "僕のヒーローアカデミア"
+    ]
+  },
+  "black-clover": {
+    "nombre": "Black Clover",
+    "descripcion": "Asta y los Caballeros Mágicos",
+    "busqueda": "Black Clover",
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Aventura"
+    ],
+    "variantes": [
+      "black clover",
+      "ブラッククローバー"
+    ]
+  },
+  "fire-force": {
+    "nombre": "Fire Force",
+    "descripcion": "Enen no Shouboutai",
+    "busqueda": "Enen no Shouboutai",
+    "generos": [
+      "Acción",
+      "Sobrenatural",
+      "Ciencia ficción"
+    ],
+    "variantes": [
+      "enen no shouboutai",
+      "fire force",
+      "炎炎ノ消防隊"
+    ]
+  },
+  "kaiju-no-8": {
+    "nombre": "Kaiju No. 8",
+    "descripcion": "Kafka Hibino contra los kaiju",
+    "busqueda": "Kaijuu 8-gou",
+    "generos": [
+      "Acción",
+      "Ciencia ficción"
+    ],
+    "variantes": [
+      "kaijuu 8-gou",
+      "kaiju no. 8",
+      "kaiju no 8",
+      "怪獣8号"
+    ]
+  },
+  "solo-leveling": {
+    "nombre": "Solo Leveling",
+    "descripcion": "Sung Jin-Woo y el sistema",
+    "busqueda": "Solo Leveling",
+    "generos": [
+      "Acción",
+      "Fantasía"
+    ],
+    "variantes": [
+      "solo leveling",
+      "俺だけレベルアップな件"
+    ]
+  },
+  "dandadan": {
+    "nombre": "Dandadan",
+    "descripcion": "Aliens, espíritus y fenómenos paranormales",
+    "busqueda": "Dandadan",
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Romance",
+      "Sobrenatural"
+    ],
+    "variantes": [
+      "dandadan",
+      "ダンダダン"
+    ]
+  },
+  "tokyo-ghoul": {
+    "nombre": "Tokyo Ghoul",
+    "descripcion": "Ken Kaneki y el mundo de los ghouls",
+    "busqueda": "Tokyo Ghoul",
+    "generos": [
+      "Acción",
+      "Drama",
+      "Sobrenatural"
+    ],
+    "variantes": [
+      "tokyo ghoul",
+      "東京喰種"
+    ]
+  },
+  "blue-exorcist": {
+    "nombre": "Blue Exorcist",
+    "descripcion": "Ao no Exorcist",
+    "busqueda": "Ao no Exorcist",
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Sobrenatural"
+    ],
+    "variantes": [
+      "ao no exorcist",
+      "blue exorcist",
+      "青の祓魔師"
+    ]
+  },
+  "noragami": {
+    "nombre": "Noragami",
+    "descripcion": "Yato y el mundo de los dioses",
+    "busqueda": "Noragami",
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Sobrenatural"
+    ],
+    "variantes": [
+      "noragami",
+      "ノラガミ"
+    ]
+  },
+  "soul-eater": {
+    "nombre": "Soul Eater",
+    "descripcion": "La academia Shibusen",
+    "busqueda": "Soul Eater",
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Fantasía"
+    ],
+    "variantes": [
+      "soul eater",
+      "ソウルイーター"
+    ]
+  },
+  "jojos-bizarre-adventure": {
+    "nombre": "JoJo's Bizarre Adventure",
+    "descripcion": "La historia de la familia Joestar",
+    "busqueda": "JoJo no Kimyou na Bouken",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Sobrenatural"
+    ],
+    "variantes": [
+      "jojo no kimyou na bouken",
+      "jojo's bizarre adventure",
+      "jojos bizarre adventure"
+    ]
+  },
+  "vinland-saga": {
+    "nombre": "Vinland Saga",
+    "descripcion": "Thorfinn y la era vikinga",
+    "busqueda": "Vinland Saga",
+    "generos": [
+      "Acción",
+      "Drama",
+      "Aventura"
+    ],
+    "variantes": [
+      "vinland saga",
+      "ヴィンランド・サガ"
+    ]
+  },
+  "cyberpunk-edgerunners": {
+    "nombre": "Cyberpunk: Edgerunners",
+    "descripcion": "Night City y los edgerunners",
+    "busqueda": "Cyberpunk Edgerunners",
+    "generos": [
+      "Acción",
+      "Drama",
+      "Ciencia ficción"
+    ],
+    "variantes": [
+      "cyberpunk: edgerunners",
+      "cyberpunk edgerunners"
+    ]
+  },
+  "code-geass": {
+    "nombre": "Code Geass",
+    "descripcion": "Lelouch y el poder del Geass",
+    "busqueda": "Code Geass Hangyaku no Lelouch",
+    "generos": [
+      "Acción",
+      "Drama",
+      "Ciencia ficción"
+    ],
+    "variantes": [
+      "code geass",
+      "hangyaku no lelouch",
+      "反逆のルルーシュ"
+    ]
+  },
+  "evangelion": {
+    "nombre": "Neon Genesis Evangelion",
+    "descripcion": "Shinji y los EVA",
+    "busqueda": "Neon Genesis Evangelion",
+    "generos": [
+      "Drama",
+      "Ciencia ficción"
+    ],
+    "variantes": [
+      "neon genesis evangelion",
+      "shin seiki evangelion",
+      "新世紀エヴァンゲリオン"
+    ]
+  },
+  "steins-gate": {
+    "nombre": "Steins;Gate",
+    "descripcion": "Viajes en el tiempo y Akihabara",
+    "busqueda": "Steins;Gate",
+    "generos": [
+      "Drama",
+      "Ciencia ficción"
+    ],
+    "variantes": [
+      "steins;gate",
+      "steins gate",
+      "シュタインズ・ゲート"
+    ]
+  },
+  "86": {
+    "nombre": "86 EIGHTY-SIX",
+    "descripcion": "La guerra de los Eighty-Six",
+    "busqueda": "86 Eighty-Six",
+    "generos": [
+      "Acción",
+      "Drama",
+      "Ciencia ficción"
+    ],
+    "variantes": [
+      "86",
+      "86 eighty-six",
+      "eighty six"
+    ]
+  },
+  "sword-art-online": {
+    "nombre": "Sword Art Online",
+    "descripcion": "Kirito y los mundos virtuales",
+    "busqueda": "Sword Art Online",
+    "generos": [
+      "Acción",
+      "Romance",
+      "Fantasía"
+    ],
+    "variantes": [
+      "sword art online",
+      "ソードアート・オンライン"
+    ]
+  },
+  "konosuba": {
+    "nombre": "KonoSuba",
+    "descripcion": "Kazuma y su desastrosa party",
+    "busqueda": "Kono Subarashii Sekai ni Shukufuku wo",
+    "generos": [
+      "Isekai",
+      "Comedia",
+      "Fantasía"
+    ],
+    "variantes": [
+      "kono subarashii sekai ni shukufuku wo",
+      "konosuba",
+      "この素晴らしい世界に祝福を"
+    ]
+  },
+  "tensura": {
+    "nombre": "That Time I Got Reincarnated as a Slime",
+    "descripcion": "Tensei Shitara Slime Datta Ken",
+    "busqueda": "Tensei Shitara Slime Datta Ken",
+    "generos": [
+      "Isekai",
+      "Fantasía",
+      "Acción"
+    ],
+    "variantes": [
+      "tensei shitara slime datta ken",
+      "that time i got reincarnated as a slime",
+      "転生したらスライムだった件"
+    ]
+  },
+  "shield-hero": {
+    "nombre": "The Rising of the Shield Hero",
+    "descripcion": "Tate no Yuusha no Nariagari",
+    "busqueda": "Tate no Yuusha no Nariagari",
+    "generos": [
+      "Isekai",
+      "Fantasía",
+      "Acción"
+    ],
+    "variantes": [
+      "tate no yuusha no nariagari",
+      "the rising of the shield hero",
+      "盾の勇者の成り上がり"
+    ]
+  },
+  "overlord": {
+    "nombre": "Overlord",
+    "descripcion": "Ainz Ooal Gown y Nazarick",
+    "busqueda": "Overlord",
+    "generos": [
+      "Isekai",
+      "Fantasía",
+      "Acción"
+    ],
+    "variantes": [
+      "overlord",
+      "オーバーロード"
+    ]
+  },
+  "eminence-in-shadow": {
+    "nombre": "The Eminence in Shadow",
+    "descripcion": "Kage no Jitsuryokusha ni Naritakute",
+    "busqueda": "Kage no Jitsuryokusha ni Naritakute",
+    "generos": [
+      "Isekai",
+      "Fantasía",
+      "Comedia"
+    ],
+    "variantes": [
+      "kage no jitsuryokusha ni naritakute",
+      "the eminence in shadow",
+      "陰の実力者になりたくて"
+    ]
+  },
+  "no-game-no-life": {
+    "nombre": "No Game No Life",
+    "descripcion": "Sora y Shiro en Disboard",
+    "busqueda": "No Game No Life",
+    "generos": [
+      "Isekai",
+      "Fantasía",
+      "Comedia"
+    ],
+    "variantes": [
+      "no game no life",
+      "ノーゲーム・ノーライフ"
+    ]
+  },
+  "apothecary-diaries": {
+    "nombre": "The Apothecary Diaries",
+    "descripcion": "Kusuriya no Hitorigoto",
+    "busqueda": "Kusuriya no Hitorigoto",
+    "generos": [
+      "Drama",
+      "Misterio",
+      "Romance"
+    ],
+    "variantes": [
+      "kusuriya no hitorigoto",
+      "the apothecary diaries",
+      "薬屋のひとりごと"
+    ]
+  },
+  "violet-evergarden": {
+    "nombre": "Violet Evergarden",
+    "descripcion": "Cartas, recuerdos y emociones",
+    "busqueda": "Violet Evergarden",
+    "generos": [
+      "Drama",
+      "Fantasía"
+    ],
+    "variantes": [
+      "violet evergarden",
+      "ヴァイオレット・エヴァーガーデン"
+    ]
+  },
+  "bocchi-the-rock": {
+    "nombre": "Bocchi the Rock!",
+    "descripcion": "Hitori Gotoh y Kessoku Band",
+    "busqueda": "Bocchi the Rock",
+    "generos": [
+      "Comedia",
+      "Música"
+    ],
+    "variantes": [
+      "bocchi the rock",
+      "ぼっち・ざ・ろっく"
+    ]
+  },
+  "oshi-no-ko": {
+    "nombre": "Oshi no Ko",
+    "descripcion": "La industria del entretenimiento japonés",
+    "busqueda": "Oshi no Ko",
+    "generos": [
+      "Drama",
+      "Misterio"
+    ],
+    "variantes": [
+      "oshi no ko",
+      "【推しの子】",
+      "推しの子"
+    ]
+  },
+  "kaguya-sama": {
+    "nombre": "Kaguya-sama: Love Is War",
+    "descripcion": "Una guerra romántica entre Kaguya y Miyuki",
+    "busqueda": "Kaguya-sama wa Kokurasetai",
+    "generos": [
+      "Romance",
+      "Comedia"
+    ],
+    "variantes": [
+      "kaguya-sama wa kokurasetai",
+      "kaguya-sama: love is war",
+      "kaguya sama love is war"
+    ]
+  },
+  "horimiya": {
+    "nombre": "Horimiya",
+    "descripcion": "Hori y Miyamura",
+    "busqueda": "Horimiya",
+    "generos": [
+      "Romance",
+      "Comedia"
+    ],
+    "variantes": [
+      "horimiya",
+      "ホリミヤ"
+    ]
+  },
+  "toradora": {
+    "nombre": "Toradora!",
+    "descripcion": "Taiga y Ryuuji",
+    "busqueda": "Toradora",
+    "generos": [
+      "Romance",
+      "Comedia",
+      "Drama"
+    ],
+    "variantes": [
+      "toradora",
+      "とらドラ"
+    ]
+  },
+  "bunny-girl-senpai": {
+    "nombre": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "descripcion": "Seishun Buta Yarou",
+    "busqueda": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "generos": [
+      "Romance",
+      "Drama",
+      "Sobrenatural"
+    ],
+    "variantes": [
+      "seishun buta yarou",
+      "rascal does not dream of bunny girl senpai",
+      "青春ブタ野郎"
+    ]
+  },
+  "quintessential-quintuplets": {
+    "nombre": "The Quintessential Quintuplets",
+    "descripcion": "Gotoubun no Hanayome",
+    "busqueda": "Go-toubun no Hanayome",
+    "generos": [
+      "Romance",
+      "Comedia"
+    ],
+    "variantes": [
+      "go-toubun no hanayome",
+      "gotoubun no hanayome",
+      "the quintessential quintuplets",
+      "五等分の花嫁"
+    ]
+  },
+  "komi-cant-communicate": {
+    "nombre": "Komi Can't Communicate",
+    "descripcion": "Komi-san wa Komyushou desu",
+    "busqueda": "Komi-san wa Komyushou desu",
+    "generos": [
+      "Romance",
+      "Comedia"
+    ],
+    "variantes": [
+      "komi-san wa komyushou desu",
+      "komi can't communicate",
+      "古見さんは、コミュ症です"
+    ]
+  },
+  "dangers-in-my-heart": {
+    "nombre": "The Dangers in My Heart",
+    "descripcion": "Boku no Kokoro no Yabai Yatsu",
+    "busqueda": "Boku no Kokoro no Yabai Yatsu",
+    "generos": [
+      "Romance",
+      "Comedia"
+    ],
+    "variantes": [
+      "boku no kokoro no yabai yatsu",
+      "the dangers in my heart",
+      "僕の心のヤバイやつ"
+    ]
+  },
+  "alya": {
+    "nombre": "Alya Sometimes Hides Her Feelings in Russian",
+    "descripcion": "Roshidere",
+    "busqueda": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+    "generos": [
+      "Romance",
+      "Comedia"
+    ],
+    "variantes": [
+      "tokidoki bosotto rossiya-go de dereru tonari no alya-san",
+      "tokidoki bosotto russiago de dereru tonari no alya-san",
+      "alya sometimes hides her feelings in russian",
+      "roshidere",
+      "時々ボソッとロシア語でデレる隣のアーリャさん"
+    ]
+  },
+  "your-lie-in-april": {
+    "nombre": "Your Lie in April",
+    "descripcion": "Shigatsu wa Kimi no Uso",
+    "busqueda": "Shigatsu wa Kimi no Uso",
+    "generos": [
+      "Romance",
+      "Drama",
+      "Música"
+    ],
+    "variantes": [
+      "shigatsu wa kimi no uso",
+      "your lie in april",
+      "四月は君の嘘"
+    ]
+  },
+  "clannad": {
+    "nombre": "Clannad",
+    "descripcion": "Tomoya, Nagisa y su historia",
+    "busqueda": "Clannad",
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "variantes": [
+      "clannad",
+      "クラナド"
+    ]
+  },
+  "death-note": {
+    "nombre": "Death Note",
+    "descripcion": "Light Yagami y L",
+    "busqueda": "Death Note",
+    "generos": [
+      "Drama",
+      "Misterio",
+      "Sobrenatural"
+    ],
+    "variantes": [
+      "death note",
+      "デスノート"
+    ]
+  },
+  "monster": {
+    "nombre": "Monster",
+    "descripcion": "Tenma y Johan Liebert",
+    "busqueda": "Monster",
+    "generos": [
+      "Drama",
+      "Misterio"
+    ],
+    "variantes": [
+      "monster",
+      "モンスター"
+    ]
+  },
+  "promised-neverland": {
+    "nombre": "The Promised Neverland",
+    "descripcion": "Yakusoku no Neverland",
+    "busqueda": "Yakusoku no Neverland",
+    "generos": [
+      "Drama",
+      "Misterio",
+      "Sobrenatural"
+    ],
+    "variantes": [
+      "yakusoku no neverland",
+      "the promised neverland",
+      "約束のネバーランド"
+    ]
+  },
+  "dr-stone": {
+    "nombre": "Dr. Stone",
+    "descripcion": "Senku reconstruye la civilización",
+    "busqueda": "Dr. Stone",
+    "generos": [
+      "Aventura",
+      "Comedia",
+      "Ciencia ficción"
+    ],
+    "variantes": [
+      "dr. stone",
+      "dr stone",
+      "ドクターストーン"
+    ]
+  },
+  "haikyuu": {
+    "nombre": "Haikyuu!!",
+    "descripcion": "Hinata, Kageyama y Karasuno",
+    "busqueda": "Haikyuu",
+    "generos": [
+      "Deportes",
+      "Comedia",
+      "Drama"
+    ],
+    "variantes": [
+      "haikyuu",
+      "haikyuu!!",
+      "ハイキュー"
+    ]
+  },
+  "blue-lock": {
+    "nombre": "Blue Lock",
+    "descripcion": "El proyecto para crear al mejor delantero",
+    "busqueda": "Blue Lock",
+    "generos": [
+      "Deportes",
+      "Drama"
+    ],
+    "variantes": [
+      "blue lock",
+      "ブルーロック"
+    ]
+  }
+}

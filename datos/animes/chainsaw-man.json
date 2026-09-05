@@ -1,0 +1,3459 @@
+{
+  "clave": "chainsaw-man",
+  "nombre": "Chainsaw Man",
+  "descripcion": "Denji y los demonios",
+  "generos": [
+    "Acción",
+    "Sobrenatural",
+    "Drama"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
+  "medios": [
+    {
+      "id": 127230,
+      "title": {
+        "romaji": "Chainsaw Man",
+        "english": "Chainsaw Man",
+        "native": "チェンソーマン"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127230-DdP4vAdssLoz.png"
+      }
+    },
+    {
+      "id": 171627,
+      "title": {
+        "romaji": "Chainsaw Man: Reze-hen",
+        "english": "Chainsaw Man – The Movie: Reze Arc",
+        "native": "チェンソーマン レゼ篇"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171627-ZN9D7P46yHnw.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171627-ZN9D7P46yHnw.png"
+      }
+    },
+    {
+      "id": 204429,
+      "title": {
+        "romaji": "Chainsaw Man: Shikaku-hen",
+        "english": null,
+        "native": "チェンソーマン 刺客篇"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204429-9scYA2ab3Zz3.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204429-9scYA2ab3Zz3.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 137081,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Aki Hayakawa",
+        "native": "早川アキ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137081-TSrUR3mUJL6r.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137081-TSrUR3mUJL6r.png"
+      },
+      "descripcion": "__Height:__ 182 cm (6'0\")\n__Devil Contracts:__ [Fox Devil](https://anilist.co/character/290671/Kitsune-no-Akuma), [Curse Devil](https://anilist.co/character/174265/Noroi-no-Akuma), ~![Future Devil](https://anilist.co/character/172887/Mirai-no-Akuma)!~\n__Relatives:__ [Hahaoya Hayakawa](https://anilist.co/character/291241/Hayakawa-Hahaoya) (Mother), [Chichioya Hayakawa](https://anilist.co/character/291240/Hayakawa-Chichioya) (Father), [Taiyou Hayakawa](https://anilist.co/character/174261/Taiyou) (Younger Brother).\n\nA Public Safety Devil Hunter working under [Makima](https://anilist.co/character/137080/Makima) as a member of Tokyo Special Division 4. He is partnered with [Himeno](https://anilist.co/character/144596/Himeno) and tasked with supervising both [Power](https://anilist.co/character/137079/Power) and [Denji](https://anilist.co/character/130102/Denji).\n\nAki Hayakawa generally appears to be a very stoic person. He acts mature and dependable when he's with his fellow Devil hunters but is actually very soft when he is alone. He has a tendency to get attached to others easily, and hates to see people get hurt, especially his close friends. Aki's primary goal and reasoning for becoming a Devil Hunter is to kill the [Gun Devil](https://anilist.co/character/208942/Juu-no-Akuma) to get revenge for his family.\n\n~!He later loses his contract with the Fox Devil and gains a new contract with the Future Devil!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        },
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        },
+        {
+          "id": 198726,
+          "title": {
+            "romaji": "Chainsaw Biyori",
+            "english": "Chainsaw Days",
+            "native": "チェンソー びより"
+          }
+        },
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130102,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Denji",
+        "native": "デンジ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130102-FO1VHNnEnLlB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130102-FO1VHNnEnLlB.png"
+      },
+      "descripcion": "__Height:__ 173 cm (5'8\"), Devil Form - 180 cm (5'11\")\n\nDenji is Chainsaw Man's Human Form. He became Chainsaw Man after his dead body was resurrected by his pet dog, [Pochita](https://anilist.co/character/170266/Pochita).\n\nHe is a Public Safety Devil Hunter who works under [Makima](https://anilist.co/character/137080/Makima) as a member of an experimental squad in Special Tokyo Division 4. He works alongside his partner [Power](https://anilist.co/character/137079/Power) and under the supervision of [Aki Hayakawa](https://anilist.co/character/137081/Aki-Hayakawa).\n\nDenji's personality is both brash and naive as a result of being unable to have a formal education and socialize due to living in severe poverty. He comes off as rude and harsh, yet in an almost childish way. He doesn't know how to be clever or wise but he knows how to lighten the mood. As the Chainsaw Devil, he has the ability to grow chainsaws out of his body.",
+      "genero": "Male",
+      "edad": "16-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        },
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        },
+        {
+          "id": 198726,
+          "title": {
+            "romaji": "Chainsaw Biyori",
+            "english": "Chainsaw Days",
+            "native": "チェンソー びより"
+          }
+        },
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137080,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Makima",
+        "native": "マキマ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137080-UHcynYNjb5ZU.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137080-UHcynYNjb5ZU.png"
+      },
+      "descripcion": "__Height:__ 168 cm (5'6\")\n__Affiliation:__ Public Safety Devil Hunters\n\nMakima is a Public Safety Devil Hunter, who took [Denji](https://anilist.co/character/130102/Denji) as her human pet. She is one of the leading figures of Public Safety in Japan and has a considerable reputation among experienced Devil Hunters.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        },
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        },
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137079,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Power",
+        "native": "パワー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137079-6yLEUYR3bmpr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137079-6yLEUYR3bmpr.png"
+      },
+      "descripcion": "__Height:__ 170 cm (5'7\")\n\nPower is a fiend, a dead body possessed by a devil.\n\nShe is a Public Safety Devil Hunter who works (against her will) under [Makima](https://anilist.co/character/137080/Makima) as a member of an experimental squad in Tokyo Special Division 4. She works alongside her partner [Denji](https://anilist.co/character/130102/Denji), and under supervision by [Aki Hayakawa](https://anilist.co/character/137081/Aki-Hayakawa).\n\nPower is childish, greedy, and almost entirely self-motivated. She tends to fights if she has something to gain and is certain of her victory and has no problems in running away from a fight where she is outmatched. She also feels the need to boast her superiority over her fellow Devil Hunters due to her status as a fiend. She has no loyalty to humanity, openly admitting that she will join the winning side. Power is often rude, unkempt, and feels as though those around her should clean up after her. She self-admittedly rarely bathes or flushes the toilet and sees humans as being sensitive for caring about their hygiene so much. As the Blood Fiend, she has the power to freely manipulate the blood within her own body.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        },
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        },
+        {
+          "id": 198726,
+          "title": {
+            "romaji": "Chainsaw Biyori",
+            "english": "Chainsaw Days",
+            "native": "チェンソー びより"
+          }
+        },
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 148740,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Reze",
+        "native": "レゼ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b148740-ceAibPxLW8rR.png"
+      },
+      "descripcion": "Reze is a young girl who met [Denji](https://anilist.co/character/130102/Denji) in a phone cabin. She works at a local café and is a kind and gentle girl who seems to have a crush on Denji soon after meeting him. She laughs at his jokes and isn't afraid to get close to and intimate with him.\n\n~!‌‌‌‌‌‌‌‌She is secretly the Bomb Devil hybrid, owned by the Soviet Union and allied to the Gun Devil. Her true personality is manipulative and brutal, as she is shown killing many Devil Hunters without care or mercy. She does, however, not enjoy killing and prefers to avoid it, unless necessary for her mission. Her objective is to retrieve the Chainsaw Heart from Denji, but the feelings she developed for him quickly made things more complicated.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        },
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        },
+        {
+          "id": 204080,
+          "title": {
+            "romaji": "IRIS OUT",
+            "english": null,
+            "native": "IRIS OUT"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174264,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akane Sawatari ",
+        "native": "沢渡アカネ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174264-dLiZkMXoltQ9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174264-dLiZkMXoltQ9.png"
+      },
+      "descripcion": "__Devil Contract:__ [Snake Devil](https://anilist.co/character/174269/Hebi-no-Akuma)\n\nAn enigmatic former Private Detective Hunter, she pledged her allegiance with the [Gun Devil](https://anilist.co/character/208942/Juu-no-Akuma) after making a contract with him and as a result, she seeks to obtain [Denji](https://anilist.co/character/130102/Denji)'s heart for her master. To that end, she conspires with members of the yakuzas, including the likes of [Katana Man](https://anilist.co/character/157241/Samurai-Sword), while acting as a weapons dealer for them in order to obtain Denji's heart easier.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 162129,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aldo",
+        "native": "アルド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162129-00gT6tLfmrec.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162129-00gT6tLfmrec.png"
+      },
+      "descripcion": "__Devil Contract:__ Skin Devil\n__Relatives:__ [Joey](https://anilist.co/character/162124/Joey)\n\nAldo is a private devil hunter from the United States. ",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157232,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Beam",
+        "native": "ビーム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157232-5GuWeqoFN9Kq.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157232-5GuWeqoFN9Kq.jpg"
+      },
+      "descripcion": "__Height:__ 165 cm (With fin: 176 cm)\n\nHe is a Shark Fiend and a Public Safety Devil Hunter from Special Division 4.\n\nBeam is very eccentric. He often goes along with [Denji](https://anilist.co/character/130102/Denji)'s plans no matter how crazy they are due to having a lot of respect for the [Chainsaw Devil](https://anilist.co/character/170266/Pochita).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        },
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        },
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157231,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Bouryoku no Majin",
+        "native": "暴力の魔人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157231-hV81SwGqxl2R.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157231-hV81SwGqxl2R.jpg"
+      },
+      "descripcion": "He is a Fiend and Public Safety Devil Hunter from Special Division 4.\n\nDespite his moniker as the Violence Fiend, he is extremely polite and straightforward. He apologized to [Beam](https://anilist.co/character/157232/Beam) after hitting him in self-defense and told the [Spider Devil](https://anilist.co/character/157277/Prinz) to evacuate the area when he mistook her for a human lady.\n\n~!He is later partnered with [Kobeni Higashiyama](https://anilist.co/character/144594/Higashiyama-Kobeni) following the events of the Katana Man Arc!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        },
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        },
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 172890,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Cosmo",
+        "native": "コスモ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b172890-l35ftRwlTBwh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b172890-l35ftRwlTBwh.png"
+      },
+      "descripcion": "A member of [Quanxi](https://anilist.co/character/162123/Quanxi)'s harem, Cosmo is seen only saying \"Halloween.\"",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174268,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Doitsu no Santa Claus ",
+        "native": "ドイツのサンタクロース"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174268-6hOGseNoWTsA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174268-6hOGseNoWTsA.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157240,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eien no Akuma",
+        "native": "永遠の悪魔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157240-dQJO3S7285nW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157240-dQJO3S7285nW.png"
+      },
+      "descripcion": "The Eien no Akuma is a devil that embodies the fear of eternity. He is the primary antagonist of the titular Eternity Devil arc.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 403939,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fuku Taichou",
+        "native": "副隊長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b403939-M5w9YTMa1pUM.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b403939-M5w9YTMa1pUM.jpg"
+      },
+      "descripcion": "He is the vice captain of Division 2",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 172885,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fushi",
+        "native": "伏"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b172885-hvF2nRMCqNaX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b172885-hvF2nRMCqNaX.png"
+      },
+      "descripcion": "A Public Safety Devil Hunter.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 403940,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Futamichi no Master",
+        "native": "二道のマスター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": "The owner of the coffee shop where [Reze](https://anilist.co/character/148740/Reze) works.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 144596,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Himeno",
+        "native": "姫野"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144596-kvL6SD2litJu.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b144596-kvL6SD2litJu.png"
+      },
+      "descripcion": "__Height:__ 175 cm (5'9\")\n__Devil Contract:__ [Ghost Devil](https://anilist.co/character/174262/Yuurei-no-Akuma)\n__Relatives:__ [Unnamed Younger Sister](https://anilist.co/character/174283/Himeno-no-Imouto)\n\nA Public Safety Devil Hunter, working under [Makima](https://anilist.co/character/137080/Makima) as a member of Tokyo Special Division 4. She is partnered with [Aki Hayakawa](https://anilist.co/character/137081/Aki-Hayakawa), whom she shares a close personal bond with.\n\nHimeno is shown to be a mature and experienced superior to the new recruits working under her. She generally carries herself with an upbeat body language and is capable of staying calm under extremely stressful situations. Himeno is very efficient and blunt in her duty as a Devil Hunter. Himeno is also shown to be a rather caring and empathetic person, however she does have a sterner side and little tolerance for behavior from new recruits that would endanger or harm her subordinates. \n\nHimeno holds an extremely pessimistic worldview as a result of having witnessed multiple partners die suddenly in her line of work. Her knowledge that Devil Hunters typically die as a result of their career combined with the teachings of her [master](https://anilist.co/character/144593/Kishibe) eventually lead to her developing a nicotine addiction as a coping mechanism. She also tends to acts extremely aloof and sexual, enjoying a hedonistic lifestyle. However, similarly to her smoking addiction, her hedonistic ways are not used as pleasure, but rather as another defense mechanism.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        },
+        {
+          "id": 198726,
+          "title": {
+            "romaji": "Chainsaw Biyori",
+            "english": "Chainsaw Days",
+            "native": "チェンソー びより"
+          }
+        }
+      ]
+    },
+    {
+      "id": 162080,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hirofumi Yoshida",
+        "native": "吉田博文"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162080-fbX6t96GUQpo.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162080-fbX6t96GUQpo.jpg"
+      },
+      "descripcion": "Hirofumi Yoshida is a Private Devil Hunter.\n\nConsidered a high-class bodyguard specialist by [Makima](https://anilist.co/character/137080/Makima). Yoshida always has a smile on his face, he is seen to be quite playful and mischievous but can also be ruthless. He also loves to have small talk with his opponents during battle.\n\n~!He has a contract with the [Octopus Devil](https://anilist.co/character/394350/Tako-no-Akuma).!~ ~!During a conversation with [Kishibe](https://anilist.co/character/144593/Kishibe) it is revealed that he is still attending high school.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174263,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hirokazu Arai ",
+        "native": "荒井ヒロカズ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174263-TTMWfBlU1k3f.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174263-TTMWfBlU1k3f.png"
+      },
+      "descripcion": "__Devil Contract:__ [Fox Devil](https://anilist.co/character/290671/Kitsune-no-Akuma)\n\nA Public Safety Devil Hunter, he is a new recruit working under [Makima](https://anilist.co/character/137080/Makima) as a member of Tokyo Special Division 4. He is partnered with [Kobeni Higashiyama](https://anilist.co/character/144594/Kobeni-Higashiyama).\n\nHirokazu is shown to have high moral standards and cares a lot about his teammates and their wellbeing, going out of his way to assist and support others whenever possible, especially towards those who are sick. He was trained by [Himeno](https://anilist.co/character/144596) for half a year. Himeno has stated that what he lacks in ability, he makes up for in drive. He likes writing haikus in his free time as a hobby.",
+      "genero": "Male",
+      "edad": "22",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174275,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hiru no Akuma",
+        "native": "ヒルの悪魔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174275-cCAGptyn7ZrR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174275-cCAGptyn7ZrR.png"
+      },
+      "descripcion": "The Leech Devil is a devil that embodies the fear of leeches. ~!She is the secondary antagonist of the Bat Devil arc.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174277,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Katou",
+        "native": "加藤"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174277-M7koGJI5jVwh.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174277-M7koGJI5jVwh.png"
+      },
+      "descripcion": "__Devil Contract:__ Mold Devil\n\nKato is a Devil Hunter from Public Safety Devil Extermination Division 2 Tokyo.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 144593,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kishibe",
+        "native": "岸辺"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144593-hdCTT9t54z0s.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b144593-hdCTT9t54z0s.png"
+      },
+      "descripcion": "__Height:__ 194 cm\n__Devil Contracts:__ ~!Claw Devil, Knife Devil, Needle Devil!~\n\nA Public Safety Devil Hunter from Special Division 1. ~!After the assault on the Special Divisions, he became captain of the Special Division 4.!~\n\nKishibe is a grizzled man with scraggly facial hair and a stitched scar running across his left cheek from his mouth. He normally wears the standard Public Safety devil hunter uniform with a large overcoat. He has two piercings on his left ear, and one on his right ear. He is often seen with a hip flask which he frequently drinks from. Kishibe is a stoic, straightforward individual. Due to his immense strength and skill, he often undertakes his work with a calm formality, displaying little emotion as he does so. Though he tends to speak in a relaxed, polite manner, his actions often showcase an immense brutality garnered through many years of Devil Hunting. Though he sometimes expresses emotions such as surprise and sadness at certain events, his face and voice remain entirely neutral. Kishibe has been hunting devils for a long time, making him somewhat insane. He espouses a belief that the most fearsome devil hunters to devils isn't the brave or the strong, but the craziest as they are the ones without fear. He admits that he enjoys booze, women and killing devils.\n\n~!He is the former partner of [Quanxi](https://anilist.co/character/162123/Quanxi).!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        },
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        },
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 290671,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kitsune no Akuma",
+        "native": "狐の悪魔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290671-YaauAZvHLnyo.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b290671-YaauAZvHLnyo.png"
+      },
+      "descripcion": "The Fox Devil is a devil that embodies the fear of foxes. \n\nIt is friendly with humans, allowing numerous Devil Hunters to make contracts with itself. However it only grants attractive people the ability to summon its head, showing a rather superficial side of itself.\n\n**Known Contractors:** \n~! [Aki Hayakawa](https://anilist.co/character/137081/Aki-Hayakawa), [Hirokazu Arai](https://anilist.co/character/174263/Hirokazu-Arai), [Nomo](https://anilist.co/character/174266/Nomo)!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        },
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 144594,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kobeni Higashiyama",
+        "native": "東山コベニ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144594-0dbO1NSYeZ12.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b144594-0dbO1NSYeZ12.png"
+      },
+      "descripcion": "__Height:__ 155 cm\n\nA Public Safety Devil Hunter, she is a new recruit working under [Makima](https://anilist.co/character/137080/Makima) as a member of Tokyo Special Division 4. She is partnered with [Hirokazu Arai](https://anilist.co/character/174263).\n\nShe is not very courageous and gets scared easily by devils. Kobeni is shown to easily crack under pressure and break into tears during serious moments. Even though Kobeni is timid, she is pretty talented as a devil hunter. When Kobeni gets into action, she has proven to be cool-headed and efficient in battle, only breaking down in a panic once the fighting is over. Kobeni chooses to keep her devil contract a secret.",
+      "genero": "Female",
+      "edad": "20-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        },
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        },
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174272,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Koumori no Akuma",
+        "native": "コウモリの悪魔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174272-cU9W4oNykNM0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174272-cU9W4oNykNM0.png"
+      },
+      "descripcion": "The Bat Devil is a devil who embodies the fear of bats.\n\n~!He is the primary antagonist of the titular Bat Devil arc and a minor antagonist in the Justice Devil arc.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 162079,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kusakabe",
+        "native": "日下部"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162079-ncDSoNknSOyi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162079-ncDSoNknSOyi.png"
+      },
+      "descripcion": "__Devil Contract:__ Stone Devil\n\nKusakabe is a Devil Hunter from Miyagi Public Safety Devil Extermination Division 2.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 172889,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Long",
+        "native": "ロン"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b172889-v5ZoNSOVVTcp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b172889-v5ZoNSOVVTcp.png"
+      },
+      "descripcion": "One of [Quanxi](https://anilist.co/character/162123/Quanxi)'s fiends, and one of her harem members.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174267,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Madoka",
+        "native": "円"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174267-2VJVkMILqQpY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174267-2VJVkMILqQpY.png"
+      },
+      "descripcion": "A Public Safety Devil Hunter. ~!After the assault on the Devil Hunters by the [Gun Devil](https://anilist.co/character/208942/Juu-no-Akuma-)'s associates, he was one of the few survivors and decided to leave his job as a Devil Hunter.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174285,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Masaki Andou",
+        "native": "安藤マサキ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174285-1xeZ6Vd7sP0y.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174285-1xeZ6Vd7sP0y.png"
+      },
+      "descripcion": "Masaki Ando is a Devil Hunter from Public Safety Devil Extermination Division 2 Tokyo.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 144595,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Michiko Tendou",
+        "native": "天童ミチコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144595-R8Lfn0egUR3q.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b144595-R8Lfn0egUR3q.png"
+      },
+      "descripcion": "__Height:__ 175 cm (5'9\")\n__Devil Contracts:__ ~![Punishment Devil](https://anilist.co/character/306237/Batsu-no-Akuma)!~\n\nA Public Safety Devil Hunter from Kyoto. She is partnered with [Yuutarou Kurose](https://anilist.co/character/144592/Yuutarou-Kurose).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        },
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 172887,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mirai no Akuma",
+        "native": "未来の悪魔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b172887-qMCjXPXMSKRk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b172887-qMCjXPXMSKRk.png"
+      },
+      "descripcion": "The Future Devil is a devil that embodies the fear of the future. ~!After seeing [Aki Hayakawa](https://anilist.co/character/137081/Aki-Hayakawa)'s future, it made a contract with him, so he can see that future himself.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174270,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Namako no Akuma",
+        "native": "ナマコの悪魔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174270-JcnbKLMlxrkn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174270-JcnbKLMlxrkn.png"
+      },
+      "descripcion": "The Sea Cucumber Devil is a devil that embodies the fear of sea cucumbers.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 378316,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nazo no Otoko",
+        "native": "謎の男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b378316-kR8JoyqCEPMA.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b378316-kR8JoyqCEPMA.png"
+      },
+      "descripcion": "Private Devil Hunter who attempted to lure [Denji](https://anilist.co/character/130102/Denji) out by targeting [Reze](https://anilist.co/character/148740/Reze).\n\nHe has sadistic personality, taking pleasure in torturing his targets' loved ones in order to break them down.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174266,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nomo",
+        "native": "野茂"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174266-ap8QWVGmsZ3K.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174266-ap8QWVGmsZ3K.png"
+      },
+      "descripcion": "__Devil Contract:__ [Fox Devil](https://anilist.co/character/290671/Kitsune-no-Akuma)\n\nNomo is a Devil Hunter from Public Safety Devil Extermination Division 2 Tokyo.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174265,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Noroi no Akuma",
+        "native": "呪いの悪魔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174265-NsRTeM1eAals.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174265-NsRTeM1eAals.png"
+      },
+      "descripcion": "The Curse Devil is a Devil that embodies the fear of curses.\n\n__Known Contractors:__\n~![Aki Hayakawa](https://anilist.co/character/137081/Aki-Hayakawa), [Tolka's Master](https://anilist.co/character/172888/Tolka-no-Shishou)!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174271,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nyaako",
+        "native": "ニャーコ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174271-iC0Ul9YfLOk6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174271-iC0Ul9YfLOk6.png"
+      },
+      "descripcion": "[Power](https://anilist.co/character/137079/Power)'s cat. ~!Now currently owned by [Denji](https://anilist.co/character/130102/Denji).!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        },
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 172891,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pingtsi",
+        "native": "ピンツィ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b172891-FrW2rKbqRTd8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b172891-FrW2rKbqRTd8.png"
+      },
+      "descripcion": "One of [Quanxi's](https://anilist.co/character/162123/Quanxi) fiends, and one of her harem members.\n\nPingtsi is a very cheerful, talkative girl who likes to share useless facts in order to impress or entertain Quanxi.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 170266,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Pochita",
+        "native": "ポチタ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b170266-bBXPkNJnd3mg.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b170266-bBXPkNJnd3mg.png"
+      },
+      "descripcion": "Pochita appears to be a small red canine with a chainsaw like appendage protruding from the center of his head. Handles emerge from his body allowing him to be wielded like a chainsaw and his short tail is in the shape of a chainsaw's pull cord. Unlike most devils, Pochita communicated solely through barks and whines like an actual dog.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        },
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        },
+        {
+          "id": 198726,
+          "title": {
+            "romaji": "Chainsaw Biyori",
+            "english": "Chainsaw Days",
+            "native": "チェンソー びより"
+          }
+        },
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157277,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Prinz",
+        "native": "プリンシ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157277-h6M1umQ3N2ve.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157277-h6M1umQ3N2ve.jpg"
+      },
+      "descripcion": "She is a devil who embodies the fear of spiders, and is a Public Safety Devil Hunter from Special Division 4.\n\nThe Spider Devil usually takes a human shape so she tends to be friendly to humans and works as a devil hunter herself, however she will still kill people for just looking at her the wrong way.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        },
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 162123,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Quanxi",
+        "native": "クァンシ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162123-GmQLb9p2iWxQ.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162123-GmQLb9p2iWxQ.jpg"
+      },
+      "descripcion": "Quanxi is a devil hunter from China. She has a harem composed of four female fiends.  ~!She is the former partner of [Kishibe](https://anilist.co/character/144593/Kishibe.).!~ ~!Just like [Denji](https://anilist.co/character/130102/Denji), Quanxi is also hybrid. She is fused with the Crossbow Devil.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157241,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Samurai Sword",
+        "native": "サムライソード"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157241-GkgQVzkFrmUD.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b157241-GkgQVzkFrmUD.jpg"
+      },
+      "descripcion": "Samurai Sword is a human-devil hybrid who merged with the Katana Devil. His [grandfather](https://anilist.co/character/289198/Yakuza) was killed by [Denji](https://anilist.co/character/130102/Denji) when they initially fused with [Pochita](https://anilist.co/character/170266/Pochita), and because of that, he affiliated with the [Gun Devil](https://anilist.co/character/208942/Juu-no-Akuma) to get revenge on Denji. He works alongside [Akane Sawatari](https://anilist.co/character/174264/Akane-Sawatari) and other fellow members of the Yakuza.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174276,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Taifuu no Akuma",
+        "native": "台風の悪魔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174276-stAdWlAYg0y1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174276-stAdWlAYg0y1.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174261,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Taiyou",
+        "native": "タイヨウ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174261-qRcr40Q3zsyM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174261-qRcr40Q3zsyM.png"
+      },
+      "descripcion": "[Aki Hayakawa](https://anilist.co/character/137081)'s younger brother.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174280,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tanabe",
+        "native": "田辺"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174280-tfDQTac63uq4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174280-tfDQTac63uq4.png"
+      },
+      "descripcion": "__Devil Contract:__ Mold Devil\n\nTanabe is a Devil Hunter from Public Safety Devil Extermination Division 2 Tokyo.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 152231,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tenshi no Akuma",
+        "native": "天使の悪魔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b152231-jiMRx9je7H6y.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b152231-jiMRx9je7H6y.png"
+      },
+      "descripcion": "__Height:__ 155 cm\n\nAngel Devil is a devil who embodies the fear of angels, and a Public Safety Devil Hunter from Special Division 4.\n\nThe Angel Devil is a unique case among devils having virtually no hostility towards humans. He dislikes being ordered around and doesn't seem inclined towards combat. His extreme laziness holds him back from being a strong fighter and he often refuses to work, even claiming to prefer dying to working.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        },
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        },
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174279,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tolka",
+        "native": "トーリカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174279-C8UY2A5oLTph.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174279-C8UY2A5oLTph.png"
+      },
+      "descripcion": "Tolka is a private devil hunter from the Soviet Union.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 172888,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tolka no Shishou",
+        "native": "トーリカの師匠"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b172888-gmaZJ0PeLNM6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b172888-gmaZJ0PeLNM6.png"
+      },
+      "descripcion": "A Devil Hunter who has a contract with the [Curse Devil](https://anilist.co/character/174265/Noroi-no-Akuma). Only has six months left to live. [Tolka](https://anilist.co/character/174279/Tolka)'s master.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289200,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tomato no Akuma",
+        "native": "トマトの悪魔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289200-mkFXS4A4MRBp.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289200-mkFXS4A4MRBp.jpg"
+      },
+      "descripcion": "The Tomato Devil is a devil that embodies the fear of tomatoes. ~!The Tomato Devil was walking around a house, when [Denji](https://anilist.co/character/130102/Denji) with the help of [Pochita](https://anilist.co/character/170266/Pochita) went and killed him.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 199766,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tsugihagi",
+        "native": "ツギハギ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b199766-byV68lheQ2q4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b199766-byV68lheQ2q4.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289198,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yakuza",
+        "native": "ヤクザ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289198-QxBRgBSAVkkK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289198-QxBRgBSAVkkK.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174262,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuurei no Akuma",
+        "native": "幽霊の悪魔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174262-e1ctdgffT3MP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174262-e1ctdgffT3MP.png"
+      },
+      "descripcion": "The Ghost Devil is a devil that embodies the fear of ghosts. \n\n**Known Contractors:** ~![Himeno](https://anilist.co/character/144596/Himeno)!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 144592,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuutarou Kurose",
+        "native": "黒瀬ユウタロウ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144592-pUY67nacCeud.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b144592-pUY67nacCeud.png"
+      },
+      "descripcion": "__Height:__ 165 cm (5'5\")\n__Devil Contract:__ ~![Punishment Devil](https://anilist.co/character/306237/Batsu-no-Akuma)!~\n\nA Public Safety Devil Hunter from Kyoto. He is partnered with [Michiko Tendou](https://anilist.co/character/144595/Michiko-Tendou).\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        },
+        {
+          "id": 204429,
+          "title": {
+            "romaji": "Chainsaw Man: Shikaku-hen",
+            "english": null,
+            "native": "チェンソーマン 刺客篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174282,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Zombie no Akuma",
+        "native": "ゾンビの悪魔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174282-YFLwuvogHMod.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174282-YFLwuvogHMod.png"
+      },
+      "descripcion": "A devil contracted by [Denji's](https://anilist.co/character/130102/Denji) yakuza employer at the beginning of the series and the first that Denji killed as the Chainsaw Man. Any person it bit would become a zombie.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294172,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Announcer",
+        "native": "アナウンサー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295191,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Announcer",
+        "native": "アナウンス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293138,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Buka",
+        "native": "部下"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293138-IyZYvwfHzbub.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293138-IyZYvwfHzbub.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289201,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Buka A",
+        "native": "部下A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289201-dzChKYumlaoe.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289201-dzChKYumlaoe.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289202,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Buka B",
+        "native": "部下B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289202-bcTrt145iS8Z.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289202-bcTrt145iS8Z.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174284,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Buta no Akuma",
+        "native": "豚の悪魔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174284-JvwoPbQEmKkw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174284-JvwoPbQEmKkw.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 171627,
+          "title": {
+            "romaji": "Chainsaw Man: Reze-hen",
+            "english": "Chainsaw Man – The Movie: Reze Arc",
+            "native": "チェンソーマン レゼ篇"
+          }
+        }
+      ]
+    },
+    {
+      "id": 290333,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Chichi",
+        "native": "父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290333-XXbn2fobH9VV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b290333-XXbn2fobH9VV.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 292667,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Dansei Kain",
+        "native": "男性課員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b292667-MA9inlE18QjR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b292667-MA9inlE18QjR.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 311678,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Denji no Chichi",
+        "native": "デンジの父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311678-oRIk6xOjKo6Q.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b311678-oRIk6xOjKo6Q.png"
+      },
+      "descripcion": "This unnamed man was the father of [Denji](https://anilist.co/character/130102/Denji). ~!When Denji was young he killed his father in self defense, as his father was in a drunken aggressive state and he feared for his life. His father's murder was ruled a suicide by the adults in Denji’s life as acknowledging his death as a murder would mean they would be unable to get any money from his death. After his death, Denji inherits his debt to the Yakuza.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294738,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Furuno",
+        "native": "古野"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b294738-mQPmNepLSuLH.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b294738-mQPmNepLSuLH.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293669,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hanzaisha A",
+        "native": "犯罪者A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293670,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hanzaisha B",
+        "native": "犯罪者B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 291240,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hayakawa Chichioya",
+        "native": "早川父親"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b291240-DdaFQl3fWFfa.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b291240-DdaFQl3fWFfa.png"
+      },
+      "descripcion": "Aki Hayakawa's father.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 291241,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hayakawa Hahaoya",
+        "native": "早川母親"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b291241-aKmKz7L1b2eQ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b291241-aKmKz7L1b2eQ.png"
+      },
+      "descripcion": "Aki Hayakawa's mother.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174283,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Himeno no Imouto",
+        "native": "姫野の妹"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174283-WfXe3FLaEi3y.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174283-WfXe3FLaEi3y.png"
+      },
+      "descripcion": "[Himeno](https://anilist.co/character/144596/Himeno)'s sister.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293671,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Hitojichi no Josei",
+        "native": "人質の女性"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 292666,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Josei Kain",
+        "native": "女性課員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b292666-NurASZuLVcGT.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b292666-NurASZuLVcGT.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 290331,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Josei OL",
+        "native": "女性OL"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290331-3YiMZNhGHnyw.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b290331-3YiMZNhGHnyw.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293665,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Joukyaku A",
+        "native": "乗客A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 290329,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kanbu A",
+        "native": "幹部A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290329-6W0zR4DM3cYf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b290329-6W0zR4DM3cYf.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 290330,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kanbu C",
+        "native": "幹部C"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290330-eilQqOmcgww0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b290330-eilQqOmcgww0.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289762,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Keikan A",
+        "native": "警官A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289763,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Keikan B",
+        "native": "警官B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289764,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Keikan C",
+        "native": "警官C"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289764-ZEF1QmvBodz0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289764-ZEF1QmvBodz0.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289199,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kobun",
+        "native": "子分"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289199-QfzL8iFhjUPY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289199-QfzL8iFhjUPY.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293660,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kobun A",
+        "native": "子分A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294730,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kobun A",
+        "native": "子分A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293661,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kobun B",
+        "native": "子分B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294731,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kobun B",
+        "native": "子分B"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293663,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kobun C",
+        "native": "子分C"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294732,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kobun C",
+        "native": "子分C"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293664,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kobun D",
+        "native": "子分D"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294733,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kobun D",
+        "native": "子分D"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294736,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kumichou",
+        "native": "組長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289765,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Majin",
+        "native": "魔人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289765-MDgL4Q9AGqW3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289765-MDgL4Q9AGqW3.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289766,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Minkan no Devil Hunter",
+        "native": "民間のデビルハンター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289766-NUUV6DUuH3LH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289766-NUUV6DUuH3LH.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 290334,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Musume",
+        "native": "娘"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290334-leoCv0yz9AHk.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b290334-leoCv0yz9AHk.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295193,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Nigeokureta Jyoukyaku",
+        "native": "逃げ遅れた乗客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 295192,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Oootoko Zombie",
+        "native": "大男ゾンビ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293666,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Otoko A",
+        "native": "男A"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293139,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Otoko no Koe",
+        "native": "男の声"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174273,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Sakana no Akuma",
+        "native": "魚の悪魔"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174273-Du3q4e65DU7k.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174273-Du3q4e65DU7k.png"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 290335,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shanai no Otoko",
+        "native": "車内の男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290335-K5bjq1SxTaZi.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b290335-K5bjq1SxTaZi.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 294737,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shiina",
+        "native": "椎名"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b294737-xNHNlLwqBSuw.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b294737-xNHNlLwqBSuw.jpg"
+      },
+      "descripcion": "Kanagawa prefectural police",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 293667,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shokuin",
+        "native": "職員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 401235,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shuuzou Mishima",
+        "native": "三島シュウゾウ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b401235-eDIkKgcqIv1h.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b401235-eDIkKgcqIv1h.png"
+      },
+      "descripcion": "Shuzo Mishima is a civilian working for [Samurai Sword](https://anilist.co/character/157241/Samurai-Sword) and [Akane Sawatari](https://anilist.co/character/174264/Akane-Sawatari).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 401236,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Takashi Inoue",
+        "native": "井上タカシ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b401236-90Wd05VeF1f1.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b401236-90Wd05VeF1f1.jpg"
+      },
+      "descripcion": "Takashi Inoue is a civilian working for [Samurai Sword](https://anilist.co/character/157241/Samurai-Sword) and [Akane Sawatari](https://anilist.co/character/174264/Akane-Sawatari).",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289761,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tenin",
+        "native": "店員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289761-DdsSEjykcqoz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289761-DdsSEjykcqoz.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 290199,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Uketsuke Shokuin",
+        "native": "受付職員"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290199-WoD8xG4Bcchf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b290199-WoD8xG4Bcchf.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289203,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Zombie-tachi",
+        "native": "ゾンビ達"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289204,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Zombie-tachi",
+        "native": "ゾンビ達"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289205,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Zombie-tachi",
+        "native": "ゾンビ達"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289206,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Zombie-tachi",
+        "native": "ゾンビ達"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 127230,
+          "title": {
+            "romaji": "Chainsaw Man",
+            "english": "Chainsaw Man",
+            "native": "チェンソーマン"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 105,
+  "actualizado": 1788565563
+}

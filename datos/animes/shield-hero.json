@@ -1,0 +1,2829 @@
+{
+  "clave": "shield-hero",
+  "nombre": "The Rising of the Shield Hero",
+  "descripcion": "Tate no Yuusha no Nariagari",
+  "generos": [
+    "Isekai",
+    "Fantasía",
+    "Acción"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99263-LcazQwdlWzMy.jpg",
+  "medios": [
+    {
+      "id": 99263,
+      "title": {
+        "romaji": "Tate no Yuusha no Nariagari",
+        "english": "The Rising of the Shield Hero",
+        "native": "盾の勇者の成り上がり"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99263-LcazQwdlWzMy.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99263-LcazQwdlWzMy.jpg"
+      }
+    },
+    {
+      "id": 111321,
+      "title": {
+        "romaji": "Tate no Yuusha no Nariagari Season 2",
+        "english": "The Rising of the Shield Hero Season 2",
+        "native": "盾の勇者の成り上がり Season 2"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111321-dIr3dEKOIPer.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111321-dIr3dEKOIPer.png"
+      }
+    },
+    {
+      "id": 111322,
+      "title": {
+        "romaji": "Tate no Yuusha no Nariagari Season 3",
+        "english": "The Rising of the Shield Hero Season 3",
+        "native": "盾の勇者の成り上がり Season 3"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111322-2jQMDQva4YD7.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111322-2jQMDQva4YD7.png"
+      }
+    },
+    {
+      "id": 173780,
+      "title": {
+        "romaji": "Tate no Yuusha no Nariagari Season 4",
+        "english": "The Rising of the Shield Hero Season 4",
+        "native": "盾の勇者の成り上がり Season 4"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173780-O7v1YfXg61JT.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173780-O7v1YfXg61JT.png"
+      }
+    },
+    {
+      "id": 199185,
+      "title": {
+        "romaji": "Tate no Yuusha no Nariagari Season 5",
+        "english": null,
+        "native": "盾の勇者の成り上がり Season 5"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199185-1svTWhAN0Orh.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199185-1svTWhAN0Orh.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 136955,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Atla",
+        "native": "アトラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136955-4zoLeh3POM1e.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136955-4zoLeh3POM1e.jpg"
+      },
+      "descripcion": "A cursed slave of Naofumi Iwatani and the sister of Fohl. She carries a hereditary illness in which she cannot see or walk, and has an expected short life expectancy. Naofumi, however, restores her health with a Yggrasil Medicine, curing her. She is still blind but can sense the ki of other beings. Due to Naofumi being her savior, she holds strong romantic feelings toward him.\n\n~!Atla later dies. Soon after her death, Naofumi absorbed her into his shield. She then becomes a spirit the resides within the Legendary Shield.!~",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        },
+        {
+          "id": 199185,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 5",
+            "english": null,
+            "native": "盾の勇者の成り上がり Season 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126828,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Filo",
+        "native": "フィーロ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126828-nZDnMK4Bw7f9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126828-nZDnMK4Bw7f9.png"
+      },
+      "descripcion": "**Age:** <1 (mentally), 10 (physically)\n**Race:** Filolial\n\nFilo was originally hatched from a monster egg which Naofumi purchased from the slave trader.\n\nFilo grew at an abnormally fast rate and in just a few days grown into a fully grown Filolial later developing into a rare species of Filolial Queen where she was later given the ability to transform into a humanoid form strongly resembling a Angel and the ability to talk due to her association with the Shield Hero and the effects of the Legendary Shield.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World",
+            "native": "異世界かるてっと ～あなざーわーるど～"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        },
+        {
+          "id": 194447,
+          "title": {
+            "romaji": "Isekai Quartet 3",
+            "english": "Isekai Quartet 3",
+            "native": "異世界かるてっと 3"
+          }
+        },
+        {
+          "id": 199185,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 5",
+            "english": null,
+            "native": "盾の勇者の成り上がり Season 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 188514,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Fohl ",
+        "native": "フォウル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b188514-lQWAWOWDYy6X.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b188514-lQWAWOWDYy6X.png"
+      },
+      "descripcion": "A cursed slave of Naofumi Iwatani and the brother of Atla.\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        },
+        {
+          "id": 199185,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 5",
+            "english": null,
+            "native": "盾の勇者の成り上がり Season 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88817,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Naofumi Iwatani",
+        "native": "岩谷尚文"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88817-Aku5CuN6wO2z.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88817-Aku5CuN6wO2z.png"
+      },
+      "descripcion": "A university student that was summoned to another world as the Shield Hero. Typically unsociable, he's friendly and easy-going to those close to him.\n\n~!After being abandoned by [Malty](https://anilist.co/character/129808) and being treated as a criminal by the people of the world, He unlocked the curse series. The sin he has unlocked is Wrath (against the people of the world).!~",
+      "genero": "Male",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World",
+            "native": "異世界かるてっと ～あなざーわーるど～"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        },
+        {
+          "id": 194447,
+          "title": {
+            "romaji": "Isekai Quartet 3",
+            "english": "Isekai Quartet 3",
+            "native": "異世界かるてっと 3"
+          }
+        },
+        {
+          "id": 199185,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 5",
+            "english": null,
+            "native": "盾の勇者の成り上がり Season 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88889,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Raphtalia",
+        "native": "ラフタリア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88889-CWYytVbCOPsV.png"
+      },
+      "descripcion": "**Race:** Raccoon & Tanuki\n\nRaphtalia is a Tanuki-type Demi-Human who was the first real member of the Shield Hero's party after he purchased her as a slave.\n\n~!Raphtalia later obtain one of the eight vassal weapons from another world granting her the title of Vassal Weapon Wielder and Katana Hero. Due to the passive effects of the Vassal Weapons her slave curse seal was removed.!~",
+      "genero": "Female",
+      "edad": "10 (mentally), 18 (biologically)",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2",
+            "native": "異世界かるてっと 2"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World",
+            "native": "異世界かるてっと ～あなざーわーるど～"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        },
+        {
+          "id": 194447,
+          "title": {
+            "romaji": "Isekai Quartet 3",
+            "english": "Isekai Quartet 3",
+            "native": "異世界かるてっと 3"
+          }
+        },
+        {
+          "id": 199185,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 5",
+            "english": null,
+            "native": "盾の勇者の成り上がり Season 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136794,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Rishia Ivyred",
+        "native": "リーシア＝アイヴィレッド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136794-yoJxRXGAGMlo.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136794-yoJxRXGAGMlo.png"
+      },
+      "descripcion": "__Race__: Human\n\nRishia is the daughter of the House of Ivyred, a noble family. Due to an unfortunate string of events, the family had grown poor and she was forcefully taken as ransom by a neighboring family in exchange for gold. She was rescued by The Bow Hero, whom she would later devote her life to.\n\n~!To show her gratitude and support for her savior, Rishia would go on to join Itsuki's party. She would then be treated as an errand girl, carrying food and supplies for the Bow Hero's party, leaving her talent in magic unused and untapped.!~",
+      "genero": "Female",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        },
+        {
+          "id": 199185,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 5",
+            "english": null,
+            "native": "盾の勇者の成り上がり Season 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 187435,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Sadeena",
+        "native": "サディナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187435-gHaN7xEqVEe9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187435-gHaN7xEqVEe9.png"
+      },
+      "descripcion": "__Race:__ Killer Whale\n\nSadeena was born and grew up in Q'ten Lo islands in a special lineage related to the devotion of the God Water Dragon and the Heavenly Emperor. At some point in her adolescence, she became the head priest of the Water Dragon and became friends with the heir of Q'ten Lo throne, Raphtalia's father. After that, under unknown circumstances, she decided to follow Raphtalia's parents when they decided to elope from the country, leaving behind her old life.\n\nAfter leaving their country, she and Raphtalia's parents settle down in Melromarc's Seaetto territory, as the governor was receiving great quantities of immigrants as part of the Queen's initiative to create a Demi-human protected district. Once she rescued Keel from drowning in the ocean.\n\nSadeena went far away for fishing, in times of wave, unable to return in time to rescue the villagers. Raphtalia and the surviving villagers believe that the catastrophe of the wave and it's monster could be subsumed if Sadeena was present. Sadeena herself regrets not being there in the village in times of the wave.",
+      "genero": "Female",
+      "edad": "23",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        },
+        {
+          "id": 199185,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 5",
+            "english": null,
+            "native": "盾の勇者の成り上がり Season 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317214,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Accessories-shou",
+        "native": "アクセサリー商"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317214-Lr6FjUz4fwm6.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b317214-Lr6FjUz4fwm6.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137277,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ake",
+        "native": "アケ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137277-30o0Wf6CpFtH.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137277-30o0Wf6CpFtH.png"
+      },
+      "descripcion": "He is one of the Juvenile Knights of Melromarc.. He accompanied the Knight squads to Lute Village in times of the wave, to assists the heroes.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133723,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Aultcray Melromarc XXXII",
+        "native": "オルトクレイ＝メルロマルク３２世"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133723-Qc5ZIRbGCmWh.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133723-Qc5ZIRbGCmWh.jpg"
+      },
+      "descripcion": "The king of Melromarc. He shows obvious favoritism towards his daughter [Malty](https://anilist.co/character/129808) and animosity towards the Shield Hero [Naofumi Iwatani](https://anilist.co/character/88817).\n~!\nIt was revealed that Aultcray is the Wand Hero who led his country in a war against demi-humans and beastmen. Through that experience, he holds hatred towards non-human species and promotes the idea of human supremacy in Melromarc. He shows biased hatred towards Naofumi because the Shield Hero is revered as the protector of demi-humans and beastmen.\n\nWhen Queen Mirelia Q Melromarc comes back to Melromarc after resolving diplomatic issues, she strips Aultcray of his authorities due to his ineptitude to properly lead the people and officially changed his name to Trash as punishment for his abuse of power.!~\n\n~!The king's real name was Luge Lances Forbrey and used the alias Luge Lancarose to hide the fact that he was of royal blood when he battled in the front lines during the war. The name Aultcray Melromarc XXXII was adopted when he married Mirelia and became king.\n\nHe was the third legitimate heir to the throne of Forbrey, but lost that privilege when the Hakuko race killed his parents and loved ones. Due to that fact that Forbrey did nothing to retaliate against the Hakuko residing in Siltvelt due to political reasons, Luge began to despise both countries and moved to the human supremacy-promoting country of Melromarc. He later challenged and defeated the Hakuko king.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        },
+        {
+          "id": 199185,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 5",
+            "english": null,
+            "native": "盾の勇者の成り上がり Season 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133722,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Beloukas",
+        "native": "ベロウカ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133722-llVcCnu20CnY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b133722-llVcCnu20CnY.png"
+      },
+      "descripcion": "The slave dealer that sells Naofumi Iwatani many slaves. He also conducts slave and monster seal rituals. Despite his appearance and his trade, he is an honest salesman. Upon Naofumi’s request, he searches for and collects slaves who were former villagers of Raphtalia’s village",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 135197,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Biscas  T. Balmus",
+        "native": "ビスカス . T . バルマス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135197-Z4yVxsGShXdL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135197-Z4yVxsGShXdL.png"
+      },
+      "descripcion": "The highest priest of the Three Heroes Cult. \n~!He used his deep connections in the nation to do away with any opposing authority in the kingdom. He was so narrow-minded that he calls all of his actions \"the will of God\". He also claims that his followers who died in the fight against the Shield Hero will go to Heaven as a holy reward.\n\nWhen wielding the replica of the Legendary Weapons, Biscas shows a visible \"God complex,\" as he proclaimed himself God while labeling evil anyone who opposed him. he masterminded many events and tried to kill all of the heroes. He killed the queen's right-hand man who happens to be Eclair's father so that the authority rest with King Aultcray Melromarc XXXII, who was at the time was very gullible and easy to manipulate.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        }
+      ]
+    },
+    {
+      "id": 289147,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chris",
+        "native": "クリス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b289147-SZaVCpNXXNXo.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b289147-SZaVCpNXXNXo.png"
+      },
+      "descripcion": "A Shikigami created by Kizuna and Glass with the help of Ethnobalt using various monster parts.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316536,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Dorei-shou",
+        "native": "奴隸商"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316536-Xx5x6BSPWE0n.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316536-Xx5x6BSPWE0n.jpg"
+      },
+      "descripcion": "Slave merchant at Zeltoble. He's [Beloukas](https://anilist.co/character/133722)'s uncle and whom bears a striking resemblance.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136788,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eclair Seaetto",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136788-R4A8YUHZSTAb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136788-R4A8YUHZSTAb.png"
+      },
+      "descripcion": "She serves as an overseer for Naofumi Iwatani's village. Eclair also serves as a martial arts instructor for Naofumi's slaves.\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        },
+        {
+          "id": 199185,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 5",
+            "english": null,
+            "native": "盾の勇者の成り上がり Season 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136789,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Elrasla  Grilaroc",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136789-cloAqOx5LMJx.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136789-cloAqOx5LMJx.jpg"
+      },
+      "descripcion": "Elrasla Grilaroc more commonly known as Granny is an old woman who states that her level is the same as her age. She hit the level cap a long time ago. The sole successor of the Mushin Tensou style of martial arts.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133724,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Erhard",
+        "native": "エルハルト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133724-DKBQxDroRlQG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b133724-DKBQxDroRlQG.png"
+      },
+      "descripcion": "Erhard is a blacksmith and a weapon shop owner in the castle town of Melromarc. His shop is the only shop in Melromarc to sell shields while others don't for religious reasons.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": 192585,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ethnobalt",
+        "native": "エスノバルト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b192585-JfRTVzZ4acIR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b192585-JfRTVzZ4acIR.png"
+      },
+      "descripcion": "He is good at finding people. He is also not human",
+      "genero": "Male",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136790,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Fitoria",
+        "native": "フィトリア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136790-6TkN3qYelIhk.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136790-6TkN3qYelIhk.jpg"
+      },
+      "descripcion": "Fitoria is the queen of the Filolials, who rules over them all.\n\nShe has silver hair with thin streaks of light blue, cut in a short bob with three tufts of hair standing up vertically from the crown of her head, like cowlicks. Her eyes are red and her face is small and well composed. She's dressed in a red and white gothic lolita-style dress. She's about the same height as Filo.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136796,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Glass",
+        "native": "グラス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136796-V3uZcLtu2IWo.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136796-V3uZcLtu2IWo.jpg"
+      },
+      "descripcion": "A mysterious girl who seems to be an enemy. ~!She was able to defeat the Sword, Lance and Bow Heroes single-handedly, but lost to Naofumi. She was mistaken as a calamity when she first appeared.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136956,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hickwaal",
+        "native": "ヒックバル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136956-GpzCCWTQVH8X.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136956-GpzCCWTQVH8X.jpg"
+      },
+      "descripcion": "He is the accessory Merchant protected by the shield hero from Bandits and was also the founder and first president of the Hickwaal Company.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        }
+      ]
+    },
+    {
+      "id": 138141,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Idol Rabier",
+        "native": "アイドル・ラビエル"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138141-7mtGZ9tH5mUx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138141-7mtGZ9tH5mUx.png"
+      },
+      "descripcion": "He is a Melromarc nobleman and Raphtalia's previous abusive owner.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        }
+      ]
+    },
+    {
+      "id": 129814,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Itsuki Kawasumi",
+        "native": "川澄樹"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129814-yinjCKhaHQcb.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b129814-yinjCKhaHQcb.png"
+      },
+      "descripcion": "A high school student summoned to another world as the Bow Hero. He is usually calm and well-mannered. However, He has a messiah complex, and is pretty much a justice maniac. He vanquishes evildoers without thinking of the consequences of his actions. However, this is just because he is immature. He doesn't actually have any bad intentions.\n\n~!When the Spirit Turtle revived, Itsuki and the party was forced to challenge it, but the party ran away, leaving him as a sacrifice to the Turtle.!~",
+      "genero": "Male",
+      "edad": "17",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        },
+        {
+          "id": 199185,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 5",
+            "english": null,
+            "native": "盾の勇者の成り上がり Season 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 363129,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Jaralis",
+        "native": "ジャラリス"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b363129-BNm8g5u4vpdW.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b363129-BNm8g5u4vpdW.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": 244843,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Joou no kage",
+        "native": "女王の影"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b244843-Awt8uQOH1Zwm.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b244843-Awt8uQOH1Zwm.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136792,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Keel",
+        "native": "キール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136792-xxCXzkPuyvwr.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136792-xxCXzkPuyvwr.png"
+      },
+      "descripcion": "__Race:__ Wanui\n~!Gender: Female!~\n\nKeel was born and raised in the same village as Raphtalia. Naofumi purchased them as a slave in order to rebuild the village destroyed by the first wave.\n",
+      "genero": null,
+      "edad": "10 (initial), 15 (post-level)",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136957,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kishi Danchou",
+        "native": "騎士団長"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136957-aLL2xykFlwq8.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136957-aLL2xykFlwq8.jpg"
+      },
+      "descripcion": "The Leader of Melromarc Knight is the highest rank of Knights in Melromarc. His actual name was never revealed in the series.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        }
+      ]
+    },
+    {
+      "id": 188636,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kizuna Kazayama",
+        "native": "風山絆"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b188636-32h7JtBG86Di.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b188636-32h7JtBG86Di.png"
+      },
+      "descripcion": "The Hunting Hero who saves [Naofumi](https://anilist.co/character/88817/Iwatani-Naofumi) and his party.\n",
+      "genero": "Female",
+      "edad": "18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 273149,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kyou Ethnina",
+        "native": "キョウ＝エスニナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b273149-P2mxsH7y4giL.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b273149-P2mxsH7y4giL.png"
+      },
+      "descripcion": "A genius that invented many things. He thinks low of people and only acts for himself.\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136793,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "L'arc  Berg",
+        "native": "ラルクベルク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136793-HfJKb7D6gwxj.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136793-HfJKb7D6gwxj.jpg"
+      },
+      "descripcion": "L'arc has spiked red hair and is muscular. He has a tattoo of a scythe on his upper arm and appears to be handsome\n\nHe is carefree and laid back, taking a very relaxed path to every problem. He is, according to Naofumi, an older-brother kind of character. Even though he has become a king, he likes his freedom. Just like Glass, he has a warrior spirit which is shown during his fight with Naofumi.\n\nHe is a good judge of character just by looking at someone. He did have a childish side which shown by the way, when he acted too excited for the ship ride to Cal Mira island. He had the habit of calling the younger persons \"Kiddo\". He has high morals and doesn't want to hurt any others who are irrelevant to his mission.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 135364,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mahouya",
+        "native": "魔法屋"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135364-V5fGstfRmnYW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135364-V5fGstfRmnYW.png"
+      },
+      "descripcion": "She is an older woman who runs a magic book store at Castle Town of Melromarc. She was mentioned to be a witch by herself.\n\nShe gave magic books free of cost for Naofumi and his party to learn magic.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 177271,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mald",
+        "native": "マルド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177271-rt0w6zLTvQ4O.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177271-rt0w6zLTvQ4O.jpg"
+      },
+      "descripcion": "The leader of the revolutionary army against the Shield Hero.\n\n~!He was in Itsuki's party. However, when the Spirit Turtle was revived, he and the rest of the party abandoned Itsuki and ran away.!~",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        }
+      ]
+    },
+    {
+      "id": 129808,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Malty Melromarc",
+        "native": "マルティ・メルロマルク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129808-T5fd863K9TOI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b129808-T5fd863K9TOI.png"
+      },
+      "descripcion": "The first princess of Melromarc who betrayed [Naofumi Iwatani](https://anilist.co/character/88817) in the beginning of the series. She is notorious for manipulating other people in order to satisfy her selfish desires.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": 129813,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Melty Q Melromarc",
+        "native": "メルティ・Q・メルロマルク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129813-quaY4dr807yx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b129813-quaY4dr807yx.png"
+      },
+      "descripcion": "The second princess of Melromarc.\n\nMelty is in many ways the exact opposite of her sister, [Malty](https://anilist.co/character/129808/Melromarc-Malty). This includes their personality, appearance, magic specialty (water vs fire), and color schemes (blue and white against red and brown).",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        },
+        {
+          "id": 199185,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 5",
+            "english": null,
+            "native": "盾の勇者の成り上がり Season 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 135198,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mirellia Q Melromarc",
+        "native": "ミレル＝Q＝メルロマルク"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135198-ImEXzNG3srwI.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135198-ImEXzNG3srwI.png"
+      },
+      "descripcion": "The queen of Melromarc. She holds the true power of the crown and is generally a just ruler. She is known for her diplomacy and negotiation skills.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        },
+        {
+          "id": 199185,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 5",
+            "english": null,
+            "native": "盾の勇者の成り上がり Season 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 129809,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Motoyasu Kitamura",
+        "native": "北村元康"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129809-wYFq4QSlFVha.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b129809-wYFq4QSlFVha.jpg"
+      },
+      "descripcion": "A university student summoned to another world as the Spear Hero. He is an easy-going and handsome womanizer.\n\n~!After being abandoned by [Malty](https://anilist.co/character/129808), He has developed an obsession for Filolials. After Fio tried to cheer him up, he can now only see women as pigs in the literal sense. He raised three Filolials, called Kuu, Marin and Midori because he couldn't get Fios attention. He also unlocks the curse series. His sins are Lust (for Fio) and Envy (for Naofumis position of being loved by Fio).!~",
+      "genero": "Male",
+      "edad": "21",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        },
+        {
+          "id": 194447,
+          "title": {
+            "romaji": "Isekai Quartet 3",
+            "english": "Isekai Quartet 3",
+            "native": "異世界かるてっと 3"
+          }
+        },
+        {
+          "id": 199185,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 5",
+            "english": null,
+            "native": "盾の勇者の成り上がり Season 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 188635,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ost\t Horai",
+        "native": "オスト＝ホウライ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b188635-kAM9a9yzWm23.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b188635-kAM9a9yzWm23.png"
+      },
+      "descripcion": "~!The human incarnation of the Spirit Turtle. She teaches Naofumi various techniques and magic.!~\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 188520,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Raph ",
+        "native": "ラフ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b188520-IfksunovvFL6.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b188520-IfksunovvFL6.jpg"
+      },
+      "descripcion": "A monster Naofumi created using his shield.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": 319406,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ratotille Anthreya",
+        "native": "ラトティル＝アンスレイア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319406-N3xNmRAaDWiG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b319406-N3xNmRAaDWiG.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 129812,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ren Amaki",
+        "native": "天木錬"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129812-mNAmoHxmHCwd.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b129812-mNAmoHxmHCwd.png"
+      },
+      "descripcion": "A high school student who was summoned to another world as the Sword Hero. He's considered a bishounen and tends to stay quiet.\n\n~!After his companions die, he fell into despair, and, thus, he followed [Malty](https://anilist.co/character/129808) when she offered kind words to him. After being abandoned by her, he had a brief stint as a bandit, after which he came under the Female Knight's tutelage. He also unlocked the curse series after being abandoned by Malty. His sins are Greed (For Power) and Gluttony (For Power).!~",
+      "genero": "Male",
+      "edad": "16",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        },
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        },
+        {
+          "id": 199185,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 5",
+            "english": null,
+            "native": "盾の勇者の成り上がり Season 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 138140,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Rifana",
+        "native": "リファナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138140-DLTD4MM45nJA.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138140-DLTD4MM45nJA.jpg"
+      },
+      "descripcion": "She is the childhood friend of both Keel and Raphtalia. She was resided in the demi-human protected village in Melromarc.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        }
+      ]
+    },
+    {
+      "id": 279421,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Romina",
+        "native": "ロミナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b279421-wddySLmwDHWm.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b279421-wddySLmwDHWm.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136958,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Roudy",
+        "native": "ラウド"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136958-YG3fMpsfNJLc.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136958-YG3fMpsfNJLc.jpg"
+      },
+      "descripcion": "He is the bandit who has the most frequent unfortunate encounter with Naofumi. Later, he founded the Chivalrous Thief Guild with the guidance of Naofumi.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        }
+      ]
+    },
+    {
+      "id": 196393,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "S'yne Lokk",
+        "native": "セイン＝ロック"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b196393-D0F2N9g1GsXy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b196393-D0F2N9g1GsXy.png"
+      },
+      "descripcion": "S'yne Lokk is one of the Vassal Wielders of a fallen world. She now lives in Raphtalia's World, she is the Sewing Hero.\n\n(Source: Shield-Hero Wiki)",
+      "genero": "Female",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        },
+        {
+          "id": 199185,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 5",
+            "english": null,
+            "native": "盾の勇者の成り上がり Season 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 196392,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shildina",
+        "native": "シルディナ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b196392-ApwWO1ZbzvqJ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b196392-ApwWO1ZbzvqJ.png"
+      },
+      "descripcion": "Shildina is the younger sister of Sadeena.\n\n~!Shildina was born as part of the special lineage of the Orcinus related to the cult of the Water Dragon and the Heavenly Emperor, as well as the executioners of the government. She had a harsh childhood, being conceived only to replace her genius sister, who escaped from the country, and was forced to grow in an accelerated way, both physically and mentally, in order to carry the responsibilities that her elder sister left behind.!~\n\n(Source: Shield-Hero Wiki)",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        },
+        {
+          "id": 199185,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 5",
+            "english": null,
+            "native": "盾の勇者の成り上がり Season 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 244844,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shisai",
+        "native": "司祭"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b244844-WC9AeYJAQ7AV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b244844-WC9AeYJAQ7AV.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136797,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Therese Alexandrite",
+        "native": "テリス・アレキサンドライト"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136797-zuXQf5VxGQlp.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b136797-zuXQf5VxGQlp.jpg"
+      },
+      "descripcion": "A companion of Lar'c Berg.\n\nShe has a white skin which looked like ivory. Her hair was bluish green which sparkled in sunlight.Her hair was pulled back into a braid of three thick strands and draped. She wears bangles with massive gem on both hands.\n\nAs a jewel she's able to obtain energy from the different gems that she owns and use it to cast powerful spells.\n",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 138136,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Van Reichnott",
+        "native": "ヴァン・ライヒョット"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138136-mP5M4prAxbXk.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138136-mP5M4prAxbXk.jpg"
+      },
+      "descripcion": "He is a member of a wealthy family who happened to have close relations with Lord Seaetto. He is respected by the Demi-humans of his region. His name was not mentioned and Naofumi nicknames him as \"Nice Guy.\"",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        }
+      ]
+    },
+    {
+      "id": 363130,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Werner",
+        "native": "ヴァルナール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b363130-JC9rM4N7v9IB.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b363130-JC9rM4N7v9IB.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": 320659,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Wyndia",
+        "native": "ウィンディア"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b320659-fMjSa33T5Lta.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b320659-fMjSa33T5Lta.png"
+      },
+      "descripcion": "Wyndia was raised by the Dragon Emperor called Gaelion. She and Gaelion lived in the mountains peacefully. ~!Hearing news of the Dragon Emperor, Ren went into the mountains to kill the dragon. While unaware that Wyndia was under the dragons care, Ren killed Gaelion whose corpse later turned into a zombie dragon.!~",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        },
+        {
+          "id": 173780,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 4",
+            "english": "The Rising of the Shield Hero Season 4",
+            "native": "盾の勇者の成り上がり Season 4"
+          }
+        },
+        {
+          "id": 199185,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 5",
+            "english": null,
+            "native": "盾の勇者の成り上がり Season 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133774,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yakkyoku no Owner",
+        "native": "薬局のオーナー"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133774-7rjRgaUhE16H.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133774-7rjRgaUhE16H.jpg"
+      },
+      "descripcion": "The old man that runs the medicinal shop has a relatives that live in Riyuuto Village. Because Naofumi saved many people during the second wave, the old man happily assist Naofumi whenever he's needed.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        }
+      ]
+    },
+    {
+      "id": 279422,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yomogi Emarl",
+        "native": "ヨモギ＝エーマール"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b279422-V4e6GPxgK2Sf.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b279422-V4e6GPxgK2Sf.jpg"
+      },
+      "descripcion": "[Kyo](https://anilist.co/character/273149/Kyou-Ethnina)'s childhood friend and traveling companion",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 135363,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yousaiya",
+        "native": "洋裁屋"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135363-23RrbClhnuD8.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135363-23RrbClhnuD8.png"
+      },
+      "descripcion": "She is the owner of the tailor store. Her name was never mentioned so she is referred to as the Tailor.\n\nShe made her debut in both the light novel and anime​ but never made her debut in the manga. She was only mentioned by the Magic Shop Owner as being a friend of hers.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        },
+        {
+          "id": 111321,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2",
+            "native": "盾の勇者の成り上がり Season 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316543,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Ahito no Shoujo",
+        "native": "亜人の少女"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316543-bLssdbkSqc6N.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316543-bLssdbkSqc6N.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316542,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Auction Shikai",
+        "native": "オークション司会"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316542-ndocYaE36gA5.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316542-ndocYaE36gA5.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316538,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Coliseum Kankyaku",
+        "native": "コロシアム観客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316539,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Coliseum Kankyaku",
+        "native": "コロシアム観客"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316537,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Coliseum Shinpan",
+        "native": "コロシアム審判"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316537-svGJsO0vfrDT.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316537-svGJsO0vfrDT.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316541,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Jochuu (Kage)",
+        "native": "女中(影)"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316541-dmRcnRpcIXo0.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316541-dmRcnRpcIXo0.jpg"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 276961,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Mamoru Shirono",
+        "native": "城野守"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b276961-XrZsv9yUkden.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b276961-XrZsv9yUkden.jpg"
+      },
+      "descripcion": "Mamoru Shirono is a Shield Hero of Raphtalia's World in the ancient past. He was one of two Legendary Heroes summoned to defend against the waves.",
+      "genero": "Male",
+      "edad": "20",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317212,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Otoko",
+        "native": "男"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 244842,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Raphtalia no Chichi",
+        "native": "ラフタリアの父"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b244842-isKGyrxDhkho.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b244842-isKGyrxDhkho.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        }
+      ]
+    },
+    {
+      "id": 244841,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Raphtalia no Haha",
+        "native": "ラフタリアの母"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b244841-BAzGHUWYpj1t.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b244841-BAzGHUWYpj1t.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 99263,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero",
+            "native": "盾の勇者の成り上がり"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316545,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Topak A",
+        "native": "トパークA"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316546,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Topak B",
+        "native": "トパークB"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316547,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Topak C",
+        "native": "トパークC"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+      },
+      "descripcion": null,
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 316540,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yuuji",
+        "native": "ユージ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316540-Z0mKifk9UQxl.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b316540-Z0mKifk9UQxl.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 317213,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Zeltoble Kasuriya Tenshu",
+        "native": "ゼルトブル薬屋店主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317213-5AQjjkuUqbxh.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b317213-5AQjjkuUqbxh.jpg"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 111322,
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3",
+            "native": "盾の勇者の成り上がり Season 3"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 68,
+  "actualizado": 1788566411
+}

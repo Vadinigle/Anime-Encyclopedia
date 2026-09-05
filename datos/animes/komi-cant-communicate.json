@@ -1,0 +1,2180 @@
+{
+  "clave": "komi-cant-communicate",
+  "nombre": "Komi Can't Communicate",
+  "descripcion": "Komi-san wa Komyushou desu",
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "portada": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133965-9TZBS4m4yvED.png",
+  "medios": [
+    {
+      "id": 133965,
+      "title": {
+        "romaji": "Komi-san wa, Komyushou desu.",
+        "english": "Komi Can’t Communicate",
+        "native": "古見さんは、コミュ症です。"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133965-9TZBS4m4yvED.png",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133965-9TZBS4m4yvED.png"
+      }
+    },
+    {
+      "id": 142984,
+      "title": {
+        "romaji": "Komi-san wa, Komyushou desu. 2",
+        "english": "Komi Can't Communicate Part 2",
+        "native": "古見さんは、コミュ症です。2"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142984-nv2MWVWZ1yYH.jpg",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142984-nv2MWVWZ1yYH.jpg"
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": 78093,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Hitohito Tadano",
+        "native": "只野仁人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78093-QnJ9wDICvhSR.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b78093-QnJ9wDICvhSR.png"
+      },
+      "descripcion": "**Height**: 168 cm (170.2 cm later)\n**Position:** President\n**Relatives**: [Hitomi Tadano](https://anilist.co/character/130878/Hitomi-Tadano) (younger sister)\n\nHitohito Tadano is a person average in almost every way. His name means, *just some guy*. He is the first to befriend [Shouko Komi](https://anilist.co/character/121956/Shouko-Komi).\n\nTadano is often described as an ordinary student with normal looks and average height and weight. His style of clothing is also considered to be relatively typical. His lone stand-out feature is the white cowlick in his black hair. When he was forced to cross-dress during the Cultural Festival, he was admired implicitly by the boys and Komi. His cross-dressing incorporates a short, red-haired girl's wig with pigtails.\n\nTadano suffered from chuunibyou in his second year of middle school. After confessing to a girl who immediately rejected him, he began to be self-conscious of his identity and drastically altered his style and outlook on life, making himself less noticeable to others. Almost everything about him - height, weight, appearance, academic achievements, athletic abilities, ice skating skills - is perfectly average. Despite his lack of talents, he's been shown to be good at observing and buying gifts for people.\n\nOn his first day of high school, he met Komi and was seated next to her. He later deduced that she had a communication disorder and became invested in helping her make 100 friends.\n\n~!Tadano can be clueless when it comes to romance, being unable to tell when someone else harbors romantic feelings for him, such as Komi and [Rumiko Manbagi](https://anilist.co/character/127449). He has a crush on the two, but is very unclear about it compared to the two.!~\n\n~!In chapter 301, it is revealed that Hitohito has a crush on Komi!~ ~!in chapter 302, Hitohito confesses to Komi.!~\n",
+      "genero": "Male",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126825,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Najimi Osana",
+        "native": "長名なじみ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126825-J4GTiz4OHDa5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126825-J4GTiz4OHDa5.png"
+      },
+      "descripcion": "**Position:** Vice President\n\nNajimi is a mysterious student whose gender is unknown. They are talented enough at communicating to easily befriend someone within minutes of meeting them.\n\nGrowing up, Najimi was constantly transferring from one school to another, allowing them to make millions of friends.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 121956,
+      "rol": "MAIN",
+      "nombre": {
+        "full": "Shouko Komi",
+        "native": "古見硝子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121956-5FbIbcd6gAZW.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b121956-5FbIbcd6gAZW.png"
+      },
+      "descripcion": "**Height**: 168 cm (later 169 cm)\n**Position:** Goddess\n**Relatives**: [Shousuke Komi](https://anilist.co/character/130870/Shousuke-Komi) (younger brother), [Shuuko Komi](https://anilist.co/character/130867/Shuuko-Komi) (mother), [Masayoshi Komi](https://anilist.co/character/130865/Masayoshi-Komi) (father), [Yuiko Komi](https://anilist.co/character/130875/Yuiko-Komi) (grandmother), [Akira Komi](https://anilist.co/character/130876/Akira-Komi) (cousin), [Sadayoshi Komi](https://anilist.co/character/130873/Sadayoshi-Komi) (uncle)\n\nShouko Komi is the main character of the series. Though she's regarded as the *Madonna* of their school, she's incapable of socializing with others to such a level where it can be called a communication disorder.\n\nShouko is described by her admirers as a girl with glossy dark purple/black hair that flows to her lower back, a slender body, and an incredibly beautiful face. She is usually seen wearing her school uniform.\n\nShouko hardly talks with people. She is unable to utter a word nor sound in her daily life due to her crippling anxiety and fear of rejection by her peers. She often writes whenever she can on her notebook and to the blackboard in class to answer people. She dreams of overcoming her adversity and desires to build friendly relationships with others and make 100 friends.\n\nShouko's first friend was [Hitohito Tadano](https://anilist.co/character/78093/Hitohito-Tadano). He was the first to discover her bad communication. He helps her make friends and cares for her well-being.",
+      "genero": "Female",
+      "edad": "15-",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 12,
+        "day": 25
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 158375,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akako  Onigashima ",
+        "native": "鬼ヶ島朱子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b158375-J4dfkOKW0Prf.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b158375-J4dfkOKW0Prf.png"
+      },
+      "descripcion": "Onigashima Akako is originally part of Yamai Ren's friend group.\nHer name translates to Red Girl from Oni Island which is a reference to the tale of Momotarou.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130876,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Akira Komi",
+        "native": "古見晶"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130876-id56lFSXz6s0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130876-id56lFSXz6s0.png"
+      },
+      "descripcion": "Akira Komi is Shousuke and Shouko's cousin. She was originally scared of Shouko before because of Shouko's inability to speak and constant staring at Akira silently. The two become close during her Udon festival visit after Shouko tickled her.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 158376,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Amami Satou",
+        "native": "左藤甘美"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b158376-BS0qsl1IxYMp.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b158376-BS0qsl1IxYMp.png"
+      },
+      "descripcion": "Satou Amami is a student in class 1-1.\nHer name translaters to sweet as sugar.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160228,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ayami Sasaki",
+        "native": "佐々木あやみ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160228-rgVuiaV6jVOF.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160228-rgVuiaV6jVOF.png"
+      },
+      "descripcion": "Sasaki Ayami is a member of Komi's group for the year 1 field trip.\n\nShe made a pact with Katou Mikuni to make sure the trip is as fun as possible for Komi. She is also very talented with yo-yos.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 1
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 281730,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chii Saiko",
+        "native": "西湖ちい"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b281730-8iBnwpjEviMj.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b281730-8iBnwpjEviMj.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160203,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chika Netsuno",
+        "native": "根津野ちか"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160203-y6up72MlNbZn.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160203-y6up72MlNbZn.png"
+      },
+      "descripcion": "Chika Netsuno is a student one year above Tadano, Shouko, and Najimi, and serves as Shouko's athletic rival.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 280386,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chocolate",
+        "native": "しょこら"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b280386-7DtjMFqViVM7.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b280386-7DtjMFqViVM7.png"
+      },
+      "descripcion": "Chocolate is a black cat that lives at the Cat Cafe Gateau.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 158374,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Chusaku  Kometani",
+        "native": "米谷忠釈"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b158374-TJTthBklZ1bt.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b158374-TJTthBklZ1bt.png"
+      },
+      "descripcion": "Chusaku Kometani is introduced with [Naruse Shisuto](https://anilist.co/character/158377/Naruse-Shisuto) to commentate on his inner thoughts.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 276886,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Eiko Ushiroda",
+        "native": "牛路田 影子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b276886-2hmpwdsuXSid.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b276886-2hmpwdsuXSid.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 270955,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Himeko Kishi",
+        "native": "岸姫子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b270955-UrUy2lRONKM0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b270955-UrUy2lRONKM0.png"
+      },
+      "descripcion": "Himeko is an enigmatic girl who appears as part of Ren Yamai's troupe of popular girls.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130869,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Himiko Agari",
+        "native": "上理卑美子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130869-lkVsFPB1KXw5.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130869-lkVsFPB1KXw5.jpg"
+      },
+      "descripcion": "Himiko Agari is introduced as a shy insecure girl. She also runs a ramen shop review blog and considers herself a \"ramen expert.\"",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 4,
+        "day": 30
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130878,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hitomi Tadano",
+        "native": "只野瞳"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130878-E6iil2Bh2JIX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130878-E6iil2Bh2JIX.png"
+      },
+      "descripcion": "**Relatives**: [Hitohito Tadano](https://anilist.co/character/78093) (older brother)\n\nHitomi Tadano is the younger sister of Hitohito Tadano. She bears resemblance to her brother in terms of understanding people's minds. She is active, unlike her brother who is timid and more passive in doing things.\n\nHitomi is a short girl that shares the same big beady eyes as her older brother and make similar expressions. She wears her medium length hair in two short twin-tails.\n\nIn contrast to her older brother, who is usually seen as \"normal\", Hitomi is an energetic and eccentric girl. Unlike her more self-conscious brother, she's not as concerned with what others think, doing odd things such as introducing herself via rapping and not being embarrassed by it. Because of her cheery nature, she is well-liked among her peers.\n\nHitomi is rather blunt and forthright, openly claiming that she's not very good in either grades or sports during her class introduction. She does not seem to possess the same level of self-awareness as her older brother and tends to jump to conclusions.\n\nWhen [Shousuke Komi](https://anilist.co/character/130870/Shousuke-Komi) wasn't talking to her, Hitomi assumed he had a communication disorder when he was choosing to ignore her. Nonetheless, she does her best to \"help\" him communicate.",
+      "genero": "Female",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160225,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hoshiko Teshigawara",
+        "native": "勅使河原欲子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160225-eyokLCmxJ6ei.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160225-eyokLCmxJ6ei.png"
+      },
+      "descripcion": "Hoshiko first appears in pages 8-9 of Chapter 43 \"Part Time Job\", where Komi is handing out pocket tissues, and Hoshiko really needs some tissues. Hoshiko sees Komi, but going to get a handout herself is awfully desperate. Komi, a good reader of nonverbal cues, recognizes the strong aura of tissue-needing-ness emanating from Hoshiko, and successful hands out her first pack of pocket tissues.",
+      "genero": "Female",
+      "edad": "26",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        }
+      ]
+    },
+    {
+      "id": 281440,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Hoshio Maeda",
+        "native": "前田ジュクジョスキ星雄"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b281440-OePhT8M1gHpM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b281440-OePhT8M1gHpM.png"
+      },
+      "descripcion": "Maeda is a student at Itan Private High School.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 281727,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Itsuya Ooki",
+        "native": "大木いつや"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b281727-Smq9PzjVzkYG.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b281727-Smq9PzjVzkYG.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 249856,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kaede Otori",
+        "native": "尾鶏かえで"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b249856-u7JjuRKqdD2O.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b249856-u7JjuRKqdD2O.png"
+      },
+      "descripcion": "An airhead who likes to take things slow, to the point where she kept on watching a fireplace recording from Christmas to New Year's Day.\n",
+      "genero": "Female",
+      "edad": "15",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 6,
+        "day": 10
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 257377,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kamiko Arai",
+        "native": "新井嘉美子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b257377-xpyv3TeIPX0v.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b257377-xpyv3TeIPX0v.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        }
+      ]
+    },
+    {
+      "id": 282060,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Kazuya Onemine",
+        "native": "尾根峰かずや"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b282060-jgvGv9t6rHl0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b282060-jgvGv9t6rHl0.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": "6",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 281729,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Lola Michisato",
+        "native": "路里ローラ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b281729-mbLpzORkKEU4.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b281729-mbLpzORkKEU4.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130871,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Makeru Yadano",
+        "native": "矢田野まける"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130871-g7EkLNAqyAbe.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130871-g7EkLNAqyAbe.png"
+      },
+      "descripcion": "Makeru Yadano is a competitive girl who likes to compete herself to Shouko.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 1,
+        "day": 3
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160218,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Maki Karisu",
+        "native": "雁巣真姫"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160218-FZJYaO97YsV1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160218-FZJYaO97YsV1.png"
+      },
+      "descripcion": "Karisu Maki is Komi Shouko's hair dresser. Karisu is seen to be very professional with her clients. When Komi comes in to her shop Karisu is able to understand exactly what she wants even without Komi speaking to her.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130868,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Makoto Katai",
+        "native": "片居誠"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130868-XqHSpjZfh8Fa.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130868-XqHSpjZfh8Fa.jpg"
+      },
+      "descripcion": "With the face of a delinquent, Katai is actually a nervous, awkward wreck who constantly stumbles over his words, with a goal to overcome his own awkwardness and make friends.\n\nTadano immediately sees through his false threatening nature and quickly becomes one of Katai's closest friends.\n\nHe views Komi as his \"master\" and thinks she's constantly cheering him on to become better friends with Tadano.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130865,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Masayoshi Komi",
+        "native": "古見将賀"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130865-Ztgp75hdKhQ2.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130865-Ztgp75hdKhQ2.png"
+      },
+      "descripcion": "**Relatives**: [Yuiko Komi](https://anilist.co/character/130875) (mother), [Sadayoshi Komi](https://anilist.co/character/130873/Sadayoshi-Komi) (brother), [Shuuko Komi](https://anilist.co/character/130867/Shuuko-Komi) (wife), [Shouko Komi](https://anilist.co/character/121956) (daughter), [Shousuke Komi](https://anilist.co/character/130870/Shousuke-Komi) (son), [Akira Komi](https://anilist.co/character/130876/Akira-Komi) (niece)\n\nMasayoshi Komi is Shouko's and Shousuke's father. He is seen as a dandy middle-aged man. Masayoshi rarely speaks and sometimes struggles to express himself verbally and can, at times, be easily flustered.\n\nComplementary to his wife's youthful attitude, Masayoshi often appears mature and stoic. While he may come across as stern, he is often shown to be kind, considerate, and supportive.\n\nLike his son, Masayoshi tends to make up for his lack of communication with strong actions and is generally talented in a variety of skills, including baking, woodworking, motorcycle riding, and sandcastle construction. Despite his stoic expression, he is adept at non-verbal communication and often holds silent conversations with his children, much to Shuuko's amusement.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160227,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mikuni Katou",
+        "native": "加藤三九二"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160227-yS2Vq0ZdsHNE.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160227-yS2Vq0ZdsHNE.jpg"
+      },
+      "descripcion": "Katou Mikuni is a member of Komi's group for the year 1 field trip.\nKatou is one-third of Komi's first-year field trip group. She and Sasaki Ayami make a pact to make sure the trip is as fun as possible for Komi. Katou makes a schedule for the trip but things don't go as planned leading to her getting in a minor fight with Sasaki but Komi ends it quickly. Later on in the manga, Katou teaches Tadano and Komi shogi strategies.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160222,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Mono Shinobino",
+        "native": "忍野裳乃"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160222-powdZ52BxB3W.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160222-powdZ52BxB3W.png"
+      },
+      "descripcion": "Shinobino Mono is a student in class 1-1.\n\nHe is friends with Chiarai and Sonoda. The three are most prominently seen in Volume 6 Chapters 75 and 77 where the three discuss which of the girls in class (+Najimi) would be the best to date.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 10,
+        "day": 16
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 282058,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nana Onemine",
+        "native": "尾根峰なな"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b282058-wDxQtNOFqTvc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b282058-wDxQtNOFqTvc.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": "3",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130872,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nene Onemine",
+        "native": "尾根峰ねね"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130872-FkJv0wh1Y5Yx.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130872-FkJv0wh1Y5Yx.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 7
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130879,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Nokoko Inaka",
+        "native": "井中のこ子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130879-P5pabeiKSflK.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130879-P5pabeiKSflK.png"
+      },
+      "descripcion": "Nokoko Inaka is a with a complex about her coming from the countryside. She later became friends with Shouko.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 128378,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Omoharu Nakanaka",
+        "native": "中々思春"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128378-M2kHIBoYvazc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b128378-M2kHIBoYvazc.png"
+      },
+      "descripcion": "A student who usually speaks in dubious speech as a result of being a chuunibyou. She states that she was Arsot Les Primavera and that [Shouko Komi](https://anilist.co/character/121956/) is Princess Komilia.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 2,
+        "day": 29
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130874,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ren Yamai",
+        "native": "山井恋"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130874-Q77FIzvZcFz1.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130874-Q77FIzvZcFz1.png"
+      },
+      "descripcion": "Ren Yamai is one of Komi Shouko's classmates from Class 1-1.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 11,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130877,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryouko Komi",
+        "native": "古見良子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130877-CzNhth7ommrZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130877-CzNhth7ommrZ.png"
+      },
+      "descripcion": "Ryokuo Komi is Shouko's aunt. She is just as lively as Shouko's mother so she sometimes unknowingly intimidate Shouko.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 276885,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Ryouko Tenjouin",
+        "native": "天上院 旅有子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b276885-8o9m4tl5WXlY.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b276885-8o9m4tl5WXlY.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130873,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sadayoshi Komi",
+        "native": "古見定義"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130873-i00gSJiQLq7q.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130873-i00gSJiQLq7q.png"
+      },
+      "descripcion": "Sadayoshi Komi is Shouko's uncle and her father's brother. Shouko thinks she gets along well with him because they have similar personality just like her father.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        }
+      ]
+    },
+    {
+      "id": 278387,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Sam Samurai",
+        "native": "佐村井サム"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b278387-NzWKmqWfQsy3.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b278387-NzWKmqWfQsy3.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160221,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shigeo Chiarai",
+        "native": "地洗井茂夫"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160221-pqsCU44cyQyz.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160221-pqsCU44cyQyz.png"
+      },
+      "descripcion": "Chiarai Shigeo is a student in class 1-1.\n\nChiarai is friends with Sonoda and Shinobino.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 7,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 158377,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shisuto Naruse",
+        "native": "成瀬詩守斗"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b158377-Oy9ExRvnLCyP.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b158377-Oy9ExRvnLCyP.png"
+      },
+      "descripcion": "Naruse is a person who believes that all people are his fans and the reason he is not approached is because others think he is too good for them too talk to.\n\nAll of his thoughts are commentated on by [Kometani Chuusaku](https://anilist.co/character/158374/Kometani-Chusaku).\n",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130870,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shousuke Komi",
+        "native": "古見笑介"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130870-9fSkcaHdQXFq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130870-9fSkcaHdQXFq.png"
+      },
+      "descripcion": "**Relatives**: [Yuiko Komi](https://anilist.co/character/130875) (grandmother), [Masayoshi Komi](https://anilist.co/character/130865) (father), [Shuuko Komi](https://anilist.co/character/130867) (mother), [Sadayoshi Komi](https://anilist.co/character/130873/Sadayoshi-Komi) (uncle), [Ryouko Komi](https://anilist.co/character/130877/Ryouko-Komi) (aunt), [Shouko Komi](https://anilist.co/character/121956) (older sister), [Akira Komi](https://anilist.co/character/130876/Akira-Komi) (cousin)\n\nShousuke Komi is Shouko's younger brother. He's quiet most of the time but can converse well.\n\nShousuke has short trimmed hair and his eyes are usually hidden with his bangs. Still, his very appearance is similar to his mother and sister and can be referred to as a handsome man.\n\nShousuke appears to share many traits with his older sister, often choosing to remain silent and being widely popular among his peers as a result. Unlike Shouko, who stays quiet mainly because of her anxieties and problems communicating, Shousuke doesn't feel bothered talking, perfectly capable of communicating without speaking in the first place.\n\nHe is very apathetic, often neglecting to do anything he deems annoying or pointless, such as introducing himself to the class, instead opting to remain silent. In contrast to his sister, whose goal is to make friends, Shousuke seems to be perfectly content being by himself as he often flat-out ignores any classmates who invite him to eat lunch with them.\n\n(Source: Komi-san Wiki, edited)",
+      "genero": "Male",
+      "edad": "14",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 281728,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shouta Shiota",
+        "native": "塩田翔太"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b281728-pjZlDAdY5XhZ.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b281728-pjZlDAdY5XhZ.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130867,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Shuuko Komi",
+        "native": "古見秀子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130867-cdy2mWlQhiX9.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130867-cdy2mWlQhiX9.png"
+      },
+      "descripcion": "**Relatives**: [Yuiko Komi](https://anilist.co/character/130875) (mother-in-law), [Masayoshi Komi](https://anilist.co/character/130865) (husband), [Sadayoshi Komi](https://anilist.co/character/130873/Sadayoshi-Komi) (brother-in-law), [Shouko Komi](https://anilist.co/character/121956) (daughter), [Shousuke Komi](https://anilist.co/character/130870/Shousuke-Komi) (son), [Akira Komi](https://anilist.co/character/130876/Akira-Komi) (niece)\n\nShuuko Komi, formerly known as Shuuko Nimi, is Shouko and Shousuke's mother. She looks like her daughter, but her personality is that of a teenager, claiming to be forever 17 years old. When despaired, she ages into *forever 18*\n\nCorresponding to her son and daughter, Shuuko is considered beautiful. In contrast, she's very communicative and wonders how her family gets along despite not talking.\n\nWhen young, she was bored of school and did not think much of Masayoshi until seeing him do various things on par with professionals. She slowly fell in love with him, despite his deadpan and silent demeanor.\n\n(Source: Komi-san Wiki, edited)",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160224,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Taisei Sonoda",
+        "native": "園田大勢"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160224-ScC6rjK9l6nV.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160224-ScC6rjK9l6nV.png"
+      },
+      "descripcion": "Sonoda Taisei is a student in class 1-1.\nSonoda is friends with Chiarai and Shinobino. The three are most prominently seen in Volume 6 Chapters 75 and 77 where the three discuss which of the girls in class (+Najimi) would be the best to date.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": 9,
+        "day": 8
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 276884,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Toshio Seikimatsu",
+        "native": "世紀末"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b276884-Sul6guPguth0.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b276884-Sul6guPguth0.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 282223,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Tsukasa Aizawa",
+        "native": "会沢司"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b282223-cq4T3cZ9HkGX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b282223-cq4T3cZ9HkGX.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130875,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuiko Komi",
+        "native": "古見結子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130875-FbYx3qQw7qhS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130875-FbYx3qQw7qhS.png"
+      },
+      "descripcion": "**Relatives**: [Masayoshi Komi](https://anilist.co/character/130865/Masayoshi-Komi) (son), [Sadayoshi Komi](https://anilist.co/character/130873/Sadayoshi-Komi) (son), [Shuuko Komi](https://anilist.co/character/130867/Shuuko-Komi) (daughter-in-law), [Ryouko Komi](https://anilist.co/character/130877/Ryouko-Komi) (daughter-in-law), [Akira Komi](https://anilist.co/character/130876/Akira-Komi) (granddaughter), [Shouko Komi](https://anilist.co/character/121956/Shouko-Komi) (granddaughter), [Shousuke Komi](https://anilist.co/character/130870/Shousuke-Komi) (grandson)\n\nYuiko Komi is Shouko, Akira, and Shousuke's grandmother. She's strict but gentle towards her family. When visiting, she usually challenges them to games.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 278385,
+      "rol": "SUPPORTING",
+      "nombre": {
+        "full": "Yuuji Otaku",
+        "native": "小宅優司"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b278385-hwUoiv8AhSlX.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b278385-hwUoiv8AhSlX.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        },
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160223,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Darou Ramen",
+        "native": null
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160223-crMIG7F32Rfe.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160223-crMIG7F32Rfe.png"
+      },
+      "descripcion": "Ramen Darou is the chain restaurant that Shouko, Tadano, Najimi, and Agari visit in Chapter 28, due to Shouko's dream being to visit a ramen shop.\nThe Shopkeeper is the cook and owner of Itan's Ramen Darou. He speaks extremely quietly, and is also bad at communicating. Due to also being bad at communicating, he shares an empathy between Shouko and much like her family, can have a conversation without speaking.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160209,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Gorimi",
+        "native": "檎林美"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160209-BkaZuOLOLpsy.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160209-BkaZuOLOLpsy.png"
+      },
+      "descripcion": "Gorimi is a student one year above the main characters. She is the Head Librarian, and the disciplinarian of Itan Private High School.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160215,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Kiyoko Isagi",
+        "native": "潔 清子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160215-npeBGSRvVUjS.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160215-npeBGSRvVUjS.png"
+      },
+      "descripcion": "Kiyoko Isagi is a classmate of Shouko, and is the current Student Council President, having been elected to replace Ichou Setoka. During her second year of middle school, Isagi's mother told her to wipe a table. The cloth that she took felt indescribably filthy to her, and from then on she developed severe mysophobia, unable to touch others and refusing to let others touch her. One day, her friend Ase Shibuki greeted her by tapping her shoulder. This caused her to recoil harshly and without thinking, call Ase filthy. She later apologized deeply to Ase, but still felt guilty seeing her friend gradually lose her confidence due to her intense sweating.\nIsagi very clearly sees Ase Shibuki and Naruse Shisuto getting closer, and does not approve of Naruse. She intercedes whenever and wherever she can.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160216,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Lily Sukida",
+        "native": "すきだりり"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160216-kQmk5jKEeSBT.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160216-kQmk5jKEeSBT.png"
+      },
+      "descripcion": "Sukida Lily is a second-year at Itan Private High School.\nLily is occasionally seen in the background shipping her classmates together, feverishly writing on a clipboard. One of her favorites is \"Yama x Naka\".",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 282233,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Maa",
+        "native": "まあ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b282233-ztMt7EQam9py.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b282233-ztMt7EQam9py.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        }
+      ]
+    },
+    {
+      "id": 36309,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Narrator",
+        "native": "ナレーター"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+      },
+      "descripcion": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "genero": null,
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 6,
+          "title": {
+            "romaji": "TRIGUN",
+            "english": "Trigun",
+            "native": "TRIGUN"
+          }
+        },
+        {
+          "id": 21,
+          "title": {
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
+          }
+        },
+        {
+          "id": 25,
+          "title": {
+            "romaji": "Sunabouzu",
+            "english": "Desert Punk",
+            "native": "砂ぼうず"
+          }
+        },
+        {
+          "id": 28,
+          "title": {
+            "romaji": "Yakitate!! Japan",
+            "english": null,
+            "native": "焼きたて!! ジャぱん"
+          }
+        },
+        {
+          "id": 30,
+          "title": {
+            "romaji": "Shin Seiki Evangelion",
+            "english": "Neon Genesis Evangelion",
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        {
+          "id": 33,
+          "title": {
+            "romaji": "Kenpuu Denki Berserk",
+            "english": "Berserk",
+            "native": "剣風伝奇ベルセルク"
+          }
+        },
+        {
+          "id": 60,
+          "title": {
+            "romaji": "Chrno Crusade",
+            "english": "Chrono Crusade",
+            "native": "クロノクルセイド"
+          }
+        },
+        {
+          "id": 67,
+          "title": {
+            "romaji": "Basilisk: Kouga Ninpouchou",
+            "english": "Basilisk",
+            "native": "バジリスク 甲賀忍法帖"
+          }
+        },
+        {
+          "id": 80,
+          "title": {
+            "romaji": "Kidou Senshi Gundam",
+            "english": "Mobile Suit Gundam",
+            "native": "機動戦士ガンダム"
+          }
+        },
+        {
+          "id": 90,
+          "title": {
+            "romaji": "Shin Kidou Senki Gundam Wing",
+            "english": "Mobile Suit Gundam Wing",
+            "native": "新機動戦記ガンダムW"
+          }
+        }
+      ]
+    },
+    {
+      "id": 282322,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Rami Kawai",
+        "native": "河合らみ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b282322-IfYglAa9F9Rc.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b282322-IfYglAa9F9Rc.png"
+      },
+      "descripcion": "Kawai is the girl who rejected Tadano in middle school.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127449,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Rumiko Manbagi",
+        "native": "万場木留美子"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127449-E0m9AYQPclwq.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b127449-E0m9AYQPclwq.png"
+      },
+      "descripcion": "**Height:** 158.3 cm\n\nRumiko Manbagi is a gyaru girl who enters the second year of school with no friends. She becomes friends with [Shouko Komi](https://anilist.co/character/121956/Komi-Shouko) and [Hitohito Tadano](https://anilist.co/character/78093/Tadano-Hitohito), her being the first Komi was able to befriend alone.\n\nManbagi is a manba-styled gyaru girl with tanned skin, bleached light hair, and a very girly fashion sense. She's introduced in ridiculous, heavy makeup, but once that's removed she is revealed to have a naturally beautiful face. She has shoulder-length, wavy blonde hair, a dark complexion, and a curvy figure. Manbagi had a short, black bob and fair skin when she was in middle school.\n\nManbagi is a cheerful, friendly girl who easily gets along with people once she becomes friends with them. In contrast to Komi, she's quite energetic and talkative. Though the two are more alike than it initially seems, both being sweet, lonely girls who desperately want friends. She seems somewhat naive and insecure, believing that her heavy makeup is what makes her pretty and thinking she doesn't compare to Komi.\n\nManbagi has a tsundere personality as she can be harsh to Tadano. That harshness has softened as she's become nicer, but can still be short-tempered when embarrassed.\n\n~!She develops a crush on Hitohito. Her tsundere personality comes from her shyness about the feelings she's developed for him after being called cute.\n\nIn chapter 264, she mumbles her love for Hitohito while falling asleep. Tadano overheard her, but she's unaware of this.!~\n",
+      "genero": "Female",
+      "edad": "17-18",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 257286,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shatekiya no Tenshu",
+        "native": "射的屋の店主"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b257286-6sbP4b1VA2Oe.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b257286-6sbP4b1VA2Oe.png"
+      },
+      "descripcion": null,
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160204,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shibuki  Ase",
+        "native": "阿瀬志吹"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160204-l8GMM2erMjkM.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160204-l8GMM2erMjkM.png"
+      },
+      "descripcion": "Ase Shibuki  is one of Shouko's classmates and friends. She's always seen sweating.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 282234,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shii",
+        "native": "しい"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b282234-YJuFeIXthHr5.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b282234-YJuFeIXthHr5.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160201,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Shizuka Odoka",
+        "native": "小戸日静"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160201-dXbWEDV8IfRI.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160201-dXbWEDV8IfRI.jpg"
+      },
+      "descripcion": "Odoka Shizuka is a second-year at Itan Private High School",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160217,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Son Toutoi",
+        "native": "尊井尊"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160217-cgvKCgvgKwm6.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160217-cgvKCgvgKwm6.png"
+      },
+      "descripcion": "Toutoi Son is a student in Shouko's class. Despite his looks, he isn't very noble.\nHe's introduced in Chapter 130, where he's forced to introduce himself by telling an embarrassing story. During middle school a girl saw him pick up a porn magazine by the riverside.\nHis next appearance is in Chapter 150 as the MC for the \"Summer Uniform Wearing Grand Prix\". Somehow he knew that Shouko was wearing 60 denier tights instead of 80.\nHe's seen looking for porn magazines with Ohai and Fukusuki in Chapter 192.",
+      "genero": "Male",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    },
+    {
+      "id": 282224,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Tatsuhito Akido",
+        "native": "明戸達人"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b282224-YyxPNEA7Kkza.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b282224-YyxPNEA7Kkza.png"
+      },
+      "descripcion": null,
+      "genero": "Male",
+      "edad": "32",
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate",
+            "native": "古見さんは、コミュ症です。"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160210,
+      "rol": "BACKGROUND",
+      "nombre": {
+        "full": "Yuragi Emoyama",
+        "native": "えもざまずらぎ"
+      },
+      "imagen": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160210-vslmsIFDQSXB.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160210-vslmsIFDQSXB.png"
+      },
+      "descripcion": "Emoyama Yuragi is a third-year at Itan Private High School.",
+      "genero": "Female",
+      "edad": null,
+      "fecha_nacimiento": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "media": [
+        {
+          "id": 142984,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu. 2",
+            "english": "Komi Can't Communicate Part 2",
+            "native": "古見さんは、コミュ症です。2"
+          }
+        }
+      ]
+    }
+  ],
+  "cantidad_personajes": 62,
+  "actualizado": 1788566671
+}
