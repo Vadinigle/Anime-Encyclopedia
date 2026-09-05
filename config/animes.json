@@ -15,7 +15,8 @@
       "re zero",
       "re：ゼロ",
       "リゼロ"
-    ]
+    ],
+    "descripcion_es": "Vida Nueva en un Mundo Diferente"
   },
   "jujutsu-kaisen": {
     "nombre": "Jujutsu Kaisen",
@@ -28,7 +29,8 @@
     "variantes": [
       "jujutsu kaisen",
       "呪術廻戦"
-    ]
+    ],
+    "descripcion_es": "Hechicería, maldiciones y combates"
   },
   "attack-on-titan": {
     "nombre": "Attack on Titan",
@@ -42,7 +44,8 @@
       "attack on titan",
       "shingeki no kyojin",
       "進撃の巨人"
-    ]
+    ],
+    "descripcion_es": "Shingeki no Kyojin"
   },
   "mushoku-tensei": {
     "nombre": "Mushoku Tensei",
@@ -55,7 +58,8 @@
     "variantes": [
       "mushoku tensei",
       "無職転生"
-    ]
+    ],
+    "descripcion_es": "Reencarnación Desempleada"
   },
   "gachiakuta": {
     "nombre": "Gachiakuta",
@@ -68,7 +72,8 @@
     "variantes": [
       "gachiakuta",
       "ガチアクタ"
-    ]
+    ],
+    "descripcion_es": "El mundo de Rudo y los Limpiadores"
   },
   "hells-paradise": {
     "nombre": "Hell's Paradise",
@@ -84,7 +89,8 @@
       "hell's paradise",
       "hells paradise",
       "地獄楽"
-    ]
+    ],
+    "descripcion_es": "Jigokuraku"
   },
   "spy-family": {
     "nombre": "SPY×FAMILY",
@@ -99,7 +105,8 @@
       "spy×family",
       "spy family",
       "スパイファミリー"
-    ]
+    ],
+    "descripcion_es": "La familia Forger"
   },
   "kimetsu": {
     "nombre": "Kimetsu no Yaiba",
@@ -114,7 +121,8 @@
       "kimetsu no yaiba",
       "demon slayer",
       "鬼滅の刃"
-    ]
+    ],
+    "descripcion_es": "Cazador de Demonios"
   },
   "mashle": {
     "nombre": "MASHLE",
@@ -128,7 +136,8 @@
     "variantes": [
       "mashle",
       "マッシュル"
-    ]
+    ],
+    "descripcion_es": "Mágica y Musculatura"
   },
   "darling-in-the-franxx": {
     "nombre": "DARLING in the FRANXX",
@@ -143,7 +152,8 @@
     "variantes": [
       "darling in the franxx",
       "ダーリン・イン・ザ・フランキス"
-    ]
+    ],
+    "descripcion_es": "Hiro, Zero Two y los Parasites"
   },
   "my-dress-up-darling": {
     "nombre": "My Dress-Up Darling",
@@ -158,7 +168,8 @@
       "my dress-up darling",
       "my dress up darling",
       "その着せ替え人形は恋をする"
-    ]
+    ],
+    "descripcion_es": "La muñeca Bisque se enamora"
   },
   "frieren": {
     "nombre": "Frieren: Beyond Journey's End",
@@ -174,7 +185,8 @@
       "frieren: beyond journey's end",
       "frieren",
       "葬送のフリーレン"
-    ]
+    ],
+    "descripcion_es": "Sousou no Frieren"
   },
   "fullmetal-alchemist-brotherhood": {
     "nombre": "Fullmetal Alchemist: Brotherhood",
@@ -189,7 +201,8 @@
       "fullmetal alchemist: brotherhood",
       "fullmetal alchemist brotherhood",
       "鋼の錬金術師"
-    ]
+    ],
+    "descripcion_es": "Los hermanos Elric y la alquimia"
   },
   "hunter-x-hunter": {
     "nombre": "Hunter x Hunter",
@@ -203,7 +216,8 @@
     "variantes": [
       "hunter x hunter",
       "hunter×hunter"
-    ]
+    ],
+    "descripcion_es": "Gon, Killua y el mundo de los Hunters"
   },
   "chainsaw-man": {
     "nombre": "Chainsaw Man",
@@ -217,7 +231,8 @@
     "variantes": [
       "chainsaw man",
       "チェンソーマン"
-    ]
+    ],
+    "descripcion_es": "Denji y los demonios"
   },
   "one-punch-man": {
     "nombre": "One Punch Man",
@@ -231,7 +246,8 @@
       "one punch man",
       "one-punch man",
       "ワンパンマン"
-    ]
+    ],
+    "descripcion_es": "Saitama, el héroe más poderoso"
   },
   "mob-psycho-100": {
     "nombre": "Mob Psycho 100",
@@ -245,7 +261,8 @@
     "variantes": [
       "mob psycho 100",
       "モブサイコ100"
-    ]
+    ],
+    "descripcion_es": "Poderes psíquicos y crecimiento personal"
   },
   "my-hero-academia": {
     "nombre": "My Hero Academia",
@@ -259,7 +276,8 @@
       "boku no hero academia",
       "my hero academia",
       "僕のヒーローアカデミア"
-    ]
+    ],
+    "descripcion_es": "Boku no Hero Academia"
   },
   "black-clover": {
     "nombre": "Black Clover",
@@ -273,7 +291,8 @@
     "variantes": [
       "black clover",
       "ブラッククローバー"
-    ]
+    ],
+    "descripcion_es": "Asta y los Caballeros Mágicos"
   },
   "fire-force": {
     "nombre": "Fire Force",
@@ -288,7 +307,8 @@
       "enen no shouboutai",
       "fire force",
       "炎炎ノ消防隊"
-    ]
+    ],
+    "descripcion_es": "El Reino de la Llama"
   },
   "kaiju-no-8": {
     "nombre": "Kaiju No. 8",
@@ -303,7 +323,8 @@
       "kaiju no. 8",
       "kaiju no 8",
       "怪獣8号"
-    ]
+    ],
+    "descripcion_es": "Kafka Hibino contra los kaiju"
   },
   "solo-leveling": {
     "nombre": "Solo Leveling",
@@ -316,7 +337,8 @@
     "variantes": [
       "solo leveling",
       "俺だけレベルアップな件"
-    ]
+    ],
+    "descripcion_es": "Sung Jin-Woo y el Sistema"
   },
   "dandadan": {
     "nombre": "Dandadan",
@@ -331,7 +353,8 @@
     "variantes": [
       "dandadan",
       "ダンダダン"
-    ]
+    ],
+    "descripcion_es": "Alienígenas, espíritus y fenómenos paranormales"
   },
   "tokyo-ghoul": {
     "nombre": "Tokyo Ghoul",
@@ -345,7 +368,8 @@
     "variantes": [
       "tokyo ghoul",
       "東京喰種"
-    ]
+    ],
+    "descripcion_es": "Ken Kaneki y el mundo de los ghouls"
   },
   "blue-exorcist": {
     "nombre": "Blue Exorcist",
@@ -360,7 +384,8 @@
       "ao no exorcist",
       "blue exorcist",
       "青の祓魔師"
-    ]
+    ],
+    "descripcion_es": "El Exorcista de Ao"
   },
   "noragami": {
     "nombre": "Noragami",
@@ -374,7 +399,8 @@
     "variantes": [
       "noragami",
       "ノラガミ"
-    ]
+    ],
+    "descripcion_es": "Yato y el mundo de los dioses"
   },
   "soul-eater": {
     "nombre": "Soul Eater",
@@ -388,7 +414,8 @@
     "variantes": [
       "soul eater",
       "ソウルイーター"
-    ]
+    ],
+    "descripcion_es": "La Academia Shibusen"
   },
   "jojos-bizarre-adventure": {
     "nombre": "JoJo's Bizarre Adventure",
@@ -403,7 +430,8 @@
       "jojo no kimyou na bouken",
       "jojo's bizarre adventure",
       "jojos bizarre adventure"
-    ]
+    ],
+    "descripcion_es": "La historia de la familia Joestar"
   },
   "vinland-saga": {
     "nombre": "Vinland Saga",
@@ -417,7 +445,8 @@
     "variantes": [
       "vinland saga",
       "ヴィンランド・サガ"
-    ]
+    ],
+    "descripcion_es": "Thorfinn y la era vikinga"
   },
   "cyberpunk-edgerunners": {
     "nombre": "Cyberpunk: Edgerunners",
@@ -431,7 +460,8 @@
     "variantes": [
       "cyberpunk: edgerunners",
       "cyberpunk edgerunners"
-    ]
+    ],
+    "descripcion_es": "Night City y los edgerunners"
   },
   "code-geass": {
     "nombre": "Code Geass",
@@ -446,7 +476,8 @@
       "code geass",
       "hangyaku no lelouch",
       "反逆のルルーシュ"
-    ]
+    ],
+    "descripcion_es": "Lelouch y el poder del Geass"
   },
   "evangelion": {
     "nombre": "Neon Genesis Evangelion",
@@ -460,7 +491,8 @@
       "neon genesis evangelion",
       "shin seiki evangelion",
       "新世紀エヴァンゲリオン"
-    ]
+    ],
+    "descripcion_es": "Shinji y los EVA"
   },
   "steins-gate": {
     "nombre": "Steins;Gate",
@@ -474,7 +506,8 @@
       "steins;gate",
       "steins gate",
       "シュタインズ・ゲート"
-    ]
+    ],
+    "descripcion_es": "Viajes en el tiempo y Akihabara"
   },
   "86": {
     "nombre": "86 EIGHTY-SIX",
@@ -489,7 +522,8 @@
       "86",
       "86 eighty-six",
       "eighty six"
-    ]
+    ],
+    "descripcion_es": "La guerra de los Ochenta y Seis"
   },
   "sword-art-online": {
     "nombre": "Sword Art Online",
@@ -503,7 +537,8 @@
     "variantes": [
       "sword art online",
       "ソードアート・オンライン"
-    ]
+    ],
+    "descripcion_es": "Kirito y los mundos virtuales"
   },
   "konosuba": {
     "nombre": "KonoSuba",
@@ -518,7 +553,8 @@
       "kono subarashii sekai ni shukufuku wo",
       "konosuba",
       "この素晴らしい世界に祝福を"
-    ]
+    ],
+    "descripcion_es": "Kazuma y su desastrosa party"
   },
   "tensura": {
     "nombre": "That Time I Got Reincarnated as a Slime",
@@ -533,7 +569,8 @@
       "tensei shitara slime datta ken",
       "that time i got reincarnated as a slime",
       "転生したらスライムだった件"
-    ]
+    ],
+    "descripcion_es": "Cuando me reincarné como slime"
   },
   "shield-hero": {
     "nombre": "The Rising of the Shield Hero",
@@ -548,7 +585,8 @@
       "tate no yuusha no nariagari",
       "the rising of the shield hero",
       "盾の勇者の成り上がり"
-    ]
+    ],
+    "descripcion_es": "El ascenso del héroe de la armadura"
   },
   "overlord": {
     "nombre": "Overlord",
@@ -562,7 +600,8 @@
     "variantes": [
       "overlord",
       "オーバーロード"
-    ]
+    ],
+    "descripcion_es": "Ainz Ooal Gown y Nazarick"
   },
   "eminence-in-shadow": {
     "nombre": "The Eminence in Shadow",
@@ -577,7 +616,8 @@
       "kage no jitsuryokusha ni naritakute",
       "the eminence in shadow",
       "陰の実力者になりたくて"
-    ]
+    ],
+    "descripcion_es": "Quiero ser un ejecutor de sombras"
   },
   "no-game-no-life": {
     "nombre": "No Game No Life",
@@ -591,7 +631,8 @@
     "variantes": [
       "no game no life",
       "ノーゲーム・ノーライフ"
-    ]
+    ],
+    "descripcion_es": "Sora y Shiro en Disboard"
   },
   "apothecary-diaries": {
     "nombre": "The Apothecary Diaries",
@@ -606,7 +647,8 @@
       "kusuriya no hitorigoto",
       "the apothecary diaries",
       "薬屋のひとりごと"
-    ]
+    ],
+    "descripcion_es": "El monólogo de la farmacia"
   },
   "violet-evergarden": {
     "nombre": "Violet Evergarden",
@@ -619,7 +661,8 @@
     "variantes": [
       "violet evergarden",
       "ヴァイオレット・エヴァーガーデン"
-    ]
+    ],
+    "descripcion_es": "Cartas, recuerdos y emociones"
   },
   "bocchi-the-rock": {
     "nombre": "Bocchi the Rock!",
@@ -632,7 +675,8 @@
     "variantes": [
       "bocchi the rock",
       "ぼっち・ざ・ろっく"
-    ]
+    ],
+    "descripcion_es": "Hitori Gotoh y Kessoku Band"
   },
   "oshi-no-ko": {
     "nombre": "Oshi no Ko",
@@ -646,7 +690,8 @@
       "oshi no ko",
       "【推しの子】",
       "推しの子"
-    ]
+    ],
+    "descripcion_es": "La industria del entretenimiento japonés"
   },
   "kaguya-sama": {
     "nombre": "Kaguya-sama: Love Is War",
@@ -660,7 +705,8 @@
       "kaguya-sama wa kokurasetai",
       "kaguya-sama: love is war",
       "kaguya sama love is war"
-    ]
+    ],
+    "descripcion_es": "Una guerra romántica entre Kaguya y Miyuki"
   },
   "horimiya": {
     "nombre": "Horimiya",
@@ -673,7 +719,8 @@
     "variantes": [
       "horimiya",
       "ホリミヤ"
-    ]
+    ],
+    "descripcion_es": "Hori y Miyamura"
   },
   "toradora": {
     "nombre": "Toradora!",
@@ -687,7 +734,8 @@
     "variantes": [
       "toradora",
       "とらドラ"
-    ]
+    ],
+    "descripcion_es": "Taiga y Ryuuji"
   },
   "bunny-girl-senpai": {
     "nombre": "Rascal Does Not Dream of Bunny Girl Senpai",
@@ -702,7 +750,8 @@
       "seishun buta yarou",
       "rascal does not dream of bunny girl senpai",
       "青春ブタ野郎"
-    ]
+    ],
+    "descripcion_es": "Joven cerdo"
   },
   "quintessential-quintuplets": {
     "nombre": "The Quintessential Quintuplets",
@@ -717,7 +766,8 @@
       "gotoubun no hanayome",
       "the quintessential quintuplets",
       "五等分の花嫁"
-    ]
+    ],
+    "descripcion_es": "Las Quintessential Quintuplets"
   },
   "komi-cant-communicate": {
     "nombre": "Komi Can't Communicate",
@@ -731,7 +781,8 @@
       "komi-san wa komyushou desu",
       "komi can't communicate",
       "古見さんは、コミュ症です"
-    ]
+    ],
+    "descripcion_es": "Komi-san es una chica tímida"
   },
   "dangers-in-my-heart": {
     "nombre": "The Dangers in My Heart",
@@ -745,7 +796,8 @@
       "boku no kokoro no yabai yatsu",
       "the dangers in my heart",
       "僕の心のヤバイやつ"
-    ]
+    ],
+    "descripcion_es": "El chico malo de mi corazón"
   },
   "alya": {
     "nombre": "Alya Sometimes Hides Her Feelings in Russian",
@@ -761,7 +813,8 @@
       "alya sometimes hides her feelings in russian",
       "roshidere",
       "時々ボソッとロシア語でデレる隣のアーリャさん"
-    ]
+    ],
+    "descripcion_es": "Roshidere"
   },
   "your-lie-in-april": {
     "nombre": "Your Lie in April",
@@ -776,7 +829,8 @@
       "shigatsu wa kimi no uso",
       "your lie in april",
       "四月は君の嘘"
-    ]
+    ],
+    "descripcion_es": "Junio es tu amor"
   },
   "clannad": {
     "nombre": "Clannad",
@@ -789,7 +843,8 @@
     "variantes": [
       "clannad",
       "クラナド"
-    ]
+    ],
+    "descripcion_es": "Tomoya, Nagisa y su historia"
   },
   "death-note": {
     "nombre": "Death Note",
@@ -803,7 +858,8 @@
     "variantes": [
       "death note",
       "デスノート"
-    ]
+    ],
+    "descripcion_es": "Light Yagami y L"
   },
   "monster": {
     "nombre": "Monster",
@@ -816,7 +872,8 @@
     "variantes": [
       "monster",
       "モンスター"
-    ]
+    ],
+    "descripcion_es": "Tenma y Johan Liebert"
   },
   "promised-neverland": {
     "nombre": "The Promised Neverland",
@@ -831,7 +888,8 @@
       "yakusoku no neverland",
       "the promised neverland",
       "約束のネバーランド"
-    ]
+    ],
+    "descripcion_es": "El Reino de los Sueños"
   },
   "dr-stone": {
     "nombre": "Dr. Stone",
@@ -846,7 +904,8 @@
       "dr. stone",
       "dr stone",
       "ドクターストーン"
-    ]
+    ],
+    "descripcion_es": "Senku reconstruye la civilización"
   },
   "haikyuu": {
     "nombre": "Haikyuu!!",
@@ -861,7 +920,8 @@
       "haikyuu",
       "haikyuu!!",
       "ハイキュー"
-    ]
+    ],
+    "descripcion_es": "Hinata, Kageyama y Karasuno"
   },
   "blue-lock": {
     "nombre": "Blue Lock",
@@ -874,6 +934,7 @@
     "variantes": [
       "blue lock",
       "ブルーロック"
-    ]
+    ],
+    "descripcion_es": "El proyecto para crear al mejor delantero"
   }
 }

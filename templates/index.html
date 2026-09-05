@@ -225,7 +225,11 @@
                         </h2>
 
                         <p>
-                            {{ datos.descripcion }}
+                            {% if idioma == "es" %}
+                                {{ datos.descripcion_es or datos.descripcion }}
+                            {% else %}
+                                {{ datos.descripcion }}
+                            {% endif %}
                         </p>
 
                     </div>
